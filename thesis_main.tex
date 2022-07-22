@@ -1,0 +1,214 @@
+%%%% MAIN TEX FILE FOR THESIS %%%%
+
+\documentclass[12pt, a4paper, twoside]{article}
+
+
+%%% GENERAL FORMATTING STUFF %%%
+%%% not necessary when using xelatex to compile %%%
+% \usepackage[utf8]{inputenc}	% UTF8 encoding
+\usepackage[T1]{fontenc} % Enables proper hyphenation
+\usepackage{scrextend} % Font size stuff
+\usepackage{listing} % Source code formatting
+\usepackage{layout} % Layouting options
+
+
+%%% GENERAL LAYOUT %%%
+\usepackage[onehalfspacing]{setspace}
+% Uses the package 'geometry' to define the format of the page:
+\usepackage[
+    a4paper, % A4 paper
+    left=2.50cm, right=2.50cm, top=2.50cm, bottom=2.50cm, % 2.5 cm margin to the sides
+    bindingoffset=10mm, % 10 mm offset for binding
+    includeheadfoot % Include header and footer
+]{geometry}
+
+
+%%% SPECIFY FONT %%%
+
+% Set main font (serif font)
+% \usepackage{fontspec}\setmainfont{Baskerville}
+\usepackage{fontspec}\setmainfont{Adobe Garamond Pro}
+% \usepackage{fontspec}\setmainfont{New Caledonia LT Std}
+
+% Set secondary font (sans serif font)
+% \setsansfont{Helvetica Neue}
+% \setsansfont{Rockwell}
+\setsansfont{Futura}
+
+% Defines \code command to switch to monospaced font
+\usepackage{seqsplit} % Split long words
+\newcommand{\code}[1]{\texttt{\seqsplit{#1}}}
+
+
+%%% SECTION HEADER FONT %%%
+\usepackage{titlesec}
+\usepackage{sectsty}
+\setcounter{secnumdepth}{4} % Enables numbering for paragraphs
+% Section: smallcaps, LARGE, sans serif
+\sectionfont{\bfseries\LARGE\sffamily}
+% Subsection header: bold, large, sans serif
+\subsectionfont{\bfseries\large\sffamily}
+% Subsubsection header: bold, normal, sans serif
+\subsubsectionfont{\normalfont\large\sffamily}
+% Paragraph header: bold, normal, sans serif -> For results and methods of manuscripts
+% \topparagraph -> adds linebreak after header (results)
+% \paragraph -> no linebreak after header (methods)
+\makeatletter
+\renewcommand{\paragraph}{\@startsection{paragraph}{5}{\z@}%
+  {3.25ex \@plus1ex \@minus.2ex}%
+  {-1em}%
+  {\normalfont\normalsize\sffamily}}
+\newcommand{\topparagraph}[1]{\paragraph{#1}\mbox{}\\}
+
+
+%%% HEADER & FOOTER %%%
+\usepackage{fancyhdr}
+\fancyhf{}
+% Height of the header
+\setlength{\headheight}{15pt}
+% Current section name in header
+\fancyhead[LE,RO]{\textsc{\leftmark}}
+% Pagenumber in footer
+\fancyfoot[C]{\thepage}
+
+
+%%% FIGURES %%%
+\usepackage{graphicx} % Allows changing figure sizes
+\usepackage{subfigure} % Allows subfigures in figures
+\usepackage{float}
+\usepackage{ccaption}
+\usepackage{caption}
+% Path for all graphics
+\graphicspath{ {figures/} }
+% Recognizes .pdf and .png automatically
+\DeclareGraphicsExtensions{.pdf, .png, .jpg}
+% Separator in Label. E.g. Figure 1 | Bladiblubb...
+\DeclareCaptionLabelSeparator{line}{ | }
+% Font: Helvetica, fontsize 8pt, linehight 12pt
+\DeclareCaptionFont{helv}{\mdseries\fontsize{8}{12}\sffamily}
+\captionsetup[figure]{font=helv, labelfont=bf, labelsep=line}
+
+
+%%% TABLES %%%
+\usepackage{booktabs} % Better lines in tables
+\usepackage{longtable} % Linebreaks in tables
+\usepackage{multirow} % Multirow tables
+\usepackage{rotating} % Rotate table pages
+\usepackage{arydshln} % Draw dashlines
+\usepackage{csvsimple} % Include csvs
+\usepackage{array}
+\captionsetup[table]{font=helv, labelfont=bf, labelsep=line} % Table captions
+
+
+%%%% OTHER STUFF %%%%
+\usepackage{acronym} % Allows to use acronyms
+\usepackage{adjustbox} % Draw boxes 
+\usepackage{lipsum} % Lorem ipsum text
+% \usepackage{authblk} % Author formatting 
+% \usepackage{bbding} % Pretty symbols
+
+\usepackage[hidelinks]{hyperref} % Enable hyperlinks ([hidelinks] to disable)
+
+
+%%% MATH SPECS %%%
+% Defines how equations are displayed
+\renewcommand{\theequation}{Equation \arabic{equation}}
+
+
+%%% SCIENCE %%%
+\usepackage{dnaseq}	% Nucleotide sequences
+\usepackage{texshade} % Aligned sequences 
+\usepackage[version=4]{mhchem} % Chemical formulae
+\usepackage{siunitx} % SI units
+\usepackage{amsmath} % Prettier formulae
+\usepackage{listings} % um Code zu setzen
+
+
+%%% CITATION & BIBLIORGRAPHY STYLE %%%
+\usepackage[
+    % Management engine
+    backend=bibtex,
+    % Style: Author, Year. E.g. (R Sanchez 2213)
+    style=authoryear-comp,
+    citestyle=authoryear-comp,
+    bibstyle=authoryear,
+    % Sort Citations by year
+    sortcites=true,
+    sorting=ynt,
+    % Max 10 names in bibliography
+    maxbibnames=10,
+    % Max 2 name in citation
+    maxcitenames=2,
+    uniquelist=false,
+    uniquename=init,
+    % Initials
+    giveninits=true,
+    % DOI, ISBN, URL & eprint not shown in bibliography
+    doi=true,
+    isbn=false,
+    url=false,
+    eprint=false
+]{biblatex}
+
+% Define command to start bibliography
+\newcommand{\beginbibliography}{
+    % Add to Table of Contents
+    \addcontentsline{toc}{subsection}{References}
+    % Sorting by Name
+    \newrefcontext[sorting=nyt]
+    \printbibliography
+    \clearpage
+}
+
+% Path to file exported from mendeley
+\addbibresource{bib/thesis.bib}
+
+
+%%% SUPPLEMENT %%%
+% Define command to start Supplement
+\newcommand{\beginsupplement}{
+    % Add to Table of Contents
+    \addcontentsline{toc}{section}{Supplementary Information}
+    % Set conter of tables and figures to 0
+    \setcounter{table}{0}
+    \renewcommand{\thetable}{S\arabic{table}}
+    \setcounter{figure}{0}
+    \renewcommand{\thefigure}{S\arabic{figure}}
+}
+
+
+%%%% ACTUAL DOCUMENT %%%%
+
+\begin{document}
+
+\input{chapters/title.tex}
+\clearpage
+
+\pagenumbering{roman}
+\input{chapters/abstract.tex}
+\clearpage
+
+\input{chapters/acknowledgements.tex}
+\clearpage
+
+\tableofcontents
+\clearpage
+
+\pagestyle{fancy} % Fancy header and footer
+\pagenumbering{arabic} 	
+\input{chapters/introduction.tex}
+\clearpage
+\input{chapters/voxhunt.tex}
+\clearpage
+\input{chapters/pando.tex}
+\clearpage
+\input{chapters/asd.tex}
+\clearpage
+\input{chapters/cnt.tex}
+
+\clearpage
+\beginsupplement
+
+\end{document}         
+
+

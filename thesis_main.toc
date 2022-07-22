@@ -1,0 +1,77 @@
+\contentsline {section}{Abstract}{i}{Doc-Start}%
+\contentsline {section}{Acknowledgements}{ii}{Doc-Start}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Brain organoids}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Brain organoid technologies}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Organoids model brain development \textit {in vitro}}{3}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Applications of brain organoids}{4}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Challenges and future directions}{5}{subsubsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.2}Single-cell genomic technologies}{5}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Single-cell transcriptomics}{7}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Single-cell epigenomics}{8}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Integrative single-cell multi-omics}{8}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Inference of gene regulatory networks}{8}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Perturbing single cells}{8}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}Aim of the thesis}{8}{subsection.1.3}%
+\contentsline {subsection}{References}{8}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Resolving organoid brain region identities by mapping single-cell genomic data to reference atlases}{16}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Abstract}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Introduction}{17}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Results}{19}{subsection.2.3}%
+\contentsline {paragraph}{Spatiotemporal voxel maps of the developing mouse brain}{19}{section*.4}%
+\contentsline {paragraph}{Brain structure marker identification}{20}{section*.6}%
+\contentsline {paragraph}{VoxHunt accurately maps reference populations}{21}{section*.7}%
+\contentsline {paragraph}{Organoid region composition annotation}{21}{section*.9}%
+\contentsline {paragraph}{Spatial projection of organoid cell transcriptomes}{23}{section*.11}%
+\contentsline {paragraph}{Complementary reference datasets as high-dimensional search spaces}{25}{section*.12}%
+\contentsline {paragraph}{Assessing region specificity across organoid protocols}{25}{section*.13}%
+\contentsline {paragraph}{Annotating organoid cell identity at substructure resolution}{26}{section*.15}%
+\contentsline {paragraph}{Spatial mapping of chromatin accessibility data}{27}{section*.17}%
+\contentsline {paragraph}{Reference-based deconvolution of organoid bulk transcriptomes}{28}{section*.18}%
+\contentsline {paragraph}{Assessing organoid patterning using multiplexed transcriptomics and reference mapping}{28}{section*.19}%
+\contentsline {subsection}{\numberline {2.4}Discussion}{30}{subsection.2.4}%
+\contentsline {paragraph}{Limitations of the study}{30}{section*.21}%
+\contentsline {subsection}{\numberline {2.5}Methods}{30}{subsection.2.5}%
+\contentsline {paragraph}{Data and code availability}{30}{section*.22}%
+\contentsline {paragraph}{Materials availability}{31}{section*.23}%
+\contentsline {paragraph}{hESC experiments approval}{31}{section*.24}%
+\contentsline {paragraph}{hESC Line Culture and Maintenance}{31}{section*.25}%
+\contentsline {paragraph}{Brain organoid generation and incubation with patterning molecules}{31}{section*.26}%
+\contentsline {paragraph}{Collection of patterned organoids and RNA purification}{32}{section*.27}%
+\contentsline {paragraph}{Smartseq2 library preparation}{32}{section*.28}%
+\contentsline {paragraph}{Sequencing of SS2 libraries}{33}{section*.29}%
+\contentsline {paragraph}{Acquisition and preprocessing of Allen Brain Atlas in situ hybridization data}{33}{section*.30}%
+\contentsline {paragraph}{Visualization of the structure annotation ontology}{34}{section*.31}%
+\contentsline {paragraph}{Acquisition of organoid single-cell gene expression and chromatin accessibility data}{34}{section*.32}%
+\contentsline {paragraph}{Acquisition of primary bulk and single-cell gene expression data}{35}{section*.33}%
+\contentsline {paragraph}{Preprocessing of single-cell gene expression data}{35}{section*.34}%
+\contentsline {paragraph}{Differential expression analysis of ISH and single-cell data}{36}{section*.35}%
+\contentsline {paragraph}{Correlation of single-cell transcriptomes to brain structures}{36}{section*.36}%
+\contentsline {paragraph}{Calculation of similarity to developmental stages}{37}{section*.37}%
+\contentsline {paragraph}{Evaluating the effect of feature selection and downsampling}{37}{section*.38}%
+\contentsline {paragraph}{Spatial correlation maps of organoid cells transcriptomes}{38}{section*.39}%
+\contentsline {paragraph}{Comparison of organoid cells transcriptomes to other reference datasets}{38}{section*.40}%
+\contentsline {paragraph}{Substructure resolution of transcriptomic maps}{38}{section*.41}%
+\contentsline {paragraph}{Substructure-resolved annotation of ventral neurons across organoid protocols}{39}{section*.42}%
+\contentsline {paragraph}{Spatial correlation maps of organoid cells chromatin accessibility profiles}{39}{section*.43}%
+\contentsline {paragraph}{Preprocessing and analysis of bulk RNA-seq data}{40}{section*.44}%
+\contentsline {paragraph}{Deconvolution of organoid pseudo-bulk RNA-seq data}{40}{section*.45}%
+\contentsline {subsection}{References}{41}{section*.45}%
+\contentsline {section}{\numberline {3}Inferring and perturbing cell fate regulomes in human brain organoids}{49}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Abstract}{50}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Introduction}{50}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Results}{50}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Discussion}{50}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Methods}{50}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Single-cell CRISPR screening in organoids identifies origins of autism}{51}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Abstract}{52}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Introduction}{52}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Results}{52}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Discussion}{52}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Methods}{52}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Single cell epigenomic landscape of human brain organoid development}{53}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Abstract}{53}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Introduction}{53}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Results}{53}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Discussion}{53}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Methods}{53}{subsection.5.5}%

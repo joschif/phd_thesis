@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  25 JUL 2022 16:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  25 JUL 2022 16:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1282,37 +1282,37 @@ Package biblatex Warning: The refcontext option
 (biblatex)                'sorting'
 (biblatex)                is not supported by the BibTeX backend.
 (biblatex)                Consider switching to Biber instead.
-(biblatex)                The option will be ignored on input line 143.
+(biblatex)                The option will be ignored on input line 140.
 
 [8]
-Overfull \hbox (0.96939pt too wide) in paragraph at lines 143--143
+Overfull \hbox (0.96939pt too wide) in paragraph at lines 140--140
 \TU/AdobeGaramondPro(0)/m/n/12 dimensional culture”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 472.7341, pp. 51–56. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
 
-Overfull \hbox (0.48843pt too wide) in paragraph at lines 143--143
+Overfull \hbox (0.48843pt too wide) in paragraph at lines 140--140
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 [9]
-Overfull \hbox (3.01353pt too wide) in paragraph at lines 143--143
+Overfull \hbox (3.01353pt too wide) in paragraph at lines 140--140
 \TU/AdobeGaramondPro(0)/m/n/12 tent stem cells in 3D culture”. eng. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature methods \TU/AdobeGaramondPro(0)/m/n/12 12.7. Edition: 2015/05/25, pp. 671–
  []
 
 [10] [11] [12]
-Overfull \hbox (6.80363pt too wide) in paragraph at lines 143--143
+Overfull \hbox (6.80363pt too wide) in paragraph at lines 140--140
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
 
-
-Overfull \hbox (0.89857pt too wide) in paragraph at lines 143--143
+[13]
+Overfull \hbox (0.89857pt too wide) in paragraph at lines 140--140
 \TU/AdobeGaramondPro(0)/m/n/12 tions When Fused with Cortical Organoids”. In: \TU/AdobeGaramondPro(0)/m/it/12 Cell Stem Cell \TU/AdobeGaramondPro(0)/m/n/12 24.3. Edition: 2019/02/26,
  []
 
-[13]
+[14]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[14] [15]) [16
+[15]) [16
 
 
 ]
@@ -1729,10 +1729,10 @@ Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 Here is how much of TeX's memory you used:
  38865 strings out of 476179
  770567 string characters out of 5809545
- 1721408 words of memory out of 5000000
+ 1721411 words of memory out of 5000000
  59057 multiletter control sequences out of 15000+600000
  478260 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,106p,2927b,5506s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,106p,2927b,5508s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (67 pages, 1340056 bytes).
+Output written on thesis_main.xdv (67 pages, 1343204 bytes).

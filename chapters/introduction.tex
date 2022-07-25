@@ -12,9 +12,11 @@
 
 The human brain is a remarkably complex organ, made up of a great diversity of different cell types which are assembled into intricate structures. Understanding how its development is orchestrated has long been a central challenge in developmental biology. While studies in humans are challenging due to both ethical and practical reasons, we have already learned a lot about the morphological and molecular factors that shape these processes by examining them in various non-human vertebrates.
 
-% Consider making this a section and expanding on it
+During early embryogenesis, a sheet of neuroepithelial cells folds in and pinches off to form the neural tube, which gives rise to most of the central nervous system. Through a spatially and temporally precise cascade of morphogen gradients, the tube is segmented into distinct regions that will eventually develop into forebrain, midbrain, hindbrain and spinal cord. Each of these gradients is induced by a discrete group of adjacent cells, so-called organizers, which express and secret a defined set of morphogens. Most knowledge about this process has been gained from knockout and transplantation experiments in model organisms such as mice, with bulk genomic measurements or tissue stainings with a limited set of markers genes as a readout. As these conventional methods are limited in their throughput and resolution, it has long remained challenging to finely dissect differentiation events and underlying genetic circuits. Further, there are strong differences between the human and the mouse brain with respect to cellular composition, size, morphology and function, and it is unclear whether insights from mouse studies can be transferred to human brain development. Two emerging technologies are now transforming the field and offer exciting new possibilities to study human brain development at unprecedented resolution: ​\textit{In vitro} brain models grown from human stem cells and single-cell genomics.
 
-During early neurogenesis, morphogens are released in a spatially and temporally precise manner to pattern the neural tube and establish regional identities. First, WNT and FGFs posteriorize the neural tube, while an anterior identity is established by WNT inhibitors like DKK. After the initial anterior-posterior axis is set up, more localized gradients follow downstream and facilitate the segmentation of the neural tube into distinct brain regions. Each of these gradients is induced by a discrete group of adjacent cells, so-called organizers, which express and secret a defined set of morphogens. Most of this knowledge has been gained from knockout and transplantation experiments in model organisms such as mice, with bulk genomic measurements or tissue stainings with a limited set of markers genes as a readout. As these conventional methods are limited in their throughput and resolution, it has long remained challenging to finely dissect differentiation events and underlying genetic circuits. Further, there are strong differences between the human and the mouse brain with respect to cellular composition, size, morphology and function, and it is unclear whether insights from mouse studies can be transferred to human brain development. Two emerging technologies are now transforming the field and offer exciting new possibilities to study human brain development at unprecedented resolution: ​\textit{In vitro} brain models grown from human stem cells and single-cell genomics.
+
+
+
 
 \subsection{Brain organoids}
 
@@ -55,7 +57,7 @@ Organoids also offer fresh opportunities to study the genetic mechanisms underly
 
 These results demonstrate that organoid systems offer great potential as model systems of the human brain. The combination with genetic editing techniques and chemical screening will be especially powerful to study mechanisms of human brain development in health and disease.
 
-
+% Put this up in the text somewhere, the last sentence of the last paragraph leads well into the thesis and should probably be th final one of the organodis section
 \subsubsection{Challenges and future directions}
 
 Despite fast progress in the development of new and refined organoid protocols, there are still several limitations to brain organoids as model systems, and overcoming them requires solving some critical challenges. Because all brain organoids to date are derived exclusively from the neuroectodermal lineage, they are inherently missing cells from other germ layers, most importantly mesoderm, which gives rise to microglia and endothelial cells of blood vessels. As a result of lacking vascularization, nutrient and oxygen supply is limited by diffusion, which becomes increasingly insufficient if the organoids grow larger. This leads to a necrotic core especially in older organoids and limited maturation of neurons (\cite{vertesy_cellular_2022,bhaduri_cell_2020}). This diffusion limit can be overcome by culturing organoid slices (\cite{qian_sliced_2020}) and vascularization can be achieved though transplantation of organoids into primary tissues, which has been shown to promote maturation of neurons and gliogenesis (\cite{mansour_vivo_2018}). Ultimately, however, it would be desirable to obtain vascularized organoids through \textit{in vitro} culture alone, for instance through co-culture with endothelial cells (\cite{takebe_vascularized_2015}) or fusion with vascular organoids (\cite{wimmer_human_2019}). 
@@ -68,18 +70,10 @@ Moreover, the lack of stereotypic patterning often results in high variability b
 
 \subsection{Single-cell genomic technologies}
 
-% - Complex tissues -> resolution of composition requires single cell resolution
-% - Technilogical advances allow us to meassure more and more features on a single cell level
-% - Survey genomics of cell types in human tissues and the animal kingdom. 
-% - Clustering -> annotation
-% - Reference maps can be useful for diagnosing and understanging human diseases
-% - Single cell resolution particularly useful for investigating developing systems 
-% - Analyzing tissues at single-cell resolution is also critical for studying differentiation processes, because it allows us to capture all intermediate cell states between precursors and differentiated cells in a single snapshot. 
-% - To determine which path cells take through developmental intermediates before they arrive at a mature state, differentiation trajectories can be computationally inferred. 
-% - Cell-cell communication networks
-% - Gene regulatory networks
-% - In the following, I will outline techniques to measure various features of the genome in single cell and how these measurements can be combined to learn gene regulatory networks. I will discuss methods to manipulate and perturb cell behavior to reveal causal relationships and finally highlight future directions of the field of single cell genomics
-
+% First paragraph good, but then too much on atlases. Should probably be more of an aside in the context of the thesis
+% - Instead, focus on development -> multiome -> GRN -> perturbation
+% - Then lead into the following sections
+% - Better motivation with context to the thesis topic
 
 Organoids, just like human organs, are complex tissues composed of many individual cells. All cells in a tissue typically share the same genetic information, but by differentially expressing certain sets of genes, cells can adopt a vast range of cell types to perform specialized functions. Cooperation of different cell types then gives rise to the higher-level functionality of the tissue. Thus, understanding development, function and disease states of tissues requires resolving those cell types and probing them at the level of individual cells. Over the past decade, an exciting new set of tools has emerged to perform increasingly complex measurements of various phenotypic features in single cells. Initial methods focused on gene expression by making mRNA-sequencing sensitive enough for the single-cell regime (\cite{tang_mrna-seq_2009}). Since then, the repertoire of single-cell technologies has expanded to allow measurements of various genomic and epigenomic readouts as well as proteins and spatial features. The throughput of these assays has also scaled up rapidly (\cite{svensson_exponential_2018}) and modern commercial solutions now allow profiling up to 1 million cells in a single experiment (\cite{srivatsan_massively_2020,mulqueen_high-content_2021}). 
 

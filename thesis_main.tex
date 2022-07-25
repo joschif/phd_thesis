@@ -10,6 +10,7 @@
 \usepackage{scrextend} % Font size stuff
 \usepackage{listing} % Source code formatting
 \usepackage{layout} % Layouting options
+\usepackage{pdfpages} % Enable including full pdf pages
 
 
 %%% GENERAL LAYOUT %%%
@@ -193,6 +194,12 @@
 
 \tableofcontents
 \clearpage
+
+\newpage
+\pagenumbering{gobble}
+\
+\newpage
+\includepdf[fitpaper=true, pages=-]{pdfs/chapter_1.pdf}
 
 \pagestyle{fancy} % Fancy header and footer
 \pagenumbering{arabic} 	

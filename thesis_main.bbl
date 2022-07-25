@@ -2292,123 +2292,6 @@
     \field{year}{2015}
   \endentry
 
-  \entry{takebe_vascularized_2015}{article}{}
-    \name{author}{13}{}{%
-      {{hash=TT}{%
-         family={Takebe},
-         familyi={T\bibinitperiod},
-         given={Takanori},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=EM}{%
-         family={Enomura},
-         familyi={E\bibinitperiod},
-         given={Masahiro},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=YE}{%
-         family={Yoshizawa},
-         familyi={Y\bibinitperiod},
-         given={Emi},
-         giveni={E\bibinitperiod},
-      }}%
-      {{hash=KM}{%
-         family={Kimura},
-         familyi={K\bibinitperiod},
-         given={Masaki},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=KH}{%
-         family={Koike},
-         familyi={K\bibinitperiod},
-         given={Hiroyuki},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=UY}{%
-         family={Ueno},
-         familyi={U\bibinitperiod},
-         given={Yasuharu},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=MT}{%
-         family={Matsuzaki},
-         familyi={M\bibinitperiod},
-         given={Takahisa},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=YT}{%
-         family={Yamazaki},
-         familyi={Y\bibinitperiod},
-         given={Takashi},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=TT}{%
-         family={Toyohara},
-         familyi={T\bibinitperiod},
-         given={Takafumi},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=OK}{%
-         family={Osafune},
-         familyi={O\bibinitperiod},
-         given={Kenji},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=NH}{%
-         family={Nakauchi},
-         familyi={N\bibinitperiod},
-         given={Hiromitsu},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=YH}{%
-         family={Yoshikawa},
-         familyi={Y\bibinitperiod},
-         given={Hiroshi Y.},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=TH}{%
-         family={Taniguchi},
-         familyi={T\bibinitperiod},
-         given={Hideki},
-         giveni={H\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{TT+1}
-    \strng{fullhash}{TTEMYEKMKHUYMTYTTTOKNHYHTH1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2015}
-    \field{labeldatesource}{}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \verb{doi}
-    \verb 10.1016/j.stem.2015.03.004
-    \endverb
-    \field{issn}{19345909}
-    \field{number}{5}
-    \field{pages}{556\bibrangedash 565}
-    \field{title}{Vascularized and {Complex} {Organ} {Buds} from {Diverse}
-  {Tissues} via {Mesenchymal} {Cell}-{Driven} {Condensation}}
-    \verb{url}
-    \verb https://linkinghub.elsevier.com/retrieve/pii/S1934590915001150
-    \endverb
-    \field{volume}{16}
-    \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/D
-    \verb NLIL7BA/Takebe et al. - 2015 - Vascularized and Complex Organ Buds fr
-    \verb om Diverse T.pdf:application/pdf
-    \endverb
-    \field{journaltitle}{Cell Stem Cell}
-    \field{month}{05}
-    \field{year}{2015}
-    \field{urlday}{08}
-    \field{urlmonth}{07}
-    \field{urlyear}{2022}
-  \endentry
-
   \entry{dang_zika_2016}{article}{}
     \name{author}{7}{}{%
       {{hash=DJ}{%
@@ -3185,99 +3068,6 @@
     \field{journaltitle}{Curr Opin Cell Biol}
     \field{month}{02}
     \field{year}{2017}
-  \endentry
-
-  \entry{lancaster_guided_2017}{article}{}
-    \name{author}{9}{}{%
-      {{hash=LMA}{%
-         family={Lancaster},
-         familyi={L\bibinitperiod},
-         given={Madeline\bibnamedelima A},
-         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=CNS}{%
-         family={Corsini},
-         familyi={C\bibinitperiod},
-         given={Nina\bibnamedelima S},
-         giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-      {{hash=WS}{%
-         family={Wolfinger},
-         familyi={W\bibinitperiod},
-         given={Simone},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=GEH}{%
-         family={Gustafson},
-         familyi={G\bibinitperiod},
-         given={E\bibnamedelima Hilary},
-         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
-      }}%
-      {{hash=PAW}{%
-         family={Phillips},
-         familyi={P\bibinitperiod},
-         given={Alex\bibnamedelima W},
-         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-      {{hash=BTR}{%
-         family={Burkard},
-         familyi={B\bibinitperiod},
-         given={Thomas\bibnamedelima R},
-         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-      {{hash=OT}{%
-         family={Otani},
-         familyi={O\bibinitperiod},
-         given={Tomoki},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=LFJ}{%
-         family={Livesey},
-         familyi={L\bibinitperiod},
-         given={Frederick\bibnamedelima J},
-         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=KJA}{%
-         family={Knoblich},
-         familyi={K\bibinitperiod},
-         given={Juergen\bibnamedelima A},
-         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{LMA+1}
-    \strng{fullhash}{LMACNSWSGEHPAWBTROTLFJKJA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2017}
-    \field{labeldatesource}{}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \verb{doi}
-    \verb 10.1038/nbt.3906
-    \endverb
-    \field{issn}{1087-0156, 1546-1696}
-    \field{number}{7}
-    \field{pages}{659\bibrangedash 666}
-    \field{title}{Guided self-organization and cortical plate formation in
-  human brain organoids}
-    \verb{url}
-    \verb http://www.nature.com/articles/nbt.3906
-    \endverb
-    \field{volume}{35}
-    \verb{file}
-    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/VW2KANYK/Lancaster et al. - 2017 - Guided self-organization and
-    \verb  cortical plate format.pdf:application/pdf
-    \endverb
-    \field{journaltitle}{Nature Biotechnology}
-    \field{month}{07}
-    \field{year}{2017}
-    \field{urlday}{08}
-    \field{urlmonth}{07}
-    \field{urlyear}{2022}
   \endentry
 
   \entry{monzel_derivation_2017}{article}{}
@@ -4084,6 +3874,99 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{renner_self-organized_2017}{article}{}
+    \name{author}{8}{}{%
+      {{hash=RM}{%
+         family={Renner},
+         familyi={R\bibinitperiod},
+         given={Magdalena},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LMA}{%
+         family={Lancaster},
+         familyi={L\bibinitperiod},
+         given={Madeline\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bian},
+         familyi={B\bibinitperiod},
+         given={Shan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Choi},
+         familyi={C\bibinitperiod},
+         given={Heejin},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Ku},
+         familyi={K\bibinitperiod},
+         given={Taeyun},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Peer},
+         familyi={P\bibinitperiod},
+         given={Angela},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chung},
+         familyi={C\bibinitperiod},
+         given={Kwanghun},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KJA}{%
+         family={Knoblich},
+         familyi={K\bibinitperiod},
+         given={Juergen\bibnamedelima A},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{development, neurogenesis, organoid, human brain development,
+  patterning, signaling}
+    \strng{namehash}{RM+1}
+    \strng{fullhash}{RMLMABSCHKTPACKKJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Cerebral organoids recapitulate human brain development at a considerable
+  level of detail, even in the absence of externally added signaling factors.
+  The patterning events driving this self-organization are currently unknown.
+  Here, we examine the developmental and differentiative capacity of cerebral
+  organoids. Focusing on forebrain regions, we demonstrate the presence of a
+  variety of discrete ventral and dorsal regions. Clearing and subsequent 3D
+  reconstruction of entire organoids reveal that many of these regions are
+  interconnected, suggesting that the entire range of dorso-ventral identities
+  can be generated within continuous neuroepithelia. Consistent with this, we
+  demonstrate the presence of forebrain organizing centers that express
+  secreted growth factors, which may be involved in dorso-ventral patterning
+  within organoids. Furthermore, we demonstrate the timed generation of neurons
+  with mature morphologies, as well as the subsequent generation of astrocytes
+  and oligodendrocytes. Our work provides the methodology and quality criteria
+  for phenotypic analysis of brain organoids and shows that the spatial and
+  temporal patterning events governing human brain development can be
+  recapitulated .%
+    }
+    \field{number}{10}
+    \field{pages}{1316\bibrangedash 1329}
+    \field{title}{Self-organized developmental patterning and differentiation
+  in cerebral organoids}
+    \field{volume}{36}
+    \field{journaltitle}{EMBO J.}
+    \field{month}{05}
+    \field{year}{2017}
+  \endentry
+
   \entry{sloan_human_2017}{article}{}
     \name{author}{10}{}{%
       {{hash=SSA}{%
@@ -4722,105 +4605,6 @@
     \field{year}{2018}
     \field{urlday}{27}
     \field{urlmonth}{06}
-    \field{urlyear}{2022}
-  \endentry
-
-  \entry{mansour_vivo_2018}{article}{}
-    \name{author}{10}{}{%
-      {{hash=MAA}{%
-         family={Mansour},
-         familyi={M\bibinitperiod},
-         given={Abed\bibnamedelima AlFatah},
-         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=GJT}{%
-         family={Gonçalves},
-         familyi={G\bibinitperiod},
-         given={J\bibnamedelima Tiago},
-         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=BCW}{%
-         family={Bloyd},
-         familyi={B\bibinitperiod},
-         given={Cooper\bibnamedelima W},
-         giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-      {{hash=LH}{%
-         family={Li},
-         familyi={L\bibinitperiod},
-         given={Hao},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=FS}{%
-         family={Fernandes},
-         familyi={F\bibinitperiod},
-         given={Sarah},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=QD}{%
-         family={Quang},
-         familyi={Q\bibinitperiod},
-         given={Daphne},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=JS}{%
-         family={Johnston},
-         familyi={J\bibinitperiod},
-         given={Stephen},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=PSL}{%
-         family={Parylak},
-         familyi={P\bibinitperiod},
-         given={Sarah\bibnamedelima L},
-         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-      {{hash=JX}{%
-         family={Jin},
-         familyi={J\bibinitperiod},
-         given={Xin},
-         giveni={X\bibinitperiod},
-      }}%
-      {{hash=GFH}{%
-         family={Gage},
-         familyi={G\bibinitperiod},
-         given={Fred\bibnamedelima H},
-         giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{MAA+1}
-    \strng{fullhash}{MAAGJTBCWLHFSQDJSPSLJXGFH1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2018}
-    \field{labeldatesource}{}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \verb{doi}
-    \verb 10.1038/nbt.4127
-    \endverb
-    \field{issn}{1087-0156, 1546-1696}
-    \field{number}{5}
-    \field{pages}{432\bibrangedash 441}
-    \field{title}{An in vivo model of functional and vascularized human brain
-  organoids}
-    \verb{url}
-    \verb http://www.nature.com/articles/nbt.4127
-    \endverb
-    \field{volume}{36}
-    \verb{file}
-    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/PBVXSXHX/Mansour et al. - 2018 - An in vivo model of functional
-    \verb  and vascularized hu.pdf:application/pdf
-    \endverb
-    \field{journaltitle}{Nature Biotechnology}
-    \field{month}{05}
-    \field{year}{2018}
-    \field{urlday}{08}
-    \field{urlmonth}{07}
     \field{urlyear}{2022}
   \endentry
 
@@ -6250,70 +6034,6 @@
     \field{urlyear}{2022}
   \endentry
 
-  \entry{park_organoids---chip_2019}{article}{}
-    \name{author}{3}{}{%
-      {{hash=PSE}{%
-         family={Park},
-         familyi={P\bibinitperiod},
-         given={Sunghee\bibnamedelima Estelle},
-         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-      {{hash=GA}{%
-         family={Georgescu},
-         familyi={G\bibinitperiod},
-         given={Andrei},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=HD}{%
-         family={Huh},
-         familyi={H\bibinitperiod},
-         given={Dongeun},
-         giveni={D\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{PSE+1}
-    \strng{fullhash}{PSEGAHD1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2019}
-    \field{labeldatesource}{}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \field{abstract}{%
-    Recent studies have demonstrated an array of stem cell–derived,
-  self-organizing miniature organs, termed organoids, that replicate the key
-  structural and functional characteristics of their in vivo counterparts. As
-  organoid technology opens up new frontiers of research in biomedicine, there
-  is an emerging need for innovative engineering approaches for the production,
-  control, and analysis of organoids and their microenvironment. In this
-  Review, we explore organ-on-a-chip technology as a platform to fulfill this
-  need and examine how this technology may be leveraged to address major
-  technical challenges in organoid research. We also discuss emerging
-  opportunities and future obstacles for the development and application of
-  organoid-on-a-chip technology.%
-    }
-    \verb{doi}
-    \verb 10.1126/science.aaw7894
-    \endverb
-    \field{issn}{0036-8075, 1095-9203}
-    \field{number}{6444}
-    \field{pages}{960\bibrangedash 965}
-    \field{title}{Organoids-on-a-chip}
-    \verb{url}
-    \verb https://www.science.org/doi/10.1126/science.aaw7894
-    \endverb
-    \field{volume}{364}
-    \field{journaltitle}{Science}
-    \field{month}{06}
-    \field{year}{2019}
-    \field{urlday}{08}
-    \field{urlmonth}{07}
-    \field{urlyear}{2022}
-  \endentry
-
   \entry{polioudakis_single-cell_2019}{article}{}
     \name{author}{21}{}{%
       {{hash=PD}{%
@@ -6741,165 +6461,6 @@
     \field{journaltitle}{Nature}
     \field{month}{06}
     \field{year}{2019}
-  \endentry
-
-  \entry{wimmer_human_2019}{article}{}
-    \name{author}{20}{}{%
-      {{hash=WRA}{%
-         family={Wimmer},
-         familyi={W\bibinitperiod},
-         given={Reiner\bibnamedelima A.},
-         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=LA}{%
-         family={Leopoldi},
-         familyi={L\bibinitperiod},
-         given={Alexandra},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=AM}{%
-         family={Aichinger},
-         familyi={A\bibinitperiod},
-         given={Martin},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=WN}{%
-         family={Wick},
-         familyi={W\bibinitperiod},
-         given={Nikolaus},
-         giveni={N\bibinitperiod},
-      }}%
-      {{hash=HB}{%
-         family={Hantusch},
-         familyi={H\bibinitperiod},
-         given={Brigitte},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=NM}{%
-         family={Novatchkova},
-         familyi={N\bibinitperiod},
-         given={Maria},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=TJ}{%
-         family={Taubenschmid},
-         familyi={T\bibinitperiod},
-         given={Jasmin},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=HM}{%
-         family={Hämmerle},
-         familyi={H\bibinitperiod},
-         given={Monika},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=EC}{%
-         family={Esk},
-         familyi={E\bibinitperiod},
-         given={Christopher},
-         giveni={C\bibinitperiod},
-      }}%
-      {{hash=BJA}{%
-         family={Bagley},
-         familyi={B\bibinitperiod},
-         given={Joshua\bibnamedelima A.},
-         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=LD}{%
-         family={Lindenhofer},
-         familyi={L\bibinitperiod},
-         given={Dominik},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=CG}{%
-         family={Chen},
-         familyi={C\bibinitperiod},
-         given={Guibin},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=BM}{%
-         family={Boehm},
-         familyi={B\bibinitperiod},
-         given={Manfred},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=ACA}{%
-         family={Agu},
-         familyi={A\bibinitperiod},
-         given={Chukwuma\bibnamedelima A.},
-         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=YF}{%
-         family={Yang},
-         familyi={Y\bibinitperiod},
-         given={Fengtang},
-         giveni={F\bibinitperiod},
-      }}%
-      {{hash=FB}{%
-         family={Fu},
-         familyi={F\bibinitperiod},
-         given={Beiyuan},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=ZJ}{%
-         family={Zuber},
-         familyi={Z\bibinitperiod},
-         given={Johannes},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=KJA}{%
-         family={Knoblich},
-         familyi={K\bibinitperiod},
-         given={Juergen\bibnamedelima A.},
-         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=KD}{%
-         family={Kerjaschki},
-         familyi={K\bibinitperiod},
-         given={Dontscho},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=PJM}{%
-         family={Penninger},
-         familyi={P\bibinitperiod},
-         given={Josef\bibnamedelima M.},
-         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{WRA+1}
-    \strng{fullhash}{WRALAAMWNHBNMTJHMECBJALDCGBMACAYFFBZJKJAKDPJM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2019}
-    \field{labeldatesource}{}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \verb{doi}
-    \verb 10.1038/s41586-018-0858-8
-    \endverb
-    \field{issn}{0028-0836, 1476-4687}
-    \field{number}{7740}
-    \field{pages}{505\bibrangedash 510}
-    \field{title}{Human blood vessel organoids as a model of diabetic
-  vasculopathy}
-    \verb{url}
-    \verb http://www.nature.com/articles/s41586-018-0858-8
-    \endverb
-    \field{volume}{565}
-    \verb{file}
-    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/KESSRI7P/Wimmer et al. - 2019 - Human blood vessel organoids as
-    \verb  a model of diabeti.pdf:application/pdf
-    \endverb
-    \field{journaltitle}{Nature}
-    \field{month}{01}
-    \field{year}{2019}
-    \field{urlday}{08}
-    \field{urlmonth}{07}
-    \field{urlyear}{2022}
   \endentry
 
   \entry{xiang_hesc-derived_2019}{article}{}

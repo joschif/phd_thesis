@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  25 JUL 2022 16:58
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  27 JUL 2022 15:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1220,13 +1220,13 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_main.bbl' found.
  (./thesis_main.bbl
-Invalid UTF-8 byte or sequence at line 763 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 767 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 798 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 7569 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 7573 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 7633 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 7634 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 860 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 895 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8542 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8546 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8606 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8607 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 183.
 Package biblatex Info: Reference segment=0 on input line 183.
@@ -1276,43 +1276,44 @@ Underfull \vbox (badness 6348) has occurred while \output is active []
 
  [4] [5] [6
 
-] [7]
+] [7] [8]
 
 Package biblatex Warning: The refcontext option
 (biblatex)                'sorting'
 (biblatex)                is not supported by the BibTeX backend.
 (biblatex)                Consider switching to Biber instead.
-(biblatex)                The option will be ignored on input line 140.
+(biblatex)                The option will be ignored on input line 133.
 
-[8]
-Overfull \hbox (0.96939pt too wide) in paragraph at lines 140--140
+
+Overfull \hbox (0.96939pt too wide) in paragraph at lines 133--133
 \TU/AdobeGaramondPro(0)/m/n/12 dimensional culture”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 472.7341, pp. 51–56. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
 
-Overfull \hbox (0.48843pt too wide) in paragraph at lines 140--140
+Overfull \hbox (0.48843pt too wide) in paragraph at lines 133--133
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
-Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 [9]
-Overfull \hbox (3.01353pt too wide) in paragraph at lines 140--140
+Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
+[10]
+Overfull \hbox (3.01353pt too wide) in paragraph at lines 133--133
 \TU/AdobeGaramondPro(0)/m/n/12 tent stem cells in 3D culture”. eng. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature methods \TU/AdobeGaramondPro(0)/m/n/12 12.7. Edition: 2015/05/25, pp. 671–
  []
 
-[10] [11] [12]
-Overfull \hbox (6.80363pt too wide) in paragraph at lines 140--140
+[11] [12] [13]
+Overfull \hbox (6.80363pt too wide) in paragraph at lines 133--133
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
 
-[13]
-Overfull \hbox (0.89857pt too wide) in paragraph at lines 140--140
+[14]
+Overfull \hbox (0.89857pt too wide) in paragraph at lines 133--133
 \TU/AdobeGaramondPro(0)/m/n/12 tions When Fused with Cortical Organoids”. In: \TU/AdobeGaramondPro(0)/m/it/12 Cell Stem Cell \TU/AdobeGaramondPro(0)/m/n/12 24.3. Edition: 2019/02/26,
  []
 
-[14]
+[15]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[15]) [16
+[16]) [17
 
 
 ]
@@ -1330,7 +1331,7 @@ File: pdfs/chapter_2.pdf Graphic file (type pdf)
 <use pdfs/chapter_2.pdf, page 1>
 File: pdfs/chapter_2.pdf Graphic file (type pdf)
 <use pdfs/chapter_2.pdf, page 1>
- [17] (./chapters/voxhunt.tex
+ [18] (./chapters/voxhunt.tex
 Overfull \hbox (10.0788pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Resolving organoid brain region iden-
  []
@@ -1338,7 +1339,7 @@ Overfull \hbox (10.0788pt too wide) in paragraph at lines 2--2
 
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
- [18]
+ [19]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1346,7 +1347,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[19]
+[20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1357,7 +1358,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[20]
+[21]
 File: figures/voxhunt/Figure_1.png Graphic file (type bmp)
 <figures/voxhunt/Figure_1.png>
 
@@ -1368,7 +1369,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[21]
+[22]
 File: figures/voxhunt/Figure_2.png Graphic file (type bmp)
 <figures/voxhunt/Figure_2.png>
 
@@ -1379,7 +1380,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[22]
+[23]
 File: figures/voxhunt/Figure_3.png Graphic file (type bmp)
 <figures/voxhunt/Figure_3.png>
 
@@ -1390,9 +1391,9 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[23]
+[24]
 
-LaTeX Warning: Text page 24 contains only floats.
+LaTeX Warning: Text page 25 contains only floats.
 
 
 Underfull \vbox (badness 5578) has occurred while \output is active []
@@ -1405,7 +1406,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[24]
+[25]
 File: figures/voxhunt/Figure_4.png Graphic file (type bmp)
 <figures/voxhunt/Figure_4.png>
 
@@ -1419,7 +1420,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[25]
+[26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1430,7 +1431,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[26]
+[27]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
 
@@ -1441,7 +1442,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[27]
+[28]
 File: figures/voxhunt/Figure_5.png Graphic file (type bmp)
 <figures/voxhunt/Figure_5.png>
 
@@ -1452,7 +1453,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[28]
+[29]
 File: figures/voxhunt/Figure_6.png Graphic file (type bmp)
 <figures/voxhunt/Figure_6.png>
 
@@ -1463,7 +1464,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[29]
+[30]
 Overfull \hbox (6.74574pt too wide) in paragraph at lines 171--173
  []\TU/Futura(0)/m/n/12 Assessing organoid patterning using multiplexed transcriptomics and reference map-
  []
@@ -1475,7 +1476,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[30]
+[31]
 File: figures/voxhunt/Figure_7.png Graphic file (type bmp)
 <figures/voxhunt/Figure_7.png>
 
@@ -1489,7 +1490,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[31]
+[32]
 Underfull \vbox (badness 1152) has occurred while \output is active []
 
 
@@ -1500,7 +1501,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[32]
+[33]
 Overfull \hbox (15.54767pt too wide) in paragraph at lines 208--210
 \TU/AdobeGaramondPro(0)/m/n/12 NKX2.1GFP/w hESCs (passage 69) were trypsinized using TrypLETM Express Enzyme (Thermo
  []
@@ -1512,7 +1513,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[33]
+[34]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1520,7 +1521,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[34]
+[35]
 Overfull \hbox (4.19951pt too wide) in paragraph at lines 224--225
  []\TU/Futura(0)/m/n/12 Sequencing of SS2 libraries[] \TU/AdobeGaramondPro(0)/m/n/12 The pooled libraries were appropriately diluted and sequenced
  []
@@ -1537,7 +1538,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[35]
+[36]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1545,7 +1546,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[36]
+[37]
 Overfull \hbox (3.78062pt too wide) in paragraph at lines 236--237
 \TU/AdobeGaramondPro(0)/m/n/12 human brain was obtained from BrainSpan ([]http://www.brainspan.org/static/download.html[]).
  []
@@ -1557,7 +1558,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[37]
+[38]
 Overfull \hbox (0.70934pt too wide) in paragraph at lines 245--246
  []\TU/Futura(0)/m/n/12 Correlation of single-cell transcriptomes to brain structures[] \TU/AdobeGaramondPro(0)/m/n/12 To determine best match-
  []
@@ -1573,18 +1574,10 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[38]
+[39]
 Underfull \vbox (badness 4819) has occurred while \output is active []
 
 
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 26.80603pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.80603pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
-
-[39]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1610,6 +1603,14 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 [42]
 
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[43]
+
 Package biblatex Warning: The refcontext option
 (biblatex)                'sorting'
 (biblatex)                is not supported by the BibTeX backend.
@@ -1626,25 +1627,26 @@ Overfull \hbox (0.48843pt too wide) in paragraph at lines 285--285
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
+[44]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[43]
+[45]
 Overfull \hbox (3.01353pt too wide) in paragraph at lines 285--285
 \TU/AdobeGaramondPro(0)/m/n/12 tent stem cells in 3D culture”. eng. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature methods \TU/AdobeGaramondPro(0)/m/n/12 12.7. Edition: 2015/05/25, pp. 671–
  []
 
-[44] [45] [46]
+[46] [47] [48]
 Overfull \hbox (6.80363pt too wide) in paragraph at lines 285--285
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
 
-[47]
+[49]
 Overfull \hbox (0.89857pt too wide) in paragraph at lines 285--285
 \TU/AdobeGaramondPro(0)/m/n/12 tions When Fused with Cortical Organoids”. In: \TU/AdobeGaramondPro(0)/m/it/12 Cell Stem Cell \TU/AdobeGaramondPro(0)/m/n/12 24.3. Edition: 2019/02/26,
  []
 
-[48]
+[50]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[49]) [50
+[51]) [52
 
 
 ]
@@ -1662,7 +1664,7 @@ File: pdfs/chapter_3.pdf Graphic file (type pdf)
 <use pdfs/chapter_3.pdf, page 1>
 File: pdfs/chapter_3.pdf Graphic file (type pdf)
 <use pdfs/chapter_3.pdf, page 1>
- [51] (./chapters/pando.tex
+ [53] (./chapters/pando.tex
 Overfull \hbox (4.37056pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Inferring and perturbing cell fate reg-
  []
@@ -1672,7 +1674,7 @@ Overfull \hbox (7.48082pt too wide) in paragraph at lines 15--27
 \TU/AdobeGaramondPro(0)/m/n/12 Jonas Simon Fleck$[]$, Sophie Martina Johanna Jansen$[]$, Damian Wollny$[]$, Fides Zenk$[]$, Makiko
  []
 
-) [52] [53] [54
+) [54] [55] [56
 
 ]
 File: pdfs/chapter_4.pdf Graphic file (type pdf)
@@ -1689,7 +1691,7 @@ File: pdfs/chapter_4.pdf Graphic file (type pdf)
 <use pdfs/chapter_4.pdf, page 1>
 File: pdfs/chapter_4.pdf Graphic file (type pdf)
 <use pdfs/chapter_4.pdf, page 1>
- [55] (./chapters/asd.tex
+ [57] (./chapters/asd.tex
 Overfull \hbox (41.50056pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Single-cell CRISPR screening in organoids
  []
@@ -1697,7 +1699,7 @@ Overfull \hbox (41.50056pt too wide) in paragraph at lines 2--2
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56] [57] [58
+ [58] [59] [60
 
 ]
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
@@ -1714,25 +1716,25 @@ File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf, page 1>
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf, page 1>
- [59] (./chapters/cnt.tex
+ [61] (./chapters/cnt.tex
 Overfull \hbox (21.11043pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Single cell epigenomic landscape of hu-
  []
 
-) [60] (./thesis_main.aux)
+) [62] (./thesis_main.aux)
 Package rerunfilecheck Info: File `thesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: 4E92744336223119120221AA444320E3;6714.
+(rerunfilecheck)             Checksum: 57077FE814764863F40C2BDDEF6DED3D;6651.
 Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 \openout1 = `thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38865 strings out of 476179
- 770567 string characters out of 5809545
- 1721411 words of memory out of 5000000
- 59057 multiletter control sequences out of 15000+600000
+ 38937 strings out of 476179
+ 773097 string characters out of 5809545
+ 1722265 words of memory out of 5000000
+ 59129 multiletter control sequences out of 15000+600000
  478260 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,106p,2927b,5508s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,106p,2927b,5506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (67 pages, 1343204 bytes).
+Output written on thesis_main.xdv (69 pages, 1410476 bytes).

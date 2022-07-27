@@ -17,51 +17,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 14940 items from 5000.
+Reallocated field_info (elt_size=4) to 16340 items from 5000.
 Database file #1: thesis_main-blx.bib
 Database file #2: bib/thesis.bib
-Biblatex version: 3.17
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Biblatex version: 3.17
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 71 entries,
+You've used 81 entries,
             6399 wiz_defined-function locations,
-            1829 strings with 66190 characters,
-and the built_in function-call counts, 2071739 in all, are:
-= -- 194551
-> -- 24932
-< -- 3572
-+ -- 79333
-- -- 16231
-* -- 160108
-:= -- 280782
+            1911 strings with 75095 characters,
+and the built_in function-call counts, 2323312 in all, are:
+= -- 216706
+> -- 29661
+< -- 4275
++ -- 89273
+- -- 19563
+* -- 180326
+:= -- 313946
 add.period$ -- 0
-call.type$ -- 71
-change.case$ -- 920
-chr.to.int$ -- 1604
-cite$ -- 140
-duplicate$ -- 201766
-empty$ -- 161824
-format.name$ -- 12508
-if$ -- 386629
+call.type$ -- 81
+change.case$ -- 1060
+chr.to.int$ -- 1920
+cite$ -- 160
+duplicate$ -- 224934
+empty$ -- 181365
+format.name$ -- 14106
+if$ -- 433767
 int.to.chr$ -- 0
-int.to.str$ -- 192
+int.to.str$ -- 224
 missing$ -- 0
-newline$ -- 7321
-num.names$ -- 3130
-pop$ -- 38089
+newline$ -- 8235
+num.names$ -- 3596
+pop$ -- 42875
 preamble$ -- 1
-purify$ -- 2666
+purify$ -- 2996
 quote$ -- 0
-skip$ -- 17500
+skip$ -- 20247
 stack$ -- 0
-substring$ -- 406661
-swap$ -- 25184
-text.length$ -- 3519
-text.prefix$ -- 71
+substring$ -- 453699
+swap$ -- 28700
+text.length$ -- 4157
+text.prefix$ -- 81
 top$ -- 1
-type$ -- 2397
+type$ -- 2737
 warning$ -- 0
-while$ -- 32785
+while$ -- 36465
 width$ -- 0
-write$ -- 7251
+write$ -- 8155

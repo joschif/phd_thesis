@@ -542,6 +542,103 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{islam_characterization_2011}{article}{}
+    \name{author}{7}{}{%
+      {{hash=IS}{%
+         family={Islam},
+         familyi={I\bibinitperiod},
+         given={Saiful},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KU}{%
+         family={Kjällquist},
+         familyi={K\bibinitperiod},
+         given={Una},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Moliner},
+         familyi={M\bibinitperiod},
+         given={Annalena},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZP}{%
+         family={Zajac},
+         familyi={Z\bibinitperiod},
+         given={Pawel},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=FJB}{%
+         family={Fan},
+         familyi={F\bibinitperiod},
+         given={Jian-Bing},
+         giveni={J\bibinithyphendelim B\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Lönnerberg},
+         familyi={L\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Linnarsson},
+         familyi={L\bibinitperiod},
+         given={Sten},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{IS+1}
+    \strng{fullhash}{ISKUMAZPFJBLPLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Our understanding of the development and maintenance of tissues has been
+  greatly aided by large-scale gene expression analysis. However, tissues are
+  invariably complex, and expression analysis of a tissue confounds the true
+  expression patterns of its constituent cell types. Here we describe a novel
+  strategy to access such complex samples. Single-cell RNA-seq expression
+  profiles were generated, and clustered to form a two-dimensional cell map
+  onto which expression data were projected. The resulting cell map integrates
+  three levels of organization: the whole population of cells, the functionally
+  distinct subpopulations it contains, and the single cells themselves—all
+  without need for known markers to classify cell types. The feasibility of the
+  strategy was demonstrated by analyzing the transcriptomes of 85 single cells
+  of two distinct types. We believe this strategy will enable the unbiased
+  discovery and analysis of naturally occurring cell types during development,
+  adult physiology, and disease.%
+    }
+    \verb{doi}
+    \verb 10.1101/gr.110882.110
+    \endverb
+    \field{issn}{1088-9051}
+    \field{number}{7}
+    \field{pages}{1160\bibrangedash 1167}
+    \field{title}{Characterization of the single-cell transcriptional landscape
+  by highly multiplex {RNA}-seq}
+    \verb{url}
+    \verb http://genome.cshlp.org/lookup/doi/10.1101/gr.110882.110
+    \endverb
+    \field{volume}{21}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/7
+    \verb 7BABXJN/Islam et al. - 2011 - Characterization of the single-cell tra
+    \verb nscriptiona.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Genome Research}
+    \field{month}{07}
+    \field{year}{2011}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{kadoshima_self-organization_2013}{article}{}
     \name{author}{7}{}{%
       {{hash=KT}{%
@@ -1220,6 +1317,105 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{smallwood_single-cell_2014}{article}{}
+    \name{author}{10}{}{%
+      {{hash=SSA}{%
+         family={Smallwood},
+         familyi={S\bibinitperiod},
+         given={Sébastien\bibnamedelima A},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LHJ}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Heather\bibnamedelima J},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Angermueller},
+         familyi={A\bibinitperiod},
+         given={Christof},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Krueger},
+         familyi={K\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Saadeh},
+         familyi={S\bibinitperiod},
+         given={Heba},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Peat},
+         familyi={P\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ASR}{%
+         family={Andrews},
+         familyi={A\bibinitperiod},
+         given={Simon\bibnamedelima R},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Stegle},
+         familyi={S\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Reik},
+         familyi={R\bibinitperiod},
+         given={Wolf},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kelsey},
+         familyi={K\bibinitperiod},
+         given={Gavin},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{SSA+2}
+    \strng{fullhash}{SSALHJACKFSHPJASRSORWKG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nmeth.3035
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{8}
+    \field{pages}{817\bibrangedash 820}
+    \field{title}{Single-cell genome-wide bisulfite sequencing for assessing
+  epigenetic heterogeneity}
+    \verb{url}
+    \verb http://www.nature.com/articles/nmeth.3035
+    \endverb
+    \field{volume}{11}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/SU7IHWDS/Smallwood et al. - 2014 - Single-cell genome-wide bisu
+    \verb lfite sequencing for a.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{08}
+    \field{year}{2014}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{thompson_high-resolution_2014}{article}{}
     \name{author}{35}{}{%
       {{hash=TCL}{%
@@ -1716,6 +1912,93 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{buenrostro_single-cell_2015}{article}{}
+    \name{author}{8}{}{%
+      {{hash=BJD}{%
+         family={Buenrostro},
+         familyi={B\bibinitperiod},
+         given={Jason\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Beijing},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LUM}{%
+         family={Litzenburger},
+         familyi={L\bibinitperiod},
+         given={Ulrike\bibnamedelima M.},
+         giveni={U\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Ruff},
+         familyi={R\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GML}{%
+         family={Gonzales},
+         familyi={G\bibinitperiod},
+         given={Michael\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SMP}{%
+         family={Snyder},
+         familyi={S\bibinitperiod},
+         given={Michael\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=CHY}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={Howard\bibnamedelima Y.},
+         giveni={H\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=GWJ}{%
+         family={Greenleaf},
+         familyi={G\bibinitperiod},
+         given={William\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BJD+1}
+    \strng{fullhash}{BJDWBLUMRDGMLSMPCHYGWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nature14590
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7561}
+    \field{pages}{486\bibrangedash 490}
+    \field{title}{Single-cell chromatin accessibility reveals principles of
+  regulatory variation}
+    \verb{url}
+    \verb http://www.nature.com/articles/nature14590
+    \endverb
+    \field{volume}{523}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/GQL725W5/Buenrostro et al. - 2015 - Single-cell chromatin acces
+    \verb sibility reveals princi.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{month}{07}
+    \field{year}{2015}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{camp_human_2015}{article}{}
     \name{author}{15}{}{%
       {{hash=CJG}{%
@@ -1838,6 +2121,124 @@
     \field{journaltitle}{Proc Natl Acad Sci U S A}
     \field{month}{12}
     \field{year}{2015}
+  \endentry
+
+  \entry{cusanovich_multiplex_2015}{article}{}
+    \name{author}{9}{}{%
+      {{hash=CDA}{%
+         family={Cusanovich},
+         familyi={C\bibinitperiod},
+         given={Darren\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Daza},
+         familyi={D\bibinitperiod},
+         given={Riza},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Adey},
+         familyi={A\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PHA}{%
+         family={Pliner},
+         familyi={P\bibinitperiod},
+         given={Hannah\bibnamedelima A.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Christiansen},
+         familyi={C\bibinitperiod},
+         given={Lena},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GKL}{%
+         family={Gunderson},
+         familyi={G\bibinitperiod},
+         given={Kevin\bibnamedelima L.},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SFJ}{%
+         family={Steemers},
+         familyi={S\bibinitperiod},
+         given={Frank\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Trapnell},
+         familyi={T\bibinitperiod},
+         given={Cole},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shendure},
+         familyi={S\bibinitperiod},
+         given={Jay},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CDA+1}
+    \strng{fullhash}{CDADRAAPHACLGKLSFJTCSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Chromatin state and the single cell Identifying the chromatin state of any
+  single cell, which may or may not have a different function or represent
+  different stages relative to others collected within any single culture,
+  experiment, or tissue, has been challenging. Cusanovitch et al. skirted
+  previously identified technological limitations to identify regions of
+  accessible chromatin at single-cell resolution. Combinatorial cellular
+  indexing, a strategy for multiplex barcoding of thousands of single cells per
+  experiment, was successfully used to investigate the genome-wide chromatin
+  accessibility landscape in each of over 15,000 single cells. Science , this
+  issue p. 910 , Combinatorial indexing can identify chromatin states at
+  single-cell resolution. , Technical advances have enabled the collection of
+  genome and transcriptome data sets with single-cell resolution. However,
+  single-cell characterization of the epigenome has remained challenging.
+  Furthermore, because cells must be physically separated before biochemical
+  processing, conventional single-cell preparatory methods scale linearly. We
+  applied combinatorial cellular indexing to measure chromatin accessibility in
+  thousands of single cells per assay, circumventing the need for
+  compartmentalization of individual cells. We report chromatin accessibility
+  profiles from more than 15,000 single cells and use these data to cluster
+  cells on the basis of chromatin accessibility landscapes. We identify modules
+  of coordinately regulated chromatin accessibility at the level of single
+  cells both between and within cell types, with a scalable method that may
+  accelerate progress toward a human cell atlas.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.aab1601
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6237}
+    \field{pages}{910\bibrangedash 914}
+    \field{title}{Multiplex single-cell profiling of chromatin accessibility by
+  combinatorial cellular indexing}
+    \verb{url}
+    \verb https://www.science.org/doi/10.1126/science.aab1601
+    \endverb
+    \field{volume}{348}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/4JF8XCE5/Cusanovich et al. - 2015 - Multiplex single-cell profi
+    \verb ling of chromatin acces.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{month}{05}
+    \field{year}{2015}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
   \endentry
 
   \entry{klein_droplet_2015}{article}{}
@@ -3348,6 +3749,98 @@
     \field{year}{2017}
   \endentry
 
+  \entry{ramani_massively_2017}{article}{}
+    \name{author}{9}{}{%
+      {{hash=RV}{%
+         family={Ramani},
+         familyi={R\bibinitperiod},
+         given={Vijay},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=DX}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={Xinxian},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=QR}{%
+         family={Qiu},
+         familyi={Q\bibinitperiod},
+         given={Ruolan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GKL}{%
+         family={Gunderson},
+         familyi={G\bibinitperiod},
+         given={Kevin\bibnamedelima L},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SFJ}{%
+         family={Steemers},
+         familyi={S\bibinitperiod},
+         given={Frank\bibnamedelima J},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DCM}{%
+         family={Disteche},
+         familyi={D\bibinitperiod},
+         given={Christine\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=NWS}{%
+         family={Noble},
+         familyi={N\bibinitperiod},
+         given={William\bibnamedelima S},
+         giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=DZ}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={Zhijun},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shendure},
+         familyi={S\bibinitperiod},
+         given={Jay},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{RV+1}
+    \strng{fullhash}{RVDXQRGKLSFJDCMNWSDZSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nmeth.4155
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{3}
+    \field{pages}{263\bibrangedash 266}
+    \field{title}{Massively multiplex single-cell {Hi}-{C}}
+    \verb{url}
+    \verb http://www.nature.com/articles/nmeth.4155
+    \endverb
+    \field{volume}{14}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/9ND7JB3D/Ramani et al. - 2017 - Massively multiplex single-cell
+    \verb  Hi-C.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{03}
+    \field{year}{2017}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{renner_self-organized_2017}{article}{}
     \name{author}{8}{}{%
       {{hash=RM}{%
@@ -3537,6 +4030,184 @@
     \field{year}{2017}
     \field{urlday}{27}
     \field{urlmonth}{06}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{stevens_3d_2017}{article}{}
+    \name{author}{23}{}{%
+      {{hash=STJ}{%
+         family={Stevens},
+         familyi={S\bibinitperiod},
+         given={Tim\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lando},
+         familyi={L\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Basu},
+         familyi={B\bibinitperiod},
+         given={Srinjan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ALP}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={Liam\bibnamedelima P.},
+         giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Yang},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LSF}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Steven\bibnamedelima F.},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Leeb},
+         familyi={L\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WKJ}{%
+         family={Wohlfahrt},
+         familyi={W\bibinitperiod},
+         given={Kai\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BW}{%
+         family={Boucher},
+         familyi={B\bibinitperiod},
+         given={Wayne},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=OKA}{%
+         family={O’Shaughnessy-Kirwan},
+         familyi={O\bibinithyphendelim K\bibinitperiod},
+         given={Aoife},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cramard},
+         familyi={C\bibinitperiod},
+         given={Julie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FAJ}{%
+         family={Faure},
+         familyi={F\bibinitperiod},
+         given={Andre\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Ralser},
+         familyi={R\bibinitperiod},
+         given={Meryem},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Blanco},
+         familyi={B\bibinitperiod},
+         given={Enrique},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Morey},
+         familyi={M\bibinitperiod},
+         given={Lluis},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sansó},
+         familyi={S\bibinitperiod},
+         given={Miriam},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PMGS}{%
+         family={Palayret},
+         familyi={P\bibinitperiod},
+         given={Matthieu G.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Lehner},
+         familyi={L\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DCL}{%
+         family={Di\bibnamedelima Croce},
+         familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wutz},
+         familyi={W\bibinitperiod},
+         given={Anton},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Hendrich},
+         familyi={H\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Klenerman},
+         familyi={K\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LED}{%
+         family={Laue},
+         familyi={L\bibinitperiod},
+         given={Ernest\bibnamedelima D.},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{STJ+1}
+    \strng{fullhash}{STJLDBSALPCYLSFLMWKJBWOKACJFAJRMBEMLSMPMGSLBDCLWAHBKDLED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nature21429
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7648}
+    \field{pages}{59\bibrangedash 64}
+    \field{title}{{3D} structures of individual mammalian genomes studied by
+  single-cell {Hi}-{C}}
+    \verb{url}
+    \verb http://www.nature.com/articles/nature21429
+    \endverb
+    \field{volume}{544}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/R2VYB5U3/Stevens et al. - 2017 - 3D structures of individual ma
+    \verb mmalian genomes stud.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{month}{04}
+    \field{year}{2017}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
     \field{urlyear}{2022}
   \endentry
 
@@ -5096,6 +5767,75 @@
     \field{year}{2019}
   \endentry
 
+  \entry{hainer_profiling_2019}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HSJ}{%
+         family={Hainer},
+         familyi={H\bibinitperiod},
+         given={Sarah\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bošković},
+         familyi={B\bibinitperiod},
+         given={Ana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MKN}{%
+         family={McCannell},
+         familyi={M\bibinitperiod},
+         given={Kurtis\bibnamedelima N.},
+         giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=ROJ}{%
+         family={Rando},
+         familyi={R\bibinitperiod},
+         given={Oliver\bibnamedelima J.},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FTG}{%
+         family={Fazzio},
+         familyi={F\bibinitperiod},
+         given={Thomas\bibnamedelima G.},
+         giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{HSJ+1}
+    \strng{fullhash}{HSJBAMKNROJFTG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.cell.2019.03.014
+    \endverb
+    \field{issn}{00928674}
+    \field{number}{5}
+    \field{pages}{1319\bibrangedash 1329.e11}
+    \field{title}{Profiling of {Pluripotency} {Factors} in {Single} {Cells} and
+  {Early} {Embryos}}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0092867419302764
+    \endverb
+    \field{volume}{177}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/B
+    \verb C3DDG66/Hainer et al. - 2019 - Profiling of Pluripotency Factors in S
+    \verb ingle Cells .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Cell}
+    \field{month}{05}
+    \field{year}{2019}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{kanton_organoid_2019}{article}{}
     \name{author}{17}{}{%
       {{hash=KS}{%
@@ -5251,6 +5991,95 @@
     \field{volume}{574}
     \field{journaltitle}{Nature}
     \field{month}{10}
+    \field{year}{2019}
+  \endentry
+
+  \entry{kaya-okur_cuttag_2019}{article}{}
+    \name{author}{8}{}{%
+      {{hash=KOHS}{%
+         family={Kaya-Okur},
+         familyi={K\bibinithyphendelim O\bibinitperiod},
+         given={Hatice\bibnamedelima S},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WSJ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Steven\bibnamedelima J},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CCA}{%
+         family={Codomo},
+         familyi={C\bibinitperiod},
+         given={Christine\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PES}{%
+         family={Pledger},
+         familyi={P\bibinitperiod},
+         given={Erica\bibnamedelima S},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BTD}{%
+         family={Bryson},
+         familyi={B\bibinitperiod},
+         given={Terri\bibnamedelima D},
+         giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HJG}{%
+         family={Henikoff},
+         familyi={H\bibinitperiod},
+         given={Jorja\bibnamedelima G},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Ahmad},
+         familyi={A\bibinitperiod},
+         given={Kami},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Henikoff},
+         familyi={H\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{KOHS+1}
+    \strng{fullhash}{KOHSWSJCCAPESBTDHJGAKHS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Many chromatin features play critical roles in regulating gene expression.
+  A complete understanding of gene regulation will require the mapping of
+  specific chromatin features in small samples of cells at high resolution.
+  Here we describe Cleavage Under Targets and Tagmentation (CUT\&Tag), an
+  enzyme-tethering strategy that provides efficient high-resolution sequencing
+  libraries for profiling diverse chromatin components. In CUT\&Tag, a
+  chromatin protein is bound in situ by a specific antibody, which then tethers
+  a protein A-Tn5 transposase fusion protein. Activation of the transposase
+  efficiently generates fragment libraries with high resolution and
+  exceptionally low background. All steps from live cells to sequencing-ready
+  libraries can be performed in a single tube on the benchtop or a microwell in
+  a high-throughput pipeline, and the entire procedure can be performed in one
+  day. We demonstrate the utility of CUT\&Tag by profiling histone
+  modifications, RNA Polymerase II and transcription factors on low cell
+  numbers and single cells.%
+    }
+    \field{number}{1}
+    \field{pages}{1930}
+    \field{title}{{CUT}\&{Tag} for efficient epigenomic profiling of small
+  samples and single cells}
+    \field{volume}{10}
+    \field{journaltitle}{Nat. Commun.}
+    \field{month}{04}
     \field{year}{2019}
   \endentry
 
@@ -5495,6 +6324,93 @@
     \field{journaltitle}{Nat. Med.}
     \field{month}{04}
     \field{year}{2019}
+  \endentry
+
+  \entry{ku_single-cell_2019}{article}{}
+    \name{author}{8}{}{%
+      {{hash=KWL}{%
+         family={Ku},
+         familyi={K\bibinitperiod},
+         given={Wai\bibnamedelima Lim},
+         giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=NK}{%
+         family={Nakamura},
+         familyi={N\bibinitperiod},
+         given={Kosuke},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GW}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Weiwu},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Cui},
+         familyi={C\bibinitperiod},
+         given={Kairong},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Gangqing},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=TQ}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={Qingsong},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=NB}{%
+         family={Ni},
+         familyi={N\bibinitperiod},
+         given={Bing},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Keji},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{KWL+1}
+    \strng{fullhash}{KWLNKGWCKHGTQNBZK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/s41592-019-0361-7
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{4}
+    \field{pages}{323\bibrangedash 325}
+    \field{title}{Single-cell chromatin immunocleavage sequencing
+  ({scChIC}-seq) to profile histone modification}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41592-019-0361-7
+    \endverb
+    \field{volume}{16}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/3KDATFZK/Ku et al. - 2019 - Single-cell chromatin immunocleavag
+    \verb e sequencing (s.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{04}
+    \field{year}{2019}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
   \endentry
 
   \entry{loo_single-cell_2019}{article}{}
@@ -7127,6 +8043,63 @@
     \field{year}{2020}
     \field{urlday}{27}
     \field{urlmonth}{06}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{bartosovic_single-cell_2021}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BM}{%
+         family={Bartosovic},
+         familyi={B\bibinitperiod},
+         given={Marek},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kabbe},
+         familyi={K\bibinitperiod},
+         given={Mukund},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CBG}{%
+         family={Castelo-Branco},
+         familyi={C\bibinithyphendelim B\bibinitperiod},
+         given={Gonçalo},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BM+1}
+    \strng{fullhash}{BMKMCBG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/s41587-021-00869-9
+    \endverb
+    \field{issn}{1087-0156, 1546-1696}
+    \field{number}{7}
+    \field{pages}{825\bibrangedash 835}
+    \field{title}{Single-cell {CUT}\&{Tag} profiles histone modifications and
+  transcription factors in complex tissues}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41587-021-00869-9
+    \endverb
+    \field{volume}{39}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/HTL92RWQ/Bartosovic et al. - 2021 - Single-cell CUT&Tag profile
+    \verb s histone modifications.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Biotechnology}
+    \field{month}{07}
+    \field{year}{2021}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
     \field{urlyear}{2022}
   \endentry
 

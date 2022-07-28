@@ -349,6 +349,111 @@
     \field{year}{2008}
   \endentry
 
+  \entry{zhang_model-based_2008}{article}{}
+    \name{author}{11}{}{%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Tao},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MCA}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Clifford\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eeckhoute},
+         familyi={E\bibinitperiod},
+         given={Jérôme},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JDS}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={David\bibnamedelima S},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BBE}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Bradley\bibnamedelima E},
+         giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=NC}{%
+         family={Nusbaum},
+         familyi={N\bibinitperiod},
+         given={Chad},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MRM}{%
+         family={Myers},
+         familyi={M\bibinitperiod},
+         given={Richard\bibnamedelima M},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Myles},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LW}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LXS}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={X\bibnamedelima Shirley},
+         giveni={X\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{ZY+1}
+    \strng{fullhash}{ZYLTMCAEJJDSBBENCMRMBMLWLXS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1186/gb-2008-9-9-r137
+    \endverb
+    \field{issn}{1474-760X}
+    \field{number}{9}
+    \field{pages}{R137}
+    \field{title}{Model-based {Analysis} of {ChIP}-{Seq} ({MACS})}
+    \verb{url}
+    \verb https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-9-
+    \verb r137
+    \endverb
+    \field{volume}{9}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/I
+    \verb A48GIFN/Zhang et al. - 2008 - Model-based Analysis of ChIP-Seq (MACS)
+    \verb .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Genome Biology}
+    \field{month}{11}
+    \field{year}{2008}
+    \field{urlday}{27}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{tang_mrna-seq_2009}{article}{}
     \name{author}{12}{}{%
       {{hash=TF}{%
@@ -4211,6 +4316,78 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{vallejos_normalizing_2017}{article}{}
+    \name{author}{5}{}{%
+      {{hash=VCA}{%
+         family={Vallejos},
+         familyi={V\bibinitperiod},
+         given={Catalina\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Risso},
+         familyi={R\bibinitperiod},
+         given={Davide},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Scialdone},
+         familyi={S\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dudoit},
+         familyi={D\bibinitperiod},
+         given={Sandrine},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Marioni},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{VCA+1}
+    \strng{fullhash}{VCARDSADSMJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nmeth.4292
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{6}
+    \field{pages}{565\bibrangedash 571}
+    \field{shorttitle}{Normalizing single-cell {RNA} sequencing data}
+    \field{title}{Normalizing single-cell {RNA} sequencing data: challenges and
+  opportunities}
+    \verb{url}
+    \verb http://www.nature.com/articles/nmeth.4292
+    \endverb
+    \field{volume}{14}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/MPXZJJDM/Vallejos et al. - 2017 - Normalizing single-cell RNA s
+    \verb equencing data chall.pdf:application/pdf;pericles_1744429215.txt:/Use
+    \verb rs/jfleck/Dropbox/Documents/literature/zotero/storage/FMBNBT4E/pericl
+    \verb es_1744429215.txt:text/plain
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{06}
+    \field{year}{2017}
+    \field{urlday}{28}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{xiang_fusion_2017}{article}{}
     \name{author}{17}{}{%
       {{hash=XY}{%
@@ -5767,6 +5944,67 @@
     \field{year}{2019}
   \endentry
 
+  \entry{hafemeister_normalization_2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HC}{%
+         family={Hafemeister},
+         familyi={H\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Satija},
+         familyi={S\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HCSR1}
+    \strng{fullhash}{HCSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Single-cell RNA-seq (scRNA-seq) data exhibits significant cell-to-cell
+  variation due to technical factors, including the number of molecules
+  detected in each cell, which can confound biological heterogeneity with
+  technical effects. To address this, we present a modeling framework for the
+  normalization and variance stabilization of molecular count data from
+  scRNA-seq experiments. We propose that the Pearson residuals from
+  “regularized negative binomial regression,” where cellular sequencing
+  depth is utilized as a covariate in a generalized linear model, successfully
+  remove the influence of technical characteristics from downstream analyses
+  while preserving biological heterogeneity. Importantly, we show that an
+  unconstrained negative binomial model may overfit scRNA-seq data, and
+  overcome this by pooling information across genes with similar abundances to
+  obtain stable parameter estimates. Our procedure omits the need for heuristic
+  steps including pseudocount addition or log-transformation and improves
+  common downstream analytical tasks such as variable gene selection,
+  dimensional reduction, and differential expression. Our approach can be
+  applied to any UMI-based scRNA-seq dataset and is freely available as part of
+  the R package sctransform, with a direct interface to our single-cell toolkit
+  Seurat.%
+    }
+    \verb{doi}
+    \verb 10.1186/s13059-019-1874-1
+    \endverb
+    \field{issn}{1474-760X}
+    \field{number}{1}
+    \field{pages}{296}
+    \field{title}{Normalization and variance stabilization of single-cell
+  {RNA}-seq data using regularized negative binomial regression}
+    \verb{url}
+    \verb https://doi.org/10.1186/s13059-019-1874-1
+    \endverb
+    \field{volume}{20}
+    \field{journaltitle}{Genome Biology}
+    \field{month}{12}
+    \field{year}{2019}
+  \endentry
+
   \entry{hainer_profiling_2019}{article}{}
     \name{author}{5}{}{%
       {{hash=HSJ}{%
@@ -6497,6 +6735,58 @@
     \field{year}{2019}
   \endentry
 
+  \entry{luecken_current_2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LMD}{%
+         family={Luecken},
+         familyi={L\bibinitperiod},
+         given={Malte\bibnamedelima D},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=TFJ}{%
+         family={Theis},
+         familyi={T\bibinitperiod},
+         given={Fabian\bibnamedelima J},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{LMDTFJ1}
+    \strng{fullhash}{LMDTFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.15252/msb.20188746
+    \endverb
+    \field{issn}{1744-4292, 1744-4292}
+    \field{number}{6}
+    \field{shorttitle}{Current best practices in single‐cell {RNA}‐seq
+  analysis}
+    \field{title}{Current best practices in single‐cell {RNA}‐seq analysis:
+  a tutorial}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/10.15252/msb.20188746
+    \endverb
+    \field{volume}{15}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/8
+    \verb RB4RRUN/Luecken and Theis - 2019 - Current best practices in single�
+    \verb �cell RNA‐seq anal.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Molecular Systems Biology}
+    \field{month}{06}
+    \field{year}{2019}
+    \field{urlday}{28}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{marton_differentiation_2019}{article}{}
     \name{author}{8}{}{%
       {{hash=MRM}{%
@@ -6911,6 +7201,175 @@
     \field{urlday}{09}
     \field{urlmonth}{06}
     \field{urlyear}{2022}
+  \endentry
+
+  \entry{stuart_comprehensive_2019}{article}{}
+    \name{author}{10}{}{%
+      {{hash=ST}{%
+         family={Stuart},
+         familyi={S\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Butler},
+         familyi={B\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Hoffman},
+         familyi={H\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hafemeister},
+         familyi={H\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Papalexi},
+         familyi={P\bibinitperiod},
+         given={Efthymia},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MWMr}{%
+         family={Mauck},
+         familyi={M\bibinitperiod},
+         suffix={3rd},
+         suffixi={r\bibinitperiod},
+         given={William\bibnamedelima M},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Hao},
+         familyi={H\bibinitperiod},
+         given={Yuhan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stoeckius},
+         familyi={S\bibinitperiod},
+         given={Marlon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Smibert},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Satija},
+         familyi={S\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{integration, multi-modal, scATAC-seq, scRNA-seq, single cell,
+  single-cell ATAC sequencing, single-cell RNA sequencing}
+    \strng{namehash}{ST+1}
+    \strng{fullhash}{STBAHPHCPEMrWMHYSMSPSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Single-cell transcriptomics has transformed our ability to characterize
+  cell states, but deep biological understanding requires more than a taxonomic
+  listing of clusters. As new methods arise to measure distinct cellular
+  modalities, a key analytical challenge is to integrate these datasets to
+  better understand cellular identity and function. Here, we develop a strategy
+  to “anchor” diverse datasets together, enabling us to integrate
+  single-cell measurements not only across scRNA-seq technologies, but also
+  across different modalities. After demonstrating improvement over existing
+  methods for integrating scRNA-seq data, we anchor scRNA-seq experiments with
+  scATAC-seq to explore chromatin differences in closely related interneuron
+  subsets and project protein expression measurements onto a bone marrow atlas
+  to characterize lymphocyte populations. Lastly, we harmonize in situ gene
+  expression and scRNA-seq datasets, allowing transcriptome-wide imputation of
+  spatial gene expression patterns. Our work presents a strategy for the
+  assembly of harmonized references and transfer of information across
+  datasets.%
+    }
+    \field{number}{7}
+    \field{pages}{1888\bibrangedash 1902.e21}
+    \field{title}{Comprehensive {Integration} of {Single}-{Cell} {Data}}
+    \field{volume}{177}
+    \field{journaltitle}{Cell}
+    \field{month}{06}
+    \field{year}{2019}
+  \endentry
+
+  \entry{townes_feature_2019}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TFW}{%
+         family={Townes},
+         familyi={T\bibinitperiod},
+         given={F.\bibnamedelima William},
+         giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=HSC}{%
+         family={Hicks},
+         familyi={H\bibinitperiod},
+         given={Stephanie\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=AMJ}{%
+         family={Aryee},
+         familyi={A\bibinitperiod},
+         given={Martin\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=IRA}{%
+         family={Irizarry},
+         familyi={I\bibinitperiod},
+         given={Rafael\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TFW+1}
+    \strng{fullhash}{TFWHSCAMJIRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Single-cell RNA-Seq (scRNA-Seq) profiles gene expression of individual
+  cells. Recent scRNA-Seq datasets have incorporated unique molecular
+  identifiers (UMIs). Using negative controls, we show UMI counts follow
+  multinomial sampling with no zero inflation. Current normalization procedures
+  such as log of counts per million and feature selection by highly variable
+  genes produce false variability in dimension reduction. We propose simple
+  multinomial methods, including generalized principal component analysis
+  (GLM-PCA) for non-normal distributions, and feature selection using deviance.
+  These methods outperform the current practice in a downstream clustering
+  assessment using ground truth datasets.%
+    }
+    \verb{doi}
+    \verb 10.1186/s13059-019-1861-6
+    \endverb
+    \field{issn}{1474-760X}
+    \field{number}{1}
+    \field{pages}{295}
+    \field{title}{Feature selection and dimension reduction for single-cell
+  {RNA}-{Seq} based on a multinomial model}
+    \verb{url}
+    \verb https://doi.org/10.1186/s13059-019-1861-6
+    \endverb
+    \field{volume}{20}
+    \field{journaltitle}{Genome Biology}
+    \field{month}{12}
+    \field{year}{2019}
   \endentry
 
   \entry{velasco_individual_2019}{article}{}
@@ -8228,6 +8687,64 @@
     \field{volume}{596}
     \field{journaltitle}{Nature}
     \field{month}{08}
+    \field{year}{2021}
+  \endentry
+
+  \entry{lause_analytic_2021}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LJ}{%
+         family={Lause},
+         familyi={L\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Berens},
+         familyi={B\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kobak},
+         familyi={K\bibinitperiod},
+         given={Dmitry},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJBPKD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Standard preprocessing of single-cell RNA-seq UMI data includes
+  normalization by sequencing depth to remove this technical variability, and
+  nonlinear transformation to stabilize the variance across genes with
+  different expression levels. Instead, two recent papers propose to use
+  statistical count models for these tasks: Hafemeister and Satija (Genome Biol
+  20:296, 2019) recommend using Pearson residuals from negative binomial
+  regression, while Townes et al. (Genome Biol 20:295, 2019) recommend fitting
+  a generalized PCA model. Here, we investigate the connection between these
+  approaches theoretically and empirically, and compare their effects on
+  downstream processing.%
+    }
+    \verb{doi}
+    \verb 10.1186/s13059-021-02451-7
+    \endverb
+    \field{issn}{1474-760X}
+    \field{number}{1}
+    \field{pages}{258}
+    \field{title}{Analytic {Pearson} residuals for normalization of single-cell
+  {RNA}-seq {UMI} data}
+    \verb{url}
+    \verb https://doi.org/10.1186/s13059-021-02451-7
+    \endverb
+    \field{volume}{22}
+    \field{journaltitle}{Genome Biology}
+    \field{month}{09}
     \field{year}{2021}
   \endentry
 

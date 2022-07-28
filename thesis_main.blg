@@ -17,51 +17,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 16340 items from 5000.
+Reallocated field_info (elt_size=4) to 17320 items from 5000.
 Database file #1: thesis_main-blx.bib
 Database file #2: bib/thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Biblatex version: 3.17
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 81 entries,
+You've used 88 entries,
             6399 wiz_defined-function locations,
-            1911 strings with 75095 characters,
-and the built_in function-call counts, 2323312 in all, are:
-= -- 216706
-> -- 29661
-< -- 4275
-+ -- 89273
-- -- 19563
-* -- 180326
-:= -- 313946
+            1965 strings with 81736 characters,
+and the built_in function-call counts, 2431664 in all, are:
+= -- 225808
+> -- 31636
+< -- 4634
++ -- 93261
+- -- 20827
+* -- 188908
+:= -- 327615
 add.period$ -- 0
-call.type$ -- 81
-change.case$ -- 1060
-chr.to.int$ -- 1920
-cite$ -- 160
-duplicate$ -- 224934
-empty$ -- 181365
-format.name$ -- 14106
-if$ -- 433767
+call.type$ -- 88
+change.case$ -- 1149
+chr.to.int$ -- 2062
+cite$ -- 174
+duplicate$ -- 235461
+empty$ -- 190120
+format.name$ -- 14860
+if$ -- 454379
 int.to.chr$ -- 0
-int.to.str$ -- 224
+int.to.str$ -- 242
 missing$ -- 0
-newline$ -- 8235
-num.names$ -- 3596
-pop$ -- 42875
+newline$ -- 8694
+num.names$ -- 3903
+pop$ -- 45736
 preamble$ -- 1
-purify$ -- 2996
+purify$ -- 3168
 quote$ -- 0
-skip$ -- 20247
+skip$ -- 21792
 stack$ -- 0
-substring$ -- 453699
-swap$ -- 28700
-text.length$ -- 4157
-text.prefix$ -- 81
+substring$ -- 472384
+swap$ -- 30574
+text.length$ -- 4467
+text.prefix$ -- 88
 top$ -- 1
-type$ -- 2737
+type$ -- 2975
 warning$ -- 0
-while$ -- 36465
+while$ -- 38050
 width$ -- 0
-write$ -- 8155
+write$ -- 8607

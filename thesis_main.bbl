@@ -7835,6 +7835,135 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{ma_chromatin_2020}{article}{}
+    \name{author}{15}{}{%
+      {{hash=MS}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Sai},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZB}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Bing},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LLM}{%
+         family={LaFave},
+         familyi={L\bibinitperiod},
+         given={Lindsay\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=EAS}{%
+         family={Earl},
+         familyi={E\bibinitperiod},
+         given={Andrew\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Chiang},
+         familyi={C\bibinitperiod},
+         given={Zachary},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Yan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Ding},
+         familyi={D\bibinitperiod},
+         given={Jiarui},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Brack},
+         familyi={B\bibinitperiod},
+         given={Alison},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KVK}{%
+         family={Kartha},
+         familyi={K\bibinitperiod},
+         given={Vinay\bibnamedelima K.},
+         giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Tay},
+         familyi={T\bibinitperiod},
+         given={Tristan},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Law},
+         familyi={L\bibinitperiod},
+         given={Travis},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lareau},
+         familyi={L\bibinitperiod},
+         given={Caleb},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HYC}{%
+         family={Hsu},
+         familyi={H\bibinitperiod},
+         given={Ya-Chieh},
+         giveni={Y\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJD}{%
+         family={Buenrostro},
+         familyi={B\bibinitperiod},
+         given={Jason\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{MS+1}
+    \strng{fullhash}{MSZBLLMEASCZHYDJBAKVKTTLTLCHYCRABJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.cell.2020.09.056
+    \endverb
+    \field{issn}{00928674}
+    \field{number}{4}
+    \field{pages}{1103\bibrangedash 1116.e20}
+    \field{title}{Chromatin {Potential} {Identified} by {Shared}
+  {Single}-{Cell} {Profiling} of {RNA} and {Chromatin}}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0092867420312538
+    \endverb
+    \field{volume}{183}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/M
+    \verb J67JKR4/Ma et al. - 2020 - Chromatin Potential Identified by Shared S
+    \verb ingle-Ce.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Cell}
+    \field{month}{11}
+    \field{year}{2020}
+    \field{urlday}{28}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{miura_generation_2020}{article}{}
     \name{author}{11}{}{%
       {{hash=MY}{%

@@ -451,11 +451,6 @@ Volume: 560},
 	pages = {1417--1430},
 }
 
-@misc{datlinger_pooled_nodate,
-	title = {Pooled {CRISPR} screening with single-cell transcriptome read-out},
-	author = {Datlinger, Paul and Schmidl, Christian and Rendeiro, André F and Traxler, Peter and Klughammer, Johanna and Schuster, Linda and Bock, Christoph},
-}
-
 @article{la_manno_molecular_2021,
 	title = {Molecular architecture of the developing mouse brain},
 	volume = {596},
@@ -2736,4 +2731,323 @@ Publisher: bioRxiv},
 	year = {2020},
 	pages = {1103--1116.e20},
 	file = {Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/MJ67JKR4/Ma et al. - 2020 - Chromatin Potential Identified by Shared Single-Ce.pdf:application/pdf},
+}
+
+@article{luecken_benchmarking_2022,
+	title = {Benchmarking atlas-level data integration in single-cell genomics},
+	volume = {19},
+	issn = {1548-7091, 1548-7105},
+	url = {https://www.nature.com/articles/s41592-021-01336-8},
+	doi = {10.1038/s41592-021-01336-8},
+	abstract = {Abstract
+            Single-cell atlases often include samples that span locations, laboratories and conditions, leading to complex, nested batch effects in data. Thus, joint analysis of atlas datasets requires reliable data integration. To guide integration method choice, we benchmarked 68 method and preprocessing combinations on 85 batches of gene expression, chromatin accessibility and simulation data from 23 publications, altogether representing {\textgreater}1.2 million cells distributed in 13 atlas-level integration tasks. We evaluated methods according to scalability, usability and their ability to remove batch effects while retaining biological variation using 14 evaluation metrics. We show that highly variable gene selection improves the performance of data integration methods, whereas scaling pushes methods to prioritize batch removal over conservation of biological variation. Overall, scANVI, Scanorama, scVI and scGen perform well, particularly on complex integration tasks, while single-cell ATAC-sequencing integration performance is strongly affected by choice of feature space. Our freely available Python module and benchmarking pipeline can identify optimal data integration methods for new data, benchmark new methods and improve method development.},
+	language = {en},
+	number = {1},
+	urldate = {2022-07-29},
+	journal = {Nature Methods},
+	author = {Luecken, Malte D. and Büttner, M. and Chaichoompu, K. and Danese, A. and Interlandi, M. and Mueller, M. F. and Strobl, D. C. and Zappia, L. and Dugas, M. and Colomé-Tatché, M. and Theis, Fabian J.},
+	month = jan,
+	year = {2022},
+	pages = {41--50},
+	file = {Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/G2LSJWKY/Luecken et al. - 2022 - Benchmarking atlas-level data integration in singl.pdf:application/pdf},
+}
+
+@techreport{bartosovic_multimodal_2022,
+	type = {preprint},
+	title = {Multimodal chromatin profiling using nanobody-based single-cell {CUT}\&{Tag}},
+	url = {http://biorxiv.org/lookup/doi/10.1101/2022.03.08.483459},
+	abstract = {Abstract
+          Probing epigenomic marks such as histone modifications at a single cell level in thousands of cells has been recently enabled by technologies such as scCUT\&Tag. Here we developed a multimodal and optimized iteration of scCUT\&Tag called nano-CT (for nano-CUT\&Tag) that allows simultaneous probing of three epigenomic modalities at single-cell resolution, using nanobody-Tn5 fusion proteins. nano-CT is compatible with starting materials as low as 25 000 cells and has significantly higher resolution than scCUT\&Tag, with a 16-fold increase in the number of fragments per cells. We used nano-CT to simultaneously profile chromatin accessibility, H3K27ac and H3K27me3 in a complex tissue - juvenile mouse brain. The obtained multimodal dataset allowed for discrimination of more cell types/states that scCUT\&Tag, and inference of chromatin velocity between ATAC and H3K27ac in the oligodendrocyte (OL) lineage. In addition, we used nano-CT to deconvolute H3K27me3 repressive states and infer two sequential waves of H3K27me3 repression at distinct gene modules during OL lineage progression. Thus, given its high resolution, versatility, and multimodal features, nano-CT allows unique insights in epigenetic landscapes in different biological systems at single cell level.},
+	language = {en},
+	urldate = {2022-07-29},
+	institution = {Molecular Biology},
+	author = {Bartosovic, Marek and Castelo-Branco, Gonçalo},
+	month = mar,
+	year = {2022},
+	doi = {10.1101/2022.03.08.483459},
+	file = {Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/XV4VIR79/Bartosovic and Castelo-Branco - 2022 - Multimodal chromatin profiling using nanobody-base.pdf:application/pdf},
+}
+
+@article{pennacchio_enhancers_2013,
+	title = {Enhancers: five essential questions},
+	volume = {14},
+	issn = {1471-0056, 1471-0064},
+	shorttitle = {Enhancers},
+	url = {http://www.nature.com/articles/nrg3458},
+	doi = {10.1038/nrg3458},
+	language = {en},
+	number = {4},
+	urldate = {2022-07-29},
+	journal = {Nature Reviews Genetics},
+	author = {Pennacchio, Len A. and Bickmore, Wendy and Dean, Ann and Nobrega, Marcelo A. and Bejerano, Gill},
+	month = apr,
+	year = {2013},
+	pages = {288--295},
+	file = {Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/UYIMND6D/Pennacchio et al. - 2013 - Enhancers five essential questions.pdf:application/pdf},
+}
+
+@techreport{kamimoto_celloracle_2020,
+	type = {preprint},
+	title = {{CellOracle}: {Dissecting} cell identity via network inference and in silico gene perturbation},
+	shorttitle = {{CellOracle}},
+	url = {http://biorxiv.org/lookup/doi/10.1101/2020.02.17.947416},
+	abstract = {Summary
+          
+            Here, we present CellOracle, a computational tool that integrates single-cell transcriptome and epigenome profiles to infer gene regulatory networks (GRNs), critical regulators of cell identity. Leveraging inferred GRNs, we simulate gene expression changes in response to transcription factor (TF) perturbation, enabling network configurations to be interrogated
+            in silico
+            , facilitating their interpretation. We validate the efficacy of CellOracle to recapitulate known regulatory changes across hematopoiesis, correctly predicting the outcomes of well-characterized TF perturbations. Integrating CellOracle analysis with lineage tracing of direct reprogramming reveals distinct network configurations underlying different reprogramming failure modes. Furthermore, analysis of GRN reconfiguration along successful reprogramming trajectories identifies new factors to enhance target cell yield, uncovering a role for the AP-1 subunit Fos, with the hippo signaling effector, Yap1. Together, these results demonstrate the efficacy of CellOracle to infer and interpret cell-type-specific GRN configurations, at high-resolution, promoting new mechanistic insights into the regulation and reprogramming of cell identity.},
+	language = {en},
+	urldate = {2022-07-29},
+	institution = {Genomics},
+	author = {Kamimoto, Kenji and Hoffmann, Christy M. and Morris, Samantha A.},
+	month = feb,
+	year = {2020},
+	doi = {10.1101/2020.02.17.947416},
+	file = {Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/SVZ3DLA2/Kamimoto et al. - 2020 - CellOracle Dissecting cell identity via network i.pdf:application/pdf},
+}
+
+@article{villani_single-cell_2017,
+	title = {Single-cell {RNA}-seq reveals new types of human blood dendritic cells, monocytes, and progenitors},
+	volume = {356},
+	issn = {0036-8075, 1095-9203},
+	url = {https://www.science.org/doi/10.1126/science.aah4573},
+	doi = {10.1126/science.aah4573},
+	abstract = {What's in a drop of blood?
+            
+              Blood contains many types of cells, including many immune system components. Immune cells used to be characterized by marker-based assays, but now classification relies on the genes that cells express. Villani
+              et al.
+              used deep sequencing at the single-cell level and unbiased clustering to define six dendritic cell and four monocyte populations. This refined analysis has identified, among others, a previously unknown dendritic cell population that potently activates T cells. Further cell culture revealed possible differentiation progenitors within the different cell populations.
+            
+            
+              Science
+              , this issue p.
+              eaah4573
+            
+          , 
+            Discovery of additional immune cell subtypes will help identify functions and immune monitoring during disease.
+          , 
+            
+              INTRODUCTION
+              Dendritic cells (DCs) and monocytes consist of multiple specialized subtypes that play a central role in pathogen sensing, phagocytosis, and antigen presentation. However, their identities and interrelationships are not fully understood, as these populations have historically been defined by a combination of morphology, physical properties, localization, functions, developmental origins, and expression of a restricted set of surface markers.
+            
+            
+              RATIONALE
+              
+                To overcome this inherently biased strategy for cell identification, we performed single-cell RNA sequencing of {\textasciitilde}2400 cells isolated from healthy blood donors and enriched for HLA-DR
+                +
+                lineage
+                −
+                cells. This single-cell profiling strategy and unbiased genomic classification, together with follow-up profiling and functional and phenotypic characterization of prospectively isolated subsets, led us to identify and validate six DC subtypes and four monocyte subtypes, and thus revise the taxonomy of these cells.
+              
+            
+            
+              RESULTS
+              Our study reveals:
+              
+                1) A new DC subset, representing 2 to 3\% of the DC populations across all 10 donors tested, characterized by the expression of
+                AXL
+                ,
+                SIGLEC1
+                , and
+                SIGLEC6
+                antigens, named AS DCs. The AS DC population further divides into two populations captured in the traditionally defined plasmacytoid DC (pDC) and CD1C
+                +
+                conventional DC (cDC) gates. This split is further reflected through AS DC gene expression signatures spanning a spectrum between cDC-like and pDC-like gene sets. Although AS DCs share properties with pDCs, they more potently activate T cells. This discovery led us to reclassify pDCs as the originally described “natural interferon-producing cells (IPCs)” with weaker T cell proliferation induction ability.
+              
+              
+                2) A new subdivision within the CD1C
+                +
+                DC subset: one defined by a major histocompatibility complex class II–like gene set and one by a CD14
+                +
+                monocyte–like prominent gene set. These CD1C
+                +
+                DC subsets, which can be enriched by combining CD1C with CD32B, CD36, and CD163 antigens, can both potently induce T cell proliferation.
+              
+              
+                3) The existence of a circulating and dividing cDC progenitor giving rise to CD1C
+                +
+                and CLEC9A
+                +
+                DCs through in vitro differentiation assays. This blood precursor is defined by the expression of CD100
+                +
+                CD34
+                int
+                and observed at a frequency of {\textasciitilde}0.02\% of the LIN
+                –
+                HLA-DR
+                +
+                fraction.
+              
+              4) Two additional monocyte populations: one expressing classical monocyte genes and cytotoxic genes, and the other with unknown functions.
+              5) Evidence for a relationship between blastic plasmacytoid DC neoplasia (BPDCN) cells and healthy DCs.
+            
+            
+              CONCLUSION
+              Our revised taxonomy will enable more accurate functional and developmental analyses as well as immune monitoring in health and disease. The discovery of AS DCs within the traditionally defined pDC population explains many of the cDC properties previously assigned to pDCs, highlighting the need to revisit the definition of pDCs. Furthermore, the discovery of blood cDC progenitors represents a new therapeutic target readily accessible in the bloodstream for manipulation, as well as a new source for better in vitro DC generation. Although the current results focus on DCs and monocytes, a similar strategy can be applied to build a comprehensive human immune cell atlas.
+              
+                
+                  Establishing a human blood monocyte and dendritic cell atlas.
+                  
+                    We isolated {\textasciitilde}2400 cells enriched from the healthy human blood lineage
+                    −
+                    HLA-DR
+                    +
+                    compartment and subjected them to single-cell RNA sequencing. This strategy, together with follow-up profiling and functional and phenotypic characterization, led us to update the original cell classification to include six DCs, four monocyte subtypes, and one conventional DC progenitor.
+                  
+                
+                
+              
+            
+          , 
+            
+              Dendritic cells (DCs) and monocytes play a central role in pathogen sensing, phagocytosis, and antigen presentation and consist of multiple specialized subtypes. However, their identities and interrelationships are not fully understood. Using unbiased single-cell RNA sequencing (RNA-seq) of {\textasciitilde}2400 cells, we identified six human DCs and four monocyte subtypes in human blood. Our study reveals a new DC subset that shares properties with plasmacytoid DCs (pDCs) but potently activates T cells, thus redefining pDCs; a new subdivision within the CD1C
+              +
+              subset of DCs; the relationship between blastic plasmacytoid DC neoplasia cells and healthy DCs; and circulating progenitor of conventional DCs (cDCs). Our revised taxonomy will enable more accurate functional and developmental analyses as well as immune monitoring in health and disease.},
+	language = {en},
+	number = {6335},
+	urldate = {2022-07-29},
+	journal = {Science},
+	author = {Villani, Alexandra-Chloé and Satija, Rahul and Reynolds, Gary and Sarkizova, Siranush and Shekhar, Karthik and Fletcher, James and Griesbeck, Morgane and Butler, Andrew and Zheng, Shiwei and Lazo, Suzan and Jardine, Laura and Dixon, David and Stephenson, Emily and Nilsson, Emil and Grundberg, Ida and McDonald, David and Filby, Andrew and Li, Weibo and De Jager, Philip L. and Rozenblatt-Rosen, Orit and Lane, Andrew A. and Haniffa, Muzlifah and Regev, Aviv and Hacohen, Nir},
+	month = apr,
+	year = {2017},
+	pages = {eaah4573},
+	file = {Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/I8QDTLQ4/Villani et al. - 2017 - Single-cell RNA-seq reveals new types of human blo.pdf:application/pdf},
+}
+
+@article{papili_gao_sincerities_2018,
+	title = {{SINCERITIES}: inferring gene regulatory networks from time-stamped single cell transcriptional expression profiles},
+	volume = {34},
+	issn = {1367-4803, 1460-2059},
+	shorttitle = {{SINCERITIES}},
+	url = {https://academic.oup.com/bioinformatics/article/34/2/258/4158033},
+	doi = {10.1093/bioinformatics/btx575},
+	language = {en},
+	number = {2},
+	urldate = {2022-07-29},
+	journal = {Bioinformatics},
+	author = {Papili Gao, Nan and Ud-Dean, S M Minhaz and Gandrillon, Olivier and Gunawan, Rudiyanto},
+	editor = {Valencia, Alfonso},
+	month = jan,
+	year = {2018},
+	pages = {258--266},
+	file = {Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/J4WGB25L/Papili Gao et al. - 2018 - SINCERITIES inferring gene regulatory networks fr.pdf:application/pdf},
+}
+
+@article{stuart_gene-coexpression_2003,
+	title = {A {Gene}-{Coexpression} {Network} for {Global} {Discovery} of {Conserved} {Genetic} {Modules}},
+	volume = {302},
+	issn = {0036-8075, 1095-9203},
+	url = {https://www.science.org/doi/10.1126/science.1087447},
+	doi = {10.1126/science.1087447},
+	abstract = {To elucidate gene function on a global scale, we identified pairs of genes that are coexpressed over 3182 DNA microarrays from humans, flies, worms, and yeast. We found 22,163 such coexpression relationships, each of which has been conserved across evolution. This conservation implies that the coexpression of these gene pairs confers a selective advantage and therefore that these genes are functionally related. Manyof these relationships provide strong evidence for the involvement of new genes in core biological functions such as the cell cycle, secretion, and protein expression. We experimentallyconfirmed the predictions implied bysome of these links and identified cell proliferation functions for several genes. By assembling these links into a gene-coexpression network, we found several components that were animal-specific as well as interrelationships between newly evolved and ancient modules.},
+	language = {en},
+	number = {5643},
+	urldate = {2022-07-30},
+	journal = {Science},
+	author = {Stuart, Joshua M. and Segal, Eran and Koller, Daphne and Kim, Stuart K.},
+	month = oct,
+	year = {2003},
+	pages = {249--255},
+}
+
+@article{kim_ppcor_2015,
+	title = {ppcor: {An} {R} {Package} for a {Fast} {Calculation} to {Semi}-partial {Correlation} {Coefficients}},
+	volume = {22},
+	shorttitle = {ppcor},
+	url = {https://doi.org/10.5351/CSAM.2015.22.6.665},
+	doi = {10.5351/CSAM.2015.22.6.665},
+	number = {6},
+	urldate = {2022-07-30},
+	journal = {Communications for Statistical Applications and Methods},
+	author = {Kim, Seongho},
+	month = nov,
+	year = {2015},
+	pages = {665--674},
+	file = {Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/32M7XASS/Kim - 2015 - ppcor An R Package for a Fast Calculation to Semi.pdf:application/pdf},
+}
+
+@article{sanchez-castillo_bayesian_2018,
+	title = {A {Bayesian} framework for the inference of gene regulatory networks from time and pseudo-time series data},
+	volume = {34},
+	issn = {1367-4803, 1460-2059},
+	url = {https://academic.oup.com/bioinformatics/article/34/6/964/4222631},
+	doi = {10.1093/bioinformatics/btx605},
+	language = {en},
+	number = {6},
+	urldate = {2022-07-30},
+	journal = {Bioinformatics},
+	author = {Sanchez-Castillo, M and Blanco, D and Tienda-Luna, I M and Carrion, M C and Huang, Yufei},
+	editor = {Stegle, Oliver},
+	month = mar,
+	year = {2018},
+	pages = {964--970},
+	file = {Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/S6XCZHTN/Sanchez-Castillo et al. - 2018 - A Bayesian framework for the inference of gene reg.pdf:application/pdf},
+}
+
+@article{qiu_inferring_2020,
+	title = {Inferring {Causal} {Gene} {Regulatory} {Networks} from {Coupled} {Single}-{Cell} {Expression} {Dynamics} {Using} {Scribe}},
+	volume = {10},
+	issn = {24054712},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S2405471220300363},
+	doi = {10.1016/j.cels.2020.02.003},
+	language = {en},
+	number = {3},
+	urldate = {2022-07-30},
+	journal = {Cell Systems},
+	author = {Qiu, Xiaojie and Rahimzamani, Arman and Wang, Li and Ren, Bingcheng and Mao, Qi and Durham, Timothy and McFaline-Figueroa, José L. and Saunders, Lauren and Trapnell, Cole and Kannan, Sreeram},
+	month = mar,
+	year = {2020},
+	pages = {265--274.e11},
+	file = {Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/V2ZAF2RS/Qiu et al. - 2020 - Inferring Causal Gene Regulatory Networks from Cou.pdf:application/pdf},
+}
+
+@article{teschendorff_statistical_2021,
+	title = {Statistical mechanics meets single-cell biology},
+	volume = {22},
+	issn = {1471-0056, 1471-0064},
+	url = {http://www.nature.com/articles/s41576-021-00341-z},
+	doi = {10.1038/s41576-021-00341-z},
+	language = {en},
+	number = {7},
+	urldate = {2022-07-30},
+	journal = {Nature Reviews Genetics},
+	author = {Teschendorff, Andrew E. and Feinberg, Andrew P.},
+	month = jul,
+	year = {2021},
+	pages = {459--476},
+}
+
+@article{datlinger_pooled_2017,
+	title = {Pooled {CRISPR} screening with single-cell transcriptome readout},
+	volume = {14},
+	issn = {1548-7091, 1548-7105},
+	url = {http://www.nature.com/articles/nmeth.4177},
+	doi = {10.1038/nmeth.4177},
+	language = {en},
+	number = {3},
+	urldate = {2022-07-30},
+	journal = {Nature Methods},
+	author = {Datlinger, Paul and Rendeiro, André F and Schmidl, Christian and Krausgruber, Thomas and Traxler, Peter and Klughammer, Johanna and Schuster, Linda C and Kuchler, Amelie and Alpar, Donat and Bock, Christoph},
+	month = mar,
+	year = {2017},
+	pages = {297--301},
+	file = {Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/9W65N5E8/Datlinger et al. - 2017 - Pooled CRISPR screening with single-cell transcrip.pdf:application/pdf},
+}
+
+@article{camp_mapping_2019,
+	title = {Mapping human cell phenotypes to genotypes with single-cell genomics},
+	volume = {365},
+	issn = {0036-8075, 1095-9203},
+	url = {https://www.science.org/doi/10.1126/science.aax6648},
+	doi = {10.1126/science.aax6648},
+	abstract = {The cumulative activity of all of the body’s cells, with their myriad interactions, life histories, and environmental experiences, gives rise to a condition that is distinctly human and specific to each individual. It is an enduring goal to catalog our human cell types, to understand how they develop, how they vary between individuals, and how they fail in disease. Single-cell genomics has revolutionized this endeavor because sequencing-based methods provide a means to quantitatively annotate cell states on the basis of high-information content and high-throughput measurements. Together with advances in stem cell biology and gene editing, we are in the midst of a fascinating journey to understand the cellular phenotypes that compose human bodies and how the human genome is used to build and maintain each cell. Here, we will review recent advances into how single-cell genomics is being used to develop personalized phenotyping strategies that cross subcellular, cellular, and tissue scales to link our genome to our cumulative cellular phenotypes.},
+	language = {en},
+	number = {6460},
+	urldate = {2022-07-30},
+	journal = {Science},
+	author = {Camp, J. Gray and Platt, Randall and Treutlein, Barbara},
+	month = sep,
+	year = {2019},
+	pages = {1401--1405},
+	file = {Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/7T6S4C4J/Camp et al. - 2019 - Mapping human cell phenotypes to genotypes with si.pdf:application/pdf},
 }

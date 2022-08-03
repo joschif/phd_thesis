@@ -181,6 +181,79 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{stuart_gene-coexpression_2003}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SJM}{%
+         family={Stuart},
+         familyi={S\bibinitperiod},
+         given={Joshua\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Segal},
+         familyi={S\bibinitperiod},
+         given={Eran},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Koller},
+         familyi={K\bibinitperiod},
+         given={Daphne},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KSK}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Stuart\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{SJM+1}
+    \strng{fullhash}{SJMSEKDKSK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    To elucidate gene function on a global scale, we identified pairs of genes
+  that are coexpressed over 3182 DNA microarrays from humans, flies, worms, and
+  yeast. We found 22,163 such coexpression relationships, each of which has
+  been conserved across evolution. This conservation implies that the
+  coexpression of these gene pairs confers a selective advantage and therefore
+  that these genes are functionally related. Manyof these relationships provide
+  strong evidence for the involvement of new genes in core biological functions
+  such as the cell cycle, secretion, and protein expression. We
+  experimentallyconfirmed the predictions implied bysome of these links and
+  identified cell proliferation functions for several genes. By assembling
+  these links into a gene-coexpression network, we found several components
+  that were animal-specific as well as interrelationships between newly evolved
+  and ancient modules.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.1087447
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{5643}
+    \field{pages}{249\bibrangedash 255}
+    \field{title}{A {Gene}-{Coexpression} {Network} for {Global} {Discovery} of
+  {Conserved} {Genetic} {Modules}}
+    \verb{url}
+    \verb https://www.science.org/doi/10.1126/science.1087447
+    \endverb
+    \field{volume}{302}
+    \field{journaltitle}{Science}
+    \field{month}{10}
+    \field{year}{2003}
+    \field{urlday}{30}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{kamata_r-spondin_2004}{article}{}
     \name{author}{6}{}{%
       {{hash=KT}{%
@@ -2346,6 +2419,49 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{kim_ppcor_2015}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KS}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Seongho},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KS1}
+    \strng{fullhash}{KS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.5351/CSAM.2015.22.6.665
+    \endverb
+    \field{number}{6}
+    \field{pages}{665\bibrangedash 674}
+    \field{shorttitle}{ppcor}
+    \field{title}{ppcor: {An} {R} {Package} for a {Fast} {Calculation} to
+  {Semi}-partial {Correlation} {Coefficients}}
+    \verb{url}
+    \verb https://doi.org/10.5351/CSAM.2015.22.6.665
+    \endverb
+    \field{volume}{22}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/3
+    \verb 2M7XASS/Kim - 2015 - ppcor An R Package for a Fast Calculation to Sem
+    \verb i.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Communications for Statistical Applications and
+  Methods}
+    \field{month}{11}
+    \field{year}{2015}
+    \field{urlday}{30}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{klein_droplet_2015}{article}{}
     \name{author}{9}{}{%
       {{hash=KA}{%
@@ -2781,6 +2897,145 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{dixit_perturb-seq_2016}{article}{}
+    \name{author}{16}{}{%
+      {{hash=DA}{%
+         family={Dixit},
+         familyi={D\bibinitperiod},
+         given={Atray},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PO}{%
+         family={Parnas},
+         familyi={P\bibinitperiod},
+         given={Oren},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Biyu},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Jenny},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FCP}{%
+         family={Fulco},
+         familyi={F\bibinitperiod},
+         given={Charles\bibnamedelima P},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=JAL}{%
+         family={Jerby-Arnon},
+         familyi={J\bibinithyphendelim A\bibinitperiod},
+         given={Livnat},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MND}{%
+         family={Marjanovic},
+         familyi={M\bibinitperiod},
+         given={Nemanja\bibnamedelima D},
+         giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Dionne},
+         familyi={D\bibinitperiod},
+         given={Danielle},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Burks},
+         familyi={B\bibinitperiod},
+         given={Tyler},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Raychowdhury},
+         familyi={R\bibinitperiod},
+         given={Raktima},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AB}{%
+         family={Adamson},
+         familyi={A\bibinitperiod},
+         given={Britt},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=NTM}{%
+         family={Norman},
+         familyi={N\bibinitperiod},
+         given={Thomas\bibnamedelima M},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LES}{%
+         family={Lander},
+         familyi={L\bibinitperiod},
+         given={Eric\bibnamedelima S},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WJS}{%
+         family={Weissman},
+         familyi={W\bibinitperiod},
+         given={Jonathan\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={Nir},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{single-cell RNA-seq, CRISPR, epistasis, genetic interactions, pooled
+  screen}
+    \strng{namehash}{DA+1}
+    \strng{fullhash}{DAPOLBCJFCPJALMNDDDBTRRABNTMLESWJSFNRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Genetic screens help infer gene function in mammalian cells, but it has
+  remained difficult to assay complex phenotypes-such as transcriptional
+  profiles-at scale. Here, we develop Perturb-seq, combining single-cell RNA
+  sequencing (RNA-seq) and clustered regularly interspaced short palindromic
+  repeats (CRISPR)-based perturbations to perform many such assays in a pool.
+  We demonstrate Perturb-seq by analyzing 200,000 cells in immune cells and
+  cell lines, focusing on transcription factors regulating the response of
+  dendritic cells to lipopolysaccharide (LPS). Perturb-seq accurately
+  identifies individual gene targets, gene signatures, and cell states affected
+  by individual perturbations and their genetic interactions. We posit new
+  functions for regulators of differentiation, the anti-viral response, and
+  mitochondrial function during immune activation. By decomposing many high
+  content measurements into the effects of perturbations, their interactions,
+  and diverse cell metadata, Perturb-seq dramatically increases the scope of
+  pooled genomic assays.%
+    }
+    \field{number}{7}
+    \field{pages}{1853\bibrangedash 1866.e17}
+    \field{title}{Perturb-{Seq}: {Dissecting} {Molecular} {Circuits} with
+  {Scalable} {Single}-{Cell} {RNA} {Profiling} of {Pooled} {Genetic} {Screens}}
+    \field{volume}{167}
+    \field{journaltitle}{Cell}
+    \field{month}{12}
+    \field{year}{2016}
+  \endentry
+
   \entry{mora-bermudez_differences_2016}{article}{}
     \name{author}{14}{}{%
       {{hash=MBF}{%
@@ -3102,6 +3357,125 @@
     \field{urlday}{22}
     \field{urlmonth}{10}
     \field{urlyear}{2020}
+  \endentry
+
+  \entry{aibar_scenic_2017}{article}{}
+    \name{author}{14}{}{%
+      {{hash=AS}{%
+         family={Aibar},
+         familyi={A\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GBCB}{%
+         family={González-Blas},
+         familyi={G\bibinithyphendelim B\bibinitperiod},
+         given={Carmen\bibnamedelima Bravo},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Moerman},
+         familyi={M\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HTVA}{%
+         family={Huynh-Thu},
+         familyi={H\bibinithyphendelim T\bibinitperiod},
+         given={Vân\bibnamedelima Anh},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=IH}{%
+         family={Imrichova},
+         familyi={I\bibinitperiod},
+         given={Hana},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hulselmans},
+         familyi={H\bibinitperiod},
+         given={Gert},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RF}{%
+         family={Rambow},
+         familyi={R\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Marine},
+         familyi={M\bibinitperiod},
+         given={Jean-Christophe},
+         giveni={J\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Geurts},
+         familyi={G\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Aerts},
+         familyi={A\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=vdOJ}{%
+         prefix={van\bibnamedelima den},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Oord},
+         familyi={O\bibinitperiod},
+         given={Joost},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AZK}{%
+         family={Atak},
+         familyi={A\bibinitperiod},
+         given={Zeynep\bibnamedelima Kalender},
+         giveni={Z\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wouters},
+         familyi={W\bibinitperiod},
+         given={Jasper},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Aerts},
+         familyi={A\bibinitperiod},
+         given={Stein},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{AS+1}
+    \strng{fullhash}{ASGBCBMTHTVAIHHGRFMJCGPAJOJvdAZKWJAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    We present SCENIC, a computational method for simultaneous gene regulatory
+  network reconstruction and cell-state identification from single-cell RNA-seq
+  data (http://scenic.aertslab.org). On a compendium of single-cell data from
+  tumors and brain, we demonstrate that cis-regulatory analysis can be
+  exploited to guide the identification of transcription factors and cell
+  states. SCENIC provides critical biological insights into the mechanisms
+  driving cellular heterogeneity.%
+    }
+    \field{number}{11}
+    \field{pages}{1083\bibrangedash 1086}
+    \field{title}{{SCENIC}: single-cell regulatory network inference and
+  clustering}
+    \field{volume}{14}
+    \field{journaltitle}{Nat. Methods}
+    \field{month}{11}
+    \field{year}{2017}
   \endentry
 
   \entry{bagley_fused_2017}{article}{}
@@ -3431,6 +3805,105 @@
     \field{month}{08}
     \field{year}{2017}
     \field{urlday}{13}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{datlinger_pooled_2017}{article}{}
+    \name{author}{10}{}{%
+      {{hash=DP}{%
+         family={Datlinger},
+         familyi={D\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RAF}{%
+         family={Rendeiro},
+         familyi={R\bibinitperiod},
+         given={André\bibnamedelima F},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Schmidl},
+         familyi={S\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Krausgruber},
+         familyi={K\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Traxler},
+         familyi={T\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Klughammer},
+         familyi={K\bibinitperiod},
+         given={Johanna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SLC}{%
+         family={Schuster},
+         familyi={S\bibinitperiod},
+         given={Linda\bibnamedelima C},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kuchler},
+         familyi={K\bibinitperiod},
+         given={Amelie},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AD}{%
+         family={Alpar},
+         familyi={A\bibinitperiod},
+         given={Donat},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bock},
+         familyi={B\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{DP+1}
+    \strng{fullhash}{DPRAFSCKTTPKJSLCKAADBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nmeth.4177
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{3}
+    \field{pages}{297\bibrangedash 301}
+    \field{title}{Pooled {CRISPR} screening with single-cell transcriptome
+  readout}
+    \verb{url}
+    \verb http://www.nature.com/articles/nmeth.4177
+    \endverb
+    \field{volume}{14}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/9W65N5E8/Datlinger et al. - 2017 - Pooled CRISPR screening with
+    \verb  single-cell transcrip.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{03}
+    \field{year}{2017}
+    \field{urlday}{30}
     \field{urlmonth}{07}
     \field{urlyear}{2022}
   \endentry
@@ -5638,6 +6111,80 @@
     \field{journaltitle}{Nature Biotechnology}
     \field{month}{01}
     \field{year}{2019}
+  \endentry
+
+  \entry{camp_mapping_2019}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CJG}{%
+         family={Camp},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima Gray},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Platt},
+         familyi={P\bibinitperiod},
+         given={Randall},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={Treutlein},
+         familyi={T\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CJG+2}
+    \strng{fullhash}{CJGPRTB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    The cumulative activity of all of the body’s cells, with their myriad
+  interactions, life histories, and environmental experiences, gives rise to a
+  condition that is distinctly human and specific to each individual. It is an
+  enduring goal to catalog our human cell types, to understand how they
+  develop, how they vary between individuals, and how they fail in disease.
+  Single-cell genomics has revolutionized this endeavor because
+  sequencing-based methods provide a means to quantitatively annotate cell
+  states on the basis of high-information content and high-throughput
+  measurements. Together with advances in stem cell biology and gene editing,
+  we are in the midst of a fascinating journey to understand the cellular
+  phenotypes that compose human bodies and how the human genome is used to
+  build and maintain each cell. Here, we will review recent advances into how
+  single-cell genomics is being used to develop personalized phenotyping
+  strategies that cross subcellular, cellular, and tissue scales to link our
+  genome to our cumulative cellular phenotypes.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.aax6648
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6460}
+    \field{pages}{1401\bibrangedash 1405}
+    \field{title}{Mapping human cell phenotypes to genotypes with single-cell
+  genomics}
+    \verb{url}
+    \verb https://www.science.org/doi/10.1126/science.aax6648
+    \endverb
+    \field{volume}{365}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/7T6S4C4J/Camp et al. - 2019 - Mapping human cell phenotypes to
+    \verb genotypes with si.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{month}{09}
+    \field{year}{2019}
+    \field{urlday}{30}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
   \endentry
 
   \entry{cederquist_specification_2019}{article}{}
@@ -8303,6 +8850,105 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{qiu_inferring_2020}{article}{}
+    \name{author}{10}{}{%
+      {{hash=QX}{%
+         family={Qiu},
+         familyi={Q\bibinitperiod},
+         given={Xiaojie},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rahimzamani},
+         familyi={R\bibinitperiod},
+         given={Arman},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RB}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Bingcheng},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MQ}{%
+         family={Mao},
+         familyi={M\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Durham},
+         familyi={D\bibinitperiod},
+         given={Timothy},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MFJL}{%
+         family={McFaline-Figueroa},
+         familyi={M\bibinithyphendelim F\bibinitperiod},
+         given={José\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Saunders},
+         familyi={S\bibinitperiod},
+         given={Lauren},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Trapnell},
+         familyi={T\bibinitperiod},
+         given={Cole},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kannan},
+         familyi={K\bibinitperiod},
+         given={Sreeram},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{QX+2}
+    \strng{fullhash}{QXRAWLRBMQDTMFJLSLTCKS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.cels.2020.02.003
+    \endverb
+    \field{issn}{24054712}
+    \field{number}{3}
+    \field{pages}{265\bibrangedash 274.e11}
+    \field{title}{Inferring {Causal} {Gene} {Regulatory} {Networks} from
+  {Coupled} {Single}-{Cell} {Expression} {Dynamics} {Using} {Scribe}}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S2405471220300363
+    \endverb
+    \field{volume}{10}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/V
+    \verb 2ZAF2RS/Qiu et al. - 2020 - Inferring Causal Gene Regulatory Networks
+    \verb  from Cou.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Cell Systems}
+    \field{month}{03}
+    \field{year}{2020}
+    \field{urlday}{30}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{rifes_modeling_2020}{article}{}
     \name{author}{13}{}{%
       {{hash=RP}{%
@@ -8977,6 +9623,246 @@
     \field{month}{12}
     \field{year}{2021}
     \field{urlday}{10}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{teschendorff_statistical_2021}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TAE}{%
+         family={Teschendorff},
+         familyi={T\bibinitperiod},
+         given={Andrew\bibnamedelima E.},
+         giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=FAP}{%
+         family={Feinberg},
+         familyi={F\bibinitperiod},
+         given={Andrew\bibnamedelima P.},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{TAEFAP1}
+    \strng{fullhash}{TAEFAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/s41576-021-00341-z
+    \endverb
+    \field{issn}{1471-0056, 1471-0064}
+    \field{number}{7}
+    \field{pages}{459\bibrangedash 476}
+    \field{title}{Statistical mechanics meets single-cell biology}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41576-021-00341-z
+    \endverb
+    \field{volume}{22}
+    \field{journaltitle}{Nature Reviews Genetics}
+    \field{month}{07}
+    \field{year}{2021}
+    \field{urlday}{30}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{bartosovic_multimodal_2022}{report}{}
+    \name{author}{2}{}{%
+      {{hash=BM}{%
+         family={Bartosovic},
+         familyi={B\bibinitperiod},
+         given={Marek},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CBG}{%
+         family={Castelo-Branco},
+         familyi={C\bibinithyphendelim B\bibinitperiod},
+         given={Gonçalo},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BMCBG1}
+    \strng{fullhash}{BMCBG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Abstract Probing epigenomic marks such as histone modifications at a single
+  cell level in thousands of cells has been recently enabled by technologies
+  such as scCUT\&Tag. Here we developed a multimodal and optimized iteration of
+  scCUT\&Tag called nano-CT (for nano-CUT\&Tag) that allows simultaneous
+  probing of three epigenomic modalities at single-cell resolution, using
+  nanobody-Tn5 fusion proteins. nano-CT is compatible with starting materials
+  as low as 25 000 cells and has significantly higher resolution than
+  scCUT\&Tag, with a 16-fold increase in the number of fragments per cells. We
+  used nano-CT to simultaneously profile chromatin accessibility, H3K27ac and
+  H3K27me3 in a complex tissue - juvenile mouse brain. The obtained multimodal
+  dataset allowed for discrimination of more cell types/states that scCUT\&Tag,
+  and inference of chromatin velocity between ATAC and H3K27ac in the
+  oligodendrocyte (OL) lineage. In addition, we used nano-CT to deconvolute
+  H3K27me3 repressive states and infer two sequential waves of H3K27me3
+  repression at distinct gene modules during OL lineage progression. Thus,
+  given its high resolution, versatility, and multimodal features, nano-CT
+  allows unique insights in epigenetic landscapes in different biological
+  systems at single cell level.%
+    }
+    \verb{doi}
+    \verb 10.1101/2022.03.08.483459
+    \endverb
+    \field{title}{Multimodal chromatin profiling using nanobody-based
+  single-cell {CUT}\&{Tag}}
+    \verb{url}
+    \verb http://biorxiv.org/lookup/doi/10.1101/2022.03.08.483459
+    \endverb
+    \list{institution}{1}{%
+      {Molecular Biology}%
+    }
+    \verb{file}
+    \verb Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/s
+    \verb torage/XV4VIR79/Bartosovic and Castelo-Branco - 2022 - Multimodal chr
+    \verb omatin profiling using nanobody-base.pdf:application/pdf
+    \endverb
+    \field{type}{preprint}
+    \field{month}{03}
+    \field{year}{2022}
+    \field{urlday}{29}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{luecken_benchmarking_2022}{article}{}
+    \name{author}{11}{}{%
+      {{hash=LMD}{%
+         family={Luecken},
+         familyi={L\bibinitperiod},
+         given={Malte\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Büttner},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chaichoompu},
+         familyi={C\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Danese},
+         familyi={D\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Interlandi},
+         familyi={I\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MMF}{%
+         family={Mueller},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima F.},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=SDC}{%
+         family={Strobl},
+         familyi={S\bibinitperiod},
+         given={D.\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zappia},
+         familyi={Z\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dugas},
+         familyi={D\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CTM}{%
+         family={Colomé-Tatché},
+         familyi={C\bibinithyphendelim T\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TFJ}{%
+         family={Theis},
+         familyi={T\bibinitperiod},
+         given={Fabian\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{LMD+1}
+    \strng{fullhash}{LMDBMCKDAIMMMFSDCZLDMCTMTFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Abstract Single-cell atlases often include samples that span locations,
+  laboratories and conditions, leading to complex, nested batch effects in
+  data. Thus, joint analysis of atlas datasets requires reliable data
+  integration. To guide integration method choice, we benchmarked 68 method and
+  preprocessing combinations on 85 batches of gene expression, chromatin
+  accessibility and simulation data from 23 publications, altogether
+  representing {\textgreater}1.2 million cells distributed in 13 atlas-level
+  integration tasks. We evaluated methods according to scalability, usability
+  and their ability to remove batch effects while retaining biological
+  variation using 14 evaluation metrics. We show that highly variable gene
+  selection improves the performance of data integration methods, whereas
+  scaling pushes methods to prioritize batch removal over conservation of
+  biological variation. Overall, scANVI, Scanorama, scVI and scGen perform
+  well, particularly on complex integration tasks, while single-cell
+  ATAC-sequencing integration performance is strongly affected by choice of
+  feature space. Our freely available Python module and benchmarking pipeline
+  can identify optimal data integration methods for new data, benchmark new
+  methods and improve method development.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41592-021-01336-8
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{1}
+    \field{pages}{41\bibrangedash 50}
+    \field{title}{Benchmarking atlas-level data integration in single-cell
+  genomics}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41592-021-01336-8
+    \endverb
+    \field{volume}{19}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/G
+    \verb 2LSJWKY/Luecken et al. - 2022 - Benchmarking atlas-level data integra
+    \verb tion in singl.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{01}
+    \field{year}{2022}
+    \field{urlday}{29}
     \field{urlmonth}{07}
     \field{urlyear}{2022}
   \endentry

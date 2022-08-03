@@ -1487,6 +1487,8 @@ INPUT ./chapters/introduction.tex
 INPUT chapters/introduction.tex
 INPUT ./chapters/introduction.tex
 INPUT chapters/introduction.tex
+INPUT ./figures/introduction/Figure_3.png
+INPUT figures/introduction/Figure_3.png
 INPUT pdfs/chapter_2.pdf
 INPUT ./pdfs/chapter_2.pdf
 INPUT ./pdfs/chapter_2.pdf

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  3 AUG 2022 13:22
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  3 AUG 2022 15:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1040,36 +1040,36 @@ Package biblatex Info: ... and expl3
  (/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 ))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 183.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 182.
 \@quotelevel=\count543
 \@quotereset=\count544
  (./thesis_main.aux)
 \openout1 = `thesis_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 183.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 183.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 182.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 182.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
@@ -1118,56 +1118,56 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 183.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 183.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 183.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 183.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 183.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 183.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 183.
-LaTeX Font Info:    Redeclaring math accent \check on input line 183.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 183.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 183.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 183.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 183.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 183.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 182.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 182.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 182.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 182.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 182.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 182.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 182.
+LaTeX Font Info:    Redeclaring math accent \check on input line 182.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 182.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 182.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 182.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 182.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 183.
+(Font)              `operators' in the math version `normal' on input line 182.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/AdobeGaramondPro(0)/m/n on input line 183.
+(Font)                  OT1/cmr/m/n --> TU/AdobeGaramondPro(0)/m/n on input line 182.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 183.
+(Font)              `operators' in the math version `bold' on input line 182.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/AdobeGaramondPro(0)/m/n on input line 183.
+(Font)                  OT1/cmr/bx/n --> TU/AdobeGaramondPro(0)/m/n on input line 182.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/AdobeGaramondPro(0)/m/n --> TU/AdobeGaramondPro(0)/m/n on input line 183.
+(Font)                  TU/AdobeGaramondPro(0)/m/n --> TU/AdobeGaramondPro(0)/m/n on input line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/AdobeGaramondPro(0)/m/it on input line 183.
+(Font)                  OT1/cmr/m/it --> TU/AdobeGaramondPro(0)/m/it on input line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/AdobeGaramondPro(0)/b/n on input line 183.
+(Font)                  OT1/cmr/bx/n --> TU/AdobeGaramondPro(0)/b/n on input line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Futura(0)/m/n on input line 183.
+(Font)                  OT1/cmss/m/n --> TU/Futura(0)/m/n on input line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 183.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 182.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/AdobeGaramondPro(0)/m/n --> TU/AdobeGaramondPro(0)/b/n on input line 183.
+(Font)                  TU/AdobeGaramondPro(0)/m/n --> TU/AdobeGaramondPro(0)/b/n on input line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/AdobeGaramondPro(0)/b/it on input line 183.
+(Font)                  OT1/cmr/bx/it --> TU/AdobeGaramondPro(0)/b/it on input line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Futura(0)/b/n on input line 183.
+(Font)                  OT1/cmss/bx/n --> TU/Futura(0)/b/n on input line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 183.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 182.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -1177,7 +1177,7 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 183.
+Package hyperref Info: Link coloring OFF on input line 182.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1187,20 +1187,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count545
 )
-LaTeX Info: Redefining \ref on input line 183.
-LaTeX Info: Redefining \pageref on input line 183.
-LaTeX Info: Redefining \nameref on input line 183.
+LaTeX Info: Redefining \ref on input line 182.
+LaTeX Info: Redefining \pageref on input line 182.
+LaTeX Info: Redefining \nameref on input line 182.
  (./thesis_main.out) (./thesis_main.out)
 \@outlinefile=\write8
 \openout8 = `thesis_main.out'.
 
 
-Package chemgreek Info: Activating mapping `fontspec' on line 183.
+Package chemgreek Info: Activating mapping `fontspec' on line 182.
 
  (/usr/local/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 183.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 182.
 \c@lstlisting=\count546
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1229,8 +1229,8 @@ Invalid UTF-8 byte or sequence at line 10078 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 10138 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 10139 replaced by U+FFFD.
 )
-Package biblatex Info: Reference section=0 on input line 183.
-Package biblatex Info: Reference segment=0 on input line 183.
+Package biblatex Info: Reference section=0 on input line 182.
+Package biblatex Info: Reference segment=0 on input line 182.
  (./chapters/title.tex [1
 
 ]) (./chapters/abstract.tex) [1
@@ -1283,7 +1283,12 @@ File: figures/introduction/Figure_3.png Graphic file (type bmp)
  [8] [9] [10]
 Underfull \vbox (badness 6625) has occurred while \output is active []
 
- [11] [12] [13] [14]
+ [11] [12]
+Overfull \hbox (16.04065pt too wide) in paragraph at lines 162--163
+[]\TU/AdobeGaramondPro(0)/m/n/12 Organoids are particularly well suited for performing perturbation screens in high-throughput
+ []
+
+[13] [14]
 
 Package biblatex Warning: The refcontext option
 (biblatex)                'sorting'
@@ -1406,11 +1411,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
 [31]
-
-LaTeX Warning: Text page 32 contains only floats.
-
-
-Underfull \vbox (badness 5578) has occurred while \output is active []
+Underfull \vbox (badness 2591) has occurred while \output is active []
 
 
 
@@ -1423,9 +1424,6 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 [32]
 File: figures/voxhunt/Figure_4.png Graphic file (type bmp)
 <figures/voxhunt/Figure_4.png>
-
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -1446,9 +1444,6 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
 [34]
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1460,6 +1455,9 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 File: figures/voxhunt/Figure_5.png Graphic file (type bmp)
 <figures/voxhunt/Figure_5.png>
 
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1468,9 +1466,6 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
 [36]
-File: figures/voxhunt/Figure_6.png Graphic file (type bmp)
-<figures/voxhunt/Figure_6.png>
-
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1479,9 +1474,11 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
 [37]
-Overfull \hbox (6.74574pt too wide) in paragraph at lines 171--173
- []\TU/Futura(0)/m/n/12 Assessing organoid patterning using multiplexed transcriptomics and reference map-
- []
+File: figures/voxhunt/Figure_6.png Graphic file (type bmp)
+<figures/voxhunt/Figure_6.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -1491,6 +1488,22 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
 [38]
+Overfull \hbox (6.74574pt too wide) in paragraph at lines 173--175
+ []\TU/Futura(0)/m/n/12 Assessing organoid patterning using multiplexed transcriptomics and reference map-
+ []
+
+
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[39]
 File: figures/voxhunt/Figure_7.png Graphic file (type bmp)
 <figures/voxhunt/Figure_7.png>
 
@@ -1504,7 +1517,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[39]
+[40]
 Underfull \vbox (badness 1152) has occurred while \output is active []
 
 
@@ -1515,8 +1528,8 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[40]
-Overfull \hbox (15.54767pt too wide) in paragraph at lines 208--210
+[41]
+Overfull \hbox (15.54767pt too wide) in paragraph at lines 210--212
 \TU/AdobeGaramondPro(0)/m/n/12 NKX2.1GFP/w hESCs (passage 69) were trypsinized using TrypLETM Express Enzyme (Thermo
  []
 
@@ -1527,7 +1540,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[41]
+[42]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1535,13 +1548,13 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[42]
-Overfull \hbox (4.19951pt too wide) in paragraph at lines 224--225
+[43]
+Overfull \hbox (4.19951pt too wide) in paragraph at lines 226--227
  []\TU/Futura(0)/m/n/12 Sequencing of SS2 libraries[] \TU/AdobeGaramondPro(0)/m/n/12 The pooled libraries were appropriately diluted and sequenced
  []
 
 
-Overfull \hbox (13.64365pt too wide) in paragraph at lines 227--228
+Overfull \hbox (13.64365pt too wide) in paragraph at lines 229--230
 \TU/AdobeGaramondPro(0)/m/n/12 (ABA) Developing Mouse Brain Data Portal (http://help.brain-map.org/display/devmouse/API).
  []
 
@@ -1552,7 +1565,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[43]
+[44]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1560,8 +1573,8 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[44]
-Overfull \hbox (3.78062pt too wide) in paragraph at lines 236--237
+[45]
+Overfull \hbox (3.78062pt too wide) in paragraph at lines 238--239
 \TU/AdobeGaramondPro(0)/m/n/12 human brain was obtained from BrainSpan ([]http://www.brainspan.org/static/download.html[]).
  []
 
@@ -1572,8 +1585,8 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[45]
-Overfull \hbox (0.70934pt too wide) in paragraph at lines 245--246
+[46]
+Overfull \hbox (0.70934pt too wide) in paragraph at lines 247--248
  []\TU/Futura(0)/m/n/12 Correlation of single-cell transcriptomes to brain structures[] \TU/AdobeGaramondPro(0)/m/n/12 To determine best match-
  []
 
@@ -1588,18 +1601,10 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[46]
+[47]
 Underfull \vbox (badness 4819) has occurred while \output is active []
 
 
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 26.80603pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.80603pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
-
-[47]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1625,47 +1630,165 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 [50]
 
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[51]
+File: figures/voxhunt/Supp_1.png Graphic file (type bmp)
+<figures/voxhunt/Supp_1.png>
+File: figures/voxhunt/Supp_2.png Graphic file (type bmp)
+<figures/voxhunt/Supp_2.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figures/voxhunt/Supp_3.png Graphic file (type bmp)
+<figures/voxhunt/Supp_3.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figures/voxhunt/Supp_4.png Graphic file (type bmp)
+<figures/voxhunt/Supp_4.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figures/voxhunt/Supp_5.png Graphic file (type bmp)
+<figures/voxhunt/Supp_5.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figures/voxhunt/Supp_6.png Graphic file (type bmp)
+<figures/voxhunt/Supp_6.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figures/voxhunt/Supp_6.png Graphic file (type bmp)
+<figures/voxhunt/Supp_6.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[52]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[53]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[54]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[55]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[56]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[57]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[58]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[59]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[60]
+
 Package biblatex Warning: The refcontext option
 (biblatex)                'sorting'
 (biblatex)                is not supported by the BibTeX backend.
 (biblatex)                Consider switching to Biber instead.
-(biblatex)                The option will be ignored on input line 285.
+(biblatex)                The option will be ignored on input line 352.
 
 
-Overfull \hbox (0.96939pt too wide) in paragraph at lines 285--285
+Overfull \hbox (0.96939pt too wide) in paragraph at lines 352--352
 \TU/AdobeGaramondPro(0)/m/n/12 dimensional culture”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 472.7341, pp. 51–56. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
 
-Overfull \hbox (0.48843pt too wide) in paragraph at lines 285--285
+Overfull \hbox (0.48843pt too wide) in paragraph at lines 352--352
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
-[51]
+[61
+
+]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[52]
-Overfull \hbox (3.01353pt too wide) in paragraph at lines 285--285
+[62]
+Overfull \hbox (3.01353pt too wide) in paragraph at lines 352--352
 \TU/AdobeGaramondPro(0)/m/n/12 tent stem cells in 3D culture”. eng. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature methods \TU/AdobeGaramondPro(0)/m/n/12 12.7. Edition: 2015/05/25, pp. 671–
  []
 
-[53] [54] [55] [56]
-Overfull \hbox (6.80363pt too wide) in paragraph at lines 285--285
+[63] [64] [65] [66]
+Overfull \hbox (6.80363pt too wide) in paragraph at lines 352--352
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
 
 
-Overfull \hbox (10.02539pt too wide) in paragraph at lines 285--285
+Overfull \hbox (10.02539pt too wide) in paragraph at lines 352--352
 \TU/AdobeGaramondPro(0)/m/n/12 analysis: a tutorial”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Molecular Systems Biology \TU/AdobeGaramondPro(0)/m/n/12 15.6. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][][] [] [][][] [] [][][][][][][][]$[]. 
  []
 
-[57]
-Overfull \hbox (0.89857pt too wide) in paragraph at lines 285--285
+
+Overfull \hbox (0.89857pt too wide) in paragraph at lines 352--352
 \TU/AdobeGaramondPro(0)/m/n/12 tions When Fused with Cortical Organoids”. In: \TU/AdobeGaramondPro(0)/m/it/12 Cell Stem Cell \TU/AdobeGaramondPro(0)/m/n/12 24.3. Edition: 2019/02/26,
  []
 
-[58]
+[67] [68]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[59]) [60
+[69]) [70
 
 
 ]
@@ -1683,7 +1806,7 @@ File: pdfs/chapter_3.pdf Graphic file (type pdf)
 <use pdfs/chapter_3.pdf, page 1>
 File: pdfs/chapter_3.pdf Graphic file (type pdf)
 <use pdfs/chapter_3.pdf, page 1>
- [61] (./chapters/pando.tex
+ [71] (./chapters/pando.tex
 Overfull \hbox (4.37056pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Inferring and perturbing cell fate reg-
  []
@@ -1693,22 +1816,22 @@ Overfull \hbox (7.48082pt too wide) in paragraph at lines 15--27
 \TU/AdobeGaramondPro(0)/m/n/12 Jonas Simon Fleck$[]$, Sophie Martina Johanna Jansen$[]$, Damian Wollny$[]$, Fides Zenk$[]$, Makiko
  []
 
-[62] [63]
+[72] [73]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]
+ [74]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65]
+ [75]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66]
+ [76]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [67]
+ [77]
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [68]
+ [78]
 Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
@@ -1716,29 +1839,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [69]
+ [79]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70]
+ [80]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [71] [72]
+ [81] [82]
 Overfull \hbox (3.29735pt too wide) in paragraph at lines 113--114
 \TU/AdobeGaramondPro(0)/m/n/12 LGE/CGE neurons. The integration of the single-cell multiome data from GLI3 KO organoids
  []
 
-[73] [74]
+[83] [84]
 Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [75]
+ [85]
 Missing character: There is no ℃ (U+2103) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 
 Underfull \vbox (badness 6348) has occurred while \output is active []
 
- [76]
+ [86]
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
@@ -1749,12 +1872,12 @@ Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77]
+ [87]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [78]
+ [88]
 Missing character: There is no μ (U+03BC) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[79]
+[89]
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
@@ -1785,7 +1908,7 @@ Overfull \hbox (32.36064pt too wide) in paragraph at lines 169--170
 \TU/AdobeGaramondPro(0)/m/n/12 The following guide pair was selected: ACAGAGGGCTCCGCCACGTGTGG, CCGCGGGACG-
  []
 
-[80]
+[90]
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
@@ -1824,7 +1947,7 @@ Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [81]
+ [91]
 Missing character: There is no ℃ (U+2103) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 
 Overfull \hbox (2.63402pt too wide) in paragraph at lines 178--179
@@ -1834,17 +1957,17 @@ Overfull \hbox (2.63402pt too wide) in paragraph at lines 178--179
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[82] [83] [84]
+[92] [93] [94]
 Overfull \hbox (5.62463pt too wide) in paragraph at lines 230--231
 \TU/AdobeGaramondPro(0)/m/n/12 time point (day 4) and velocity pseudotime was computed with scvelo.tl.velocity_pseudotime().
  []
 
-[85] [86] [87] [88]
+[95] [96] [97] [98]
 Overfull \hbox (11.54465pt too wide) in paragraph at lines 268--269
 \TU/AdobeGaramondPro(0)/m/n/12 stream of the transcription start site (TSS). We then define a linear model on the (log-normalized)
  []
 
-[89] [90]
+[99] [100]
 Overfull \hbox (9.68666pt too wide) in paragraph at lines 297--298
 \TU/AdobeGaramondPro(0)/m/n/12 an input for UMAP as implemented in the uwot R package (https://github.com/jlmelville/uwot)
  []
@@ -1857,20 +1980,20 @@ Overfull \hbox (2.24034pt too wide) in paragraph at lines 300--301
 
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [91]
+ [101]
 Overfull \hbox (1.32349pt too wide) in paragraph at lines 313--314
  []\TU/Futura(0)/m/n/12 Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing
  []
 
-[92] [93] [94] [95]
+[102] [103] [104] [105]
 Overfull \hbox (7.85963pt too wide) in paragraph at lines 388--389
 \TU/AdobeGaramondPro(0)/m/n/12 the lmtest R package (version 0.9) (https://cran.r-project.org/web/packages/lmtest/index.html).
  []
 
-[96]
+[106]
 Underfull \vbox (badness 1067) has occurred while \output is active []
 
- [97]) [98] [99
+ [107]) [108] [109
 
 ]
 File: pdfs/chapter_4.pdf Graphic file (type pdf)
@@ -1887,7 +2010,7 @@ File: pdfs/chapter_4.pdf Graphic file (type pdf)
 <use pdfs/chapter_4.pdf, page 1>
 File: pdfs/chapter_4.pdf Graphic file (type pdf)
 <use pdfs/chapter_4.pdf, page 1>
- [100] (./chapters/asd.tex
+ [110] (./chapters/asd.tex
 Overfull \hbox (41.50056pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Single-cell CRISPR screening in organoids
  []
@@ -1895,7 +2018,7 @@ Overfull \hbox (41.50056pt too wide) in paragraph at lines 2--2
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101] [102] [103
+ [111] [112] [113
 
 ]
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
@@ -1912,25 +2035,25 @@ File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf, page 1>
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf, page 1>
- [104] (./chapters/cnt.tex
+ [114] (./chapters/cnt.tex
 Overfull \hbox (21.11043pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Single cell epigenomic landscape of hu-
  []
 
-) [105] (./thesis_main.aux)
+) [115] (./thesis_main.aux)
 Package rerunfilecheck Info: File `thesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: 05C5D4E16577731079664A274264E0E0;6634.
+(rerunfilecheck)             Checksum: B5B1D24CBD5D0CFAEB0CE40B2B0F2BCD;6748.
 Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 \openout1 = `thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39096 strings out of 476179
- 778439 string characters out of 5809545
- 1726520 words of memory out of 5000000
- 59285 multiletter control sequences out of 15000+600000
- 478268 words of font info for 96 fonts, out of 8000000 for 9000
+ 39173 strings out of 476179
+ 780536 string characters out of 5809545
+ 1737625 words of memory out of 5000000
+ 59357 multiletter control sequences out of 15000+600000
+ 478260 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,17n,106p,3462b,5514s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (112 pages, 2680104 bytes).
+Output written on thesis_main.xdv (122 pages, 2838188 bytes).

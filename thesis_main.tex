@@ -79,6 +79,7 @@
 \usepackage{float}
 \usepackage{ccaption}
 \usepackage{caption}
+% \usepackage{fltpage} % Allows captions on next page
 % Path for all graphics
 \graphicspath{ {figures/} }
 % Recognizes .pdf and .png automatically
@@ -168,8 +169,6 @@
 %%% SUPPLEMENT %%%
 % Define command to start Supplement
 \newcommand{\beginsupplement}{
-    % Add to Table of Contents
-    \addcontentsline{toc}{section}{Supplementary Information}
     % Set conter of tables and figures to 0
     \setcounter{table}{0}
     \renewcommand{\thetable}{S\arabic{table}}

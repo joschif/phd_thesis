@@ -2815,6 +2815,51 @@
     \field{year}{2015}
   \endentry
 
+  \entry{allis_molecular_2016}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ACD}{%
+         family={Allis},
+         familyi={A\bibinitperiod},
+         given={C.\bibnamedelima David},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=JT}{%
+         family={Jenuwein},
+         familyi={J\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{ACDJT1}
+    \strng{fullhash}{ACDJT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nrg.2016.59
+    \endverb
+    \field{issn}{1471-0056, 1471-0064}
+    \field{number}{8}
+    \field{pages}{487\bibrangedash 500}
+    \field{title}{The molecular hallmarks of epigenetic control}
+    \verb{url}
+    \verb http://www.nature.com/articles/nrg.2016.59
+    \endverb
+    \field{volume}{17}
+    \field{journaltitle}{Nature Reviews Genetics}
+    \field{month}{08}
+    \field{year}{2016}
+    \field{urlday}{03}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{dang_zika_2016}{article}{}
     \name{author}{7}{}{%
       {{hash=DJ}{%

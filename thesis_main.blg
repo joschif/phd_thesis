@@ -17,51 +17,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 18860 items from 5000.
+Reallocated field_info (elt_size=4) to 19000 items from 5000.
 Database file #1: thesis_main-blx.bib
 Database file #2: bib/thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Biblatex version: 3.17
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 99 entries,
+You've used 100 entries,
             6399 wiz_defined-function locations,
-            2057 strings with 92916 characters,
-and the built_in function-call counts, 2670574 in all, are:
-= -- 246810
-> -- 36089
-< -- 5258
-+ -- 102979
-- -- 23918
-* -- 207072
-:= -- 359272
+            2065 strings with 93098 characters,
+and the built_in function-call counts, 2679894 in all, are:
+= -- 247407
+> -- 36483
+< -- 5312
++ -- 103408
+- -- 24200
+* -- 207741
+:= -- 360373
 add.period$ -- 0
-call.type$ -- 99
-change.case$ -- 1317
-chr.to.int$ -- 2388
-cite$ -- 196
-duplicate$ -- 258558
-empty$ -- 208805
-format.name$ -- 16352
-if$ -- 498623
+call.type$ -- 100
+change.case$ -- 1331
+chr.to.int$ -- 2422
+cite$ -- 198
+duplicate$ -- 259410
+empty$ -- 209575
+format.name$ -- 16420
+if$ -- 500328
 int.to.chr$ -- 0
-int.to.str$ -- 277
+int.to.str$ -- 280
 missing$ -- 0
-newline$ -- 9617
-num.names$ -- 4430
-pop$ -- 50823
+newline$ -- 9662
+num.names$ -- 4476
+pop$ -- 51163
 preamble$ -- 1
-purify$ -- 3525
+purify$ -- 3545
 quote$ -- 0
-skip$ -- 24468
+skip$ -- 24682
 stack$ -- 0
-substring$ -- 515954
-swap$ -- 34084
-text.length$ -- 4998
-text.prefix$ -- 99
+substring$ -- 517165
+swap$ -- 34317
+text.length$ -- 5038
+text.prefix$ -- 100
 top$ -- 1
-type$ -- 3344
+type$ -- 3378
 warning$ -- 0
-while$ -- 41698
+while$ -- 41815
 width$ -- 0
-write$ -- 9519
+write$ -- 9563

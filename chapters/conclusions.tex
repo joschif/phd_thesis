@@ -1,0 +1,49 @@
+\thispagestyle{plain}
+\section{Conclusions \& Outlook}
+\markboth{Conclusions \& Outlook}{}
+
+In the beginning of this thesis, I argued that the convergence of key technological advances allow us to shed a new light on the gene regulatory mechanisms underlying human brain regionalization:
+
+\begin{enumerate}
+    \item Brain organoids, which model human brain development in controlled culture environments 
+    \item Single-cell genomic profiling techniques, which allow phenotyping biological systems at unprecedented throughput and resolution
+    \item Pairing of genetic and chemical manipulation in organoids with rich multi-omic readouts, which presents an ideal setting for resolving gene regulatory relationships.
+\end{enumerate}
+
+Throughout the remainder of this work, we presented new methods and approaches to harness these technologies and reveal regulatory features of brain development. In this chapter, I will summarize how the results of individual chapters fit together and position this work in the broader research context. Finally, I will provide an outlook discussing the limitations of this work and how it could shape the directions of future research.
+
+\subsection{Conclusions}
+
+In Chapter 2, I presented VoxHunt, a computational toolkit to explore and assess organoid regional identities. This addresses a major challenge in the field, as organoid heterogeneity can vary widely between stem cell lines or separate batches. Reliable ways to annotate organoid cell states are therefore crucial to develop new and more robust organoid protocols, and to characterize effects of perturbation experiments. VoxHunt addresses this by facilitating systematic comparisons to large, well-annotated reference datasets of the human and the mouse brain. The computational toolkit was implemented with the goal in mind to make it quick and flexible to use for researchers even with little computational experience. Next to enabling annotation of scRNA-seq datasets, it can estimate organoid region composition through reference-based deconvolution of bulk transcriptomic measurements. This makes VoxHunt a powerful tool to find culture conditions that stir organoid development towards distinct regional identities. We also demonstrate this in the paper by performing a proof-of-principal patterning screen on developing organoids. VoxHunt is now routinely used in our lab (e.g. \cite{kanton_organoid_2019,he_lineage_2022}) and in all subsequent chapters in this thesis. It has also already been successfully used in other studies to annotate mouse cell populations (\cite{la_manno_molecular_2020}) and to validate a novel organoid protocol (\cite{miura_generation_2020}).
+
+Since the publication, we have further extended VoxHunt with new functionalities and we hope that it will be a useful contribution for propelling organoid and stem cell engineering.
+
+Having developed a method to reliably characterize the endpoints of regional diversification, we next wanted to identify the time window during organoid development where regional identities bifurcate. To this end, we recorded a single-cell multi-omic timecourse over early brain organoid development, which I presented in Chapter 3. This revealed that regionalization in organoids - not unlike in the human brain - happens hierarchically. First, an anterior-posterior axis is set up and forebrain progenitors are established, which later diversify into dorsal and ventral identities. During the time window of forebrain establishment, we also identified and characterized organoid cell populations that were transcriptomically similar to organizers in the mouse brain. Organizer-like populations in organoids were observed previously (\cite{renner_self-organized_2017}), and our work now provides a comprehensive transcriptomic and epigenomic characterization of these populations and shows that they reproducibly arise across stem cell lines. It will be interesting to further explore the functional relevance of these populations. 
+
+Well-integrated scRNA-seq and scATAC-seq data over the entire organoid development from pluripotency is also a rich resource to infer the underlying gene regulatory networks. We found that existing approaches for GRN inference that were designed for scRNA-seq data could not take advantage of multimodal datasets, which motivated the development of Pando. Pando builds upon previous approaches for GRN inference (\cite{aibar_scenic_2017}) to leverage the multimodal nature of modern single-cell datasets. By explicitly modeling the interactions of TF expression and binding site accessibility, we can exploit covariance relationships between both modalities that were previously unused. Furthermore, it allowed us to individualize the GRN to create cell type-specific networks based on accessibility constraints. Pando proved useful for revealing gene regulatory relationships in brain organoids as presented in Chapter 3 and 4 and was since also applied in other studies to investigate retina organoid development (\cite{wahle_multimodal_2022}) as well as axolotl forebrain development (\cite{lust_single-cell_2022}).
+
+Since its inception, Pando has been continuously extended with new functionality and an improved API. Due to the flexible framework it builds on, it can make use of many types of measurements and prior knowledge to enhance GRN inference. For instance, chromatin conformation data or histone modifications as measured by scCut\&Tag were so far not utilized for GRN inference but could add valuable information. Given the ever-expanding repertoire of single-cell profiling methods, this flexibility is important to continue improving the quality of inferred GRNs.
+
+% Possibly expand on limitations of GRN inference -> outlook
+
+Next to providing a comprehensive characterization of gene regulatory events during early organoid development, we sought to probe the functional role of TFs and other transcriptional regulators in this process. To this end, I presented two separate pooled genetic perturbation screens with single-cell transcriptomics readout (\cite{datlinger_pooled_2017}) in this thesis. The first, presented in Chapter 3, assessed requirement of 20 cortical TFs for regional diversification. In the second, presented in Chapter 4, we screened 36 high-risk ASD genes to examine their roles in cell type establishment. Interestingly, in both screens the predominant effect of many perturbations (with some exceptions) was an enrichment in ventral telencephalon identities and a - sometimes complete - depletion of cortical neuron populations. This might well be a byproduct of the target selection, as cortically expressed TFs are more likely involved in cortex formation and excitatory/inhibitory neuron imbalance has been described previously for ASD mouse models (\cite{sudhof_neuroligins_2008,nelson_excitatoryinhibitory_2015}). Nevertheless, this observation may be interesting to consider in future studies.
+
+The TF perturbation screen presented in Chapter 3 suggested GLI3 as an important regulator of forebrain dorsalization. We followed this up using GLI3-KO stem cell lines to validate GLI3's requirement for cortex establishment and to better understand the underlying regulatory mechanisms. We found that the transcriptomic changes induced by GLI3 loss-of-function were largely consistent with the inferred GLI3 targets in the GRN. Motivated by this, we used the observed DE results to further refine the GRN graph and propose a multiphasic regulatory model for human telencephalon development. While this model was entirely derived from our data gathered in organoids, it was consistent with previous studies in mice and additionally proposed novel downstream factors. This demonstrates that organoids recapitulate gene regulatory programs observed in primary tissues and that they can be predictive model systems.
+
+In Chapter 4, we screened ASD risk-genes using a similar paradigm and also used an inferred GRN to better interpret the observed perturbation effects. However, instead of zooming in on one specific regulator, we first assessed broadly whether different ASD risk genes and their perturbation effects converged in certain regulatory subnetworks. Consistent with our expectations, we observed that perturbations effects accumulated in the GRN subgraphs around ASD risk TFs but additionally found some non-ASD TF modules that were highly enriched for both ASD risk genes and perturbation effects. Finally, we further followed up on ARID1B, a member of the BAF complex. Our screen results suggested that it is involved in ventral telencephalon development, specifically the transition of ventral progenitors to oligodendrocyte precursors. This was further supported by evidence from patient-derived organoids and MRI imaging. 
+
+Taken together, the two studies presented in Chapter 3 and 4 pioneer the application of single-cell genomics and perturbation screens in organoids to systematically resolve the gene regulatory circuits at the basis of human brain development. 
+
+In Chapter 5, we sought to complement the study presented in Chapter 3 by exploring the epigenomic landscape of brain organoid development beyond chromatin accessibility. To reconstruct the epigenetic trajectories governing regionalization events, we profiled histone modifications using scCut\&Tag at various stages of brain organoid development. This allowed us to characterize the epigenetic switches at lineage bifurcations that precede and predict expression of cell type-specific genes. 
+
+
+
+\subsection{Outlook}
+
+% * Organoid phenotyping -> orgnoid atlas, multimodal phenotyping
+% * GRN inference -> benchmarking, opportunities to improve, perturbations
+% * Perturbations -> perturbing organoids in high throughput to resolve biological circuits
+% * Rant about CROP-seq
+% * Organoids as 'cell type generators' to obtain diverse perturbations 
+% * ---->> towards predictive biology
+

@@ -136,7 +136,7 @@
     bibstyle=authoryear,
     % Sort Citations by year
     sortcites=true,
-    sorting=ynt,
+    sorting=nyt,
     % Max 10 names in bibliography
     maxbibnames=10,
     % Max 2 name in citation
@@ -155,9 +155,7 @@
 % Define command to start bibliography
 \newcommand{\beginbibliography}{
     % Add to Table of Contents
-    \addcontentsline{toc}{subsection}{References}
-    % Sorting by Name
-    \newrefcontext[sorting=nyt]
+    \addcontentsline{toc}{section}{Bibliography}
     \printbibliography
     \clearpage
 }
@@ -239,9 +237,18 @@
 \includepdf[fitpaper=true, pages=-]{pdfs/chapter_5.pdf}
 
 \input{chapters/cnt.tex}
-
 \clearpage
-\beginsupplement
+
+% \newpage
+% \thispagestyle{empty}
+% \
+% \newpage
+\includepdf[fitpaper=true, pages=-]{pdfs/chapter_6.pdf}
+
+\input{chapters/conclusions.tex}
+\clearpage
+
+\beginbibliography
 
 \end{document}         
 

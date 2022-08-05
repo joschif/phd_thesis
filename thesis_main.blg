@@ -17,51 +17,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 19000 items from 5000.
+Reallocated field_info (elt_size=4) to 19840 items from 5000.
 Database file #1: thesis_main-blx.bib
 Database file #2: bib/thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Biblatex version: 3.17
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 100 entries,
+You've used 106 entries,
             6399 wiz_defined-function locations,
-            2065 strings with 93098 characters,
-and the built_in function-call counts, 2679894 in all, are:
-= -- 247407
-> -- 36483
-< -- 5312
-+ -- 103408
-- -- 24200
-* -- 207741
-:= -- 360373
+            2114 strings with 101653 characters,
+and the built_in function-call counts, 2817052 in all, are:
+= -- 260436
+> -- 38807
+< -- 5061
++ -- 109674
+- -- 26025
+* -- 217916
+:= -- 379410
 add.period$ -- 0
-call.type$ -- 100
-change.case$ -- 1331
-chr.to.int$ -- 2422
-cite$ -- 198
-duplicate$ -- 259410
-empty$ -- 209575
-format.name$ -- 16420
-if$ -- 500328
+call.type$ -- 106
+change.case$ -- 1472
+chr.to.int$ -- 2204
+cite$ -- 210
+duplicate$ -- 273524
+empty$ -- 219823
+format.name$ -- 17308
+if$ -- 525164
 int.to.chr$ -- 0
-int.to.str$ -- 280
+int.to.str$ -- 302
 missing$ -- 0
-newline$ -- 9662
-num.names$ -- 4476
-pop$ -- 51163
+newline$ -- 10241
+num.names$ -- 4821
+pop$ -- 54005
 preamble$ -- 1
-purify$ -- 3545
+purify$ -- 3702
 quote$ -- 0
-skip$ -- 24682
+skip$ -- 25883
 stack$ -- 0
-substring$ -- 517165
-swap$ -- 34317
-text.length$ -- 5038
-text.prefix$ -- 100
+substring$ -- 541904
+swap$ -- 35887
+text.length$ -- 5321
+text.prefix$ -- 106
 top$ -- 1
-type$ -- 3378
+type$ -- 3567
 warning$ -- 0
-while$ -- 41815
+while$ -- 44035
 width$ -- 0
-write$ -- 9563
+write$ -- 10136

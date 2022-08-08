@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  5 AUG 2022 16:24
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  8 AUG 2022 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1273,7 +1273,7 @@ Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script
 [1] [2
 
 ] [3]
-Underfull \vbox (badness 6348) has occurred while \output is active []
+Underfull \vbox (badness 2671) has occurred while \output is active []
 
  [4] [5] [6
 
@@ -1284,7 +1284,7 @@ File: figures/introduction/Figure_3.png Graphic file (type bmp)
 Underfull \vbox (badness 6625) has occurred while \output is active []
 
  [11] [12]
-Overfull \hbox (16.04065pt too wide) in paragraph at lines 162--163
+Overfull \hbox (16.04065pt too wide) in paragraph at lines 166--167
 []\TU/AdobeGaramondPro(0)/m/n/12 Organoids are particularly well suited for performing perturbation screens in high-throughput
  []
 
@@ -2017,12 +2017,12 @@ Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39139 strings out of 476179
- 781475 string characters out of 5809545
- 1738153 words of memory out of 5000000
- 59318 multiletter control sequences out of 15000+600000
+ 39137 strings out of 476179
+ 781451 string characters out of 5809545
+ 1738145 words of memory out of 5000000
+ 59316 multiletter control sequences out of 15000+600000
  478260 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,17n,106p,3462b,5508s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (119 pages, 2695620 bytes).
+Output written on thesis_main.xdv (119 pages, 2693272 bytes).

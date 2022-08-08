@@ -1156,6 +1156,63 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{camp_single-cell_2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CJG}{%
+         family={Camp},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima Gray},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wollny},
+         familyi={W\bibinitperiod},
+         given={Damian},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={Treutlein},
+         familyi={T\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CJG+2}
+    \strng{fullhash}{CJGWDTB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1038/s41592-018-0113-0
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{9}
+    \field{pages}{661\bibrangedash 667}
+    \field{title}{Single-cell genomics to guide human stem cell and tissue
+  engineering}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41592-018-0113-0
+    \endverb
+    \field{volume}{15}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/TUVE6VRP/Camp et al. - 2018 - Single-cell genomics to guide hum
+    \verb an stem cell and .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{09}
+    \field{year}{2018}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{cao_comprehensive_2017}{article}{}
     \name{author}{14}{}{%
       {{hash=CJ}{%

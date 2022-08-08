@@ -136,4 +136,5 @@
 \contentsline {section}{\numberline {6}Conclusions \& Outlook}{99}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Conclusions}{99}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Outlook}{102}{subsection.6.2}%
-\contentsline {section}{Bibliography}{103}{subsection.6.2}%
+\contentsline {paragraph}{Organoid phenotyping}{102}{section*.117}%
+\contentsline {section}{Bibliography}{103}{section*.117}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  8 AUG 2022 10:28
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  8 AUG 2022 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1220,14 +1220,14 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_main.bbl' found.
  (./thesis_main.bbl
-Invalid UTF-8 byte or sequence at line 4549 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 6413 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 6417 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 6448 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9663 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9667 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9727 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9728 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4606 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6470 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6474 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6505 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9720 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9724 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9784 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9785 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 180.
 Package biblatex Info: Reference segment=0 on input line 180.
@@ -1974,19 +1974,24 @@ Underfull \vbox (badness 2671) has occurred while \output is active []
  [100]
 Underfull \vbox (badness 6348) has occurred while \output is active []
 
- [101]) [102] [103
+ [101]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
-]
+ []
+
+) [102] [103
+
+] [104]
 Overfull \hbox (0.96939pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/n/12 dimensional culture”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 472.7341, pp. 51–56. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
-[104]
+[105]
 Overfull \hbox (0.48843pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
-[105]
+
 Overfull \hbox (6.80363pt too wide) in paragraph at lines 251--251
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
@@ -2001,8 +2006,9 @@ Overfull \hbox (3.01353pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/n/12 tent stem cells in 3D culture”. eng. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature methods \TU/AdobeGaramondPro(0)/m/n/12 12.7. Edition: 2015/05/25, pp. 671–
  []
 
+[108]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[108] [109] [110]
+[109] [110]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 
 Overfull \hbox (0.89857pt too wide) in paragraph at lines 251--251
@@ -2011,18 +2017,18 @@ Overfull \hbox (0.89857pt too wide) in paragraph at lines 251--251
 
 [111] [112] (./thesis_main.aux)
 Package rerunfilecheck Info: File `thesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: 5A78BC3B0D8CF8F0694AAEC3FCF779E9;7002.
+(rerunfilecheck)             Checksum: 2B61243746A1448957248E8D6F4CEFC9;7000.
 Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 \openout1 = `thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39137 strings out of 476179
- 781451 string characters out of 5809545
- 1738145 words of memory out of 5000000
- 59316 multiletter control sequences out of 15000+600000
+ 39143 strings out of 476179
+ 781682 string characters out of 5809545
+ 1738228 words of memory out of 5000000
+ 59322 multiletter control sequences out of 15000+600000
  478260 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,106p,3462b,5508s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,106p,3462b,5504s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (119 pages, 2693272 bytes).
+Output written on thesis_main.xdv (119 pages, 2706124 bytes).

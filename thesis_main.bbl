@@ -3142,6 +3142,113 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{jaitin_dissecting_2016}{article}{}
+    \name{author}{10}{}{%
+      {{hash=JDA}{%
+         family={Jaitin},
+         familyi={J\bibinitperiod},
+         given={Diego\bibnamedelima Adhemar},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Weiner},
+         familyi={W\bibinitperiod},
+         given={Assaf},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=YI}{%
+         family={Yofe},
+         familyi={Y\bibinitperiod},
+         given={Ido},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=LAD}{%
+         family={Lara-Astiaso},
+         familyi={L\bibinithyphendelim A\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KSH}{%
+         family={Keren-Shaul},
+         familyi={K\bibinithyphendelim S\bibinitperiod},
+         given={Hadas},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={David},
+         familyi={D\bibinitperiod},
+         given={Eyal},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=STM}{%
+         family={Salame},
+         familyi={S\bibinitperiod},
+         given={Tomer\bibnamedelima Meir},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Tanay},
+         familyi={T\bibinitperiod},
+         given={Amos},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=vOA}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Oudenaarden},
+         familyi={O\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Amit},
+         familyi={A\bibinitperiod},
+         given={Ido},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{single-cell RNA-seq, transcriptomics, RNA-seq, CRISPR/Cas9, genetic
+  screen, functional genomics, gene networks, immune response, innate immunity}
+    \strng{namehash}{JDA+2}
+    \strng{fullhash}{JDAWAYILADKSHDESTMTAOAvAI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    In multicellular organisms, dedicated regulatory circuits control cell type
+  diversity and responses. The crosstalk and redundancies within these circuits
+  and substantial cellular heterogeneity pose a major research challenge. Here,
+  we present CRISP-seq, an integrated method for massively parallel single-cell
+  RNA sequencing (RNA-seq) and clustered regularly interspaced short
+  palindromic repeats (CRISPR)-pooled screens. We show that profiling the
+  genomic perturbation and transcriptome in the same cell enables us to
+  simultaneously elucidate the function of multiple factors and their
+  interactions. We applied CRISP-seq to probe regulatory circuits of innate
+  immunity. By sampling tens of thousands of perturbed cells in vitro and in
+  mice, we identified interactions and redundancies between developmental and
+  signaling-dependent factors. These include opposing effects of Cebpb and Irf8
+  in regulating the monocyte/macrophage versus dendritic cell lineages and
+  differential functions for Rela and Stat1/2 in monocyte versus dendritic cell
+  responses to pathogens. This study establishes CRISP-seq as a broadly
+  applicable, comprehensive, and unbiased approach for elucidating mammalian
+  regulatory circuits.%
+    }
+    \field{number}{7}
+    \field{pages}{1883\bibrangedash 1896.e15}
+    \field{title}{Dissecting {Immune} {Circuits} by {Linking} {CRISPR}-{Pooled}
+  {Screens} with {Single}-{Cell} {RNA}-{Seq}}
+    \field{volume}{167}
+    \field{journaltitle}{Cell}
+    \field{month}{12}
+    \field{year}{2016}
+  \endentry
+
   \entry{kadoshima_self-organization_2013}{article}{}
     \name{author}{7}{}{%
       {{hash=KT}{%
@@ -10699,6 +10806,244 @@
     \field{year}{2008}
     \field{urlday}{27}
     \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{zheng_massively_2017}{article}{}
+    \name{author}{33}{}{%
+      {{hash=ZGXY}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Grace X.\bibnamedelima Y.},
+         giveni={G\bibinitperiod\bibinitdelim X\bibinitperiod\bibinitdelim
+  Y\bibinitperiod},
+      }}%
+      {{hash=TJM}{%
+         family={Terry},
+         familyi={T\bibinitperiod},
+         given={Jessica\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Belgrader},
+         familyi={B\bibinitperiod},
+         given={Phillip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Ryvkin},
+         familyi={R\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BZW}{%
+         family={Bent},
+         familyi={B\bibinitperiod},
+         given={Zachary\bibnamedelima W.},
+         giveni={Z\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Ryan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZSB}{%
+         family={Ziraldo},
+         familyi={Z\bibinitperiod},
+         given={Solongo\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=WTD}{%
+         family={Wheeler},
+         familyi={W\bibinitperiod},
+         given={Tobias\bibnamedelima D.},
+         giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MGP}{%
+         family={McDermott},
+         familyi={M\bibinitperiod},
+         given={Geoff\bibnamedelima P.},
+         giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Junjie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GMT}{%
+         family={Gregory},
+         familyi={G\bibinitperiod},
+         given={Mark\bibnamedelima T.},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shuga},
+         familyi={S\bibinitperiod},
+         given={Joe},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Montesclaros},
+         familyi={M\bibinitperiod},
+         given={Luz},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=UJG}{%
+         family={Underwood},
+         familyi={U\bibinitperiod},
+         given={Jason\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=MDA}{%
+         family={Masquelier},
+         familyi={M\bibinitperiod},
+         given={Donald\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NSY}{%
+         family={Nishimura},
+         familyi={N\bibinitperiod},
+         given={Stefanie\bibnamedelima Y.},
+         giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=SLM}{%
+         family={Schnall-Levin},
+         familyi={S\bibinithyphendelim L\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WPW}{%
+         family={Wyatt},
+         familyi={W\bibinitperiod},
+         given={Paul\bibnamedelima W.},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=HCM}{%
+         family={Hindson},
+         familyi={H\bibinitperiod},
+         given={Christopher\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bharadwaj},
+         familyi={B\bibinitperiod},
+         given={Rajiv},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wong},
+         familyi={W\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NKD}{%
+         family={Ness},
+         familyi={N\bibinitperiod},
+         given={Kevin\bibnamedelima D.},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BLW}{%
+         family={Beppu},
+         familyi={B\bibinitperiod},
+         given={Lan\bibnamedelima W.},
+         giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=DHJ}{%
+         family={Deeg},
+         familyi={D\bibinitperiod},
+         given={H.\bibnamedelima Joachim},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={McFarland},
+         familyi={M\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LKR}{%
+         family={Loeb},
+         familyi={L\bibinitperiod},
+         given={Keith\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=VWJ}{%
+         family={Valente},
+         familyi={V\bibinitperiod},
+         given={William\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ENG}{%
+         family={Ericson},
+         familyi={E\bibinitperiod},
+         given={Nolan\bibnamedelima G.},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SEA}{%
+         family={Stevens},
+         familyi={S\bibinitperiod},
+         given={Emily\bibnamedelima A.},
+         giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RJP}{%
+         family={Radich},
+         familyi={R\bibinitperiod},
+         given={Jerald\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MTS}{%
+         family={Mikkelsen},
+         familyi={M\bibinitperiod},
+         given={Tarjei\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HBJ}{%
+         family={Hindson},
+         familyi={H\bibinitperiod},
+         given={Benjamin\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BJH}{%
+         family={Bielas},
+         familyi={B\bibinitperiod},
+         given={Jason\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{ZGXY+1}
+  \strng{fullhash}{ZGXYTJMBPRPBZWWRZSBWTDMGPZJGMTSJMLUJGMDANSYSLMWPWHCMBRWANKDBLWDHJMCLKRVWJENGSEARJPMTSHBJBJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1038/ncomms14049
+    \endverb
+    \field{issn}{2041-1723}
+    \field{number}{1}
+    \field{pages}{14049}
+    \field{title}{Massively parallel digital transcriptional profiling of
+  single cells}
+    \verb{url}
+    \verb http://www.nature.com/articles/ncomms14049
+    \endverb
+    \field{volume}{8}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/B
+    \verb CFL3U8C/Zheng et al. - 2017 - Massively parallel digital transcriptio
+    \verb nal profili.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{month}{04}
+    \field{year}{2017}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
     \field{urlyear}{2022}
   \endentry
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  8 AUG 2022 11:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  8 AUG 2022 13:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1220,14 +1220,14 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_main.bbl' found.
  (./thesis_main.bbl
-Invalid UTF-8 byte or sequence at line 4606 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 6470 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 6474 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 6505 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9720 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9724 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9784 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9785 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4713 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6577 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6581 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6612 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9827 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9831 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9891 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9892 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 180.
 Package biblatex Info: Reference segment=0 on input line 180.
@@ -1284,8 +1284,8 @@ File: figures/introduction/Figure_3.png Graphic file (type bmp)
 Underfull \vbox (badness 6625) has occurred while \output is active []
 
  [11] [12]
-Overfull \hbox (16.04065pt too wide) in paragraph at lines 166--167
-[]\TU/AdobeGaramondPro(0)/m/n/12 Organoids are particularly well suited for performing perturbation screens in high-throughput
+Overfull \hbox (3.96866pt too wide) in paragraph at lines 168--169
+[]\TU/AdobeGaramondPro(0)/m/n/12 Organoids are particularly well suited for performing perturbation screens in high-through-
  []
 
 [13]) [14] [15
@@ -2023,12 +2023,12 @@ Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39143 strings out of 476179
- 781682 string characters out of 5809545
- 1738228 words of memory out of 5000000
- 59322 multiletter control sequences out of 15000+600000
+ 39163 strings out of 476179
+ 782341 string characters out of 5809545
+ 1738395 words of memory out of 5000000
+ 59342 multiletter control sequences out of 15000+600000
  478260 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,17n,106p,3462b,5504s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (119 pages, 2706124 bytes).
+Output written on thesis_main.xdv (119 pages, 2711596 bytes).

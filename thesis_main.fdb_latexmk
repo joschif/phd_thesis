@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex thesis_main"] 1659951596 "thesis_main.aux" "thesis_main.bbl" "thesis_main" 1659952426
+["bibtex thesis_main"] 1659953308 "thesis_main.aux" "thesis_main.bbl" "thesis_main" 1659957760
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1643926307 65483 fc69f364ef63c07bf68a2ab4b323f197 ""
-  "bib/thesis.bib" 1659950608 261380 20b5cda872fb265b97c231bbe348dd65 ""
-  "thesis_main-blx.bib" 1659952400 341 a6e51289f844ed7f66a2a2264e2a89f8 "xelatex"
-  "thesis_main.aux" 1659952400 98918 fd247f605d43c3179003d4e1fc51a083 "xelatex"
+  "bib/thesis.bib" 1659952854 262671 14ceaa3928b6c535e29570fa9cbdc2d1 ""
+  "thesis_main-blx.bib" 1659957735 341 a6e51289f844ed7f66a2a2264e2a89f8 "xelatex"
+  "thesis_main.aux" 1659957735 99515 2456b5677319650801106f9a307af819 "xelatex"
   (generated)
   "thesis_main.bbl"
   "thesis_main.blg"
-["xdvipdfmx"] 1659952401 "thesis_main.xdv" "thesis_main.pdf" "thesis_main" 1659952426
-  "thesis_main.xdv" 1659952400 2706124 ddce6f3fb850792c8ca9f32bd81fca54 "xelatex"
+["xdvipdfmx"] 1659957736 "thesis_main.xdv" "thesis_main.pdf" "thesis_main" 1659957760
+  "thesis_main.xdv" 1659957735 2711596 08e40cb26f396b7b9b6939f485687ad7 "xelatex"
   (generated)
   "thesis_main.pdf"
-["xelatex"] 1659952389 "/Users/jfleck/Dropbox/PhD/thesis/latex/thesis_main.tex" "thesis_main.xdv" "thesis_main" 1659952426
+["xelatex"] 1659957723 "/Users/jfleck/Dropbox/PhD/thesis/latex/thesis_main.tex" "thesis_main.xdv" "thesis_main" 1659957760
   "/Users/jfleck/Dropbox/PhD/thesis/latex/thesis_main.tex" 1659701988 6373 8b59fd6e15cd4feaaf8c7c7739b32fdb ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -193,7 +193,7 @@
   "chapters/asd.tex" 1659199902 2213 db975ec61bbfd5a54b3fb9a13dd07b00 ""
   "chapters/cnt.tex" 1657008451 302 18d99922ad1ab4c150798275e25d43a9 ""
   "chapters/conclusions.tex" 1659952369 11351 32d7a2b6b8612e195919097ff2337e83 ""
-  "chapters/introduction.tex" 1659947540 38921 872ea6a6f2ac2b4e84c978ff938da88c ""
+  "chapters/introduction.tex" 1659957722 39067 b2a94040f421c47ebc583d6f39c4a712 ""
   "chapters/pando.tex" 1659615735 105566 5112ee13c0e93547445153cd0411aafc ""
   "chapters/title.tex" 1659701299 810 4ab8fa0af939e33903c7575a81be4282 ""
   "chapters/voxhunt.tex" 1659615733 78903 9f360123c0ce6e92694b9cf57437b26d ""
@@ -217,12 +217,12 @@
   "pdfs/chapter_4.pdf" 1659605050 38849 65b1941a671eaf467d62ec7e5802eaaa ""
   "pdfs/chapter_5.pdf" 1659605049 39141 c59c25f4983daa9c6ed8d388f087dc3d ""
   "pdfs/chapter_6.pdf" 1659605050 9826 fea82b8f34acf5dbae8da67d341b48c4 ""
-  "thesis_main.aux" 1659952400 98918 fd247f605d43c3179003d4e1fc51a083 "xelatex"
-  "thesis_main.bbl" 1659951597 335381 ba9a4bc264abb9138c713e31e47b94bb "bibtex thesis_main"
-  "thesis_main.out" 1659952400 7000 2b61243746a1448957248e8d6f4cefc9 "xelatex"
-  "thesis_main.run.xml" 1659952400 2631 c1d24d469354768430c24eef4bec6509 "xelatex"
+  "thesis_main.aux" 1659957735 99515 2456b5677319650801106f9a307af819 "xelatex"
+  "thesis_main.bbl" 1659953309 346535 129a9cb9fe573fbc6c44f4f06f791088 "bibtex thesis_main"
+  "thesis_main.out" 1659957735 7000 2b61243746a1448957248e8d6f4cefc9 "xelatex"
+  "thesis_main.run.xml" 1659957735 2631 c1d24d469354768430c24eef4bec6509 "xelatex"
   "thesis_main.tex" 1659701988 6373 8b59fd6e15cd4feaaf8c7c7739b32fdb ""
-  "thesis_main.toc" 1659952400 13096 0656c0e1d9b223c53cdb02a4ff8823cf "xelatex"
+  "thesis_main.toc" 1659957735 13096 0656c0e1d9b223c53cdb02a4ff8823cf "xelatex"
   (generated)
   "thesis_main-blx.bib"
   "thesis_main.aux"

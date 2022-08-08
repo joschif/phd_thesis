@@ -218,6 +218,121 @@
     \field{year}{2018}
   \endentry
 
+  \entry{avsec_effective_2021}{article}{}
+    \name{author}{10}{}{%
+      {{hash=AÅ}{%
+         family={Avsec},
+         familyi={A\bibinitperiod},
+         given={Å½iga},
+         giveni={Å\bibinitperiod},
+      }}%
+      {{hash=AV}{%
+         family={Agarwal},
+         familyi={A\bibinitperiod},
+         given={Vikram},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=VD}{%
+         family={Visentin},
+         familyi={V\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LJR}{%
+         family={Ledsam},
+         familyi={L\bibinitperiod},
+         given={Joseph\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=GBA}{%
+         family={Grabska-Barwinska},
+         familyi={G\bibinithyphendelim B\bibinitperiod},
+         given={Agnieszka},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TKR}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Kyle\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=AY}{%
+         family={Assael},
+         familyi={A\bibinitperiod},
+         given={Yannis},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jumper},
+         familyi={J\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Kohli},
+         familyi={K\bibinitperiod},
+         given={Pushmeet},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KDR}{%
+         family={Kelley},
+         familyi={K\bibinitperiod},
+         given={David\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{AÅ+1}
+    \strng{fullhash}{AÅAVVDLJRGBATKRAYJJKPKDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Abstract How noncoding DNA determines gene expression in different cell
+  types is a major unsolved problem, and critical downstream applications in
+  human genetics depend on improved solutions. Here, we report substantially
+  improved gene expression prediction accuracy from DNA sequences through the
+  use of a deep learning architecture, called Enformer, that is able to
+  integrate information from long-range interactions (up to 100â€‰kb away) in
+  the genome. This improvement yielded more accurate variant effect predictions
+  on gene expression for both natural genetic variants and saturation
+  mutagenesis measured by massively parallel reporter assays. Furthermore,
+  Enformer learned to predict enhancerâ€“promoter interactions directly from
+  the DNA sequence competitively with methods that take direct experimental
+  data as input. We expect that these advances will enable more effective
+  fine-mapping of human disease associations and provide a framework to
+  interpret cis -regulatory evolution.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41592-021-01252-x
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{10}
+    \field{pages}{1196\bibrangedash 1203}
+    \field{title}{Effective gene expression prediction from sequence by
+  integrating long-range interactions}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41592-021-01252-x
+    \endverb
+    \field{volume}{18}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/N
+    \verb J4A4X6R/Avsec et al. - 2021 - Effective gene expression prediction fr
+    \verb om sequence.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{10}
+    \field{year}{2021}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{bagley_fused_2017}{article}{}
     \name{author}{5}{}{%
       {{hash=BJA}{%
@@ -3247,6 +3362,158 @@
     \field{journaltitle}{Cell}
     \field{month}{12}
     \field{year}{2016}
+  \endentry
+
+  \entry{janssens_decoding_2022}{article}{}
+    \name{author}{19}{}{%
+      {{hash=JJ}{%
+         family={Janssens},
+         familyi={J\bibinitperiod},
+         given={Jasper},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Aibar},
+         familyi={A\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TII}{%
+         family={Taskiran},
+         familyi={T\bibinitperiod},
+         given={Ibrahim\bibnamedelima Ihsan},
+         giveni={I\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=IJN}{%
+         family={Ismail},
+         familyi={I\bibinitperiod},
+         given={Joy\bibnamedelima N.},
+         giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=GAE}{%
+         family={Gomez},
+         familyi={G\bibinitperiod},
+         given={Alicia\bibnamedelima Estacio},
+         giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Aughey},
+         familyi={A\bibinitperiod},
+         given={Gabriel},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SKI}{%
+         family={Spanier},
+         familyi={S\bibinitperiod},
+         given={Katina\bibnamedelima I.},
+         giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=DRFV}{%
+         family={De\bibnamedelima Rop},
+         familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={Florian\bibnamedelima V.},
+         giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=GBCB}{%
+         family={GonzÃ¡lez-Blas},
+         familyi={G\bibinithyphendelim B\bibinitperiod},
+         given={Carmen\bibnamedelima Bravo},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dionne},
+         familyi={D\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GK}{%
+         family={Grimes},
+         familyi={G\bibinitperiod},
+         given={Krista},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=QXJ}{%
+         family={Quan},
+         familyi={Q\bibinitperiod},
+         given={Xiao\bibnamedelima Jiang},
+         giveni={X\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Papasokrati},
+         familyi={P\bibinitperiod},
+         given={Dafni},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hulselmans},
+         familyi={H\bibinitperiod},
+         given={Gert},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Makhzami},
+         familyi={M\bibinitperiod},
+         given={Samira},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DWM}{%
+         family={De\bibnamedelima Waegeneer},
+         familyi={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+         given={Maxime},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CV}{%
+         family={Christiaens},
+         familyi={C\bibinitperiod},
+         given={Valerie},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Southall},
+         familyi={S\bibinitperiod},
+         given={Tony},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Aerts},
+         familyi={A\bibinitperiod},
+         given={Stein},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{JJ+1}
+    \strng{fullhash}{JJASTIIIJNGAEAGSKIDRFVGBCBDMGKQXJPDHGMSDWMCVSTAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \verb{doi}
+    \verb 10.1038/s41586-021-04262-z
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7894}
+    \field{pages}{630\bibrangedash 636}
+    \field{title}{Decoding gene regulation in the fly brain}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41586-021-04262-z
+    \endverb
+    \field{volume}{601}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/Y6WC7W6T/Janssens et al. - 2022 - Decoding gene regulation in t
+    \verb he fly brain.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{month}{01}
+    \field{year}{2022}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
   \endentry
 
   \entry{kadoshima_self-organization_2013}{article}{}
@@ -6962,6 +7229,75 @@
     \field{year}{2019}
     \field{urlday}{09}
     \field{urlmonth}{06}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{pratapa_benchmarking_2020}{article}{}
+    \name{author}{5}{}{%
+      {{hash=PA}{%
+         family={Pratapa},
+         familyi={P\bibinitperiod},
+         given={Aditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JAP}{%
+         family={Jalihal},
+         familyi={J\bibinitperiod},
+         given={Amogh\bibnamedelima P.},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LJN}{%
+         family={Law},
+         familyi={L\bibinitperiod},
+         given={Jeffrey\bibnamedelima N.},
+         giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bharadwaj},
+         familyi={B\bibinitperiod},
+         given={Aditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MTM}{%
+         family={Murali},
+         familyi={M\bibinitperiod},
+         given={T.\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{PA+1}
+    \strng{fullhash}{PAJAPLJNBAMTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1038/s41592-019-0690-6
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{2}
+    \field{pages}{147\bibrangedash 154}
+    \field{title}{Benchmarking algorithms for gene regulatory network inference
+  from single-cell transcriptomic data}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41592-019-0690-6
+    \endverb
+    \field{volume}{17}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/XI58MS89/Pratapa et al. - 2020 - Benchmarking algorithms for ge
+    \verb ne regulatory networ.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{02}
+    \field{year}{2020}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
     \field{urlyear}{2022}
   \endentry
 

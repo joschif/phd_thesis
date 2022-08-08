@@ -137,4 +137,6 @@
 \contentsline {subsection}{\numberline {6.1}Conclusions}{99}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Outlook}{102}{subsection.6.2}%
 \contentsline {paragraph}{Organoid phenotyping}{102}{section*.117}%
-\contentsline {section}{Bibliography}{103}{section*.117}%
+\contentsline {paragraph}{Regulatory network inference}{103}{section*.118}%
+\contentsline {paragraph}{Perturbation experiments}{103}{section*.119}%
+\contentsline {section}{Bibliography}{105}{section*.119}%

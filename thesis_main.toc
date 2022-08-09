@@ -3,17 +3,18 @@
 \contentsline {section}{\numberline {1}Single-cell CRISPR screening in organoids identifies origins of autism}{iv}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Abstract}{v}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Main}{v}{subsection.1.2}%
-\contentsline {paragraph}{Single-cell loss-of-function screening in clonally barcoded organoids}{vi}{section*.2}%
-\contentsline {paragraph}{CHOOSE cerebral organoids generate a high diversity of telencephalic cell types}{vii}{section*.3}%
-\contentsline {paragraph}{Perturbing ASD risk genes depletes dorsal IPCs and enriches ventral RGCs}{viii}{section*.4}%
-\contentsline {paragraph}{Perturbing ASD risk genes impairs upper-layer neuronal specification and ventral progenitor differentiation}{ix}{section*.5}%
-\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{x}{section*.6}%
-\contentsline {paragraph}{CHOOSE combined with GRN inference from single-cell multiome data identifies ASD-specific transcription regulatory modules}{xi}{section*.7}%
-\contentsline {paragraph}{ARID1B perturbation increases the transition probability of v-RGCs to early OPCs}{xii}{section*.8}%
-\contentsline {subsection}{\numberline {1.3}Discussion}{xiii}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Methods}{xiv}{subsection.1.4}%
-\contentsline {paragraph}{Data availability}{xiv}{section*.9}%
-\contentsline {paragraph}{Acknowledgements}{xv}{section*.10}%
-\contentsline {paragraph}{Author contributions}{xv}{section*.11}%
-\contentsline {paragraph}{Corresponding authors}{xv}{section*.12}%
-\contentsline {paragraph}{Competing interests}{xv}{section*.13}%
+\contentsline {paragraph}{Single-cell loss-of-function screening in clonally barcoded organoids}{vi}{section*.3}%
+\contentsline {paragraph}{CHOOSE cerebral organoids generate a high diversity of telencephalic cell types}{viii}{section*.4}%
+\contentsline {paragraph}{Perturbing ASD risk genes depletes dorsal IPCs and enriches ventral RGCs}{ix}{section*.5}%
+\contentsline {paragraph}{Perturbing ASD risk genes impairs upper-layer neuronal specification and ventral progenitor differentiation}{xi}{section*.7}%
+\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{xi}{section*.9}%
+\contentsline {paragraph}{CHOOSE combined with GRN inference from single-cell multiome data identifies ASD-specific transcription regulatory modules}{xiii}{section*.10}%
+\contentsline {paragraph}{ARID1B perturbation increases the transition probability of v-RGCs to early OPCs}{xiv}{section*.12}%
+\contentsline {subsection}{\numberline {1.3}Discussion}{xvi}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Methods}{xviii}{subsection.1.4}%
+\contentsline {paragraph}{Data availability}{xviii}{section*.13}%
+\contentsline {paragraph}{Acknowledgements}{xviii}{section*.14}%
+\contentsline {paragraph}{Author contributions}{xviii}{section*.15}%
+\contentsline {paragraph}{Corresponding authors}{xix}{section*.16}%
+\contentsline {paragraph}{Competing interests}{xix}{section*.17}%
+\contentsline {subsection}{\numberline {1.5}Supplement}{xx}{subsection.1.5}%

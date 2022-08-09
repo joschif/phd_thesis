@@ -51,20 +51,20 @@
 \contentsline {paragraph}{Visualization of the GRN}{xxxvii}{section*.49}%
 \contentsline {paragraph}{Region-specific GRN}{xxxvii}{section*.50}%
 \contentsline {paragraph}{Calculation of module activity and analysis of module branch specificity}{xxxviii}{section*.51}%
-\contentsline {paragraph}{Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing data}{xxxviii}{section*.52}%
+\contentsline {paragraph}{Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing data}{xxxix}{section*.52}%
 \contentsline {paragraph}{Assignment of gRNA labels to cells}{xxxix}{section*.53}%
 \contentsline {paragraph}{Inference of perturbation probability}{xxxix}{section*.54}%
 \contentsline {paragraph}{Determination of transcriptomic perturbation effects in the CROP-seq screen}{xl}{section*.55}%
-\contentsline {paragraph}{Determination of composition changes in the CROP-seq screen}{xl}{section*.56}%
-\contentsline {paragraph}{Preprocessing and integration of single-cell RNA-sequencing data from the GLI3 knock-out experiment}{xli}{section*.57}%
-\contentsline {paragraph}{CRISPResso analysis and protein sequence prediction}{xli}{section*.58}%
-\contentsline {paragraph}{Preprocessing and integration of multiome data from the GLI3 knock-out experiment}{xli}{section*.59}%
-\contentsline {paragraph}{Annotation of cells from the GLI3 knock-out and SHH experiment}{xlii}{section*.60}%
-\contentsline {paragraph}{Differential expression analysis for the GLI3 knock-out and SHH experiment}{xlii}{section*.61}%
-\contentsline {paragraph}{Differential accessibility analysis for the GLI3 knock-out experiment}{xlii}{section*.62}%
-\contentsline {paragraph}{Comparison of perturbation effects with gene regulatory network}{xliii}{section*.63}%
-\contentsline {paragraph}{Functional annotation of differentially accessible genomic regions}{xliii}{section*.64}%
-\contentsline {paragraph}{Analysis of GLI3 Cut\&Tag data}{xliii}{section*.65}%
-\contentsline {paragraph}{Statistics and reproducibility}{xliv}{section*.66}%
-\contentsline {subsection}{\numberline {1.5}Supplement}{xliv}{subsection.1.5}%
-\contentsline {section}{Bibliography}{lviii}{figure.caption.79}%
+\contentsline {paragraph}{Determination of composition changes in the CROP-seq screen}{xli}{section*.56}%
+\contentsline {paragraph}{Preprocessing and integration of single-cell RNA-sequencing data from the GLI3 knock-out experiment}{xlii}{section*.57}%
+\contentsline {paragraph}{CRISPResso analysis and protein sequence prediction}{xlii}{section*.58}%
+\contentsline {paragraph}{Preprocessing and integration of multiome data from the GLI3 knock-out experiment}{xlii}{section*.59}%
+\contentsline {paragraph}{Annotation of cells from the GLI3 knock-out and SHH experiment}{xliii}{section*.60}%
+\contentsline {paragraph}{Differential expression analysis for the GLI3 knock-out and SHH experiment}{xliii}{section*.61}%
+\contentsline {paragraph}{Differential accessibility analysis for the GLI3 knock-out experiment}{xliii}{section*.62}%
+\contentsline {paragraph}{Comparison of perturbation effects with gene regulatory network}{xliv}{section*.63}%
+\contentsline {paragraph}{Functional annotation of differentially accessible genomic regions}{xliv}{section*.64}%
+\contentsline {paragraph}{Analysis of GLI3 Cut\&Tag data}{xliv}{section*.65}%
+\contentsline {paragraph}{Statistics and reproducibility}{xlv}{section*.66}%
+\contentsline {subsection}{\numberline {1.5}Supplement}{xlvi}{subsection.1.5}%
+\contentsline {section}{Bibliography}{lix}{figure.caption.79}%

@@ -226,13 +226,13 @@ Single cell suspensions of 18 or 23 days old cerebral organoids were prepared us
 We used Cell Ranger (version 3.0.2) with default parameters to obtain transcript count matrices by aligning the sequencing reads to the human genome and transcriptome (hg38, provided by 10x Genomics, version 3.0.0). Count matrices were further preprocessed using the Seurat R package (version 3.2)(\cite{stuart_comprehensive_2019}). First, cells were filtered based on unique molecular identifier (UMI) counts, the number of detected genes, and the fraction of mitochondrial genes. The threshold of mitochondrial gene fraction was held constant across datasets (<0.2). Since sequencing depth varied between timepoints, the threshold of UMI count and number of detected genes was set individually for each sample as follows:
  
 \begin{itemize}
-\item Day 4\&7: \#UMI: >10000, <80000;  \#features: >3000, <8000
-\item Day 11: \#UMI: >10000, <60000;  \#features: >3000, <8000
-\item Day 12: \#UMI: >2500, <40000;  \#features: >1000, <6000
-\item Day 16: \#UMI: >10000, <60000;  \#features: >3000, <8000
-\item Day 18\&21: \#UMI: >2500, <60000;  \#features: >1500, <8000
-\item Day 26: \#UMI: >2500, <60000;  \#features: >2000, <8000
-\item Day 31: \#UMI: >2500, <50000;  \#features: >2400, <7500
+\item Day 4\&7: \#UMI: >10000, <80000;  \#features: >3000, <8000 \
+\item Day 11: \#UMI: >10000, <60000;  \#features: >3000, <8000 \
+\item Day 12: \#UMI: >2500, <40000;  \#features: >1000, <6000 \
+\item Day 16: \#UMI: >10000, <60000;  \#features: >3000, <8000 \
+\item Day 18\&21: \#UMI: >2500, <60000;  \#features: >1500, <8000 \
+\item Day 26: \#UMI: >2500, <60000;  \#features: >2000, <8000 \
+\item Day 31: \#UMI: >2500, <50000;  \#features: >2400, <7500 \
 \item Day 61: \#UMI: >1000, <60000;  \#features: >1000, <8000
 \end{itemize}
  
@@ -242,12 +242,12 @@ Transcript counts were normalized by the total number of counts for that cell, m
 We used Cell Ranger ATAC (version 1.1.0) with default parameters to obtain fragment files by aligning the sequencing reads to the human genome and transcriptome (hg38, provided by 10x Genomics, version 1.1.0). Peaks were called from the fragment file using MACS2 (version 2.2.6). Both the fragment files and the peak count matrices were further preprocessed using Seurat (version 3.2)19 and Signac (version 1.1)53.  First, peaks were filtered by width (<10000 bp, >20 bp) to retain only high-quality peaks. Further, the following quality control metrics were computed using Signac: A transcription start site (TSS) enrichment score (TSSEnrichment()), nucleosome signal (NucleosomeSignal()), the percentage of reads in peaks, and the ratio of reads in genomic blacklist regions. Subsequently, cells were filtered based on the following metrics:
 
 \begin{itemize}
-\item Percentage of reads in peaks > 30\%
-\item \# peak region fragments > 5000
-\item Blacklist ratio < 0.003
-\item Nucleosome signal < 5
-\item \# TSS fragments > 5000
-\item TSS enrichment score > 2
+\item Percentage of reads in peaks > 30\% \
+\item \# peak region fragments > 5000 \
+\item Blacklist ratio < 0.003 \
+\item Nucleosome signal < 5 \
+\item \# TSS fragments > 5000 \
+\item TSS enrichment score > 2 
 \end{itemize} 
 
 We then created a unified set of peaks from the union of peaks from all samples by merging overlapping and adjacent peaks. The unified set of peaks was requantified for each sample using the fragment file (FeatureMatrix()). Peak counts were normalized by term frequency–inverse document frequency (tf-idf) normalization using the Signac functions RunTFIDF().
@@ -290,12 +290,14 @@ Cis-regulatory elements for genes were discovered by linking peaks to genes by c
  
 \paragraph{Gene regulatory network inference with Pando}
 We developed Pando to infer gene regulatory networks while taking advantage of multi-modal single-cell measurements, where both the RNA and the ATAC components are either measured for each cell or integrated to obtain metacells or clusters with both modalities. The core GRN inference algorithm in Pando can be summarized in four main steps:
- 
-Selecting candidate regulatory genomic regions
-Scanning regions for transcription factor binding motifs
-Selecting region-TF pairs for each target gene
-Constructing a regression model with region-TF pairs as independent variables and the expression of the target gene as the response variable
- 
+
+\begin{enumerate}
+\item Selecting candidate regulatory genomic regions \
+\item Scanning regions for transcription factor binding motifs \
+\item Selecting region-TF pairs for each target gene \
+\item Constructing a regression model with region-TF pairs as independent variables and the expression of the target gene as the response variable
+\end{enumerate} 
+
 The coefficients (or importances) of this model can now be seen as a measure of interaction between the region-TF pair and the downstream gene, resulting in a regulatory graph. In the following, we will describe these steps in more detail.
  
 \paragraph{Selection of candidate regions for GRN inference}
@@ -310,9 +312,9 @@ Before inferring the GRN, we coarse-grained the data to denoise and remove spars
 \paragraph{Linear model-based GRN inference}
 Pando used a regression-based approach to infer the regulatory interactions between TF-binding site pairs and the corresponding gene. While the package implements a variety of regression models, here we used a linear model to perform network inference. Genomic coordinates for all genes were obtained via the R package EnsDb.Hsapiens.v86 (https://doi.org/10.18129/B9.bioc.EnsDb.Hsapiens.v86).  For each gene, we considered a regulatory region encompassing the gene body and 100 kb upstream of the transcription start site (TSS). We then define a linear model on the (log-normalized) expression Y of the gene i based on all TF-binding site interactions in this region:
 
-                                    
+\[ Y_i \thicksim \sum_j \beta_j e_j a_j + \varepsilon \]                       
  
-Where is the log-normalized expression of transcription factor , is the accessibility probability of the peak that overlaps its binding region, is the fitted coefficient for this interaction and  is the intercept. The fitted coefficients can then be interpreted as the regulatory effect of TF-binding site pairs on the downstream genes. To fit the linear model, we use the function glm() from the stats R package using gaussian noise and an identity link function.
+Where is the log-normalized expression of transcription factor j, is the accessibility probability of the peak that overlaps its binding region, $\beta_j$ is the fitted coefficient for this interaction and $\varepsilon$ is the intercept. The fitted coefficients can then be interpreted as the regulatory effect of TF-binding site pairs on the downstream genes. To fit the linear model, we use the function glm() from the stats R package using gaussian noise and an identity link function.
  
  
 \paragraph{Peak and gene module construction}
@@ -335,7 +337,7 @@ The implementation is flexible and allows the user to apply the Pando framework 
 \paragraph{Visualization of the GRN}
 We sought to visualize the inferred transcription factor network based on both co-expression and regulatory relationships between transcription factors. First, we computed the Pearson correlation between log-normalized expression of all transcription factors in the network across all metacells in the atlas. From the correlation value r and estimated model coefficient ß between all transcription factors i and j, we then computed a combined score s as
  
-            
+\[ s_{ij} = r_{ij} * \sqrt{\left\lvert \beta_{ij} \right\rvert + 1} \]
  
 resulting in a TF by TF matrix. We performed PCA on this matrix and used top 20 PCs as an input for UMAP as implemented in the uwot R package (https://github.com/jlmelville/uwot) with default parameters.
  
@@ -344,11 +346,17 @@ Region-specific GRN was generated by incorporating region-specific accessibility
  
 \paragraph{Calculation of module activity and analysis of module branch specificity}
 Based on the GRN inferred by Pando, the activity of a transcription factor can be represented by the expression of the set of genes it regulates (gene modules) or by the accessibility of its set of regulatory regions (regulatory modules). To calculate the activity of gene modules we used the Seurat function AddModuleScore() with all genes included in GRN inference as the background (pool). For regulatory modules, we used the R package chromVAR (version 1.14) to obtain a set of background peaks (getBackgroundPeaks()). We then computed deviations in accessibility from the background for each regulatory module (computeDeviations()). Next, we assessed how the activity of positively regulated gene modules varied during neurogenesis over pseudotime and between branches. For this analysis we excluded all cells from the PSC and neuroectoderm stage. We fit three gaussian linear models for each gene i module with module activity (Y) as the response variable and branch assignment and/or velocity pseudotime as the independent variables:
+
+\hspace{0.5cm}
+
+(1) $ Y_i \sim branch $ 
+
+(2) $ Y_i \sim pseudotime $ 
+
+(3) $ Y_i \sim branch + pseudotime $ 
  
-(1)   ~ 
-(2)   ~ 
-(3)   ~ 
- 
+\hspace{0.5cm}
+
 We used the  value of these models as the fraction of variance explained by branch (1), pseudotime (2) or branch and pseudotime (3). We further tested for differential module activity between the branches for each branch point separately using a Wilcoxon rank-sum test as implemented in the R package presto (\cite{korsunsky_presto_2019}). For the comparison of dorsal and ventral telencephalon, we only considered cells in the top 30\% pseudotime quantile (NPC and Neuron stages).  To visualize dorsal and ventral telencephalon-specific transcription factor networks, we first selected positively regulated gene modules of transcription factors with branch-specific expression (described above). For each branch, we then selected the top 15 modules whose module activity was significantly upregulated (FDR<0.05) based on the mean difference of module activity between the branches.
                        
  
@@ -360,17 +368,20 @@ To assign gRNA labels to cells, reads obtained from amplicon sequencing were fir
  
 \paragraph{Inference of perturbation probability}
 To account for a potential mixture of unperturbed and perturbed cells in the population, we inferred probabilities of a gRNA having a phenotypic effect on the cell using the strategy proposed in Dixit et al. 2016. Here, a Bayesian approach is used to obtain the probability of a cell being perturbed given the observed transcriptome. To this end, a regression model is fit with the gene expression matrix as the response Y and the native gRNA assignments, cell and sample covariates as independent variables (X):
- 
- 
+
+\[ Y = X\beta \]
+
 After fitting the model, the model fit is re-evaluated for each cell with the gRNA assignment set to 0 (). The difference of the squared errors of the two fits can then be transformed into a probability with:
  
-             
- 
-            where  
+\[ P(X_j=1) = logistic(\frac{\sum_i [Y_{ij}-X_0\beta_i]^2 - [Y_{ij} - \hat{Y}_{ij}]^2}{2\sigma^2}) \]
+
+with 
+
+\[ logistic(x) = \frac{1}{1+e^{-x}} \]
  
 As in the original publication, we used linear regression model with elastic net regularization (alpha=0.5) using gaussian noise and an identity link function to fit the model on  based on 500 most variable features. The regularization parameter lambda was automatically determined through cross-validation as implemented in the function  cv.glmnet() from the glmnet R package. Models were fit for each gene i on log-normalized transcript counts Y with binary assignments X for each gRNA j as well as celltype, sample and number of detected genes as covariates:
  
-             ~
+\[ Y_i \sim n\_features + sample + cell\_type + \sum_j X_j \]
  
 After computing the above described perturbation probabilities for each cell and gRNA, they were further summarized to a target gene level by taking the maximum probability among the three gRNAs targeting the same gene.
  
@@ -378,15 +389,15 @@ After computing the above described perturbation probabilities for each cell and
 \paragraph{Determination of transcriptomic perturbation effects in the CROP-seq screen}
 To determine how gene KOs affect the transcriptomic state of neuronal populations arising in brain organoids we used a linear model-based approach (\cite{dixit_perturb-seq_2016}). For each neuronal type, we inferred perturbation probabilities p for each target gene j as mentioned above  and fit a linear model on log-normal transcript counts (Y) for each gene i as follows:
  
-             ~
+\[ Y_i \sim n\_features + sample + \sum_j X_j \]
  
 To determine KO effects in neural NPCs, we additionally used cell cycle phase as a covariate. For this we inferred the cell cycle phase with the Seurat function CellCycleScoring() and then constructed the linear model as follows:
  
-             ~
+\[ Y_i \sim n\_features + sample + cc\_phase + \sum_j X_j \]
  
 To determine the KO effects across all neurons, we inferred global perturbation probabilities on the full dataset and then fit a linear model across neuronal populations on log-normal transcript counts for each gene y as follows:
  
-            ~
+\[ Y_i \sim n\_features + sample + neuron\_type + \sum_j X_j \]
  
 The coefficients for each target gene were tested using ANOVA and multiple-testing correction was performed using the Benjamini-Hochberg method to obtain a FDR-adjusted p-value. Genes for which the coefficient of a target gene were significant (FDR < ) were treated as differentially expressed genes for this target gene.
  
@@ -394,7 +405,7 @@ The coefficients for each target gene were tested using ANOVA and multiple-testi
 \paragraph{Determination of composition changes in the CROP-seq screen}
 To assess the degree to which the knock-out of a target gene changes the regional composition of the organoid, we first tested the enrichment of each gRNA in each regional branch. To control for confounding effects through differential gRNA abundance in different organoids, we used a Cochran-Mantel-Haenzel (CMH) test stratified by organoid. Additionally, we performed a Fisher’s exact test to test for enrichment for each organoid individually. Multiple-testing correction was performed using the Benjamini-Hochberg method. To account for other potential within-sample confounders such as clonal heritage, we first required for each gRNA that the enrichment was significant (FDR < 0.05) in more than one individual organoid and that the direction of each significant enrichment was consistent across organoids. All gRNAs for which this was not the case were removed. In a second step, we further required for remaining gRNAs that the same significant effect (FDR < 0.01) was observed for at least one other gRNAs targeting the same gene. For the remaining gRNAs we summarized the assignments for each target gene i  and calculated the log odds ratio of the enrichment in each regional branch j with
  
-                        
+\[ LOR_{ij} = log(\frac{N_{g=i;b=j} / N_{g=i;b\neq j}} {N_{g\neq i;b=j} / N_{g\neq i;b\neq j}} ) \]   
  
 where N a matrix of cell counts for each target gene in each branch. For each target gene, the maximum log odds ratio across the three branches was treated as a measure of composition change.
  
@@ -414,7 +425,7 @@ To annotate the cell states from both the scRNA and the multiome experiments, we
 \paragraph{Differential expression analysis for the GLI3 knock-out and SHH experiment}
 To assess the transcriptomic effects of the GLI3 knock-out in ventral telencephalon neurons, we performed differential expression analysis using a linear model-based approach analogous to the approach used in the CROP-seq screen. We fit a linear model on log-normal transcript counts Y for each gene i with the knock-out label and number of detected features as independent variables:
  
-            ~
+\[ Y_i \sim n\_features + KO\_label \]
  
 The coefficient of the knock-out label was tested using ANOVA. To perform differential expression of knock-out versus control in the multiome data and treated versus control for the SHH experiment, we performed a Wilcoxon rank-sum test using the presto R package (version 1.0.0)(\cite{korsunsky_presto_2019}). Multiple-testing correction was applied to all results using the Benjamini-Hochberg method to obtain FDR-adjusted p-values.
  
@@ -422,11 +433,11 @@ The coefficient of the knock-out label was tested using ANOVA. To perform differ
 \paragraph{Differential accessibility analysis for the GLI3 knock-out experiment}
 To find peaks with differential accessibility between GLI3 knock-out and control, we fit a generalized linear model with binomial noise and logit link for each peak i on binarized peak counts Y with the total number of fragments per cell and the knock-out label as the independent variables:
  
-            ~
+\[ Y_i \sim n\_fragments + KO\_label \]
  
 In addition, we fit a null model, where the knock-out label was omitted:
  
-            ~
+\[ Y_i \sim n\_fragments\]
  
 We then used a likelihood ratio test to compare the goodness of fit of the two models using the lmtest R package (version 0.9) (https://cran.r-project.org/web/packages/lmtest/index.html). Multiple testing correction was performed using the Benjamini-Hochberg method.
  
@@ -442,7 +453,7 @@ To assess GLI3 binding with Cut\&Tag data, we first obtained bigwig files with i
 \paragraph{Statistics and reproducibility}
 Representative images of organoids in culture were shown from batches with 16-96 organoids per cell line (Extended Data Fig 1a, 6d, 9c). Immunohistochemistry for SOX2, TUJ1 and GLI3 (Figure S1k) was performed on four different cell lines on 2-3 organoids per cell line from one batch. HCR RNA-FISH (Figure S2g) for BMP7 and WLS was performed on day 18 organoids from four different cell lines with 2-3 organoids per experiment and HCR RNA-FISH for FGF8 and WNT8B was performed on day 18 organoids cell line Wibj2 for 3 organoids.
 
-
+\clearpage
 
 \subsection{Supplement}
 \beginsupplement

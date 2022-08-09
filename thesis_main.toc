@@ -17,4 +17,23 @@
 \contentsline {paragraph}{Author contributions}{xviii}{section*.15}%
 \contentsline {paragraph}{Corresponding authors}{xix}{section*.16}%
 \contentsline {paragraph}{Competing interests}{xix}{section*.17}%
-\contentsline {subsection}{\numberline {1.5}Supplement}{xx}{subsection.1.5}%
+\contentsline {paragraph}{Stem cell and cerebral organoid culture conditions}{xix}{section*.18}%
+\contentsline {paragraph}{sgRNA selection and cloning}{xix}{section*.19}%
+\contentsline {paragraph}{sgRNA reporter assay}{xx}{section*.20}%
+\contentsline {paragraph}{Generation of barcoded CHOOSE lentiviral pool, hESCs infection and EB generation}{xx}{section*.21}%
+\contentsline {paragraph}{Cerebral organoid tissue dissociation and scRNA-seq}{xxi}{section*.22}%
+\contentsline {paragraph}{Custom genomic reference}{xxi}{section*.23}%
+\contentsline {paragraph}{gRNA and UCB recovery and analyses}{xxii}{section*.24}%
+\contentsline {paragraph}{Preprocessing and annotation of single-cell transcriptomics data}{xxiii}{section*.25}%
+\contentsline {paragraph}{RNA velocity}{xxiii}{section*.26}%
+\contentsline {paragraph}{Differential expression analysis}{xxiv}{section*.27}%
+\contentsline {paragraph}{Processing of single-cell multiome data and GRN inference}{xxv}{section*.28}%
+\contentsline {paragraph}{Enrichment testing for TF modules}{xxvi}{section*.29}%
+\contentsline {paragraph}{Cellrank analysis}{xxvi}{section*.30}%
+\contentsline {paragraph}{Immunofluorescence}{xxvi}{section*.31}%
+\contentsline {paragraph}{Microscopy, image processing and quantification}{xxvii}{section*.32}%
+\contentsline {paragraph}{Patient sample collection}{xxvii}{section*.33}%
+\contentsline {paragraph}{Reprogramming of PBMCs into iPSCs}{xxvii}{section*.34}%
+\contentsline {paragraph}{Generation of isogenic control cell line for ARID1B patient}{xxviii}{section*.35}%
+\contentsline {paragraph}{Fetal MRI and 3D reconstruction}{xxviii}{section*.36}%
+\contentsline {subsection}{\numberline {1.5}Supplement}{xxx}{subsection.1.5}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  9 AUG 2022 15:28
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  9 AUG 2022 15:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1236,296 +1236,70 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (0.94797pt too wide) detected at line 11
- []\TU/AdobeGaramondPro(0)/m/n/12 xviii
- []
-
-)
+))
 \tf@toc=\write9
 \openout9 = `thesis_main.toc'.
 
  [3
 
-] (./chapters/pando.tex
-Overfull \hbox (4.37056pt too wide) in paragraph at lines 2--2
-[]\TU/Futura(0)/b/n/20.74 Inferring and perturbing cell fate reg-
- []
-
-
-Overfull \hbox (7.48082pt too wide) in paragraph at lines 15--27
-\TU/AdobeGaramondPro(0)/m/n/12 Jonas Simon Fleck$[]$, Sophie Martina Johanna Jansen$[]$, Damian Wollny$[]$, Fides Zenk$[]$, Makiko
+] (./chapters/asd.tex
+Overfull \hbox (41.50056pt too wide) in paragraph at lines 2--2
+[]\TU/Futura(0)/b/n/20.74 Single-cell CRISPR screening in organoids
  []
 
 [4
 
-] [5]
-File: figures/pando/Figure_1.png Graphic file (type bmp)
-<figures/pando/Figure_1.png>
+] [5
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+]
+Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [6] [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [6]
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 1655) has occurred while \output is active []
 
  [8]
-File: figures/pando/Figure_2.png Graphic file (type bmp)
-<figures/pando/Figure_2.png>
-
-Underfull \vbox (badness 1019) has occurred while \output is active []
+Underfull \vbox (badness 1655) has occurred while \output is active []
 
  [9]
-Underfull \vbox (badness 7504) has occurred while \output is active []
+Underfull \vbox (badness 1655) has occurred while \output is active []
 
  [10]
-Underfull \vbox (badness 1019) has occurred while \output is active []
+Underfull \vbox (badness 1655) has occurred while \output is active []
 
  [11]
-File: figures/pando/Figure_3.png Graphic file (type bmp)
-<figures/pando/Figure_3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1655) has occurred while \output is active []
 
  [12] [13]
-File: figures/pando/Figure_4.png Graphic file (type bmp)
-<figures/pando/Figure_4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16] [17]
-Overfull \hbox (3.29735pt too wide) in paragraph at lines 152--153
-\TU/AdobeGaramondPro(0)/m/n/12 LGE/CGE neurons. The integration of the single-cell multiome data from GLI3 KO organoids
- []
-
-[18] [19]
-Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \vbox (badness 1019) has occurred while \output is active []
-
- [20]
-Underfull \vbox (badness 6348) has occurred while \output is active []
-
- [21]
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
- [24]
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (15.38763pt too wide) in paragraph at lines 208--209
-\TU/AdobeGaramondPro(0)/m/n/12 Two guides were designed using the Broad Institute’s CRISPR design tool (http://crispr.mit.edu/).
+Overfull \hbox (42.27032pt too wide) in paragraph at lines 115--116
+\TU/AdobeGaramondPro(0)/m/n/12 fore publication. The Pando R package is available on GitHub (https://github.com/quadbiolab/Pando).
  []
 
 
-Overfull \hbox (32.36064pt too wide) in paragraph at lines 208--209
-\TU/AdobeGaramondPro(0)/m/n/12 The following guide pair was selected: ACAGAGGGCTCCGCCACGTGTGG, CCGCGGGACG-
+Overfull \hbox (97.25267pt too wide) in paragraph at lines 115--116
+\TU/AdobeGaramondPro(0)/m/n/12 Other custom code used in the analyses is deposited on GitHub (https://github.com/quadbiolab/ASD_CHOOSE). 
  []
 
-[25]
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
+[14]) [15]
 
-Underfull \vbox (badness 1655) has occurred while \output is active []
+LaTeX Warning: Empty bibliography on input line 249.
 
- [26]
-Missing character: There is no ℃ (U+2103) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (2.63402pt too wide) in paragraph at lines 217--218
- []\TU/Futura(0)/m/n/12 Generation of single cell transcriptome and multiome of GLI3 KO and WT organoids[]
- []
-
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[27] [28] [29] [30]
-Overfull \hbox (43.70863pt too wide) in paragraph at lines 273--274
-\TU/AdobeGaramondPro(0)/m/n/12 loompy fromfastq from the python package loompy (version 3.0.6)(https://linnarssonlab.org/loompy/).
- []
-
-[31] [32] [33] [34]
-Overfull \hbox (11.54465pt too wide) in paragraph at lines 313--314
-\TU/AdobeGaramondPro(0)/m/n/12 stream of the transcription start site (TSS). We then define a linear model on the (log-normalized)
- []
-
-[35] [36]
-Overfull \hbox (9.68666pt too wide) in paragraph at lines 342--343
-\TU/AdobeGaramondPro(0)/m/n/12 an input for UMAP as implemented in the uwot R package (https://github.com/jlmelville/uwot)
- []
-
-
-Overfull \hbox (2.24034pt too wide) in paragraph at lines 345--346
- []\TU/Futura(0)/m/n/12 Region-specific GRN[] \TU/AdobeGaramondPro(0)/m/n/12 Region-specific GRN was generated by incorporating region-specific
- []
-
-[37] [38]
-Overfull \hbox (1.32349pt too wide) in paragraph at lines 364--365
- []\TU/Futura(0)/m/n/12 Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing
- []
-
-[39] [40] [41] [42]
-Overfull \hbox (7.85963pt too wide) in paragraph at lines 442--443
-\TU/AdobeGaramondPro(0)/m/n/12 the lmtest R package (version 0.9) (https://cran.r-project.org/web/packages/lmtest/index.html).
- []
-
-[43]
-Underfull \vbox (badness 1067) has occurred while \output is active []
-
- [44] [45]
-File: figures/pando/Figure_S1.png Graphic file (type bmp)
-<figures/pando/Figure_S1.png>
- [46
-
-]
-File: figures/pando/Figure_S2.png Graphic file (type bmp)
-<figures/pando/Figure_S2.png>
-
-
-LaTeX Warning: Float too large for page by 12.54684pt on input line 480.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: figures/pando/Figure_S3.png Graphic file (type bmp)
-<figures/pando/Figure_S3.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[47] [48] [49] [50]
-File: figures/pando/Figure_S4.png Graphic file (type bmp)
-<figures/pando/Figure_S4.png>
-File: figures/pando/Figure_S5.png Graphic file (type bmp)
-<figures/pando/Figure_S5.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: figures/pando/Figure_S6.png Graphic file (type bmp)
-<figures/pando/Figure_S6.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: figures/pando/Figure_S7.png Graphic file (type bmp)
-<figures/pando/Figure_S7.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: figures/pando/Figure_S8.png Graphic file (type bmp)
-<figures/pando/Figure_S8.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[51
-
-
-] [52] [53] [54] [55] [56]
-File: figures/pando/Figure_S9.png Graphic file (type bmp)
-<figures/pando/Figure_S9.png>
-File: figures/pando/Figure_S10.png Graphic file (type bmp)
-<figures/pando/Figure_S10.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [57
-
-] [58] [59
-
-]
-Overfull \hbox (0.96939pt too wide) in paragraph at lines 250--250
-\TU/AdobeGaramondPro(0)/m/n/12 dimensional culture”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 472.7341, pp. 51–56. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
- []
-
-[60]
-Overfull \hbox (6.80363pt too wide) in paragraph at lines 250--250
-[][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
- []
-
-[61] [62] [63] [64] (./thesis_main.aux)
+(./thesis_main.aux)
 Package rerunfilecheck Info: File `thesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: E0F23BBC5890A4030AD00A5B93E6AD8D;1212.
+(rerunfilecheck)             Checksum: 943739702A209BFF7ED4627317F41166;996.
 Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 \openout1 = `thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38690 strings out of 476179
- 767132 string characters out of 5809545
- 1723359 words of memory out of 5000000
- 58900 multiletter control sequences out of 15000+600000
- 478244 words of font info for 93 fonts, out of 8000000 for 9000
+ 37752 strings out of 476179
+ 738944 string characters out of 5809545
+ 1707032 words of memory out of 5000000
+ 57985 multiletter control sequences out of 15000+600000
+ 478212 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,6n,106p,3569b,5492s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,6n,106p,2164b,848s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (65 pages, 1476504 bytes).
+Output written on thesis_main.xdv (16 pages, 349056 bytes).

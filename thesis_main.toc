@@ -1,70 +1,19 @@
 \contentsline {section}{Abstract}{i}{Doc-Start}%
 \contentsline {section}{Acknowledgements}{ii}{Doc-Start}%
-\contentsline {section}{\numberline {1}Inferring and perturbing cell fate regulomes in human brain organoids}{iv}{section.1}%
+\contentsline {section}{\numberline {1}Single-cell CRISPR screening in organoids identifies origins of autism}{iv}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Abstract}{v}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Main}{v}{subsection.1.2}%
-\contentsline {paragraph}{Single-cell multiomic reconstruction of cerebral organoid development}{vii}{section*.3}%
-\contentsline {paragraph}{A gene regulatory network view of human cerebral organoid formation}{ix}{section*.5}%
-\contentsline {paragraph}{Single-cell genomic perturbation of cortical transcription factors in organoids}{xi}{section*.6}%
-\contentsline {paragraph}{GLI3 directly targets HES regulomes during human organoid telencephalon development}{xiv}{section*.8}%
-\contentsline {subsection}{\numberline {1.3}Discussion}{xvii}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Methods}{xviii}{subsection.1.4}%
-\contentsline {paragraph}{Acknowledgements}{xviii}{section*.10}%
-\contentsline {paragraph}{Author contributions}{xix}{section*.11}%
-\contentsline {paragraph}{Competing interests}{xix}{section*.12}%
-\contentsline {paragraph}{Correspondence and requests for materials}{xix}{section*.13}%
-\contentsline {paragraph}{Data availability}{xix}{section*.14}%
-\contentsline {paragraph}{Stem cell and organoid culture}{xx}{section*.15}%
-\contentsline {paragraph}{Immunohistochemistry}{xxii}{section*.16}%
-\contentsline {paragraph}{Whole mount HCR RNA-FISH}{xxii}{section*.17}%
-\contentsline {paragraph}{Doxycycline-inducible Cas9 nuclease and nickase cell line}{xxiii}{section*.18}%
-\contentsline {paragraph}{Vector and lentivirus preparation for perturbation experiment}{xxiv}{section*.19}%
-\contentsline {paragraph}{Generation of mosaic organoids for perturbation experiment}{xxiv}{section*.20}%
-\contentsline {paragraph}{Preparation of single-cell transcriptomes from mosaic perturbed organoids}{xxv}{section*.21}%
-\contentsline {paragraph}{gRNA detection from single cell cDNA}{xxv}{section*.22}%
-\contentsline {paragraph}{gRNA detection from gDNA}{xxv}{section*.23}%
-\contentsline {paragraph}{GLI3 knock-out and control line generation}{xxv}{section*.24}%
-\contentsline {paragraph}{Validation of KO lines by sequencing}{xxvi}{section*.25}%
-\contentsline {paragraph}{Western blot}{xxvii}{section*.26}%
-\contentsline {paragraph}{Generation of single cell transcriptome and multiome of GLI3 KO and WT organoids}{xxvii}{section*.27}%
-\contentsline {paragraph}{Bulk Cut\&Tag for GLI3 and H3K27ac}{xxvii}{section*.28}%
-\contentsline {paragraph}{Preprocessing of single-cell RNA-sequencing data from the organoid time course}{xxviii}{section*.29}%
-\contentsline {paragraph}{Preprocessing of single-cell ATAC-sequencing data from the organoid time course}{xxix}{section*.30}%
-\contentsline {paragraph}{Demultiplexing of different lines based on SNV information}{xxix}{section*.31}%
-\contentsline {paragraph}{Integration of transcriptome and chromatin accessibility data}{xxx}{section*.32}%
-\contentsline {paragraph}{Removal of cells with glycolysis signature}{xxx}{section*.33}%
-\contentsline {paragraph}{Integration of different lines and timepoints}{xxx}{section*.34}%
-\contentsline {paragraph}{Calculation of motif enrichment scores}{xxxi}{section*.35}%
-\contentsline {paragraph}{RNA velocity calculation}{xxxi}{section*.36}%
-\contentsline {paragraph}{Annotation of organoid developmental stages}{xxxi}{section*.37}%
-\contentsline {paragraph}{Identification of stage-specific chromatin access}{xxxii}{section*.38}%
-\contentsline {paragraph}{Inference of regional cell-fate trajectories}{xxxii}{section*.39}%
-\contentsline {paragraph}{Analysis and integration of multiome data in the neuroepithelial stage}{xxxiii}{section*.40}%
-\contentsline {paragraph}{Identification of cis-regulatory elements from multiome data}{xxxiii}{section*.41}%
-\contentsline {paragraph}{Gene regulatory network inference with Pando}{xxxiii}{section*.42}%
-\contentsline {paragraph}{Selection of candidate regions for GRN inference}{xxxiv}{section*.43}%
-\contentsline {paragraph}{Construction of an extended motif database for GRN inference}{xxxiv}{section*.44}%
-\contentsline {paragraph}{Coarse-graining expression and chromatin accessibility data}{xxxv}{section*.45}%
-\contentsline {paragraph}{Linear model-based GRN inference}{xxxv}{section*.46}%
-\contentsline {paragraph}{Peak and gene module construction}{xxxvi}{section*.47}%
-\contentsline {paragraph}{Pando implementation details}{xxxvi}{section*.48}%
-\contentsline {paragraph}{Visualization of the GRN}{xxxvii}{section*.49}%
-\contentsline {paragraph}{Region-specific GRN}{xxxvii}{section*.50}%
-\contentsline {paragraph}{Calculation of module activity and analysis of module branch specificity}{xxxviii}{section*.51}%
-\contentsline {paragraph}{Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing data}{xxxix}{section*.52}%
-\contentsline {paragraph}{Assignment of gRNA labels to cells}{xxxix}{section*.53}%
-\contentsline {paragraph}{Inference of perturbation probability}{xxxix}{section*.54}%
-\contentsline {paragraph}{Determination of transcriptomic perturbation effects in the CROP-seq screen}{xl}{section*.55}%
-\contentsline {paragraph}{Determination of composition changes in the CROP-seq screen}{xli}{section*.56}%
-\contentsline {paragraph}{Preprocessing and integration of single-cell RNA-sequencing data from the GLI3 knock-out experiment}{xlii}{section*.57}%
-\contentsline {paragraph}{CRISPResso analysis and protein sequence prediction}{xlii}{section*.58}%
-\contentsline {paragraph}{Preprocessing and integration of multiome data from the GLI3 knock-out experiment}{xlii}{section*.59}%
-\contentsline {paragraph}{Annotation of cells from the GLI3 knock-out and SHH experiment}{xliii}{section*.60}%
-\contentsline {paragraph}{Differential expression analysis for the GLI3 knock-out and SHH experiment}{xliii}{section*.61}%
-\contentsline {paragraph}{Differential accessibility analysis for the GLI3 knock-out experiment}{xliii}{section*.62}%
-\contentsline {paragraph}{Comparison of perturbation effects with gene regulatory network}{xliv}{section*.63}%
-\contentsline {paragraph}{Functional annotation of differentially accessible genomic regions}{xliv}{section*.64}%
-\contentsline {paragraph}{Analysis of GLI3 Cut\&Tag data}{xliv}{section*.65}%
-\contentsline {paragraph}{Statistics and reproducibility}{xlv}{section*.66}%
-\contentsline {subsection}{\numberline {1.5}Supplement}{xlvi}{subsection.1.5}%
-\contentsline {section}{Bibliography}{lix}{figure.caption.79}%
+\contentsline {paragraph}{Single-cell loss-of-function screening in clonally barcoded organoids}{vi}{section*.2}%
+\contentsline {paragraph}{CHOOSE cerebral organoids generate a high diversity of telencephalic cell types}{vii}{section*.3}%
+\contentsline {paragraph}{Perturbing ASD risk genes depletes dorsal IPCs and enriches ventral RGCs}{viii}{section*.4}%
+\contentsline {paragraph}{Perturbing ASD risk genes impairs upper-layer neuronal specification and ventral progenitor differentiation}{ix}{section*.5}%
+\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{x}{section*.6}%
+\contentsline {paragraph}{CHOOSE combined with GRN inference from single-cell multiome data identifies ASD-specific transcription regulatory modules}{xi}{section*.7}%
+\contentsline {paragraph}{ARID1B perturbation increases the transition probability of v-RGCs to early OPCs}{xii}{section*.8}%
+\contentsline {subsection}{\numberline {1.3}Discussion}{xiii}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Methods}{xiv}{subsection.1.4}%
+\contentsline {paragraph}{Data availability}{xiv}{section*.9}%
+\contentsline {paragraph}{Acknowledgements}{xv}{section*.10}%
+\contentsline {paragraph}{Author contributions}{xv}{section*.11}%
+\contentsline {paragraph}{Corresponding authors}{xv}{section*.12}%
+\contentsline {paragraph}{Competing interests}{xv}{section*.13}%

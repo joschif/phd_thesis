@@ -128,23 +128,23 @@
 \contentsline {paragraph}{Single-cell loss-of-function screening in clonally barcoded organoids}{112}{section*.135}%
 \contentsline {paragraph}{CHOOSE cerebral organoids generate a high diversity of telencephalic cell types}{114}{section*.136}%
 \contentsline {paragraph}{Perturbing ASD risk genes depletes dorsal IPCs and enriches ventral RGCs}{115}{section*.137}%
-\contentsline {paragraph}{Perturbing ASD risk genes impairs upper-layer neuronal specification and ventral progenitor differentiation}{117}{section*.139}%
-\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{117}{section*.141}%
+\contentsline {paragraph}{Perturbing ASD risk genes impairs upper-layer neuronal specification and ventral progenitor differentiation}{116}{section*.139}%
+\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{118}{section*.141}%
 \contentsline {paragraph}{CHOOSE combined with GRN inference from single-cell multiome data identifies ASD-specific transcription regulatory modules}{119}{section*.142}%
 \contentsline {paragraph}{ARID1B perturbation increases the transition probability of v-RGCs to early OPCs}{120}{section*.144}%
-\contentsline {subsection}{\numberline {4.3}Discussion}{122}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Discussion}{123}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Methods}{124}{subsection.4.4}%
 \contentsline {paragraph}{Data availability}{124}{section*.145}%
 \contentsline {paragraph}{Acknowledgements}{124}{section*.146}%
-\contentsline {paragraph}{Author contributions}{124}{section*.147}%
+\contentsline {paragraph}{Author contributions}{125}{section*.147}%
 \contentsline {paragraph}{Corresponding authors}{125}{section*.148}%
 \contentsline {paragraph}{Competing interests}{125}{section*.149}%
 \contentsline {paragraph}{Stem cell and cerebral organoid culture conditions}{125}{section*.150}%
-\contentsline {paragraph}{sgRNA selection and cloning}{125}{section*.151}%
+\contentsline {paragraph}{sgRNA selection and cloning}{126}{section*.151}%
 \contentsline {paragraph}{sgRNA reporter assay}{126}{section*.152}%
 \contentsline {paragraph}{Generation of barcoded CHOOSE lentiviral pool, hESCs infection and EB generation}{126}{section*.153}%
 \contentsline {paragraph}{Cerebral organoid tissue dissociation and scRNA-seq}{127}{section*.154}%
-\contentsline {paragraph}{Custom genomic reference}{127}{section*.155}%
+\contentsline {paragraph}{Custom genomic reference}{128}{section*.155}%
 \contentsline {paragraph}{gRNA and UCB recovery and analyses}{128}{section*.156}%
 \contentsline {paragraph}{Preprocessing and annotation of single-cell transcriptomics data}{129}{section*.157}%
 \contentsline {paragraph}{RNA velocity}{129}{section*.158}%
@@ -154,8 +154,8 @@
 \contentsline {paragraph}{Cellrank analysis}{132}{section*.162}%
 \contentsline {paragraph}{Immunofluorescence}{133}{section*.163}%
 \contentsline {paragraph}{Microscopy, image processing and quantification}{133}{section*.164}%
-\contentsline {paragraph}{Patient sample collection}{133}{section*.165}%
-\contentsline {paragraph}{Reprogramming of PBMCs into iPSCs}{133}{section*.166}%
+\contentsline {paragraph}{Patient sample collection}{134}{section*.165}%
+\contentsline {paragraph}{Reprogramming of PBMCs into iPSCs}{134}{section*.166}%
 \contentsline {paragraph}{Generation of isogenic control cell line for ARID1B patient}{134}{section*.167}%
 \contentsline {paragraph}{Fetal MRI and 3D reconstruction}{135}{section*.168}%
 \contentsline {subsection}{\numberline {4.5}Supplement}{136}{subsection.4.5}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  9 AUG 2022 22:00
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  10 AUG 2022 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1220,18 +1220,21 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_main.bbl' found.
  (./thesis_main.bbl
-Invalid UTF-8 byte or sequence at line 276 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 280 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 340 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 341 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 7416 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 10068 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 10072 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 10103 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 14865 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 14869 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 14929 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 14930 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 421 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 425 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 485 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 486 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3550 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3554 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3618 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9407 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12847 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12851 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12882 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 20239 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 20243 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 20303 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 20304 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 200.
 Package biblatex Info: Reference segment=0 on input line 200.
@@ -2010,17 +2013,14 @@ Underfull \vbox (badness 1655) has occurred while \output is active []
 File: figures/asd/Figure_2.png Graphic file (type bmp)
 <figures/asd/Figure_2.png>
 
-Underfull \vbox (badness 2726) has occurred while \output is active []
-
- [116]
-File: figures/asd/Figure_3.png Graphic file (type bmp)
-<figures/asd/Figure_3.png>
-
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [117]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [116]
+Underfull \vbox (badness 2726) has occurred while \output is active []
 
+ [117]
+File: figures/asd/Figure_3.png Graphic file (type bmp)
+<figures/asd/Figure_3.png>
  [118]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
@@ -2034,13 +2034,10 @@ Underfull \vbox (badness 1655) has occurred while \output is active []
 
 LaTeX Warning: Text page 121 contains only floats.
 
-[121] [122]
+[121]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [123]
-Underfull \vbox (badness 1248) has occurred while \output is active []
-
- [124] [125] [126]
+ [122] [123] [124] [125] [126]
 Overfull \hbox (1.04764pt too wide) in paragraph at lines 185--186
 \TU/AdobeGaramondPro(0)/m/n/12 dissociator in trypsin/accutase (1X) solution with TURBO$[]$ DNase (2 ul/mL, ThermoFisher,
  []
@@ -2050,10 +2047,10 @@ Overfull \hbox (10.31969pt too wide) in paragraph at lines 185--186
 \TU/AdobeGaramondPro(0)/m/n/12 cat. no. AM2238). After dissociation, DPBS-/- supplemented with 10% FBS (DPBS/10%FBS)
  []
 
-[127]
+
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [128]
+ [127] [128]
 Overfull \hbox (2.30615pt too wide) in paragraph at lines 208--211
  []\TU/Futura(0)/m/n/12 RNA velocity[] \TU/AdobeGaramondPro(0)/m/n/12 To obtain count matrices for spliced and unspliced transcripts, we used kallisto
  []
@@ -2063,13 +2060,10 @@ Overfull \hbox (7.26729pt too wide) in paragraph at lines 208--211
 \TU/AdobeGaramondPro(0)/m/n/12 age loompy (version 3.0.7)(https://linnarssonlab.org/loompy/). Using scVelo (version 0.2.4)16,
  []
 
-[129] [130]
+[129]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [131] [132] [133]
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
- [134] [135]
+ [130] [131] [132] [133] [134] [135]
 File: figures/asd/Figure_S1.png Graphic file (type bmp)
 <figures/asd/Figure_S1.png>
 File: figures/asd/Figure_S2.png Graphic file (type bmp)
@@ -2185,31 +2179,41 @@ Overfull \hbox (0.48843pt too wide) in paragraph at lines 249--249
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
-
+[162]
 Overfull \hbox (6.80363pt too wide) in paragraph at lines 249--249
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
 
-[162]
+[163] [164]
 Overfull \hbox (10.02539pt too wide) in paragraph at lines 249--249
 \TU/AdobeGaramondPro(0)/m/n/12 analysis: a tutorial”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Molecular Systems Biology \TU/AdobeGaramondPro(0)/m/n/12 15.6. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][][] [] [][][] [] [][][][][][][][]$[]. 
  []
 
-[163] [164]
+[165] [166]
 Overfull \hbox (3.01353pt too wide) in paragraph at lines 249--249
 \TU/AdobeGaramondPro(0)/m/n/12 tent stem cells in 3D culture”. eng. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature methods \TU/AdobeGaramondPro(0)/m/n/12 12.7. Edition: 2015/05/25, pp. 671–
  []
 
-[165]
+[167]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[166] [167] [168]
+[168]
+Overfull \hbox (4.69067pt too wide) in paragraph at lines 249--249
+[][]\TU/AdobeGaramondPro(0)/m/n/12 Schmitz, M. T., K. Sandoval, C. P. Chen, M. A. Mostajo-Radji, W. W. Seeley, T. J. Nowakowski,
+ []
+
+[169] [170]
+Overfull \hbox (3.49762pt too wide) in paragraph at lines 249--249
+[][]\TU/AdobeGaramondPro(0)/m/n/12 Study, T. D. et al. (2014). “Synaptic, transcriptional, and chromatin genes disrupted in autism”.
+ []
+
+[171]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[169]
+[172]
 Overfull \hbox (0.89857pt too wide) in paragraph at lines 249--249
 \TU/AdobeGaramondPro(0)/m/n/12 tions When Fused with Cortical Organoids”. In: \TU/AdobeGaramondPro(0)/m/it/12 Cell Stem Cell \TU/AdobeGaramondPro(0)/m/n/12 24.3. Edition: 2019/02/26,
  []
 
-[170] [171] (./thesis_main.aux)
+[173] [174] (./thesis_main.aux)
 Package rerunfilecheck Info: File `thesis_main.out' has not changed.
 (rerunfilecheck)             Checksum: D2E8DB8F6AD6232761EA459DD14BFEA3;7083.
 Package logreq Info: Writing requests to 'thesis_main.run.xml'.
@@ -2217,12 +2221,12 @@ Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39954 strings out of 476179
- 807291 string characters out of 5809545
- 1874463 words of memory out of 5000000
- 60118 multiletter control sequences out of 15000+600000
+ 40188 strings out of 476179
+ 815859 string characters out of 5809545
+ 2018287 words of memory out of 5000000
+ 60352 multiletter control sequences out of 15000+600000
  478268 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,106p,3569b,5504s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,106p,3569b,5506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (178 pages, 3938436 bytes).
+Output written on thesis_main.xdv (181 pages, 4054236 bytes).

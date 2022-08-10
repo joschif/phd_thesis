@@ -17,53 +17,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 33420 items from 5000.
 Database file #1: thesis_main-blx.bib
 Database file #2: bib/thesis.bib
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Reallocated str_pool (elt_size=1) to 195000 items from 130000.
-Reallocated str_pool (elt_size=1) to 260000 items from 195000.
 Biblatex version: 3.17
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 203 entries,
+You've used 1 entry,
             6399 wiz_defined-function locations,
-            2770 strings with 246013 characters,
-and the built_in function-call counts, 5839617 in all, are:
-= -- 555017
-> -- 60878
-< -- 8578
-+ -- 213619
-- -- 37613
-* -- 458656
-:= -- 785602
+            1203 strings with 8990 characters,
+and the built_in function-call counts, 1550 in all, are:
+= -- 73
+> -- 73
+< -- 1
++ -- 52
+- -- 30
+* -- 32
+:= -- 373
 add.period$ -- 0
-call.type$ -- 203
-change.case$ -- 2718
-chr.to.int$ -- 2630
-cite$ -- 404
-duplicate$ -- 560760
-empty$ -- 461372
-format.name$ -- 35480
-if$ -- 1101224
+call.type$ -- 1
+change.case$ -- 0
+chr.to.int$ -- 44
+cite$ -- 0
+duplicate$ -- 11
+empty$ -- 104
+format.name$ -- 0
+if$ -- 326
 int.to.chr$ -- 0
-int.to.str$ -- 567
+int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 20120
-num.names$ -- 9141
-pop$ -- 108359
+newline$ -- 20
+num.names$ -- 0
+pop$ -- 47
 preamble$ -- 1
-purify$ -- 7405
+purify$ -- 0
 quote$ -- 0
-skip$ -- 49234
+skip$ -- 78
 stack$ -- 0
-substring$ -- 1164805
-swap$ -- 68160
-text.length$ -- 9718
-text.prefix$ -- 219
+substring$ -- 155
+swap$ -- 1
+text.length$ -- 20
+text.prefix$ -- 0
 top$ -- 1
-type$ -- 6865
+type$ -- 22
 warning$ -- 0
-while$ -- 90350
+while$ -- 65
 width$ -- 0
-write$ -- 19918
+write$ -- 20

@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex test"] 1659615580 "test.aux" "test.bbl" "test" 1659615583
-  "../bib/thesis.bib" 1659612529 250569 e431c63d42d9b735b870b59fd7421218 ""
+["bibtex test"] 1660220528 "test.aux" "test.bbl" "test" 1660220528
+  "../bib/thesis.bib" 1660135018 351608 9e8ba904571a0687deaea006d8d38872 ""
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1643926307 65483 fc69f364ef63c07bf68a2ab4b323f197 ""
   "test-blx.bib" 1659615582 342 45c2be6094c1b6af366aa08fe4432fc3 "xelatex"
   "test.aux" 1659615582 1439 bf21d623ed1e72f637e1afd5628ff410 "xelatex"
   (generated)
   "test.bbl"
   "test.blg"
-["xdvipdfmx"] 1659615582 "test.xdv" "test.pdf" "test" 1659615583
+["xdvipdfmx"] 1659615582 "test.xdv" "test.pdf" "test" 1660220528
   "test.xdv" 1659615582 16380 4b281026ca7beb4332176ac0fb64cd05 "xelatex"
   (generated)
   "test.pdf"
-["xelatex"] 1659615580 "/Users/jfleck/Dropbox/PhD/thesis/latex/test/test.tex" "test.xdv" "test" 1659615583
+["xelatex"] 1659615580 "/Users/jfleck/Dropbox/PhD/thesis/latex/test/test.tex" "test.xdv" "test" 1660220528
   "/Users/jfleck/Dropbox/PhD/thesis/latex/test/test.tex" 1659615577 1138 7a02a333a04f72c5aeaa1be3b6d732ff ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -58,7 +58,7 @@
   "/usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1654541345 5419892 10484972f50ebd5e115570c2a4e62e1a ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "test.aux" 1659615582 1439 bf21d623ed1e72f637e1afd5628ff410 "xelatex"
-  "test.bbl" 1659615580 10281 2995312aa0bc9725bc5a09684defa799 "bibtex test"
+  "test.bbl" 1660220528 10281 2995312aa0bc9725bc5a09684defa799 "bibtex test"
   "test.run.xml" 1659615582 2571 27ff7d851074084415dcd203c7e7a2bb "xelatex"
   "test.tex" 1659615577 1138 7a02a333a04f72c5aeaa1be3b6d732ff ""
   (generated)

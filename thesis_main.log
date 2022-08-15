@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  12 AUG 2022 14:01
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  15 AUG 2022 09:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1040,7 +1040,7 @@ Package biblatex Info: ... and expl3
  (/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 ))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 200.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 203.
 \@quotelevel=\count543
 \@quotereset=\count544
  (./thesis_main.aux
@@ -1059,30 +1059,30 @@ LaTeX Warning: Label `fig:regS3' multiply defined.
 )
 \openout1 = `thesis_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 200.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 200.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 203.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 203.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
@@ -1131,56 +1131,56 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 200.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 200.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 200.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 200.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 200.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 200.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 200.
-LaTeX Font Info:    Redeclaring math accent \check on input line 200.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 200.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 200.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 200.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 200.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 200.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 203.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 203.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 203.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 203.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 203.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 203.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 203.
+LaTeX Font Info:    Redeclaring math accent \check on input line 203.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 203.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 203.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 203.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 203.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 200.
+(Font)              `operators' in the math version `normal' on input line 203.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/AdobeGaramondPro(0)/m/n on input line 200.
+(Font)                  OT1/cmr/m/n --> TU/AdobeGaramondPro(0)/m/n on input line 203.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 200.
+(Font)              `operators' in the math version `bold' on input line 203.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/AdobeGaramondPro(0)/m/n on input line 200.
+(Font)                  OT1/cmr/bx/n --> TU/AdobeGaramondPro(0)/m/n on input line 203.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/AdobeGaramondPro(0)/m/n --> TU/AdobeGaramondPro(0)/m/n on input line 200.
+(Font)                  TU/AdobeGaramondPro(0)/m/n --> TU/AdobeGaramondPro(0)/m/n on input line 203.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/AdobeGaramondPro(0)/m/it on input line 200.
+(Font)                  OT1/cmr/m/it --> TU/AdobeGaramondPro(0)/m/it on input line 203.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/AdobeGaramondPro(0)/b/n on input line 200.
+(Font)                  OT1/cmr/bx/n --> TU/AdobeGaramondPro(0)/b/n on input line 203.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Futura(0)/m/n on input line 200.
+(Font)                  OT1/cmss/m/n --> TU/Futura(0)/m/n on input line 203.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 200.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 203.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/AdobeGaramondPro(0)/m/n --> TU/AdobeGaramondPro(0)/b/n on input line 200.
+(Font)                  TU/AdobeGaramondPro(0)/m/n --> TU/AdobeGaramondPro(0)/b/n on input line 203.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/AdobeGaramondPro(0)/b/it on input line 200.
+(Font)                  OT1/cmr/bx/it --> TU/AdobeGaramondPro(0)/b/it on input line 203.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Futura(0)/b/n on input line 200.
+(Font)                  OT1/cmss/bx/n --> TU/Futura(0)/b/n on input line 203.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 200.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 203.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -1190,7 +1190,7 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 200.
+Package hyperref Info: Link coloring OFF on input line 203.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1200,20 +1200,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count545
 )
-LaTeX Info: Redefining \ref on input line 200.
-LaTeX Info: Redefining \pageref on input line 200.
-LaTeX Info: Redefining \nameref on input line 200.
+LaTeX Info: Redefining \ref on input line 203.
+LaTeX Info: Redefining \pageref on input line 203.
+LaTeX Info: Redefining \nameref on input line 203.
  (./thesis_main.out) (./thesis_main.out)
 \@outlinefile=\write8
 \openout8 = `thesis_main.out'.
 
 
-Package chemgreek Info: Activating mapping `fontspec' on line 200.
+Package chemgreek Info: Activating mapping `fontspec' on line 203.
 
  (/usr/local/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 200.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 203.
 \c@lstlisting=\count546
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1233,27 +1233,27 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_main.bbl' found.
  (./thesis_main.bbl
-Invalid UTF-8 byte or sequence at line 421 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 425 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 485 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 486 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 3550 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 3554 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 3618 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9737 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13219 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13223 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13254 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 20780 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 20784 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 21340 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 21384 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 21388 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 21448 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 21449 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 604 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 608 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 668 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 669 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3733 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3737 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3801 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9920 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13447 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13451 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13482 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 21008 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 21012 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 21568 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 21612 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 21616 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 21676 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 21677 replaced by U+FFFD.
 )
-Package biblatex Info: Reference section=0 on input line 200.
-Package biblatex Info: Reference segment=0 on input line 200.
+Package biblatex Info: Reference section=0 on input line 203.
+Package biblatex Info: Reference segment=0 on input line 203.
  (./chapters/title.tex [1
 
 ]) (./chapters/abstract.tex) [1
@@ -1301,17 +1301,23 @@ Underfull \vbox (badness 2671) has occurred while \output is active []
  [4] [5] [6
 
 ] [7]
-File: figures/introduction/Figure_3.png Graphic file (type bmp)
-<figures/introduction/Figure_3.png>
- [8] [9] [10]
-Underfull \vbox (badness 6625) has occurred while \output is active []
+File: figures/introduction/Figure_tech.png Graphic file (type bmp)
+<figures/introduction/Figure_tech.png>
+ [8]
+File: figures/introduction/Figure_chromatin.png Graphic file (type bmp)
+<figures/introduction/Figure_chromatin.png>
+ [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11] [12]
-Overfull \hbox (3.96866pt too wide) in paragraph at lines 168--169
+ [10]
+Underfull \vbox (badness 1009) has occurred while \output is active []
+
+ [11] [12] [13]
+Overfull \hbox (3.96866pt too wide) in paragraph at lines 175--176
 []\TU/AdobeGaramondPro(0)/m/n/12 Organoids are particularly well suited for performing perturbation screens in high-through-
  []
 
-[13]) [14] [15
+) [14] [15] [16
 
 ]
 File: pdfs/chapter_2.pdf Graphic file (type pdf)
@@ -1328,7 +1334,7 @@ File: pdfs/chapter_2.pdf Graphic file (type pdf)
 <use pdfs/chapter_2.pdf, page 1>
 File: pdfs/chapter_2.pdf Graphic file (type pdf)
 <use pdfs/chapter_2.pdf, page 1>
- [16] (./chapters/voxhunt.tex
+ [17] (./chapters/voxhunt.tex
 Overfull \hbox (10.0788pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Resolving organoid brain region iden-
  []
@@ -1336,7 +1342,7 @@ Overfull \hbox (10.0788pt too wide) in paragraph at lines 2--2
 
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
- [17]
+ [18]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1344,7 +1350,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[18]
+[19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1355,7 +1361,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[19]
+[20]
 File: figures/voxhunt/Figure_1.png Graphic file (type bmp)
 <figures/voxhunt/Figure_1.png>
 
@@ -1366,7 +1372,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[20]
+[21]
 File: figures/voxhunt/Figure_2.png Graphic file (type bmp)
 <figures/voxhunt/Figure_2.png>
 
@@ -1377,7 +1383,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[21]
+[22]
 File: figures/voxhunt/Figure_3.png Graphic file (type bmp)
 <figures/voxhunt/Figure_3.png>
 
@@ -1388,7 +1394,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[22]
+[23]
 Underfull \vbox (badness 2591) has occurred while \output is active []
 
 
@@ -1399,7 +1405,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[23]
+[24]
 File: figures/voxhunt/Figure_4.png Graphic file (type bmp)
 <figures/voxhunt/Figure_4.png>
 
@@ -1410,7 +1416,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[24]
+[25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1421,7 +1427,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[25]
+[26]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1429,7 +1435,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[26]
+[27]
 File: figures/voxhunt/Figure_5.png Graphic file (type bmp)
 <figures/voxhunt/Figure_5.png>
 
@@ -1443,7 +1449,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[27]
+[28]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1451,7 +1457,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[28]
+[29]
 File: figures/voxhunt/Figure_6.png Graphic file (type bmp)
 <figures/voxhunt/Figure_6.png>
 
@@ -1465,7 +1471,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[29]
+[30]
 Overfull \hbox (6.74574pt too wide) in paragraph at lines 173--175
  []\TU/Futura(0)/m/n/12 Assessing organoid patterning using multiplexed transcriptomics and reference map-
  []
@@ -1481,7 +1487,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[30]
+[31]
 File: figures/voxhunt/Figure_7.png Graphic file (type bmp)
 <figures/voxhunt/Figure_7.png>
 
@@ -1495,7 +1501,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[31]
+[32]
 Underfull \vbox (badness 1152) has occurred while \output is active []
 
 
@@ -1506,7 +1512,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[32]
+[33]
 Overfull \hbox (15.54767pt too wide) in paragraph at lines 210--212
 \TU/AdobeGaramondPro(0)/m/n/12 NKX2.1GFP/w hESCs (passage 69) were trypsinized using TrypLETM Express Enzyme (Thermo
  []
@@ -1518,7 +1524,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[33]
+[34]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1526,7 +1532,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[34]
+[35]
 Overfull \hbox (4.19951pt too wide) in paragraph at lines 226--227
  []\TU/Futura(0)/m/n/12 Sequencing of SS2 libraries[] \TU/AdobeGaramondPro(0)/m/n/12 The pooled libraries were appropriately diluted and sequenced
  []
@@ -1543,7 +1549,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[35]
+[36]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1551,7 +1557,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[36]
+[37]
 Overfull \hbox (3.78062pt too wide) in paragraph at lines 238--239
 \TU/AdobeGaramondPro(0)/m/n/12 human brain was obtained from BrainSpan ([]http://www.brainspan.org/static/download.html[]).
  []
@@ -1563,7 +1569,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[37]
+[38]
 Overfull \hbox (0.70934pt too wide) in paragraph at lines 247--248
  []\TU/Futura(0)/m/n/12 Correlation of single-cell transcriptomes to brain structures[] \TU/AdobeGaramondPro(0)/m/n/12 To determine best match-
  []
@@ -1579,18 +1585,10 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[38]
+[39]
 Underfull \vbox (badness 4819) has occurred while \output is active []
 
 
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 26.80603pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.80603pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
-
-[39]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1615,6 +1613,14 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
 [42]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[43]
 File: figures/voxhunt/Supp_1.png Graphic file (type bmp)
 <figures/voxhunt/Supp_1.png>
 File: figures/voxhunt/Supp_2.png Graphic file (type bmp)
@@ -1652,14 +1658,6 @@ File: figures/voxhunt/Supp_6.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 26.80603pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.80603pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
-
-[43]
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
 (fancyhdr)                Make it at least 26.80603pt, for example:
@@ -1723,7 +1721,15 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
 
-[51] [52
+[51]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 26.80603pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.80603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.80603pt}.
+
+[52] [53
 
 ]
 File: pdfs/chapter_3.pdf Graphic file (type pdf)
@@ -1740,7 +1746,7 @@ File: pdfs/chapter_3.pdf Graphic file (type pdf)
 <use pdfs/chapter_3.pdf, page 1>
 File: pdfs/chapter_3.pdf Graphic file (type pdf)
 <use pdfs/chapter_3.pdf, page 1>
- [53] (./chapters/pando.tex
+ [54] (./chapters/pando.tex
 Overfull \hbox (4.37056pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Inferring and perturbing cell fate reg-
  []
@@ -1750,60 +1756,60 @@ Overfull \hbox (7.48082pt too wide) in paragraph at lines 15--27
 \TU/AdobeGaramondPro(0)/m/n/12 Jonas Simon Fleck$[]$, Sophie Martina Johanna Jansen$[]$, Damian Wollny$[]$, Fides Zenk$[]$, Makiko
  []
 
-[54] [55]
+[55] [56]
 File: figures/pando/Figure_1.png Graphic file (type bmp)
 <figures/pando/Figure_1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56] [57]
+ [57] [58]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58]
+ [59]
 File: figures/pando/Figure_2.png Graphic file (type bmp)
 <figures/pando/Figure_2.png>
 
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [59]
+ [60]
 Underfull \vbox (badness 7504) has occurred while \output is active []
 
- [60]
+ [61]
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [61]
+ [62]
 File: figures/pando/Figure_3.png Graphic file (type bmp)
 <figures/pando/Figure_3.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62] [63]
+ [63] [64]
 File: figures/pando/Figure_4.png Graphic file (type bmp)
 <figures/pando/Figure_4.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [65]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66] [67]
+ [66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67] [68]
 Overfull \hbox (3.29735pt too wide) in paragraph at lines 152--153
 \TU/AdobeGaramondPro(0)/m/n/12 LGE/CGE neurons. The integration of the single-cell multiome data from GLI3 KO organoids
  []
 
-[68] [69]
+[69] [70]
 Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [70]
+ [71]
 Underfull \vbox (badness 6348) has occurred while \output is active []
 
- [71]
+ [72]
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
@@ -1811,13 +1817,13 @@ Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[72]
+[73]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [73]
+ [74]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [74]
+ [75]
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
@@ -1848,7 +1854,7 @@ Overfull \hbox (32.36064pt too wide) in paragraph at lines 208--209
 \TU/AdobeGaramondPro(0)/m/n/12 The following guide pair was selected: ACAGAGGGCTCCGCCACGTGTGG, CCGCGGGACG-
  []
 
-[75]
+[76]
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
@@ -1887,7 +1893,7 @@ Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [76]
+ [77]
 Missing character: There is no ℃ (U+2103) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 
 Overfull \hbox (2.63402pt too wide) in paragraph at lines 217--218
@@ -1897,12 +1903,12 @@ Overfull \hbox (2.63402pt too wide) in paragraph at lines 217--218
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no   (U+2009) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[77] [78] [79] [80] [81] [82] [83] [84]
+[78] [79] [80] [81] [82] [83] [84] [85]
 Overfull \hbox (11.54465pt too wide) in paragraph at lines 313--314
 \TU/AdobeGaramondPro(0)/m/n/12 stream of the transcription start site (TSS). We then define a linear model on the (log-normalized)
  []
 
-[85] [86]
+[86] [87]
 Overfull \hbox (9.68666pt too wide) in paragraph at lines 342--343
 \TU/AdobeGaramondPro(0)/m/n/12 an input for UMAP as implemented in the uwot R package (https://github.com/jlmelville/uwot)
  []
@@ -1912,23 +1918,23 @@ Overfull \hbox (2.24034pt too wide) in paragraph at lines 345--346
  []\TU/Futura(0)/m/n/12 Region-specific GRN[] \TU/AdobeGaramondPro(0)/m/n/12 Region-specific GRN was generated by incorporating region-specific
  []
 
-[87] [88]
+[88] [89]
 Overfull \hbox (1.32349pt too wide) in paragraph at lines 364--365
  []\TU/Futura(0)/m/n/12 Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing
  []
 
-[89] [90] [91] [92]
+[90] [91] [92] [93]
 Overfull \hbox (7.85963pt too wide) in paragraph at lines 442--443
 \TU/AdobeGaramondPro(0)/m/n/12 the lmtest R package (version 0.9) (https://cran.r-project.org/web/packages/lmtest/index.html).
  []
 
-[93]
+[94]
 Underfull \vbox (badness 1067) has occurred while \output is active []
 
- [94] [95]
+ [95] [96]
 File: figures/pando/Figure_S1.png Graphic file (type bmp)
 <figures/pando/Figure_S1.png>
- [96
+ [97
 
 ]
 File: figures/pando/Figure_S2.png Graphic file (type bmp)
@@ -1945,7 +1951,7 @@ File: figures/pando/Figure_S3.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[97] [98] [99] [100]
+[98] [99] [100] [101]
 File: figures/pando/Figure_S4.png Graphic file (type bmp)
 <figures/pando/Figure_S4.png>
 File: figures/pando/Figure_S5.png Graphic file (type bmp)
@@ -1972,10 +1978,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[101
+[102
 
 
-] [102] [103] [104] [105] [106]
+] [103] [104] [105] [106] [107]
 File: figures/pando/Figure_S9.png Graphic file (type bmp)
 <figures/pando/Figure_S9.png>
 File: figures/pando/Figure_S10.png Graphic file (type bmp)
@@ -1984,9 +1990,9 @@ File: figures/pando/Figure_S10.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [107
+) [108
 
-] [108]
+] [109]
 File: pdfs/chapter_4.pdf Graphic file (type pdf)
 <use pdfs/chapter_4.pdf>
 File: pdfs/chapter_4.pdf Graphic file (type pdf)
@@ -2001,14 +2007,14 @@ File: pdfs/chapter_4.pdf Graphic file (type pdf)
 <use pdfs/chapter_4.pdf, page 1>
 File: pdfs/chapter_4.pdf Graphic file (type pdf)
 <use pdfs/chapter_4.pdf, page 1>
- [109
+ [110
 
 ] (./chapters/asd.tex
 Overfull \hbox (41.50056pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Single-cell CRISPR screening in organoids
  []
 
-[110] [111
+[111] [112
 
 ]
 File: figures/asd/Figure_1.png Graphic file (type bmp)
@@ -2016,44 +2022,44 @@ File: figures/asd/Figure_1.png Graphic file (type bmp)
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [112]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [113]
-Underfull \vbox (badness 1655) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [114]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
  [115]
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+ [116]
 File: figures/asd/Figure_2.png Graphic file (type bmp)
 <figures/asd/Figure_2.png>
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [116]
+ [117]
 Underfull \vbox (badness 2726) has occurred while \output is active []
 
- [117]
+ [118]
 File: figures/asd/Figure_3.png Graphic file (type bmp)
 <figures/asd/Figure_3.png>
- [118]
+ [119]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [119]
+ [120]
 File: figures/asd/Figure_4.png Graphic file (type bmp)
 <figures/asd/Figure_4.png>
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [120]
+ [121]
 
-LaTeX Warning: Text page 121 contains only floats.
+LaTeX Warning: Text page 122 contains only floats.
 
-[121]
+[122]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122] [123] [124] [125] [126]
+ [123] [124] [125] [126] [127]
 Overfull \hbox (1.04764pt too wide) in paragraph at lines 185--186
 \TU/AdobeGaramondPro(0)/m/n/12 dissociator in trypsin/accutase (1X) solution with TURBO$[]$ DNase (2 ul/mL, ThermoFisher,
  []
@@ -2066,7 +2072,7 @@ Overfull \hbox (10.31969pt too wide) in paragraph at lines 185--186
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [127] [128]
+ [128] [129]
 Overfull \hbox (2.30615pt too wide) in paragraph at lines 208--211
  []\TU/Futura(0)/m/n/12 RNA velocity[] \TU/AdobeGaramondPro(0)/m/n/12 To obtain count matrices for spliced and unspliced transcripts, we used kallisto
  []
@@ -2076,10 +2082,10 @@ Overfull \hbox (7.26729pt too wide) in paragraph at lines 208--211
 \TU/AdobeGaramondPro(0)/m/n/12 age loompy (version 3.0.7)(https://linnarssonlab.org/loompy/). Using scVelo (version 0.2.4)16,
  []
 
-[129]
+[130]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [130] [131] [132] [133] [134] [135]
+ [131] [132] [133] [134] [135] [136]
 File: figures/asd/Figure_S1.png Graphic file (type bmp)
 <figures/asd/Figure_S1.png>
 File: figures/asd/Figure_S2.png Graphic file (type bmp)
@@ -2131,9 +2137,9 @@ File: figures/asd/Figure_S10.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [136
+) [137
 
-] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146
+] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147
 
 ]
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
@@ -2150,7 +2156,7 @@ File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf, page 1>
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf, page 1>
- [147] (./chapters/cnt.tex
+ [148] (./chapters/cnt.tex
 Overfull \hbox (21.11043pt too wide) in paragraph at lines 2--2
 []\TU/Futura(0)/b/n/20.74 Single cell epigenomic landscape of hu-
  []
@@ -2160,70 +2166,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--34
 
  []
 
-[148]
+[149]
 File: figures/cnt/Figure_1.png Graphic file (type bmp)
 <figures/cnt/Figure_1.png>
- [149
+ [150
 
 ]
 Underfull \vbox (badness 1442) has occurred while \output is active []
 
- [150]
+ [151]
 Underfull \vbox (badness 2644) has occurred while \output is active []
 
- [151]
+ [152]
 File: figures/cnt/Figure_2.png Graphic file (type bmp)
 <figures/cnt/Figure_2.png>
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [152]
+ [153]
 
-LaTeX Warning: Text page 153 contains only floats.
+LaTeX Warning: Text page 154 contains only floats.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153] [154]
+ [154] [155]
 File: figures/cnt/Figure_3.png Graphic file (type bmp)
 <figures/cnt/Figure_3.png>
 
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [155] [156] [157]
+ [156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157] [158]
 Overfull \hbox (2.61572pt too wide) in paragraph at lines 130--131
  []\TU/Futura(0)/m/n/12 Cell and organoid culture[] \TU/AdobeGaramondPro(0)/m/n/12 For culturing cells were grown on matrigel (Corning, #354277)
  []
 
-[158]
+[159] [160]
 Overfull \hbox (9.57457pt too wide) in paragraph at lines 153--155
  []\TU/Futura(0)/m/n/12 Cloning and purification of Tn5[] \TU/AdobeGaramondPro(0)/m/n/12 Plasmids #123461 (pA/G-MNase) and #124601 (3XFlag-
  []
 
-[159]
+
 Underfull \hbox (badness 10000) in paragraph at lines 156--165
 
  []
 
-[160] [161] [162]
+[161]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [162]
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [163]
 Missing character: There is no β (U+03B2) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[163] [164] [165] [166] [167]
+[164] [165] [166] [167] [168] [169]
 File: figures/cnt/Figure_S1.png Graphic file (type bmp)
 <figures/cnt/Figure_S1.png>
 File: figures/cnt/Figure_S2.png Graphic file (type bmp)
 <figures/cnt/Figure_S2.png>
+ [170
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+]
 File: figures/cnt/Figure_S3.png Graphic file (type bmp)
 <figures/cnt/Figure_S3.png>
 
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [168
-
-] [169] [170] [171
+) [171] [172] [173
 
 ]
 File: pdfs/chapter_6.pdf Graphic file (type pdf)
@@ -2240,85 +2253,84 @@ File: pdfs/chapter_6.pdf Graphic file (type pdf)
 <use pdfs/chapter_6.pdf, page 1>
 File: pdfs/chapter_6.pdf Graphic file (type pdf)
 <use pdfs/chapter_6.pdf, page 1>
- [172] (./chapters/conclusions.tex [173]
+ [174] (./chapters/conclusions.tex [175]
 Underfull \vbox (badness 2671) has occurred while \output is active []
 
- [174]
+ [176]
 Underfull \vbox (badness 6348) has occurred while \output is active []
 
- [175] [176]
+ [177] [178]
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [177]) [178]
+ [179]) [180]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[179
+[181
 
-] [180] [181]
-Overfull \hbox (0.96939pt too wide) in paragraph at lines 248--248
+] [182] [183]
+Overfull \hbox (0.96939pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/n/12 dimensional culture”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 472.7341, pp. 51–56. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
-[182] [183] [184]
-Overfull \hbox (0.48843pt too wide) in paragraph at lines 248--248
+[184] [185] [186]
+Overfull \hbox (0.48843pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
-
-Overfull \hbox (6.80363pt too wide) in paragraph at lines 248--248
+[187]
+Overfull \hbox (6.80363pt too wide) in paragraph at lines 251--251
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
 
-[185] [186]
-Overfull \hbox (10.02539pt too wide) in paragraph at lines 248--248
+[188]
+Overfull \hbox (10.02539pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/n/12 analysis: a tutorial”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Molecular Systems Biology \TU/AdobeGaramondPro(0)/m/n/12 15.6. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][][] [] [][][] [] [][][][][][][][]$[]. 
  []
 
-[187] [188]
-Overfull \hbox (3.01353pt too wide) in paragraph at lines 248--248
+[189] [190] [191]
+Overfull \hbox (3.01353pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/n/12 tent stem cells in 3D culture”. eng. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature methods \TU/AdobeGaramondPro(0)/m/n/12 12.7. Edition: 2015/05/25, pp. 671–
  []
 
-[189]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[190]
-Overfull \hbox (21.6454pt too wide) in paragraph at lines 248--248
+[192] [193]
+Overfull \hbox (21.6454pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/n/12 glial–cell specification”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 468.7321, pp. 214–222. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
-[191]
-Overfull \hbox (4.69067pt too wide) in paragraph at lines 248--248
+
+Overfull \hbox (4.69067pt too wide) in paragraph at lines 251--251
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Schmitz, M. T., K. Sandoval, C. P. Chen, M. A. Mostajo-Radji, W. W. Seeley, T. J. Nowakowski,
  []
 
-[192]
-Overfull \hbox (3.49762pt too wide) in paragraph at lines 248--248
+[194]
+Overfull \hbox (3.49762pt too wide) in paragraph at lines 251--251
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Study, T. D. et al. (2014). “Synaptic, transcriptional, and chromatin genes disrupted in autism”.
  []
 
-[193] [194]
+[195] [196]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (0.89857pt too wide) in paragraph at lines 248--248
+Overfull \hbox (0.89857pt too wide) in paragraph at lines 251--251
 \TU/AdobeGaramondPro(0)/m/n/12 tions When Fused with Cortical Organoids”. In: \TU/AdobeGaramondPro(0)/m/it/12 Cell Stem Cell \TU/AdobeGaramondPro(0)/m/n/12 24.3. Edition: 2019/02/26,
  []
 
-[195] [196] (./thesis_main.aux)
+[197] [198] (./thesis_main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `thesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: 692DFA4211A39DF7BD597B9147620A7A;7058.
+(rerunfilecheck)             Checksum: 46EE0277A71EA22B32D341E0879EA1E2;7058.
 Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 \openout1 = `thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40310 strings out of 476179
- 819245 string characters out of 5809545
- 2036259 words of memory out of 5000000
- 60472 multiletter control sequences out of 15000+600000
+ 40336 strings out of 476179
+ 820325 string characters out of 5809545
+ 2038516 words of memory out of 5000000
+ 60496 multiletter control sequences out of 15000+600000
  478268 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,106p,3569b,5504s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,106p,3569b,5502s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (203 pages, 4543048 bytes).
+Output written on thesis_main.xdv (205 pages, 4578128 bytes).

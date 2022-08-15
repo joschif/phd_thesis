@@ -96,7 +96,7 @@ To interrogate these developmental changes at higher resolution, we next examine
 
 To explore the dynamics of gene activation and repression during differentiation, we clustered genes based on their mean gene activity and expression within pseudotime bins. This revealed three major groups of switches: The first one between pluripotency and neuroectoderm, the second between neuroectoderm and neural progenitor cell and the third between neural progenitors and neurons (Figure 2G). We observed that during development many neuronal genes lose H3K27me3 mediated repression before accumulating H3K27ac and H3K4me3 and ultimately start RNA expression (Figure 2G and H; NEUROD6, BCL11A, STMN2). These results support a model in which chromatin can be primed with activating histone modifications directing the expression of target genes in the future. At the same time, we captured the silencing of non-neuronal genes when cells exit from pluripotency and transition to neuroectoderm. These genes become down-regulated and lose active histone modifications while gaining H3K27me3 at the neuroectoderm stage. At more differentiated stages they can remain silenced in absence of H3K27me3 (Figure 2G and H; POU5F1).
 
-\begin{figure}[t!]
+\begin{figure}[b!]
     \centering
 	\includegraphics[width=0.9\textwidth]{figures/cnt/Figure_3}
     \label{fig:cnt2}
@@ -104,7 +104,7 @@ To explore the dynamics of gene activation and repression during differentiation
 
 \begin{figure}[t!]
     \caption{\textbf{Aberrant fate acquisition upon perturbation of EED.}
-    (A) Schematic of the experiment. Organoids were treated with EED inhibitor from day 0 to day 15} 
+    (A) Schematic of the experiment. Organoids were treated with EED inhibitor from day 0 to day 15. During the neuroectoderm stage (day 15-18) organoids were profiled with scRNA-seq and bulk Cut\&Tag. (B) Heatmaps showing peak intensities from the bulk Cut\&Tag experiment for EED-inhibitor (10$\mu$M) and DMSO-treated organoids. Regions are ordered by H3K27me3 intensity. (C) Scatter plot showing log$_2$ fold change of peak intensities of organoids treated with different EED-inhibitor concentrations versus the DMSO control and histogram showing distribution of fold changes (top). Heatmap showing the log$_2$ fold change of expression of the closest gene from DE analysis in scRNA-seq data. (D) Genomic tracks showing bulk Cut\&Tag profiles for H3K27me3 and H3K27ac at genomic regions around STMN2 and DLX3. (E) UMAP embedding of the scRNA-seq data colored by treatment (left) and annotated louvain clusters (right). (F) UMAP embedding colored by expression of genes marking annotated populations. (G) Bar plot showing cluster enrichment of treated cells versus DMSO control (top) and distribution of treatments in clusters (bottom). Common odds ratio (height) and p-value (alpha) were obtained from a CMH-test stratified by sampling timepoint. (H) Tree representation of high-resolution clusters in the developmental timecourse, with the x-axis representing mean pseudotime. Cell populations commonly expected at day 15 (expected, black) and treatment-enriched populations (ectopic, red) are highlighted. (I) Tree representation colored by module scores (deviation above background) of DE gene expression and activity in the developmental timecourse.} 
 \end{figure}
 
 
@@ -117,7 +117,7 @@ We were curious how such drastic changes in gene expression would manifest on th
 \subsection{Discussion}
 During early human brain development, gene expression has to be tightly coordinated to enable controlled differentiation into a multitude of defined cell types. Despite incredible progress in measurement technologies, it has so far remained challenging to interrogate the epigenetic mechanisms that shape these processes on a global scale. 
 
-Here we have addressed this challenge by measuring histone modifications at single-cell resolution in brain organoids, which model early brain regionalization and cell type establishment \textit{in vitro}. Over a developmental organoid time course, we integrated scCut\&Tag profiles marking repressed and active chromatin states with RNA-expression data. Broadly, we found that chromatin modification profiles were highly specific for different cell population. We identified region-specific regulatory chromatin regions and found that they controlled important regulators of cell fate. Such regulators were also often marked by epigenetic switches, which shift from repressive to active chromatin states at fate bifurcation events to prime gene expression. Generally, these observations indicate that chromatin modifiers play crucial roles in regional diversification events and stabilize cell fate commitment. This was further supported by perturbation EED, which caused a global depletion of H3K27me3, an up-regulation of otherwise repressed genes and a strong tendency of cells to adopt off-target cell states. Of note, a large fraction of cells still established neuroectoderm, even in the near complete absence of H3K27me3. This is likely a result of the growth protocol, with actively pushes cells towards this fate. 
+Here we have addressed this challenge by measuring histone modifications at single-cell resolution in brain organoids, which model early brain regionalization and cell type establishment \textit{in vitro}. Over a developmental organoid time course, we integrated scCut\&Tag profiles marking repressed and active chromatin states with RNA-expression data. Broadly, we found that chromatin modification profiles were highly specific for different cell population. We identified region-specific regulatory chromatin regions and found that they controlled important regulators of cell fate. Such regulators were also often marked by epigenetic switches, which shift from repressive to active chromatin states at fate bifurcation events to prime gene expression. Generally, these observations indicate that chromatin modifiers play crucial roles in regional diversification events and stabilize cell fate commitment. This was further supported by perturbation EED, which caused a global depletion of H3K27me3, an up-regulation of otherwise repressed genes and a strong tendency of cells to adopt off-target cell states. Inerestingly, a large fraction of cells still established neuroectoderm, even in the near complete absence of H3K27me3. This suggests that this is a default fate that cells assume in the absence of further inductive signals (\cite{argelaguet_multi-omics_2019,munoz-sanjuan_neural_2002}).  
 
 Altogether, these results suggest that dynamic chromatin modifications are required to ensure robust cell fate acquisition and brain regionalization. Moreover, our developmental atlas of histone marks is the first of its kind and will serve as a reference to better understand the epigenomic landscape of brain development.
 
@@ -289,7 +289,8 @@ To obtain count matrices for the spliced and unspliced transcriptome, we used ka
     \centering
 	\includegraphics[width=0.9\textwidth]{figures/cnt/Figure_S1}
     \label{fig:regS1}
-    \caption{\textbf{Quality control for epigenomic atlas of brain organoid development.}}
+    \caption{\textbf{Quality control for epigenomic atlas of brain organoid development.}
+    (A) Schematic of brain and retina organoid development in relation to early human brain development and emergence of cell type heterogeneity. (B) Brightfield images of organoids during development. (C) Histograms showing fragment length distribution for all samples and modalities. (D) Violin plots showing the distribution of detected fragments per cell for each timepoint and chromatin modality.}
 \end{figure}
 
 
@@ -297,7 +298,8 @@ To obtain count matrices for the spliced and unspliced transcriptome, we used ka
     \centering
 	\includegraphics[width=\textwidth]{figures/cnt/Figure_S2}
     \label{fig:regS2}
-    \caption{\textbf{Multi-modal matching between high-resolution clusters.}}
+    \caption{\textbf{Multi-modal matching between high-resolution clusters.}
+    (A) Schematic of profiled modalities. H3K27ac marks active promoters and enhancers, H3K4me3 marks active promoters. H3K27me3 marks repressed regions with inactive promoters. (B) Heatmaps showing correlation and matching of high-resolution clusters across modalities. Matched clusters are indicated with a cross. (C) UMAP representation of all modalities in the developmental time course colored by expression (log(transcript counts per 10k + 1); in case of RNA-seq) and gene activity (log(fragment counts per 10k + 1); in case of Cut\&Tag) of genes marking celltypes.}
 \end{figure}
 
 
@@ -305,6 +307,7 @@ To obtain count matrices for the spliced and unspliced transcriptome, we used ka
     \centering
 	\includegraphics[width=\textwidth]{figures/cnt/Figure_S3}
     \label{fig:regS3}
-    \caption{\textbf{Cell type- and region-specific chromatin modification peaks.}}
+    \caption{\textbf{Cell type- and region-specific chromatin modification peaks.}
+    (A, B, C) Heatmaps showing tf-idf normalized peak counts of state- and region-specific peaks for (A) H3K27ac, (B) H3K4me3 and (C) H3K27me3. Selected genes in proximity to these peaks and representative GO Biological Process terms are indicated on the right.}
 \end{figure}
 

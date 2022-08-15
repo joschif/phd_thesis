@@ -180,6 +180,9 @@
     % Set conter of tables and figures to 0
     \setcounter{table}{0}
     \setcounter{figure}{0}
+    % Reset S naming for supplement
+    \renewcommand{\thefigure}{\arabic{figure}}
+    \renewcommand{\thetable}{\arabic{table}}
     \input{#1}
     \clearpage
 }

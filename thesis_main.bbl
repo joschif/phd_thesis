@@ -24405,5 +24405,123 @@
     \field{journaltitle}{Cerebral Cortex}
     \field{year}{2004}
   \endentry
+
+  \entry{zhou_high-content_2017}{article}{}
+    \name{author}{13}{}{%
+      {{hash=ZT}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Ting},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TL}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CGY}{%
+         family={Cederquist},
+         familyi={C\bibinitperiod},
+         given={Gustav\bibnamedelima Y.},
+         giveni={G\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=FY}{%
+         family={Fan},
+         familyi={F\bibinitperiod},
+         given={Yujie},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HBJ}{%
+         family={Hartley},
+         familyi={H\bibinitperiod},
+         given={Brigham\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mukherjee},
+         familyi={M\bibinitperiod},
+         given={Suranjit},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Tomishima},
+         familyi={T\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BKJ}{%
+         family={Brennand},
+         familyi={B\bibinitperiod},
+         given={Kristen\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ZQ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Qisheng},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=SRE}{%
+         family={Schwartz},
+         familyi={S\bibinitperiod},
+         given={Robert\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=ET}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Todd},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Studer},
+         familyi={S\bibinitperiod},
+         given={Lorenz},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Shuibing},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{ZT+1}
+    \strng{fullhash}{ZTTLCGYFYHBJMSTMBKJZQSREETSLCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1016/j.stem.2017.06.017
+    \endverb
+    \field{issn}{19345909}
+    \field{number}{2}
+    \field{pages}{274\bibrangedash 283.e5}
+    \field{title}{High-{Content} {Screening} in {hPSC}-{Neural} {Progenitors}
+  {Identifies} {Drug} {Candidates} that {Inhibit} {Zika} {Virus} {Infection} in
+  {Fetal}-like {Organoids} and {Adult} {Brain}}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S1934590917302795
+    \endverb
+    \field{volume}{21}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/B
+    \verb CWV8HU9/Zhou et al. - 2017 - High-Content Screening in hPSC-Neural Pr
+    \verb ogenitors .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Cell Stem Cell}
+    \field{month}{08}
+    \field{year}{2017}
+    \field{urlday}{27}
+    \field{urlmonth}{06}
+    \field{urlyear}{2022}
+  \endentry
 \enddatalist
 \endinput

@@ -23,50 +23,48 @@ Database file #2: bib/thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Reallocated str_pool (elt_size=1) to 260000 items from 195000.
-Warning--I didn't find a database entry for "zhou_high-content_2017"
 Biblatex version: 3.17
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated str_pool (elt_size=1) to 325000 items from 260000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 216 entries,
+You've used 217 entries,
             6399 wiz_defined-function locations,
-            2872 strings with 259192 characters,
-and the built_in function-call counts, 6485895 in all, are:
-= -- 618428
-> -- 67359
-< -- 9188
-+ -- 238341
-- -- 42078
-* -- 508744
-:= -- 875149
+            2878 strings with 259895 characters,
+and the built_in function-call counts, 6517388 in all, are:
+= -- 621374
+> -- 67816
+< -- 9230
++ -- 239660
+- -- 42408
+* -- 511072
+:= -- 879505
 add.period$ -- 0
-call.type$ -- 216
-change.case$ -- 2896
-chr.to.int$ -- 2966
-cite$ -- 430
-duplicate$ -- 621321
-empty$ -- 511799
-format.name$ -- 38992
-if$ -- 1221234
+call.type$ -- 217
+change.case$ -- 2910
+chr.to.int$ -- 2996
+cite$ -- 432
+duplicate$ -- 624445
+empty$ -- 514227
+format.name$ -- 39172
+if$ -- 1226968
 int.to.chr$ -- 0
-int.to.str$ -- 605
+int.to.str$ -- 608
 missing$ -- 0
-newline$ -- 22210
-num.names$ -- 9734
-pop$ -- 117584
+newline$ -- 22326
+num.names$ -- 9780
+pop$ -- 118144
 preamble$ -- 1
-purify$ -- 8116
+purify$ -- 8156
 quote$ -- 0
-skip$ -- 53052
+skip$ -- 53291
 stack$ -- 0
-substring$ -- 1300541
-swap$ -- 74442
-text.length$ -- 10477
-text.prefix$ -- 232
+substring$ -- 1306648
+swap$ -- 74825
+text.length$ -- 10522
+text.prefix$ -- 233
 top$ -- 1
-type$ -- 7307
+type$ -- 7341
 warning$ -- 0
-while$ -- 100457
+while$ -- 100970
 width$ -- 0
-write$ -- 21995
-(There was 1 warning)
+write$ -- 22110

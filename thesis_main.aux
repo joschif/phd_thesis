@@ -320,6 +320,7 @@
 \abx@aux@page{67}{5}
 \abx@aux@page{68}{5}
 \abx@aux@page{69}{5}
+\abx@aux@page{70}{5}
 \citation{tang_mrna-seq_2009}
 \abx@aux@cite{0}{tang_mrna-seq_2009}
 \abx@aux@segm{0}{0}{tang_mrna-seq_2009}
@@ -350,11 +351,10 @@
 \citation{mayer_developmental_2018}
 \abx@aux@cite{0}{mayer_developmental_2018}
 \abx@aux@segm{0}{0}{mayer_developmental_2018}
-\abx@aux@page{70}{6}
 \abx@aux@page{71}{6}
 \abx@aux@page{72}{6}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Single-cell genomics}{6}{subsection.1.2}\protected@file@percent }
 \abx@aux@page{73}{6}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Single-cell genomics}{6}{subsection.1.2}\protected@file@percent }
 \abx@aux@page{74}{6}
 \abx@aux@page{75}{6}
 \abx@aux@page{76}{6}
@@ -364,11 +364,12 @@
 \abx@aux@page{80}{6}
 \abx@aux@page{81}{6}
 \abx@aux@page{82}{6}
+\abx@aux@page{83}{6}
 \citation{islam_quantitative_2014}
 \abx@aux@cite{0}{islam_quantitative_2014}
 \abx@aux@segm{0}{0}{islam_quantitative_2014}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.1}Single-cell transcriptomics}{7}{subsubsection.1.2.1}\protected@file@percent }
-\abx@aux@page{83}{7}
+\abx@aux@page{84}{7}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces \textbf  {Single-cell genomic technologies used in this thesis.} Schematic overview of single-cell sequencing methods based on the 10X genomics chromium platform. (A) Single-cell mRNA sequencing (scRNA-seq) measures transcriptome-wide mRNA transcript abundance. First, the tissue is dissociated into single cells, which are then encapsulated with barcoded beads and enzymes into oil droplets on a micofluidic chip. Poly-A tails of mRNAs are captured on the barcoded beads, where they are reverse transcribed to obtain barcoded cDNA libraries. Libraries are then amplified and sequenced using next-generation sequencing methods. The resulting sequencing reads are mapped to a reference. Counting of UMIs and demultiplexing cell barcodes yields a cell-by-transcript count matrix. (B) Single-cell ATAC sequencing (scATAC-seq) measures genome-wide chromatin accessibility. Using a genetically engineered DNA transposase (Tn5), open chromatin regions are cleaved and adapter sequences are inserted. The resulting fragments are then conjugated to cell barcodes using a similar strategy as for scRNA-seq. After amplification and sequencing, fragments are mapped back to the genome to identify peaks marking accessible genomic regions. Demultiplexing cell barcodes and counting fragments per peak yields a cell-by-peak matrix. (C) Single-cell Cut\&Tag can be used to measure genome-wide occurrences of histone modifications or DNA binding proteins. A ProteinA - Tn5 fusion construct is specifically tethered to antibodies binding chromatin proteins and modifications. Cleavage and adapter insertion are therefore constricted to genomic sites near targeted proteins. All other steps are analogous to scATAC-seq.\relax }}{8}{figure.caption.2}\protected@file@percent }
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
 \newlabel{fig:intro2}{{1.1}{8}{\textbf {Single-cell genomic technologies used in this thesis.} Schematic overview of single-cell sequencing methods based on the 10X genomics chromium platform. (A) Single-cell mRNA sequencing (scRNA-seq) measures transcriptome-wide mRNA transcript abundance. First, the tissue is dissociated into single cells, which are then encapsulated with barcoded beads and enzymes into oil droplets on a micofluidic chip. Poly-A tails of mRNAs are captured on the barcoded beads, where they are reverse transcribed to obtain barcoded cDNA libraries. Libraries are then amplified and sequenced using next-generation sequencing methods. The resulting sequencing reads are mapped to a reference. Counting of UMIs and demultiplexing cell barcodes yields a cell-by-transcript count matrix. (B) Single-cell ATAC sequencing (scATAC-seq) measures genome-wide chromatin accessibility. Using a genetically engineered DNA transposase (Tn5), open chromatin regions are cleaved and adapter sequences are inserted. The resulting fragments are then conjugated to cell barcodes using a similar strategy as for scRNA-seq. After amplification and sequencing, fragments are mapped back to the genome to identify peaks marking accessible genomic regions. Demultiplexing cell barcodes and counting fragments per peak yields a cell-by-peak matrix. (C) Single-cell Cut\&Tag can be used to measure genome-wide occurrences of histone modifications or DNA binding proteins. A ProteinA - Tn5 fusion construct is specifically tethered to antibodies binding chromatin proteins and modifications. Cleavage and adapter insertion are therefore constricted to genomic sites near targeted proteins. All other steps are analogous to scATAC-seq.\relax }{figure.caption.2}{}}
@@ -420,7 +421,6 @@
 \citation{luecken_current_2019}
 \abx@aux@cite{0}{luecken_current_2019}
 \abx@aux@segm{0}{0}{luecken_current_2019}
-\abx@aux@page{84}{9}
 \abx@aux@page{85}{9}
 \abx@aux@page{86}{9}
 \abx@aux@page{87}{9}
@@ -435,6 +435,7 @@
 \abx@aux@page{96}{9}
 \abx@aux@page{97}{9}
 \abx@aux@page{98}{9}
+\abx@aux@page{99}{9}
 \citation{buenrostro_single-cell_2015}
 \abx@aux@cite{0}{buenrostro_single-cell_2015}
 \abx@aux@segm{0}{0}{buenrostro_single-cell_2015}
@@ -470,9 +471,8 @@
 \abx@aux@segm{0}{0}{kaya-okur_cuttag_2019}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.2}{\ignorespaces \textbf  {Overview of computational analysis steps for single-cell genomics data.} Typical preprocessing steps and downstream analysis tasks indicating examples of commonly used tools and algorithms. After generating the count matrix, preporcessing involves a number of common steps. Normalization aims to remove sequencing depth bias, quality control is done to remove low-quality cells and features selection aims to select the most informative features. After this, linear dimension reduction is usually performed using PCA or LSI. After these preprocessing steps, the analysis steps vary based on the biological question and experiemntal setup. Common tasks include visualizing the data in 2D, testing for differential expression or differential composition between conditions, integration of different batches, clustering of cells and annotation of cell types and states, inference of differentiation trajectories, gene regulatory network inference and integrative analyses between multiple omics layers.\relax }}{10}{figure.caption.3}\protected@file@percent }
 \newlabel{fig:intro2}{{1.2}{10}{\textbf {Overview of computational analysis steps for single-cell genomics data.} Typical preprocessing steps and downstream analysis tasks indicating examples of commonly used tools and algorithms. After generating the count matrix, preporcessing involves a number of common steps. Normalization aims to remove sequencing depth bias, quality control is done to remove low-quality cells and features selection aims to select the most informative features. After this, linear dimension reduction is usually performed using PCA or LSI. After these preprocessing steps, the analysis steps vary based on the biological question and experiemntal setup. Common tasks include visualizing the data in 2D, testing for differential expression or differential composition between conditions, integration of different batches, clustering of cells and annotation of cell types and states, inference of differentiation trajectories, gene regulatory network inference and integrative analyses between multiple omics layers.\relax }{figure.caption.3}{}}
-\abx@aux@page{99}{10}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.2}Single-cell epigenomics}{10}{subsubsection.1.2.2}\protected@file@percent }
 \abx@aux@page{100}{10}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.2}Single-cell epigenomics}{10}{subsubsection.1.2.2}\protected@file@percent }
 \abx@aux@page{101}{10}
 \abx@aux@page{102}{10}
 \abx@aux@page{103}{10}
@@ -482,6 +482,7 @@
 \abx@aux@page{107}{10}
 \abx@aux@page{108}{10}
 \abx@aux@page{109}{10}
+\abx@aux@page{110}{10}
 \citation{duan_model-based_2019}
 \abx@aux@cite{0}{duan_model-based_2019}
 \abx@aux@segm{0}{0}{duan_model-based_2019}
@@ -494,16 +495,16 @@
 \citation{kaya-okur_cuttag_2019}
 \abx@aux@cite{0}{kaya-okur_cuttag_2019}
 \abx@aux@segm{0}{0}{kaya-okur_cuttag_2019}
-\abx@aux@page{110}{11}
 \abx@aux@page{111}{11}
+\abx@aux@page{112}{11}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.3}{\ignorespaces \textbf  {Epigenetic mechanisms of gene regulation.} Loosely packed euchromatic regions allow transcription factors (TFs) to bind to \textit  {cis}-regulatory elements, which facilitates the expression of genes. Promoters are regulatory elements close to the transcription start site and are marked by co-enrichment of the H3K27ac and H3K4me3 chromatin modifications. Enhancers are distal elements brought into proximity of the promoter through looping of chromatin, they are marked by H3K27ac. Heterochromatin is tightly packed, which does not allow genes to be expressed. These repressed regions are marked by H3K27me3.\relax }}{11}{figure.caption.4}\protected@file@percent }
 \newlabel{fig:intro3}{{1.3}{11}{\textbf {Epigenetic mechanisms of gene regulation.} Loosely packed euchromatic regions allow transcription factors (TFs) to bind to \textit {cis}-regulatory elements, which facilitates the expression of genes. Promoters are regulatory elements close to the transcription start site and are marked by co-enrichment of the H3K27ac and H3K4me3 chromatin modifications. Enhancers are distal elements brought into proximity of the promoter through looping of chromatin, they are marked by H3K27ac. Heterochromatin is tightly packed, which does not allow genes to be expressed. These repressed regions are marked by H3K27me3.\relax }{figure.caption.4}{}}
 \citation{stuart_comprehensive_2019}
 \abx@aux@cite{0}{stuart_comprehensive_2019}
 \abx@aux@segm{0}{0}{stuart_comprehensive_2019}
-\abx@aux@page{112}{12}
 \abx@aux@page{113}{12}
 \abx@aux@page{114}{12}
+\abx@aux@page{115}{12}
 \citation{ma_chromatin_2020}
 \abx@aux@cite{0}{ma_chromatin_2020}
 \abx@aux@segm{0}{0}{ma_chromatin_2020}
@@ -519,13 +520,13 @@
 \citation{ma_chromatin_2020}
 \abx@aux@cite{0}{ma_chromatin_2020}
 \abx@aux@segm{0}{0}{ma_chromatin_2020}
-\abx@aux@page{115}{13}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.3}Integrative single-cell multi-omics}{13}{subsubsection.1.2.3}\protected@file@percent }
 \abx@aux@page{116}{13}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.3}Integrative single-cell multi-omics}{13}{subsubsection.1.2.3}\protected@file@percent }
 \abx@aux@page{117}{13}
 \abx@aux@page{118}{13}
 \abx@aux@page{119}{13}
 \abx@aux@page{120}{13}
+\abx@aux@page{121}{13}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.4}Inference of gene regulatory networks}{13}{subsubsection.1.2.4}\protected@file@percent }
 \citation{stuart_gene-coexpression_2003}
 \abx@aux@cite{0}{stuart_gene-coexpression_2003}
@@ -575,17 +576,16 @@
 \citation{alda-catalinas_single-cell_2020}
 \abx@aux@cite{0}{alda-catalinas_single-cell_2020}
 \abx@aux@segm{0}{0}{alda-catalinas_single-cell_2020}
-\abx@aux@page{121}{14}
 \abx@aux@page{122}{14}
 \abx@aux@page{123}{14}
 \abx@aux@page{124}{14}
 \abx@aux@page{125}{14}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.5}Perturbing genomic circuits}{14}{subsubsection.1.2.5}\protected@file@percent }
 \abx@aux@page{126}{14}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.5}Perturbing genomic circuits}{14}{subsubsection.1.2.5}\protected@file@percent }
+\abx@aux@page{127}{14}
 \citation{camp_mapping_2019}
 \abx@aux@cite{0}{camp_mapping_2019}
 \abx@aux@segm{0}{0}{camp_mapping_2019}
-\abx@aux@page{127}{15}
 \abx@aux@page{128}{15}
 \abx@aux@page{129}{15}
 \abx@aux@page{130}{15}
@@ -596,6 +596,7 @@
 \abx@aux@page{135}{15}
 \abx@aux@page{136}{15}
 \abx@aux@page{137}{15}
+\abx@aux@page{138}{15}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Aim and organization of this thesis}{15}{subsection.1.3}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {2}Resolving organoid brain region identities by mapping single-cell genomic data to reference atlases}{19}{section.2}\protected@file@percent }
 \citation{lancaster_generation_2014}
@@ -663,7 +664,7 @@
 \abx@aux@segm{0}{0}{pasca_rise_2018}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Abstract}{20}{subsection.2.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Introduction}{20}{subsection.2.2}\protected@file@percent }
-\abx@aux@page{138}{20}
+\abx@aux@page{139}{20}
 \citation{camp_human_2015}
 \abx@aux@cite{0}{camp_human_2015}
 \abx@aux@segm{0}{0}{camp_human_2015}
@@ -688,7 +689,6 @@
 \citation{la_manno_molecular_2021}
 \abx@aux@cite{0}{la_manno_molecular_2021}
 \abx@aux@segm{0}{0}{la_manno_molecular_2021}
-\abx@aux@page{139}{21}
 \abx@aux@page{140}{21}
 \abx@aux@page{141}{21}
 \abx@aux@page{142}{21}
@@ -714,14 +714,15 @@
 \abx@aux@page{162}{21}
 \abx@aux@page{163}{21}
 \abx@aux@page{164}{21}
+\abx@aux@page{165}{21}
 \citation{thompson_high-resolution_2014}
 \abx@aux@cite{0}{thompson_high-resolution_2014}
 \abx@aux@segm{0}{0}{thompson_high-resolution_2014}
-\abx@aux@page{165}{22}
 \abx@aux@page{166}{22}
+\abx@aux@page{167}{22}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Results}{22}{subsection.2.3}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Spatiotemporal voxel maps of the developing mouse brain}{22}{section*.6}\protected@file@percent }
-\abx@aux@page{167}{22}
+\abx@aux@page{168}{22}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces \textbf  {Overview of the VoxHunt computational toolkit for exploring heterogeneity in the developing brain and brain organoid counterparts.} Brain organoids generated through various protocols or patterning regimens can give rise to cells resembling different brain structures. VoxHunt helps interpret transcriptomic or epigenomic data from these organoids by providing an interface to relevant reference datasets. VoxHunt implements functions to extract brain structure markers, compute similarity maps of organoid cells, assign regional identities, and deconvolute bulk RNA-seq data into structure proportions.\relax }}{22}{figure.caption.5}\protected@file@percent }
 \newlabel{fig:vox1}{{2.1}{22}{\textbf {Overview of the VoxHunt computational toolkit for exploring heterogeneity in the developing brain and brain organoid counterparts.} Brain organoids generated through various protocols or patterning regimens can give rise to cells resembling different brain structures. VoxHunt helps interpret transcriptomic or epigenomic data from these organoids by providing an interface to relevant reference datasets. VoxHunt implements functions to extract brain structure markers, compute similarity maps of organoid cells, assign regional identities, and deconvolute bulk RNA-seq data into structure proportions.\relax }{figure.caption.5}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces \textbf  {Feature extraction from voxel maps of developing mouse brain in situ hybridization data.} (A) Schematics show mouse brain development over time, with high-level structure annotations color-coded. (B) Dendrogram showing the hierarchically organized structure ontology from the Allen Developing Mouse Brain Atlas. (C) Spatial expression patterns of selected markers as maximum intensity projections across five central sagittal sections (8–12) in the E15.5 mouse brain. (D) Scatterplot showing feature selection for two brain structures, hippocampus (Hipp.) and cerebellar hemisphere (CH), at E15.5, together with the expression profile for the top two marker genes per structure. (E and F) Heatmap showing marker gene expression across brain structures at different levels of structure resolution at stage E15.5 (E) and across developmental stages for the midbrain (F).\relax }}{23}{figure.caption.7}\protected@file@percent }
@@ -758,17 +759,17 @@
 \abx@aux@cite{0}{becht_dimensionality_2019}
 \abx@aux@segm{0}{0}{becht_dimensionality_2019}
 \@writefile{toc}{\contentsline {paragraph}{VoxHunt accurately maps reference populations}{24}{section*.11}\protected@file@percent }
-\abx@aux@page{168}{24}
 \abx@aux@page{169}{24}
 \abx@aux@page{170}{24}
 \abx@aux@page{171}{24}
 \abx@aux@page{172}{24}
 \abx@aux@page{173}{24}
-\@writefile{toc}{\contentsline {paragraph}{Organoid region composition annotation}{24}{section*.12}\protected@file@percent }
 \abx@aux@page{174}{24}
+\@writefile{toc}{\contentsline {paragraph}{Organoid region composition annotation}{24}{section*.12}\protected@file@percent }
 \abx@aux@page{175}{24}
-\abx@aux@page{176}{25}
+\abx@aux@page{176}{24}
 \abx@aux@page{177}{25}
+\abx@aux@page{178}{25}
 \newlabel{fig:vox3}{{\caption@xref {fig:vox3}{ on input line 108}}{25}{Brain structure marker identification}{figure.caption.9}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces \textbf  {Single-cell transcriptomes deconstruct region composition in brain organoids} (A) UMAP projections of published single-cell transcriptome data from different organoid protocols, including cortical (Birey et al., 2017), ventral (Birey et al., 2017), thalamus (Xiang et al., 2018), and cerebral (Kanton et al., 2019). Cells are colored based on the annotations in the original publications. (B) Heatmap showing the expression of top marker genes for each cluster. Canonical marker genes are highlighted in bold. (C) UMAP projections of neuronal cells from each dataset colored by structure annotation of the voxel with maximum correlation. (D) Top: fraction of cells from each cluster annotated in (A) that have maximum correlation to each brain structure based on comparison to in situ hybridization voxel maps. Bottom: bar plots showing the mean similarity of each cluster to different brain structures. Each bar represents one brain structure at custom annotation level 4. IP, immediate progenitor; NPC, neural progenitor cell; OPC, oligodendrocyte progenitor cells; CBC, cilia-bearing cells; BRC, BMP-related cells; PGG, proteoglycan-expressing glia; GPC, glial progenitor cell; AS, astrocytes; UPRC, unfolded protein response-related cells.\relax }}{26}{figure.caption.10}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Spatial projection of organoid cell transcriptomes}{26}{section*.14}\protected@file@percent }
@@ -817,10 +818,9 @@
 \abx@aux@cite{0}{kamata_r-spondin_2004}
 \abx@aux@segm{0}{0}{kamata_r-spondin_2004}
 \@writefile{toc}{\contentsline {paragraph}{Complementary reference datasets as high-dimensional search spaces}{28}{section*.15}\protected@file@percent }
-\abx@aux@page{178}{28}
 \abx@aux@page{179}{28}
-\@writefile{toc}{\contentsline {paragraph}{Assessing region specificity across organoid protocols}{28}{section*.16}\protected@file@percent }
 \abx@aux@page{180}{28}
+\@writefile{toc}{\contentsline {paragraph}{Assessing region specificity across organoid protocols}{28}{section*.16}\protected@file@percent }
 \abx@aux@page{181}{28}
 \abx@aux@page{182}{28}
 \abx@aux@page{183}{28}
@@ -828,6 +828,7 @@
 \abx@aux@page{185}{28}
 \abx@aux@page{186}{28}
 \abx@aux@page{187}{28}
+\abx@aux@page{188}{28}
 \citation{loo_single-cell_2019}
 \abx@aux@cite{0}{loo_single-cell_2019}
 \abx@aux@segm{0}{0}{loo_single-cell_2019}
@@ -843,23 +844,23 @@
 \citation{xiang_hesc-derived_2019}
 \abx@aux@cite{0}{xiang_hesc-derived_2019}
 \abx@aux@segm{0}{0}{xiang_hesc-derived_2019}
-\abx@aux@page{188}{29}
 \abx@aux@page{189}{29}
 \abx@aux@page{190}{29}
 \abx@aux@page{191}{29}
-\@writefile{toc}{\contentsline {paragraph}{Annotating organoid cell identity at substructure resolution}{29}{section*.18}\protected@file@percent }
 \abx@aux@page{192}{29}
+\@writefile{toc}{\contentsline {paragraph}{Annotating organoid cell identity at substructure resolution}{29}{section*.18}\protected@file@percent }
 \abx@aux@page{193}{29}
 \abx@aux@page{194}{29}
 \abx@aux@page{195}{29}
 \abx@aux@page{196}{29}
+\abx@aux@page{197}{29}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.5}{\ignorespaces \textbf  {Substructure resolution of transcriptomic maps.} (A and B) Schematic of substructure annotation. Unbiased clusters of voxels were annotated based on the expression of canonical marker genes to identify fine structures beyond existing annotations in the dorsal (A) and ventral (B) telencephalon. (C) Left: sagittal sections visualizing custom substructure annotations and scaled similarity scores from E14.5 mouse neocortex NPC, IP, and neuron primary scRNA-seq data to voxel maps of the E18.5 mouse brain. Right: ISH images of marker gene expression in shown sections. (D) Left: coronal sections visualizing custom substructure annotations and scaled similarity scores from E13.5 mouse mitotic precursors from LGE, MGE, and CGE primary scRNA-seq data (Mayer et al., 2018) to voxel maps of the E13.5 mouse brain. Right: E13.5 mouse ISH images of marker gene expression in shown sections. (E) Left: heatmap showing similarities of cortical cells from cerebral organoids (Kanton et al., 2019) to annotated substructures. Right: coronal sections visualizing custom annotations and scaled similarity scores from organoid cell states to voxel maps of the E13.5 mouse brain. LGE, MGE, and CGE, lateral, medial, and caudal ganglionic eminence; NPC, neural progenitor cell; IP, immediate progenitor. (F) Left: heatmap showing similarities of ventral neurons from cerebral organoids (Kanton et al., 2019) to annotated substructures and their resulting annotations. Right: coronal sections visualizing custom annotations and scaled similarity scores from organoid ventral neuron populations to voxel maps of the E13.5 mouse brain.\relax }}{30}{figure.caption.17}\protected@file@percent }
 \newlabel{fig:vox5}{{2.5}{30}{\textbf {Substructure resolution of transcriptomic maps.} (A and B) Schematic of substructure annotation. Unbiased clusters of voxels were annotated based on the expression of canonical marker genes to identify fine structures beyond existing annotations in the dorsal (A) and ventral (B) telencephalon. (C) Left: sagittal sections visualizing custom substructure annotations and scaled similarity scores from E14.5 mouse neocortex NPC, IP, and neuron primary scRNA-seq data to voxel maps of the E18.5 mouse brain. Right: ISH images of marker gene expression in shown sections. (D) Left: coronal sections visualizing custom substructure annotations and scaled similarity scores from E13.5 mouse mitotic precursors from LGE, MGE, and CGE primary scRNA-seq data (Mayer et al., 2018) to voxel maps of the E13.5 mouse brain. Right: E13.5 mouse ISH images of marker gene expression in shown sections. (E) Left: heatmap showing similarities of cortical cells from cerebral organoids (Kanton et al., 2019) to annotated substructures. Right: coronal sections visualizing custom annotations and scaled similarity scores from organoid cell states to voxel maps of the E13.5 mouse brain. LGE, MGE, and CGE, lateral, medial, and caudal ganglionic eminence; NPC, neural progenitor cell; IP, immediate progenitor. (F) Left: heatmap showing similarities of ventral neurons from cerebral organoids (Kanton et al., 2019) to annotated substructures and their resulting annotations. Right: coronal sections visualizing custom annotations and scaled similarity scores from organoid ventral neuron populations to voxel maps of the E13.5 mouse brain.\relax }{figure.caption.17}{}}
 \citation{kanton_organoid_2019}
 \abx@aux@cite{0}{kanton_organoid_2019}
 \abx@aux@segm{0}{0}{kanton_organoid_2019}
 \@writefile{toc}{\contentsline {paragraph}{Spatial mapping of chromatin accessibility data}{31}{section*.20}\protected@file@percent }
-\abx@aux@page{197}{31}
+\abx@aux@page{198}{31}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.6}{\ignorespaces \textbf  {Projecting chromatin accessibility profiles to spatial brain maps.} (A) Single-cell RNA-seq (Camp et al., 2015; Kanton et al., 2019) and single-cell ATAC-seq (Kanton et al., 2019) was performed on single cortical regions microdissected from cerebral organoids between 2 and 4 months of age. (B) Signal tracks showing accessibility (normalized read count) at the transcription start site (TSS) of the forebrain marker FOXG1, the cortex neuron marker NEUROD6, and the hindbrain marker PAX3. (C) Expression of all measured genes in the E13.5 pallium (cortex) as a function of TSS accessibility in cortical organoid cells. The fit of a linear model is indicated in red, the gray area shows the standard error, and the indicated p-value was obtained through an F-test. (D) Boxplots showing Pearson correlation distributions of organoid TSS accessibility (log-normalized peak count) to gene expression in different brain structures. (E) Sagittal projections of the E13.5 mouse brain colored by scaled similarity scores of organoid TSS accessibility (scATAC-seq) or expression (scRNA-seq) with voxel map expression of the downstream gene. Pall, pallium; SPall, subpallium; Hy, hypothalamus; D, diencephalon; M, midbrain; H, hindbrain.\relax }}{31}{figure.caption.19}\protected@file@percent }
 \newlabel{fig:vox6}{{2.6}{31}{\textbf {Projecting chromatin accessibility profiles to spatial brain maps.} (A) Single-cell RNA-seq (Camp et al., 2015; Kanton et al., 2019) and single-cell ATAC-seq (Kanton et al., 2019) was performed on single cortical regions microdissected from cerebral organoids between 2 and 4 months of age. (B) Signal tracks showing accessibility (normalized read count) at the transcription start site (TSS) of the forebrain marker FOXG1, the cortex neuron marker NEUROD6, and the hindbrain marker PAX3. (C) Expression of all measured genes in the E13.5 pallium (cortex) as a function of TSS accessibility in cortical organoid cells. The fit of a linear model is indicated in red, the gray area shows the standard error, and the indicated p-value was obtained through an F-test. (D) Boxplots showing Pearson correlation distributions of organoid TSS accessibility (log-normalized peak count) to gene expression in different brain structures. (E) Sagittal projections of the E13.5 mouse brain colored by scaled similarity scores of organoid TSS accessibility (scATAC-seq) or expression (scRNA-seq) with voxel map expression of the downstream gene. Pall, pallium; SPall, subpallium; Hy, hypothalamus; D, diencephalon; M, midbrain; H, hindbrain.\relax }{figure.caption.19}{}}
 \citation{kamata_r-spondin_2004}
@@ -867,7 +868,7 @@
 \abx@aux@segm{0}{0}{kamata_r-spondin_2004}
 \@writefile{toc}{\contentsline {paragraph}{Reference-based deconvolution of organoid bulk transcriptomes}{32}{section*.21}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Assessing organoid patterning using multiplexed transcriptomics and reference mapping}{32}{section*.22}\protected@file@percent }
-\abx@aux@page{198}{32}
+\abx@aux@page{199}{32}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.7}{\ignorespaces \textbf  {Assessing the effects of morphogens on brain organoids using multiplexed bulk transcriptomics.} (A) Schematic of the experimental setup. Single developing organoids were exposed to different morphogens in a 96-well plate. Bulk RNA-seq libraries were prepared from each organoid and multiplexed for sequencing. (B) First two principal components of organoid transcriptomes. Each point represents one individual organoid and is colored by condition. (C) Spatial similarity maps of each condition to the E11.5 developing mouse brain ISH atlas. (D) Heatmap showing the expression of differentially expressed genes between control and R-spondin conditions.(E) Correlation of transcriptomic effect sizes (log fold change) for RSPO2 and RSPO3 conditions compared to control samples. (F) In situ hybridization images of RSPO3 and the choroid plexus marker TTR in coronal sections of E13.5 mouse brain. (G) Schematic of roof plate invagination and early stages of choroid plexus development. (H) Top left: coronal sections visualizing regional annotation and scaled similarity scores overlaid with RSPO3 expression for control and R-spondin conditions. Top right: coronal sections visualizing expression of differentially expressed genes between control and R-spondin conditions. Bottom: sagittal sections visualizing the regional annotation and scaled similarity scores overlaid with RSPO3 expression for control and R-spondin conditions.\relax }}{33}{figure.caption.23}\protected@file@percent }
 \newlabel{fig:vox7}{{2.7}{33}{\textbf {Assessing the effects of morphogens on brain organoids using multiplexed bulk transcriptomics.} (A) Schematic of the experimental setup. Single developing organoids were exposed to different morphogens in a 96-well plate. Bulk RNA-seq libraries were prepared from each organoid and multiplexed for sequencing. (B) First two principal components of organoid transcriptomes. Each point represents one individual organoid and is colored by condition. (C) Spatial similarity maps of each condition to the E11.5 developing mouse brain ISH atlas. (D) Heatmap showing the expression of differentially expressed genes between control and R-spondin conditions.(E) Correlation of transcriptomic effect sizes (log fold change) for RSPO2 and RSPO3 conditions compared to control samples. (F) In situ hybridization images of RSPO3 and the choroid plexus marker TTR in coronal sections of E13.5 mouse brain. (G) Schematic of roof plate invagination and early stages of choroid plexus development. (H) Top left: coronal sections visualizing regional annotation and scaled similarity scores overlaid with RSPO3 expression for control and R-spondin conditions. Top right: coronal sections visualizing expression of differentially expressed genes between control and R-spondin conditions. Bottom: sagittal sections visualizing the regional annotation and scaled similarity scores overlaid with RSPO3 expression for control and R-spondin conditions.\relax }{figure.caption.23}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Discussion}{34}{subsection.2.4}\protected@file@percent }
@@ -974,7 +975,6 @@
 \abx@aux@segm{0}{0}{jin_vivo_2020}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Abstract}{58}{subsection.3.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Main}{59}{subsection.3.2}\protected@file@percent }
-\abx@aux@page{199}{59}
 \abx@aux@page{200}{59}
 \abx@aux@page{201}{59}
 \abx@aux@page{202}{59}
@@ -989,6 +989,7 @@
 \abx@aux@page{211}{59}
 \abx@aux@page{212}{59}
 \abx@aux@page{213}{59}
+\abx@aux@page{214}{59}
 \citation{stuart_comprehensive_2019}
 \abx@aux@cite{0}{stuart_comprehensive_2019}
 \abx@aux@segm{0}{0}{stuart_comprehensive_2019}
@@ -998,14 +999,14 @@
 \citation{he_css_2020}
 \abx@aux@cite{0}{he_css_2020}
 \abx@aux@segm{0}{0}{he_css_2020}
-\abx@aux@page{214}{60}
 \abx@aux@page{215}{60}
 \abx@aux@page{216}{60}
 \abx@aux@page{217}{60}
-\@writefile{toc}{\contentsline {paragraph}{Single-cell multiomic reconstruction of cerebral organoid development}{60}{section*.61}\protected@file@percent }
 \abx@aux@page{218}{60}
+\@writefile{toc}{\contentsline {paragraph}{Single-cell multiomic reconstruction of cerebral organoid development}{60}{section*.61}\protected@file@percent }
 \abx@aux@page{219}{60}
 \abx@aux@page{220}{60}
+\abx@aux@page{221}{60}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces \textbf  {Multi-omic atlas of brain organoid development reveals developmental hierarchies and critical stages of fate decision.} a, Schematic of the experimental design and UMAP embedding of integrated multi-omic metacells. Organoids from four different iPSC lines were dissociated for scRNA-seq and scATAC-seq at timepoints spanning the critical patterning window. The two modalities were integrated to form metacells with RNA and ATAC components. b, Examples of loci that have differential access during organoid development from pluripotency. c, Schematic of branch-inference strategy. High-resolution clusters were assigned to branches based on terminal fate transition probabilities calculated based on RNA velocity. d, Branch visualization in a force-directed layout, with circles representing high-resolution clusters of metacells colored by assignment (Neuroepithelium, gray; Non-telencephalon progenitors, teal; Telencephalon progenitors, plum; Dorsal telencephalon, orange; Ventral telencephalon, purple). e, Graph representation of regional branches colored by mean expression (log(transcript counts per 10k + 1)) (top) and gene activity (log(transcript counts per 10k + 1)) (bottom) of marker genes. The range of values is indicated for each plot. f, Heatmap showing stage- and branch-specific gene expression and motif enrichment z-score calculated with chromVAR {Schep et al., 2017}. Values are min-max scaled across rows.\relax }}{61}{figure.caption.60}\protected@file@percent }
 \newlabel{fig:reg1}{{3.1}{61}{\textbf {Multi-omic atlas of brain organoid development reveals developmental hierarchies and critical stages of fate decision.} a, Schematic of the experimental design and UMAP embedding of integrated multi-omic metacells. Organoids from four different iPSC lines were dissociated for scRNA-seq and scATAC-seq at timepoints spanning the critical patterning window. The two modalities were integrated to form metacells with RNA and ATAC components. b, Examples of loci that have differential access during organoid development from pluripotency. c, Schematic of branch-inference strategy. High-resolution clusters were assigned to branches based on terminal fate transition probabilities calculated based on RNA velocity. d, Branch visualization in a force-directed layout, with circles representing high-resolution clusters of metacells colored by assignment (Neuroepithelium, gray; Non-telencephalon progenitors, teal; Telencephalon progenitors, plum; Dorsal telencephalon, orange; Ventral telencephalon, purple). e, Graph representation of regional branches colored by mean expression (log(transcript counts per 10k + 1)) (top) and gene activity (log(transcript counts per 10k + 1)) (bottom) of marker genes. The range of values is indicated for each plot. f, Heatmap showing stage- and branch-specific gene expression and motif enrichment z-score calculated with chromVAR {Schep et al., 2017}. Values are min-max scaled across rows.\relax }{figure.caption.60}{}}
 \citation{renner_self-organized_2017}
@@ -1029,13 +1030,13 @@
 \citation{lange_cellrank_2022}
 \abx@aux@cite{0}{lange_cellrank_2022}
 \abx@aux@segm{0}{0}{lange_cellrank_2022}
-\abx@aux@page{221}{62}
 \abx@aux@page{222}{62}
 \abx@aux@page{223}{62}
 \abx@aux@page{224}{62}
 \abx@aux@page{225}{62}
 \abx@aux@page{226}{62}
 \abx@aux@page{227}{62}
+\abx@aux@page{228}{62}
 \citation{siepel_evolutionarily_2005}
 \abx@aux@cite{0}{siepel_evolutionarily_2005}
 \abx@aux@segm{0}{0}{siepel_evolutionarily_2005}
@@ -1049,10 +1050,10 @@
 \abx@aux@cite{0}{aibar_scenic_2017}
 \abx@aux@segm{0}{0}{aibar_scenic_2017}
 \@writefile{toc}{\contentsline {paragraph}{A gene regulatory network view of human cerebral organoid formation}{63}{section*.62}\protected@file@percent }
-\abx@aux@page{228}{63}
 \abx@aux@page{229}{63}
 \abx@aux@page{230}{63}
 \abx@aux@page{231}{63}
+\abx@aux@page{232}{63}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces \textbf  {Pando leverages multimodal measurements to infer a multi-phasic gene regulatory network underlying human brain organoid development.} a, Schematic of the Pando GRN-inference framework. Candidate regions are identified through intersection of accessible peaks with cis-Regulatory Elements (CREs) or conserved elements. Predicted TFs are selected for each candidate region through binding motif matching. The relationship between TF-binding site pairs and expression of target genes is then fit with a regression model. b, Signal tracks showing normalized accessibility at the transcription start site of EMX1 in the different branches and inferred regulatory regions for various transcription factors. Line color represents the sign of the interaction and box color (grayscale) represents the FDR of the most significant interaction for this region. c, UMAP embedding of the inferred TF network based on co-expression and inferred interaction strength between TFs. Color and size represent expression weighted pseudotime and PageRank centrality of each TF, respectively. d, UMAP embedding shaded by module features. e, Barplots showing target specificity for branch-specific TFs. f, UMAP embedding of branch-specific TF networks highlighting TFs with branch-specific targets and interactions with branch-specific accessibility. g, Plot shows groups of TFs with differential activity between the dorsal (red) and ventral (purple) telencephalon branch. TF activity is indicated by a colored dot for each branch, connected by a line, and was calculated by multiplying the mean regulatory coefficient with the average expression in the branch. The sign of the activity indicates whether the regulation is mainly activating (+) or repressing (-).\relax }}{64}{figure.caption.63}\protected@file@percent }
 \newlabel{fig:reg2}{{3.2}{64}{\textbf {Pando leverages multimodal measurements to infer a multi-phasic gene regulatory network underlying human brain organoid development.} a, Schematic of the Pando GRN-inference framework. Candidate regions are identified through intersection of accessible peaks with cis-Regulatory Elements (CREs) or conserved elements. Predicted TFs are selected for each candidate region through binding motif matching. The relationship between TF-binding site pairs and expression of target genes is then fit with a regression model. b, Signal tracks showing normalized accessibility at the transcription start site of EMX1 in the different branches and inferred regulatory regions for various transcription factors. Line color represents the sign of the interaction and box color (grayscale) represents the FDR of the most significant interaction for this region. c, UMAP embedding of the inferred TF network based on co-expression and inferred interaction strength between TFs. Color and size represent expression weighted pseudotime and PageRank centrality of each TF, respectively. d, UMAP embedding shaded by module features. e, Barplots showing target specificity for branch-specific TFs. f, UMAP embedding of branch-specific TF networks highlighting TFs with branch-specific targets and interactions with branch-specific accessibility. g, Plot shows groups of TFs with differential activity between the dorsal (red) and ventral (purple) telencephalon branch. TF activity is indicated by a colored dot for each branch, connected by a line, and was calculated by multiplying the mean regulatory coefficient with the average expression in the branch. The sign of the activity indicates whether the regulation is mainly activating (+) or repressing (-).\relax }{figure.caption.63}{}}
 \citation{nakamura_bhlh_2000}
@@ -1088,23 +1089,23 @@
 \citation{biesecker_greig_2008}
 \abx@aux@cite{0}{biesecker_greig_2008}
 \abx@aux@segm{0}{0}{biesecker_greig_2008}
-\abx@aux@page{232}{67}
 \abx@aux@page{233}{67}
 \abx@aux@page{234}{67}
 \abx@aux@page{235}{67}
 \abx@aux@page{236}{67}
 \abx@aux@page{237}{67}
-\@writefile{toc}{\contentsline {paragraph}{GLI3 directly targets HES regulomes during human organoid telencephalon development}{67}{section*.66}\protected@file@percent }
 \abx@aux@page{238}{67}
+\@writefile{toc}{\contentsline {paragraph}{GLI3 directly targets HES regulomes during human organoid telencephalon development}{67}{section*.66}\protected@file@percent }
 \abx@aux@page{239}{67}
 \abx@aux@page{240}{67}
 \abx@aux@page{241}{67}
+\abx@aux@page{242}{67}
 \citation{sousa_sonic_2010}
 \abx@aux@cite{0}{sousa_sonic_2010}
 \abx@aux@segm{0}{0}{sousa_sonic_2010}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces \textbf  {Single-cell multiome view of GLI3 loss of function reveals distinct regulomes and novel effectors of dorsoventral telencephalon specification.} a, Schematic of the experiment where transcriptome and chromatin access was measured in the same cell at 3 weeks of cerebral organoid development. b, UMAP embedding colored by cluster and labeled by projected cell fate. Inset UMAP colored by genetic state. c, Lollipop plot showing number of DEGs of control (WT) versus GLI3 KO cells in the different clusters. d, Volcano plot showing DE in telencephalic progenitors (cluster 0 and 2) upon GLI3 KO. e, Heatmap showing DEGs upon GLI3 KO for early telencephalic progenitors (week 3), ventral telencephalic progenitors (week 6) and neurons (week 6), and differential accessibility (DA) upon GLI3 KO in early telencephalic progenitors (week 3). All genes are colored by the related signaling pathway (if applicable) and molecular function. f,g, Subgraph of the GRN for early telencephalic progenitors (f) and in the ventral telencephalon (g), showing direct and second-order GLI3 targets. Circles are genes with all TFs being labeled. Edges are colored based on regulatory interaction by the TF. h, GLI3 binding score (sum of C\&T signal intensity for gene body + 2kb) in WT organoids versus DE log fold change in early telencephalic progenitors (week 3). Genes with differentially accessible Cis-regulatory elements (CREs) are colored black. Signal tracks of GLI3 binding matched with DA peaks of HES4 and HES5 in early telencephalic progenitors. i, Z-scored mean correlation between module genes expression and branch probabilities (branch activation score) for DE TFs. j, Scatterplot showing log fold change of genes upon treatment with SHH versus DE in GLI3 KO. GO terms are shown for common DEGs, SHH treatment specific and GLI3 specific DEGs. k, Schematic summarizing the results from GLI3 and SHH perturbations.\relax }}{68}{figure.caption.67}\protected@file@percent }
 \newlabel{fig:reg4}{{3.4}{68}{\textbf {Single-cell multiome view of GLI3 loss of function reveals distinct regulomes and novel effectors of dorsoventral telencephalon specification.} a, Schematic of the experiment where transcriptome and chromatin access was measured in the same cell at 3 weeks of cerebral organoid development. b, UMAP embedding colored by cluster and labeled by projected cell fate. Inset UMAP colored by genetic state. c, Lollipop plot showing number of DEGs of control (WT) versus GLI3 KO cells in the different clusters. d, Volcano plot showing DE in telencephalic progenitors (cluster 0 and 2) upon GLI3 KO. e, Heatmap showing DEGs upon GLI3 KO for early telencephalic progenitors (week 3), ventral telencephalic progenitors (week 6) and neurons (week 6), and differential accessibility (DA) upon GLI3 KO in early telencephalic progenitors (week 3). All genes are colored by the related signaling pathway (if applicable) and molecular function. f,g, Subgraph of the GRN for early telencephalic progenitors (f) and in the ventral telencephalon (g), showing direct and second-order GLI3 targets. Circles are genes with all TFs being labeled. Edges are colored based on regulatory interaction by the TF. h, GLI3 binding score (sum of C\&T signal intensity for gene body + 2kb) in WT organoids versus DE log fold change in early telencephalic progenitors (week 3). Genes with differentially accessible Cis-regulatory elements (CREs) are colored black. Signal tracks of GLI3 binding matched with DA peaks of HES4 and HES5 in early telencephalic progenitors. i, Z-scored mean correlation between module genes expression and branch probabilities (branch activation score) for DE TFs. j, Scatterplot showing log fold change of genes upon treatment with SHH versus DE in GLI3 KO. GO terms are shown for common DEGs, SHH treatment specific and GLI3 specific DEGs. k, Schematic summarizing the results from GLI3 and SHH perturbations.\relax }{figure.caption.67}{}}
-\abx@aux@page{242}{69}
+\abx@aux@page{243}{69}
 \citation{echelard_sonic_1993}
 \abx@aux@cite{0}{echelard_sonic_1993}
 \abx@aux@segm{0}{0}{echelard_sonic_1993}
@@ -1126,18 +1127,18 @@
 \citation{la_manno_molecular_2021}
 \abx@aux@cite{0}{la_manno_molecular_2021}
 \abx@aux@segm{0}{0}{la_manno_molecular_2021}
-\abx@aux@page{243}{70}
 \abx@aux@page{244}{70}
 \abx@aux@page{245}{70}
 \abx@aux@page{246}{70}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Discussion}{70}{subsection.3.3}\protected@file@percent }
 \abx@aux@page{247}{70}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Discussion}{70}{subsection.3.3}\protected@file@percent }
 \abx@aux@page{248}{70}
 \abx@aux@page{249}{70}
+\abx@aux@page{250}{70}
 \citation{sharma_hes1_2021}
 \abx@aux@cite{0}{sharma_hes1_2021}
 \abx@aux@segm{0}{0}{sharma_hes1_2021}
-\abx@aux@page{250}{72}
+\abx@aux@page{251}{72}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Methods}{72}{subsection.3.4}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Acknowledgements}{72}{section*.68}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Author contributions}{72}{section*.69}\protected@file@percent }
@@ -1148,7 +1149,7 @@
 \@writefile{toc}{\contentsline {paragraph}{Correspondence and requests for materials}{73}{section*.71}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Data availability}{73}{section*.72}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Stem cell and organoid culture}{73}{section*.73}\protected@file@percent }
-\abx@aux@page{251}{74}
+\abx@aux@page{252}{74}
 \@writefile{toc}{\contentsline {paragraph}{Immunohistochemistry}{75}{section*.74}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Whole mount HCR RNA-FISH}{76}{section*.75}\protected@file@percent }
 \citation{datlinger_pooled_2017}
@@ -1156,25 +1157,25 @@
 \abx@aux@segm{0}{0}{datlinger_pooled_2017}
 \@writefile{toc}{\contentsline {paragraph}{Doxycycline-inducible Cas9 nuclease and nickase cell line}{77}{section*.76}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Vector and lentivirus preparation for perturbation experiment}{77}{section*.77}\protected@file@percent }
-\abx@aux@page{252}{77}
+\abx@aux@page{253}{77}
 \citation{hill_design_2018}
 \abx@aux@cite{0}{hill_design_2018}
 \abx@aux@segm{0}{0}{hill_design_2018}
 \@writefile{toc}{\contentsline {paragraph}{Generation of mosaic organoids for perturbation experiment}{78}{section*.78}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Preparation of single-cell transcriptomes from mosaic perturbed organoids}{78}{section*.79}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{gRNA detection from single cell cDNA}{78}{section*.80}\protected@file@percent }
-\abx@aux@page{253}{78}
+\abx@aux@page{254}{78}
 \citation{datlinger_pooled_2017}
 \abx@aux@cite{0}{datlinger_pooled_2017}
 \abx@aux@segm{0}{0}{datlinger_pooled_2017}
 \@writefile{toc}{\contentsline {paragraph}{gRNA detection from gDNA}{79}{section*.81}\protected@file@percent }
-\abx@aux@page{254}{79}
+\abx@aux@page{255}{79}
 \@writefile{toc}{\contentsline {paragraph}{GLI3 knock-out and control line generation}{79}{section*.82}\protected@file@percent }
 \citation{renaud_leehom_2014}
 \abx@aux@cite{0}{renaud_leehom_2014}
 \abx@aux@segm{0}{0}{renaud_leehom_2014}
 \@writefile{toc}{\contentsline {paragraph}{Validation of KO lines by sequencing}{80}{section*.83}\protected@file@percent }
-\abx@aux@page{255}{80}
+\abx@aux@page{256}{80}
 \@writefile{toc}{\contentsline {paragraph}{Western blot}{80}{section*.84}\protected@file@percent }
 \citation{kaya-okur_cuttag_2019}
 \abx@aux@cite{0}{kaya-okur_cuttag_2019}
@@ -1187,10 +1188,10 @@
 \abx@aux@segm{0}{0}{stuart_comprehensive_2019}
 \@writefile{toc}{\contentsline {paragraph}{Generation of single cell transcriptome and multiome of GLI3 KO and WT organoids}{81}{section*.85}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Bulk Cut\&Tag for GLI3 and H3K27ac}{81}{section*.86}\protected@file@percent }
-\abx@aux@page{256}{81}
 \abx@aux@page{257}{81}
-\@writefile{toc}{\contentsline {paragraph}{Preprocessing of single-cell RNA-sequencing data from the organoid time course}{81}{section*.87}\protected@file@percent }
 \abx@aux@page{258}{81}
+\@writefile{toc}{\contentsline {paragraph}{Preprocessing of single-cell RNA-sequencing data from the organoid time course}{81}{section*.87}\protected@file@percent }
+\abx@aux@page{259}{81}
 \@writefile{toc}{\contentsline {paragraph}{Preprocessing of single-cell ATAC-sequencing data from the organoid time course}{82}{section*.88}\protected@file@percent }
 \citation{kang_multiplexed_2018}
 \abx@aux@cite{0}{kang_multiplexed_2018}
@@ -1208,13 +1209,13 @@
 \abx@aux@cite{0}{nowakowski_spatiotemporal_2017}
 \abx@aux@segm{0}{0}{nowakowski_spatiotemporal_2017}
 \@writefile{toc}{\contentsline {paragraph}{Demultiplexing of different lines based on SNV information}{83}{section*.89}\protected@file@percent }
-\abx@aux@page{259}{83}
 \abx@aux@page{260}{83}
 \abx@aux@page{261}{83}
-\@writefile{toc}{\contentsline {paragraph}{Integration of transcriptome and chromatin accessibility data}{83}{section*.90}\protected@file@percent }
 \abx@aux@page{262}{83}
-\@writefile{toc}{\contentsline {paragraph}{Removal of cells with glycolysis signature}{83}{section*.91}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Integration of transcriptome and chromatin accessibility data}{83}{section*.90}\protected@file@percent }
 \abx@aux@page{263}{83}
+\@writefile{toc}{\contentsline {paragraph}{Removal of cells with glycolysis signature}{83}{section*.91}\protected@file@percent }
+\abx@aux@page{264}{83}
 \citation{he_css_2020}
 \abx@aux@cite{0}{he_css_2020}
 \abx@aux@segm{0}{0}{he_css_2020}
@@ -1240,15 +1241,15 @@
 \abx@aux@cite{0}{tirosh_dissecting_2016}
 \abx@aux@segm{0}{0}{tirosh_dissecting_2016}
 \@writefile{toc}{\contentsline {paragraph}{Integration of different lines and timepoints}{84}{section*.92}\protected@file@percent }
-\abx@aux@page{264}{84}
 \abx@aux@page{265}{84}
-\@writefile{toc}{\contentsline {paragraph}{Calculation of motif enrichment scores}{84}{section*.93}\protected@file@percent }
 \abx@aux@page{266}{84}
+\@writefile{toc}{\contentsline {paragraph}{Calculation of motif enrichment scores}{84}{section*.93}\protected@file@percent }
 \abx@aux@page{267}{84}
-\@writefile{toc}{\contentsline {paragraph}{RNA velocity calculation}{84}{section*.94}\protected@file@percent }
 \abx@aux@page{268}{84}
+\@writefile{toc}{\contentsline {paragraph}{RNA velocity calculation}{84}{section*.94}\protected@file@percent }
 \abx@aux@page{269}{84}
 \abx@aux@page{270}{84}
+\abx@aux@page{271}{84}
 \citation{mclean_great_2010}
 \abx@aux@cite{0}{mclean_great_2010}
 \abx@aux@segm{0}{0}{mclean_great_2010}
@@ -1261,20 +1262,20 @@
 \citation{blondel_fast_2008}
 \abx@aux@cite{0}{blondel_fast_2008}
 \abx@aux@segm{0}{0}{blondel_fast_2008}
-\abx@aux@page{271}{85}
+\abx@aux@page{272}{85}
 \@writefile{toc}{\contentsline {paragraph}{Annotation of organoid developmental stages}{85}{section*.95}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Identification of stage-specific chromatin access}{85}{section*.96}\protected@file@percent }
-\abx@aux@page{272}{85}
-\@writefile{toc}{\contentsline {paragraph}{Inference of regional cell-fate trajectories}{85}{section*.97}\protected@file@percent }
 \abx@aux@page{273}{85}
+\@writefile{toc}{\contentsline {paragraph}{Inference of regional cell-fate trajectories}{85}{section*.97}\protected@file@percent }
 \abx@aux@page{274}{85}
+\abx@aux@page{275}{85}
 \citation{stuart_comprehensive_2019}
 \abx@aux@cite{0}{stuart_comprehensive_2019}
 \abx@aux@segm{0}{0}{stuart_comprehensive_2019}
 \citation{stuart_multimodal_2020}
 \abx@aux@cite{0}{stuart_multimodal_2020}
 \abx@aux@segm{0}{0}{stuart_multimodal_2020}
-\abx@aux@page{275}{86}
+\abx@aux@page{276}{86}
 \citation{siepel_evolutionarily_2005}
 \abx@aux@cite{0}{siepel_evolutionarily_2005}
 \abx@aux@segm{0}{0}{siepel_evolutionarily_2005}
@@ -1282,8 +1283,8 @@
 \abx@aux@cite{0}{encode_project_consortium_expanded_2020}
 \abx@aux@segm{0}{0}{encode_project_consortium_expanded_2020}
 \@writefile{toc}{\contentsline {paragraph}{Analysis and integration of multiome data in the neuroepithelial stage}{87}{section*.98}\protected@file@percent }
-\abx@aux@page{276}{87}
 \abx@aux@page{277}{87}
+\abx@aux@page{278}{87}
 \@writefile{toc}{\contentsline {paragraph}{Identification of cis-regulatory elements from multiome data}{87}{section*.99}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Gene regulatory network inference with Pando}{87}{section*.100}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Selection of candidate regions for GRN inference}{87}{section*.101}\protected@file@percent }
@@ -1302,14 +1303,14 @@
 \citation{rice_emboss_2000}
 \abx@aux@cite{0}{rice_emboss_2000}
 \abx@aux@segm{0}{0}{rice_emboss_2000}
-\abx@aux@page{278}{88}
 \abx@aux@page{279}{88}
-\@writefile{toc}{\contentsline {paragraph}{Construction of an extended motif database for GRN inference}{88}{section*.102}\protected@file@percent }
 \abx@aux@page{280}{88}
+\@writefile{toc}{\contentsline {paragraph}{Construction of an extended motif database for GRN inference}{88}{section*.102}\protected@file@percent }
 \abx@aux@page{281}{88}
 \abx@aux@page{282}{88}
 \abx@aux@page{283}{88}
 \abx@aux@page{284}{88}
+\abx@aux@page{285}{88}
 \@writefile{toc}{\contentsline {paragraph}{Coarse-graining expression and chromatin accessibility data}{88}{section*.103}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Linear model-based GRN inference}{89}{section*.104}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Peak and gene module construction}{89}{section*.105}\protected@file@percent }
@@ -1329,11 +1330,11 @@
 \abx@aux@cite{0}{makowski_bayestestr_2019}
 \abx@aux@segm{0}{0}{makowski_bayestestr_2019}
 \@writefile{toc}{\contentsline {paragraph}{Pando implementation details}{90}{section*.106}\protected@file@percent }
-\abx@aux@page{285}{90}
 \abx@aux@page{286}{90}
 \abx@aux@page{287}{90}
 \abx@aux@page{288}{90}
 \abx@aux@page{289}{90}
+\abx@aux@page{290}{90}
 \@writefile{toc}{\contentsline {paragraph}{Visualization of the GRN}{90}{section*.107}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Region-specific GRN}{91}{section*.108}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Calculation of module activity and analysis of module branch specificity}{91}{section*.109}\protected@file@percent }
@@ -1349,18 +1350,18 @@
 \citation{garreta_learning_2013}
 \abx@aux@cite{0}{garreta_learning_2013}
 \abx@aux@segm{0}{0}{garreta_learning_2013}
-\abx@aux@page{290}{92}
-\@writefile{toc}{\contentsline {paragraph}{Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing data}{92}{section*.110}\protected@file@percent }
 \abx@aux@page{291}{92}
+\@writefile{toc}{\contentsline {paragraph}{Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing data}{92}{section*.110}\protected@file@percent }
+\abx@aux@page{292}{92}
 \@writefile{toc}{\contentsline {paragraph}{Assignment of gRNA labels to cells}{93}{section*.111}\protected@file@percent }
-\abx@aux@page{292}{93}
 \abx@aux@page{293}{93}
+\abx@aux@page{294}{93}
 \@writefile{toc}{\contentsline {paragraph}{Inference of perturbation probability}{93}{section*.112}\protected@file@percent }
 \citation{dixit_perturb-seq_2016}
 \abx@aux@cite{0}{dixit_perturb-seq_2016}
 \abx@aux@segm{0}{0}{dixit_perturb-seq_2016}
 \@writefile{toc}{\contentsline {paragraph}{Determination of transcriptomic perturbation effects in the CROP-seq screen}{94}{section*.113}\protected@file@percent }
-\abx@aux@page{294}{94}
+\abx@aux@page{295}{94}
 \@writefile{toc}{\contentsline {paragraph}{Determination of composition changes in the CROP-seq screen}{94}{section*.114}\protected@file@percent }
 \citation{pinello_analyzing_2016}
 \abx@aux@cite{0}{pinello_analyzing_2016}
@@ -1370,19 +1371,19 @@
 \abx@aux@segm{0}{0}{cock_biopython_2009}
 \@writefile{toc}{\contentsline {paragraph}{Preprocessing and integration of single-cell RNA-sequencing data from the GLI3 knock-out experiment}{95}{section*.115}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{CRISPResso analysis and protein sequence prediction}{95}{section*.116}\protected@file@percent }
-\abx@aux@page{295}{95}
+\abx@aux@page{296}{95}
 \citation{korsunsky_fast_2019}
 \abx@aux@cite{0}{korsunsky_fast_2019}
 \abx@aux@segm{0}{0}{korsunsky_fast_2019}
-\abx@aux@page{296}{96}
-\@writefile{toc}{\contentsline {paragraph}{Preprocessing and integration of multiome data from the GLI3 knock-out experiment}{96}{section*.117}\protected@file@percent }
 \abx@aux@page{297}{96}
+\@writefile{toc}{\contentsline {paragraph}{Preprocessing and integration of multiome data from the GLI3 knock-out experiment}{96}{section*.117}\protected@file@percent }
+\abx@aux@page{298}{96}
 \@writefile{toc}{\contentsline {paragraph}{Annotation of cells from the GLI3 knock-out and SHH experiment}{96}{section*.118}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Differential expression analysis for the GLI3 knock-out and SHH experiment}{96}{section*.119}\protected@file@percent }
 \citation{korsunsky_presto_2019}
 \abx@aux@cite{0}{korsunsky_presto_2019}
 \abx@aux@segm{0}{0}{korsunsky_presto_2019}
-\abx@aux@page{298}{97}
+\abx@aux@page{299}{97}
 \@writefile{toc}{\contentsline {paragraph}{Differential accessibility analysis for the GLI3 knock-out experiment}{97}{section*.120}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Comparison of perturbation effects with gene regulatory network}{97}{section*.121}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Functional annotation of differentially accessible genomic regions}{98}{section*.122}\protected@file@percent }
@@ -1470,12 +1471,12 @@
 \abx@aux@cite{0}{adamson_multiplexed_2016}
 \abx@aux@segm{0}{0}{adamson_multiplexed_2016}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Abstract}{115}{subsection.4.1}\protected@file@percent }
-\abx@aux@page{303}{115}
 \abx@aux@page{304}{115}
 \abx@aux@page{305}{115}
 \abx@aux@page{306}{115}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Main}{115}{subsection.4.2}\protected@file@percent }
 \abx@aux@page{307}{115}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Main}{115}{subsection.4.2}\protected@file@percent }
+\abx@aux@page{308}{115}
 \citation{esk_human_2020}
 \abx@aux@cite{0}{esk_human_2020}
 \abx@aux@segm{0}{0}{esk_human_2020}
@@ -1491,7 +1492,6 @@
 \citation{bizzotto_landmarks_2021}
 \abx@aux@cite{0}{bizzotto_landmarks_2021}
 \abx@aux@segm{0}{0}{bizzotto_landmarks_2021}
-\abx@aux@page{308}{116}
 \abx@aux@page{309}{116}
 \abx@aux@page{310}{116}
 \abx@aux@page{311}{116}
@@ -1501,10 +1501,11 @@
 \abx@aux@page{315}{116}
 \abx@aux@page{316}{116}
 \abx@aux@page{317}{116}
+\abx@aux@page{318}{116}
 \@writefile{toc}{\contentsline {paragraph}{Single-cell loss-of-function screening in clonally barcoded organoids}{116}{section*.141}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces \textbf  {The CHOOSE system for multiplexed screening of ASD risk genes in human cerebral organoids.} a, CHOOSE system overview. Barcoded dual-sgRNA cassette located within the 3' LTR of the lentivirus. b, Reporter assay to test gRNA efficiencies for 36 ASD risk genes. c, Editing efficiencies of gRNAs determined by flow-cytometry. Plots show examples of gRNAs with no or efficient editing. d, sgRNA sequence read distributions of gRNAs sequenced from the ASD plasmid library, lentivirus infected hESCs, and EBs at day 5. e, Numbers of clones from the starting hESCs for each perturbation used to generate mosaic cerebral organoids. f, UMAP embedding of the scRNA-seq dataset containing dorsal and ventral telencephalon trajectories. g, Subclustering and UMAP embedding of the ventral telencephalon trajectory excluding astrocytes and ccv-RGC to annotate OPC clusters. h, Heatmap shows the expression of marker genes in different cell types. i, RNA velocity and velocity pseudotime inference in dorsal and ventral trajectories to show developmental directions.\relax }}{117}{figure.caption.140}\protected@file@percent }
 \newlabel{fig:asd1}{{4.1}{117}{\textbf {The CHOOSE system for multiplexed screening of ASD risk genes in human cerebral organoids.} a, CHOOSE system overview. Barcoded dual-sgRNA cassette located within the 3' LTR of the lentivirus. b, Reporter assay to test gRNA efficiencies for 36 ASD risk genes. c, Editing efficiencies of gRNAs determined by flow-cytometry. Plots show examples of gRNAs with no or efficient editing. d, sgRNA sequence read distributions of gRNAs sequenced from the ASD plasmid library, lentivirus infected hESCs, and EBs at day 5. e, Numbers of clones from the starting hESCs for each perturbation used to generate mosaic cerebral organoids. f, UMAP embedding of the scRNA-seq dataset containing dorsal and ventral telencephalon trajectories. g, Subclustering and UMAP embedding of the ventral telencephalon trajectory excluding astrocytes and ccv-RGC to annotate OPC clusters. h, Heatmap shows the expression of marker genes in different cell types. i, RNA velocity and velocity pseudotime inference in dorsal and ventral trajectories to show developmental directions.\relax }{figure.caption.140}{}}
-\abx@aux@page{318}{117}
+\abx@aux@page{319}{117}
 \citation{torre-ubieta_advancing_2016}
 \abx@aux@cite{0}{torre-ubieta_advancing_2016}
 \abx@aux@segm{0}{0}{torre-ubieta_advancing_2016}
@@ -1544,35 +1545,35 @@
 \citation{manno_rna_2018}
 \abx@aux@cite{0}{manno_rna_2018}
 \abx@aux@segm{0}{0}{manno_rna_2018}
-\abx@aux@page{319}{118}
 \abx@aux@page{320}{118}
 \abx@aux@page{321}{118}
 \abx@aux@page{322}{118}
-\@writefile{toc}{\contentsline {paragraph}{CHOOSE cerebral organoids generate a high diversity of telencephalic cell types}{118}{section*.142}\protected@file@percent }
 \abx@aux@page{323}{118}
+\@writefile{toc}{\contentsline {paragraph}{CHOOSE cerebral organoids generate a high diversity of telencephalic cell types}{118}{section*.142}\protected@file@percent }
 \abx@aux@page{324}{118}
 \abx@aux@page{325}{118}
 \abx@aux@page{326}{118}
 \abx@aux@page{327}{118}
 \abx@aux@page{328}{118}
+\abx@aux@page{329}{118}
 \citation{harris_neocortical_2015}
 \abx@aux@cite{0}{harris_neocortical_2015}
 \abx@aux@segm{0}{0}{harris_neocortical_2015}
 \citation{marco_sensory_2011}
 \abx@aux@cite{0}{marco_sensory_2011}
 \abx@aux@segm{0}{0}{marco_sensory_2011}
-\abx@aux@page{329}{119}
 \abx@aux@page{330}{119}
 \abx@aux@page{331}{119}
 \abx@aux@page{332}{119}
 \abx@aux@page{333}{119}
 \abx@aux@page{334}{119}
 \abx@aux@page{335}{119}
-\@writefile{toc}{\contentsline {paragraph}{Perturbing ASD risk genes depletes dorsal IPCs and enriches ventral RGCs}{119}{section*.143}\protected@file@percent }
 \abx@aux@page{336}{119}
+\@writefile{toc}{\contentsline {paragraph}{Perturbing ASD risk genes depletes dorsal IPCs and enriches ventral RGCs}{119}{section*.143}\protected@file@percent }
+\abx@aux@page{337}{119}
 \@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces \textbf  {Cell type and developmental process-specific effects of perturbations of ASD risk genes.} a, Heatmap shows enrichment of gRNAs versus control in the dorsal versus ventral lineage (left, purple to orange) and individual cell types (middle and right, blue to red). Colors indicate the sign of the log odds ratio multiplied by the -log10 FDR-corrected p-value of a CMH test stratified by library (signed -log10 FDR). b, e, Accumulative differential density of perturbations versus control across a binned pseudo-temporal axis. Each color represents one perturbation. c, f, Heatmaps show the expression of genes used to define developmental stages. d, g, Heatmaps show enrichment of gRNAs in annotated developmental stages for each trajectory.\relax }}{120}{figure.caption.144}\protected@file@percent }
 \newlabel{fig:asd2}{{4.2}{120}{\textbf {Cell type and developmental process-specific effects of perturbations of ASD risk genes.} a, Heatmap shows enrichment of gRNAs versus control in the dorsal versus ventral lineage (left, purple to orange) and individual cell types (middle and right, blue to red). Colors indicate the sign of the log odds ratio multiplied by the -log10 FDR-corrected p-value of a CMH test stratified by library (signed -log10 FDR). b, e, Accumulative differential density of perturbations versus control across a binned pseudo-temporal axis. Each color represents one perturbation. c, f, Heatmaps show the expression of genes used to define developmental stages. d, g, Heatmaps show enrichment of gRNAs in annotated developmental stages for each trajectory.\relax }{figure.caption.144}{}}
-\abx@aux@page{337}{120}
+\abx@aux@page{338}{120}
 \citation{funayama_chchd2_2015}
 \abx@aux@cite{0}{funayama_chchd2_2015}
 \abx@aux@segm{0}{0}{funayama_chchd2_2015}
@@ -1589,17 +1590,17 @@
 \citation{lee_exome_2014}
 \abx@aux@cite{0}{lee_exome_2014}
 \abx@aux@segm{0}{0}{lee_exome_2014}
-\abx@aux@page{338}{122}
-\@writefile{toc}{\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{122}{section*.146}\protected@file@percent }
 \abx@aux@page{339}{122}
+\@writefile{toc}{\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{122}{section*.146}\protected@file@percent }
 \abx@aux@page{340}{122}
 \abx@aux@page{341}{122}
+\abx@aux@page{342}{122}
 \citation{fleck_inferring_2021}
 \abx@aux@cite{0}{fleck_inferring_2021}
 \abx@aux@segm{0}{0}{fleck_inferring_2021}
-\abx@aux@page{342}{123}
-\@writefile{toc}{\contentsline {paragraph}{CHOOSE combined with GRN inference from single-cell multiome data identifies ASD-specific transcription regulatory modules}{123}{section*.147}\protected@file@percent }
 \abx@aux@page{343}{123}
+\@writefile{toc}{\contentsline {paragraph}{CHOOSE combined with GRN inference from single-cell multiome data identifies ASD-specific transcription regulatory modules}{123}{section*.147}\protected@file@percent }
+\abx@aux@page{344}{123}
 \@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces \textbf  {Dysregulated gene expression and regulatory networks caused by perturbations of ASD risk genes.} a, Manhattan plots show DEGs detected in dorsal (top) and ventral (bottom) trajectories from each genetic perturbation. Green arrowheads indicate genes associated with PD (CHCHD2, PRKN, PACRG) or the ubiquitin system (PRKN, HECW, PDZRN3). Blue arrowheads indicate genes encoding VGKCs. b, Jitter plot shows frequency of DEGs detected from all perturbations separated by dorsal (blue) and ventral (orange) trajectories. Points belonging to the same gene are connected with a gray line. c. Enrichment test of TOP-DEGs (top 30 DEGs from each perturbation) in ID (sysID database) or ASD (SFARI database) genes. The p-value was obtained from a Fisher exact test. d, GRN of 4-month-old cerebral organoids inferred by Pando showing developmental TF modules constructed based on their co-expression and interaction strengths. ASD-specific TF modules are highlighted in yellow (SFARI genes) and/or black (regulator of SFARI genes). e, Lolliplots show CHOOSE-DEG enriched TF modules in dorsal and ventral trajectories. f, Circular GRN plots show primary and secondary targets of OLIG1 and EOMES. ASD-specific TF modules are highlighted in black/yellow as described above.\relax }}{124}{figure.caption.148}\protected@file@percent }
 \newlabel{fig:asd3}{{4.3}{124}{\textbf {Dysregulated gene expression and regulatory networks caused by perturbations of ASD risk genes.} a, Manhattan plots show DEGs detected in dorsal (top) and ventral (bottom) trajectories from each genetic perturbation. Green arrowheads indicate genes associated with PD (CHCHD2, PRKN, PACRG) or the ubiquitin system (PRKN, HECW, PDZRN3). Blue arrowheads indicate genes encoding VGKCs. b, Jitter plot shows frequency of DEGs detected from all perturbations separated by dorsal (blue) and ventral (orange) trajectories. Points belonging to the same gene are connected with a gray line. c. Enrichment test of TOP-DEGs (top 30 DEGs from each perturbation) in ID (sysID database) or ASD (SFARI database) genes. The p-value was obtained from a Fisher exact test. d, GRN of 4-month-old cerebral organoids inferred by Pando showing developmental TF modules constructed based on their co-expression and interaction strengths. ASD-specific TF modules are highlighted in yellow (SFARI genes) and/or black (regulator of SFARI genes). e, Lolliplots show CHOOSE-DEG enriched TF modules in dorsal and ventral trajectories. f, Circular GRN plots show primary and secondary targets of OLIG1 and EOMES. ASD-specific TF modules are highlighted in black/yellow as described above.\relax }{figure.caption.148}{}}
 \citation{lange_cellrank_2022}
@@ -1621,12 +1622,12 @@
 \abx@aux@cite{0}{bagley_fused_2017}
 \abx@aux@segm{0}{0}{bagley_fused_2017}
 \@writefile{toc}{\contentsline {paragraph}{ARID1B perturbation increases the transition probability of v-RGCs to early OPCs}{125}{section*.150}\protected@file@percent }
-\abx@aux@page{344}{125}
 \abx@aux@page{345}{125}
 \abx@aux@page{346}{125}
 \abx@aux@page{347}{125}
 \abx@aux@page{348}{125}
 \abx@aux@page{349}{125}
+\abx@aux@page{350}{125}
 \@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces \textbf  {Perturbation of ARID1B increases the transition of v-RGCs to early OPCs.} a, Circular projection of terminal fate probabilities shows ventral telencephalon differentiation trajectories. b, Trajectory branches defined by gene expressions of DLX2 (INP), DLX5 (IN), OLIG2 (early OPC) and PDGFRA (late OPC). c, Differential density of cells with ARID1B perturbation versus control. d, Bar graph shows cells within the v-RGCs are positive for DLX2 (68.6\% versus 81.5\%), OLIG2 (19.6\% versus 36.2\%) and both (9.8\% versus 30.6\%) in control versus ARID1B perturbation. e, Box plots showing transition probabilities of control and ARID1B perturbed ventral progenitor cells towards OPCs. Middle line depicts the median; box marks the 25\% and 75\% quantiles. f, Immunohistochemistry for early OPCs (OLIG2) and INPs (DLX2) of day 40 ventralized brain organoids derived from control (c. 220dupG repair) and two ARID1B patient iPSCs. Scale bar, 200 $\mu $m. g, Violin plots (all data points and median values) show numbers of cells positive for OLIG2 and/or DLX2. Control, n =108 areas from 13 organoids, 4 batches; ARID1B+/- (c.2201dupG), n = 104 areas from 15 organoids, 4 batches; ARID1B+/- (6q25.3del), n = 94 areas from 15 organoids, 3 batches. One-way ANOVA post hoc Tukey test. ***P<0.01. h, Prenatal magnetic resonance imaging scan and 3D reconstruction of LGE and CGE (marked as GE) from age matched controls and ARID1B patient showing enlarged GE in the patient. Quantified in Figure S1.10c. Scale bar, 1 cm. I, Diagram showing ARID1B perturbation-induced cellular responses of ventral progenitors.\relax }}{126}{figure.caption.149}\protected@file@percent }
 \newlabel{fig:asd4}{{4.4}{126}{\textbf {Perturbation of ARID1B increases the transition of v-RGCs to early OPCs.} a, Circular projection of terminal fate probabilities shows ventral telencephalon differentiation trajectories. b, Trajectory branches defined by gene expressions of DLX2 (INP), DLX5 (IN), OLIG2 (early OPC) and PDGFRA (late OPC). c, Differential density of cells with ARID1B perturbation versus control. d, Bar graph shows cells within the v-RGCs are positive for DLX2 (68.6\% versus 81.5\%), OLIG2 (19.6\% versus 36.2\%) and both (9.8\% versus 30.6\%) in control versus ARID1B perturbation. e, Box plots showing transition probabilities of control and ARID1B perturbed ventral progenitor cells towards OPCs. Middle line depicts the median; box marks the 25\% and 75\% quantiles. f, Immunohistochemistry for early OPCs (OLIG2) and INPs (DLX2) of day 40 ventralized brain organoids derived from control (c. 220dupG repair) and two ARID1B patient iPSCs. Scale bar, 200 $\mu $m. g, Violin plots (all data points and median values) show numbers of cells positive for OLIG2 and/or DLX2. Control, n =108 areas from 13 organoids, 4 batches; ARID1B+/- (c.2201dupG), n = 104 areas from 15 organoids, 4 batches; ARID1B+/- (6q25.3del), n = 94 areas from 15 organoids, 3 batches. One-way ANOVA post hoc Tukey test. ***P<0.01. h, Prenatal magnetic resonance imaging scan and 3D reconstruction of LGE and CGE (marked as GE) from age matched controls and ARID1B patient showing enlarged GE in the patient. Quantified in Figure S1.10c. Scale bar, 1 cm. I, Diagram showing ARID1B perturbation-induced cellular responses of ventral progenitors.\relax }{figure.caption.149}{}}
 \citation{martinez-cerdeno_role_2006}
@@ -1663,7 +1664,6 @@
 \abx@aux@cite{0}{yu_olig2_2013}
 \abx@aux@segm{0}{0}{yu_olig2_2013}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Discussion}{127}{subsection.4.3}\protected@file@percent }
-\abx@aux@page{350}{127}
 \abx@aux@page{351}{127}
 \abx@aux@page{352}{127}
 \abx@aux@page{353}{127}
@@ -1671,9 +1671,10 @@
 \abx@aux@page{355}{127}
 \abx@aux@page{356}{127}
 \abx@aux@page{357}{127}
-\abx@aux@page{358}{128}
+\abx@aux@page{358}{127}
 \abx@aux@page{359}{128}
 \abx@aux@page{360}{128}
+\abx@aux@page{361}{128}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Methods}{128}{subsection.4.4}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Data availability}{128}{section*.151}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Acknowledgements}{128}{section*.152}\protected@file@percent }
@@ -1744,12 +1745,12 @@
 \abx@aux@cite{0}{stark_scim_2020}
 \abx@aux@segm{0}{0}{stark_scim_2020}
 \@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces \textbf  {Single-cell epigenomic atlas of brain organoid development from pluripotency.} (A) Experimental outline. scCut\&Tag and scRNA-Seq were performed for different developmental timepoints during cerebral and retina organoid development. (B) UMAP embedding with cells colored based on developmental timepoint. (C) UMAP embedding with cells colored by celltype (IP - intermediate progenitor) (D) Bar-plot absolute cell number per timepoint (upper panel). Stacked bar plot of cell type distribution within each timepoint (lower panel) (EN - excitatory neuron, NT-non-telencephalon). (E) DAPI staining of an organoid at day 90, scale bar 1000 $\mu $m (upper panel). One ventricle of an organoid stained for H3K27ac, H3K27me3, H3K4me3, scale bar 100 $\mu $m (lower panel). (F, H, J) Same as (B) for H3K27ac, H3K4me3, H3K27me3, respectively. (G, I, K) Same as (C) for H3K27ac, H3K4me3, H3K27me3, respectively. (L, M, N) Same as (D) for H3K27ac, H3K4me3, H3K27me3, respectively. (O, P, Q) genome browser snapshots show the enrichment of the respective mark at four different marker genes (FOXG1-cortex, POU5F1-pluripotency, SIX6-retina, HOX-cluster-hindbrain and posterior parts of the body). Each signal track represents an annotated celltype.\relax }}{156}{figure.caption.186}\protected@file@percent }
-\abx@aux@page{361}{156}
 \abx@aux@page{362}{156}
 \abx@aux@page{363}{156}
 \abx@aux@page{364}{156}
 \abx@aux@page{365}{156}
 \abx@aux@page{366}{156}
+\abx@aux@page{367}{156}
 \citation{allis_molecular_2016}
 \abx@aux@cite{0}{allis_molecular_2016}
 \abx@aux@segm{0}{0}{allis_molecular_2016}
@@ -1760,8 +1761,8 @@
 \abx@aux@cite{0}{lange_cellrank_2022}
 \abx@aux@segm{0}{0}{lange_cellrank_2022}
 \@writefile{toc}{\contentsline {paragraph}{Epigenomic switches during regional diversification}{157}{section*.190}\protected@file@percent }
-\abx@aux@page{367}{157}
 \abx@aux@page{368}{157}
+\abx@aux@page{369}{157}
 \newlabel{fig:cnt2}{{\caption@xref {fig:cnt2}{ on input line 80}}{158}{Single-cell epigenomic reconstruction of brain organoid development}{figure.caption.188}{}}
 \citation{bergen_generalizing_2020}
 \abx@aux@cite{0}{bergen_generalizing_2020}
@@ -1771,14 +1772,14 @@
 \abx@aux@segm{0}{0}{haghverdi_diffusion_2016}
 \@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces \textbf  {Epigenomic switches and pseudotemporal dynamics during brain region diversification.} (A) Schematic of the human brain (left) and UMAP embedding (right) labelled with brain region identities. (B) Heatmap showing peak enrichment of lineage-specific peaks showing switching between H3K27me3 and H3K27ac marks. Expression of the closest gene is shown on the right. (C) Genomic tracks showing switching peaks close to lineage-specific genes. (D) UMAP representation and (E) graph layout of high-resolution clusters labelled by cell type. (F) Graph layout colored by expression and gene activities of all three chromatin marks for NEUROD2, FOXG1 (telencephalon), LHX5 (Non-telencephalon) and VSX2 (retina). (G) Heatmap showing expression and gene activity scores over the telencephalic neuron differentiation trajectory from pluripotency. Pseudotime was binned and genes were K-means clustered based on average expression/activity of all marks and RNA in all bins. (H) Line plots showing smoothed pseudotemporal expression and activities of selected examples from multiple K-means clusters.\relax }}{159}{figure.caption.189}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Epigenetic activation precedes gene expression during neurogenesis}{159}{section*.191}\protected@file@percent }
-\abx@aux@page{369}{159}
 \abx@aux@page{370}{159}
 \abx@aux@page{371}{159}
+\abx@aux@page{372}{159}
 \citation{he_eed_2017}
 \abx@aux@cite{0}{he_eed_2017}
 \abx@aux@segm{0}{0}{he_eed_2017}
 \@writefile{toc}{\contentsline {paragraph}{Perturbation of histone modifiers causes aberrant fate acquisition}{160}{section*.194}\protected@file@percent }
-\abx@aux@page{372}{160}
+\abx@aux@page{373}{160}
 \newlabel{fig:cnt2}{{\caption@xref {fig:cnt2}{ on input line 103}}{161}{Epigenetic activation precedes gene expression during neurogenesis}{figure.caption.192}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces \textbf  {Aberrant fate acquisition upon perturbation of EED.} (A) Schematic of the experiment. Organoids were treated with EED inhibitor from day 0 to day 15. During the neuroepithelium stage (day 15-18) organoids were profiled with scRNA-seq and bulk Cut\&Tag. (B) Heatmaps showing peak intensities from the bulk Cut\&Tag experiment for EED-inhibitor (10$\mu $M) and DMSO-treated organoids. Regions are ordered by H3K27me3 intensity. (C) Scatter plot showing log$_2$ fold change of peak intensities of organoids treated with different EED-inhibitor concentrations versus the DMSO control and histogram showing distribution of fold changes (top). Heatmap showing the log$_2$ fold change of expression of the closest gene from DE analysis in scRNA-seq data. (D) Genomic tracks showing bulk Cut\&Tag profiles for H3K27me3 and H3K27ac at genomic regions around STMN2 and DLX3. (E) UMAP embedding of the scRNA-seq data colored by treatment (left) and annotated louvain clusters (right). (F) UMAP embedding colored by expression of genes marking annotated populations. (G) Bar plot showing cluster enrichment of treated cells versus DMSO control (top) and distribution of treatments in clusters (bottom). Common odds ratio (height) and p-value (alpha) were obtained from a CMH-test stratified by sampling timepoint. (H) Tree representation of high-resolution clusters in the developmental timecourse, with the x-axis representing mean pseudotime. Cell populations commonly expected at day 15 (expected, black) and treatment-enriched populations (ectopic, red) are highlighted. (I) Tree representation colored by module scores (deviation above background) of DE gene expression and activity in the developmental timecourse.\relax }}{162}{figure.caption.193}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Discussion}{162}{subsection.5.3}\protected@file@percent }
@@ -1788,8 +1789,8 @@
 \citation{munoz-sanjuan_neural_2002}
 \abx@aux@cite{0}{munoz-sanjuan_neural_2002}
 \abx@aux@segm{0}{0}{munoz-sanjuan_neural_2002}
-\abx@aux@page{373}{163}
 \abx@aux@page{374}{163}
+\abx@aux@page{375}{163}
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Methods}{163}{subsection.5.4}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Cell and organoid culture}{163}{section*.195}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Drug treatment}{164}{section*.196}\protected@file@percent }
@@ -1810,7 +1811,7 @@
 \abx@aux@segm{0}{0}{stuart_multimodal_2020}
 \@writefile{toc}{\contentsline {paragraph}{Immunostaining}{169}{section*.203}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Preprocessing scRNA-seq data}{169}{section*.204}\protected@file@percent }
-\abx@aux@page{375}{169}
+\abx@aux@page{376}{169}
 \@writefile{toc}{\contentsline {paragraph}{Preprocessing and clustering of scCut\&Tag data}{169}{section*.205}\protected@file@percent }
 \citation{becht_dimensionality_2019}
 \abx@aux@cite{0}{becht_dimensionality_2019}
@@ -1818,11 +1819,11 @@
 \citation{kang_multiplexed_2018}
 \abx@aux@cite{0}{kang_multiplexed_2018}
 \abx@aux@segm{0}{0}{kang_multiplexed_2018}
-\abx@aux@page{376}{170}
 \abx@aux@page{377}{170}
 \abx@aux@page{378}{170}
-\@writefile{toc}{\contentsline {paragraph}{Demultiplexing}{170}{section*.206}\protected@file@percent }
 \abx@aux@page{379}{170}
+\@writefile{toc}{\contentsline {paragraph}{Demultiplexing}{170}{section*.206}\protected@file@percent }
+\abx@aux@page{380}{170}
 \@writefile{toc}{\contentsline {paragraph}{Integration and annotation of scRNA-seq data}{170}{section*.207}\protected@file@percent }
 \citation{he_css_2020}
 \abx@aux@cite{0}{he_css_2020}
@@ -1839,11 +1840,11 @@
 \citation{fleck_inferring_2021}
 \abx@aux@cite{0}{fleck_inferring_2021}
 \abx@aux@segm{0}{0}{fleck_inferring_2021}
-\abx@aux@page{380}{171}
 \abx@aux@page{381}{171}
 \abx@aux@page{382}{171}
 \abx@aux@page{383}{171}
 \abx@aux@page{384}{171}
+\abx@aux@page{385}{171}
 \@writefile{toc}{\contentsline {paragraph}{Hashing}{171}{section*.208}\protected@file@percent }
 \citation{stark_scim_2020}
 \abx@aux@cite{0}{stark_scim_2020}
@@ -1865,13 +1866,13 @@
 \abx@aux@segm{0}{0}{lange_cellrank_2022}
 \@writefile{toc}{\contentsline {paragraph}{Calculation of gene activity scores}{172}{section*.209}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Matching of scRNA and scCut\&Tag data}{172}{section*.210}\protected@file@percent }
-\abx@aux@page{385}{172}
 \abx@aux@page{386}{172}
-\@writefile{toc}{\contentsline {paragraph}{RNA velocity and inference of terminal fate probabilities}{172}{section*.211}\protected@file@percent }
 \abx@aux@page{387}{172}
+\@writefile{toc}{\contentsline {paragraph}{RNA velocity and inference of terminal fate probabilities}{172}{section*.211}\protected@file@percent }
 \abx@aux@page{388}{172}
 \abx@aux@page{389}{172}
 \abx@aux@page{390}{172}
+\abx@aux@page{391}{172}
 \citation{haghverdi_diffusion_2016}
 \abx@aux@cite{0}{haghverdi_diffusion_2016}
 \abx@aux@segm{0}{0}{haghverdi_diffusion_2016}
@@ -1889,13 +1890,13 @@
 \abx@aux@segm{0}{0}{ramirez_deeptools2_2016}
 \@writefile{toc}{\contentsline {paragraph}{Graph representation of the scRNA-seq data}{173}{section*.212}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Trajectory reconstruction}{173}{section*.213}\protected@file@percent }
-\abx@aux@page{391}{173}
 \abx@aux@page{392}{173}
-\@writefile{toc}{\contentsline {paragraph}{Preprocessing and integration of drug treatment scRNA-seq data}{173}{section*.214}\protected@file@percent }
 \abx@aux@page{393}{173}
-\@writefile{toc}{\contentsline {paragraph}{Preprocessing of bulk Cut\&Tag data}{173}{section*.215}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Preprocessing and integration of drug treatment scRNA-seq data}{173}{section*.214}\protected@file@percent }
 \abx@aux@page{394}{173}
-\abx@aux@page{395}{174}
+\@writefile{toc}{\contentsline {paragraph}{Preprocessing of bulk Cut\&Tag data}{173}{section*.215}\protected@file@percent }
+\abx@aux@page{395}{173}
+\abx@aux@page{396}{174}
 \@writefile{toc}{\contentsline {paragraph}{Differential peak analysis}{174}{section*.216}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Differential gene expression analysis}{174}{section*.217}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Differential abundance analysis}{174}{section*.218}\protected@file@percent }
@@ -1920,8 +1921,8 @@
 \abx@aux@segm{0}{0}{miura_generation_2020}
 \@writefile{toc}{\contentsline {section}{\numberline {6}Conclusions \& Outlook}{180}{section.6}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Conclusions}{180}{subsection.6.1}\protected@file@percent }
-\abx@aux@page{396}{180}
 \abx@aux@page{397}{180}
+\abx@aux@page{398}{180}
 \citation{renner_self-organized_2017}
 \abx@aux@cite{0}{renner_self-organized_2017}
 \abx@aux@segm{0}{0}{renner_self-organized_2017}
@@ -1934,12 +1935,12 @@
 \citation{lust_single-cell_2022}
 \abx@aux@cite{0}{lust_single-cell_2022}
 \abx@aux@segm{0}{0}{lust_single-cell_2022}
-\abx@aux@page{398}{181}
 \abx@aux@page{399}{181}
 \abx@aux@page{400}{181}
 \abx@aux@page{401}{181}
 \abx@aux@page{402}{181}
 \abx@aux@page{403}{181}
+\abx@aux@page{404}{181}
 \citation{datlinger_pooled_2017}
 \abx@aux@cite{0}{datlinger_pooled_2017}
 \abx@aux@segm{0}{0}{datlinger_pooled_2017}
@@ -1949,9 +1950,9 @@
 \citation{nelson_excitatoryinhibitory_2015}
 \abx@aux@cite{0}{nelson_excitatoryinhibitory_2015}
 \abx@aux@segm{0}{0}{nelson_excitatoryinhibitory_2015}
-\abx@aux@page{404}{182}
 \abx@aux@page{405}{182}
 \abx@aux@page{406}{182}
+\abx@aux@page{407}{182}
 \citation{camp_single-cell_2018}
 \abx@aux@cite{0}{camp_single-cell_2018}
 \abx@aux@segm{0}{0}{camp_single-cell_2018}
@@ -1960,7 +1961,7 @@
 \abx@aux@segm{0}{0}{pratapa_benchmarking_2020}
 \@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Outlook}{183}{subsection.6.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Organoid phenotyping}{183}{section*.222}\protected@file@percent }
-\abx@aux@page{407}{183}
+\abx@aux@page{408}{183}
 \citation{avsec_effective_2021}
 \abx@aux@cite{0}{avsec_effective_2021}
 \abx@aux@segm{0}{0}{avsec_effective_2021}
@@ -1968,9 +1969,9 @@
 \abx@aux@cite{0}{janssens_decoding_2022}
 \abx@aux@segm{0}{0}{janssens_decoding_2022}
 \@writefile{toc}{\contentsline {paragraph}{Regulatory network inference}{184}{section*.223}\protected@file@percent }
-\abx@aux@page{408}{184}
 \abx@aux@page{409}{184}
 \abx@aux@page{410}{184}
+\abx@aux@page{411}{184}
 \@writefile{toc}{\contentsline {paragraph}{Perturbation experiments}{184}{section*.224}\protected@file@percent }
 \citation{rosenberg_single-cell_2018}
 \abx@aux@cite{0}{rosenberg_single-cell_2018}
@@ -1981,11 +1982,10 @@
 \citation{cao_comprehensive_2017}
 \abx@aux@cite{0}{cao_comprehensive_2017}
 \abx@aux@segm{0}{0}{cao_comprehensive_2017}
-\abx@aux@page{411}{185}
 \abx@aux@page{412}{185}
 \abx@aux@page{413}{185}
+\abx@aux@page{414}{185}
 \@writefile{toc}{\contentsline {section}{Bibliography}{186}{section*.224}\protected@file@percent }
-\abx@aux@page{414}{186}
 \abx@aux@page{415}{186}
 \abx@aux@page{416}{186}
 \abx@aux@page{417}{186}
@@ -1995,7 +1995,7 @@
 \abx@aux@page{421}{186}
 \abx@aux@page{422}{186}
 \abx@aux@page{423}{186}
-\abx@aux@page{424}{187}
+\abx@aux@page{424}{186}
 \abx@aux@page{425}{187}
 \abx@aux@page{426}{187}
 \abx@aux@page{427}{187}
@@ -2008,7 +2008,7 @@
 \abx@aux@page{434}{187}
 \abx@aux@page{435}{187}
 \abx@aux@page{436}{187}
-\abx@aux@page{437}{188}
+\abx@aux@page{437}{187}
 \abx@aux@page{438}{188}
 \abx@aux@page{439}{188}
 \abx@aux@page{440}{188}
@@ -2020,7 +2020,7 @@
 \abx@aux@page{446}{188}
 \abx@aux@page{447}{188}
 \abx@aux@page{448}{188}
-\abx@aux@page{449}{189}
+\abx@aux@page{449}{188}
 \abx@aux@page{450}{189}
 \abx@aux@page{451}{189}
 \abx@aux@page{452}{189}
@@ -2031,7 +2031,7 @@
 \abx@aux@page{457}{189}
 \abx@aux@page{458}{189}
 \abx@aux@page{459}{189}
-\abx@aux@page{460}{190}
+\abx@aux@page{460}{189}
 \abx@aux@page{461}{190}
 \abx@aux@page{462}{190}
 \abx@aux@page{463}{190}
@@ -2043,7 +2043,7 @@
 \abx@aux@page{469}{190}
 \abx@aux@page{470}{190}
 \abx@aux@page{471}{190}
-\abx@aux@page{472}{191}
+\abx@aux@page{472}{190}
 \abx@aux@page{473}{191}
 \abx@aux@page{474}{191}
 \abx@aux@page{475}{191}
@@ -2055,7 +2055,7 @@
 \abx@aux@page{481}{191}
 \abx@aux@page{482}{191}
 \abx@aux@page{483}{191}
-\abx@aux@page{484}{192}
+\abx@aux@page{484}{191}
 \abx@aux@page{485}{192}
 \abx@aux@page{486}{192}
 \abx@aux@page{487}{192}
@@ -2067,7 +2067,7 @@
 \abx@aux@page{493}{192}
 \abx@aux@page{494}{192}
 \abx@aux@page{495}{192}
-\abx@aux@page{496}{193}
+\abx@aux@page{496}{192}
 \abx@aux@page{497}{193}
 \abx@aux@page{498}{193}
 \abx@aux@page{499}{193}
@@ -2079,7 +2079,7 @@
 \abx@aux@page{505}{193}
 \abx@aux@page{506}{193}
 \abx@aux@page{507}{193}
-\abx@aux@page{508}{194}
+\abx@aux@page{508}{193}
 \abx@aux@page{509}{194}
 \abx@aux@page{510}{194}
 \abx@aux@page{511}{194}
@@ -2090,7 +2090,7 @@
 \abx@aux@page{516}{194}
 \abx@aux@page{517}{194}
 \abx@aux@page{518}{194}
-\abx@aux@page{519}{195}
+\abx@aux@page{519}{194}
 \abx@aux@page{520}{195}
 \abx@aux@page{521}{195}
 \abx@aux@page{522}{195}
@@ -2102,7 +2102,7 @@
 \abx@aux@page{528}{195}
 \abx@aux@page{529}{195}
 \abx@aux@page{530}{195}
-\abx@aux@page{531}{196}
+\abx@aux@page{531}{195}
 \abx@aux@page{532}{196}
 \abx@aux@page{533}{196}
 \abx@aux@page{534}{196}
@@ -2114,7 +2114,7 @@
 \abx@aux@page{540}{196}
 \abx@aux@page{541}{196}
 \abx@aux@page{542}{196}
-\abx@aux@page{543}{197}
+\abx@aux@page{543}{196}
 \abx@aux@page{544}{197}
 \abx@aux@page{545}{197}
 \abx@aux@page{546}{197}
@@ -2125,7 +2125,7 @@
 \abx@aux@page{551}{197}
 \abx@aux@page{552}{197}
 \abx@aux@page{553}{197}
-\abx@aux@page{554}{198}
+\abx@aux@page{554}{197}
 \abx@aux@page{555}{198}
 \abx@aux@page{556}{198}
 \abx@aux@page{557}{198}
@@ -2136,7 +2136,7 @@
 \abx@aux@page{562}{198}
 \abx@aux@page{563}{198}
 \abx@aux@page{564}{198}
-\abx@aux@page{565}{199}
+\abx@aux@page{565}{198}
 \abx@aux@page{566}{199}
 \abx@aux@page{567}{199}
 \abx@aux@page{568}{199}
@@ -2149,7 +2149,7 @@
 \abx@aux@page{575}{199}
 \abx@aux@page{576}{199}
 \abx@aux@page{577}{199}
-\abx@aux@page{578}{200}
+\abx@aux@page{578}{199}
 \abx@aux@page{579}{200}
 \abx@aux@page{580}{200}
 \abx@aux@page{581}{200}
@@ -2161,7 +2161,7 @@
 \abx@aux@page{587}{200}
 \abx@aux@page{588}{200}
 \abx@aux@page{589}{200}
-\abx@aux@page{590}{201}
+\abx@aux@page{590}{200}
 \abx@aux@page{591}{201}
 \abx@aux@page{592}{201}
 \abx@aux@page{593}{201}
@@ -2175,7 +2175,7 @@
 \abx@aux@page{601}{201}
 \abx@aux@page{602}{201}
 \abx@aux@page{603}{201}
-\abx@aux@page{604}{202}
+\abx@aux@page{604}{201}
 \abx@aux@page{605}{202}
 \abx@aux@page{606}{202}
 \abx@aux@page{607}{202}
@@ -2186,7 +2186,7 @@
 \abx@aux@page{612}{202}
 \abx@aux@page{613}{202}
 \abx@aux@page{614}{202}
-\abx@aux@page{615}{203}
+\abx@aux@page{615}{202}
 \abx@aux@page{616}{203}
 \abx@aux@page{617}{203}
 \abx@aux@page{618}{203}
@@ -2198,9 +2198,11 @@
 \abx@aux@page{624}{203}
 \abx@aux@page{625}{203}
 \abx@aux@page{626}{203}
-\abx@aux@page{627}{204}
+\abx@aux@page{627}{203}
 \abx@aux@page{628}{204}
-\abx@aux@read@bbl@mdfivesum{6E744879AF8D06E7E644B37C10D5E4C4}
+\abx@aux@page{629}{204}
+\abx@aux@page{630}{204}
+\abx@aux@read@bbl@mdfivesum{9D9CFCE9545CD12A92FA55C5F9B7B6FF}
 \abx@aux@defaultrefcontext{0}{adamson_multiplexed_2016}{nyt/global//global/global}
 \abx@aux@defaultrefcontext{0}{aibar_scenic_2017}{nyt/global//global/global}
 \abx@aux@defaultrefcontext{0}{alda-catalinas_single-cell_2020}{nyt/global//global/global}
@@ -2416,6 +2418,7 @@
 \abx@aux@defaultrefcontext{0}{zheng_massively_2017}{nyt/global//global/global}
 \abx@aux@defaultrefcontext{0}{zhong_single-cell_2018}{nyt/global//global/global}
 \abx@aux@defaultrefcontext{0}{zhong_identification_2004}{nyt/global//global/global}
+\abx@aux@defaultrefcontext{0}{zhou_high-content_2017}{nyt/global//global/global}
 \abx@aux@defaultlabelprefix{0}{adamson_multiplexed_2016}{}
 \abx@aux@defaultlabelprefix{0}{aibar_scenic_2017}{}
 \abx@aux@defaultlabelprefix{0}{alda-catalinas_single-cell_2020}{}
@@ -2631,4 +2634,5 @@
 \abx@aux@defaultlabelprefix{0}{zheng_massively_2017}{}
 \abx@aux@defaultlabelprefix{0}{zhong_single-cell_2018}{}
 \abx@aux@defaultlabelprefix{0}{zhong_identification_2004}{}
+\abx@aux@defaultlabelprefix{0}{zhou_high-content_2017}{}
 \gdef \@abspage@last{211}

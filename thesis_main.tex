@@ -169,20 +169,20 @@
 \newcommand{\beginsupplement}{
     % Set conter of tables and figures to 0
     \setcounter{table}{0}
-    \renewcommand{\thetable}{S\arabic{table}}
+    \renewcommand{\thetable}{S\arabic{section}.\arabic{table}}
     \setcounter{figure}{0}
-    \renewcommand{\thefigure}{S\arabic{figure}}
+    \renewcommand{\thefigure}{S\arabic{section}.\arabic{figure}}
 }
 
 %%% CHAPTER %%%
 % Define command to start new chapter
 \newcommand{\newchapter}[1]{
-    % Set conter of tables and figures to 0
+    % % Set conter of tables and figures to 0
     \setcounter{table}{0}
     \setcounter{figure}{0}
     % Reset S naming for supplement
-    \renewcommand{\thefigure}{\arabic{figure}}
-    \renewcommand{\thetable}{\arabic{table}}
+    \renewcommand{\thefigure}{\arabic{section}.\arabic{figure}}
+    \renewcommand{\thetable}{\arabic{section}.\arabic{table}}
     \input{#1}
     \clearpage
 }

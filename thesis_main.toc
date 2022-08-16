@@ -7,195 +7,200 @@
 \contentsline {subsubsection}{\numberline {1.1.3}Applications of brain organoids}{5}{subsubsection.1.1.3}%
 \contentsline {subsection}{\numberline {1.2}Single-cell genomics}{6}{subsection.1.2}%
 \contentsline {subsubsection}{\numberline {1.2.1}Single-cell transcriptomics}{7}{subsubsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.2}Single-cell epigenomics}{9}{subsubsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.3}Integrative single-cell multi-omics}{12}{subsubsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.4}Inference of gene regulatory networks}{12}{subsubsection.1.2.4}%
-\contentsline {subsubsection}{\numberline {1.2.5}Perturbing genomic circuits}{13}{subsubsection.1.2.5}%
-\contentsline {subsection}{\numberline {1.3}Aim and organization of this thesis}{14}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Resolving organoid brain region identities by mapping single-cell genomic data to reference atlases}{18}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Abstract}{19}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Introduction}{19}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Results}{21}{subsection.2.3}%
-\contentsline {paragraph}{Spatiotemporal voxel maps of the developing mouse brain}{21}{section*.5}%
-\contentsline {paragraph}{Brain structure marker identification}{22}{section*.7}%
-\contentsline {paragraph}{VoxHunt accurately maps reference populations}{23}{section*.10}%
-\contentsline {paragraph}{Organoid region composition annotation}{23}{section*.11}%
-\contentsline {paragraph}{Spatial projection of organoid cell transcriptomes}{25}{section*.13}%
-\contentsline {paragraph}{Complementary reference datasets as high-dimensional search spaces}{27}{section*.14}%
-\contentsline {paragraph}{Assessing region specificity across organoid protocols}{27}{section*.15}%
-\contentsline {paragraph}{Annotating organoid cell identity at substructure resolution}{28}{section*.17}%
-\contentsline {paragraph}{Spatial mapping of chromatin accessibility data}{30}{section*.19}%
-\contentsline {paragraph}{Reference-based deconvolution of organoid bulk transcriptomes}{31}{section*.20}%
-\contentsline {paragraph}{Assessing organoid patterning using multiplexed transcriptomics and reference mapping}{31}{section*.21}%
-\contentsline {subsection}{\numberline {2.4}Discussion}{33}{subsection.2.4}%
-\contentsline {paragraph}{Limitations of the study}{33}{section*.23}%
-\contentsline {subsection}{\numberline {2.5}Methods}{33}{subsection.2.5}%
-\contentsline {paragraph}{Data and code availability}{33}{section*.24}%
-\contentsline {paragraph}{Materials availability}{34}{section*.25}%
-\contentsline {paragraph}{hESC experiments approval}{34}{section*.26}%
-\contentsline {paragraph}{hESC Line Culture and Maintenance}{34}{section*.27}%
-\contentsline {paragraph}{Brain organoid generation and incubation with patterning molecules}{34}{section*.28}%
-\contentsline {paragraph}{Collection of patterned organoids and RNA purification}{35}{section*.29}%
-\contentsline {paragraph}{Smartseq2 library preparation}{35}{section*.30}%
-\contentsline {paragraph}{Sequencing of SS2 libraries}{36}{section*.31}%
-\contentsline {paragraph}{Acquisition and preprocessing of Allen Brain Atlas in situ hybridization data}{36}{section*.32}%
-\contentsline {paragraph}{Visualization of the structure annotation ontology}{37}{section*.33}%
-\contentsline {paragraph}{Acquisition of organoid single-cell gene expression and chromatin accessibility data}{37}{section*.34}%
-\contentsline {paragraph}{Acquisition of primary bulk and single-cell gene expression data}{38}{section*.35}%
-\contentsline {paragraph}{Preprocessing of single-cell gene expression data}{38}{section*.36}%
-\contentsline {paragraph}{Differential expression analysis of ISH and single-cell data}{39}{section*.37}%
-\contentsline {paragraph}{Correlation of single-cell transcriptomes to brain structures}{39}{section*.38}%
-\contentsline {paragraph}{Calculation of similarity to developmental stages}{40}{section*.39}%
-\contentsline {paragraph}{Evaluating the effect of feature selection and downsampling}{40}{section*.40}%
-\contentsline {paragraph}{Spatial correlation maps of organoid cells transcriptomes}{41}{section*.41}%
-\contentsline {paragraph}{Comparison of organoid cells transcriptomes to other reference datasets}{41}{section*.42}%
-\contentsline {paragraph}{Substructure resolution of transcriptomic maps}{41}{section*.43}%
-\contentsline {paragraph}{Substructure-resolved annotation of ventral neurons across organoid protocols}{42}{section*.44}%
-\contentsline {paragraph}{Spatial correlation maps of organoid cells chromatin accessibility profiles}{42}{section*.45}%
-\contentsline {paragraph}{Preprocessing and analysis of bulk RNA-seq data}{43}{section*.46}%
-\contentsline {paragraph}{Deconvolution of organoid pseudo-bulk RNA-seq data}{43}{section*.47}%
-\contentsline {subsection}{\numberline {2.6}Supplement}{44}{subsection.2.6}%
-\contentsline {section}{\numberline {3}Inferring and perturbing cell fate regulomes in human brain organoids}{55}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Abstract}{56}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Main}{56}{subsection.3.2}%
-\contentsline {paragraph}{Single-cell multiomic reconstruction of cerebral organoid development}{58}{section*.58}%
-\contentsline {paragraph}{A gene regulatory network view of human cerebral organoid formation}{60}{section*.60}%
-\contentsline {paragraph}{Single-cell genomic perturbation of cortical transcription factors in organoids}{62}{section*.61}%
-\contentsline {paragraph}{GLI3 directly targets HES regulomes during human organoid telencephalon development}{65}{section*.63}%
-\contentsline {subsection}{\numberline {3.3}Discussion}{68}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Methods}{69}{subsection.3.4}%
-\contentsline {paragraph}{Acknowledgements}{69}{section*.65}%
-\contentsline {paragraph}{Author contributions}{70}{section*.66}%
-\contentsline {paragraph}{Competing interests}{70}{section*.67}%
-\contentsline {paragraph}{Correspondence and requests for materials}{70}{section*.68}%
-\contentsline {paragraph}{Data availability}{70}{section*.69}%
-\contentsline {paragraph}{Stem cell and organoid culture}{71}{section*.70}%
-\contentsline {paragraph}{Immunohistochemistry}{73}{section*.71}%
-\contentsline {paragraph}{Whole mount HCR RNA-FISH}{73}{section*.72}%
-\contentsline {paragraph}{Doxycycline-inducible Cas9 nuclease and nickase cell line}{74}{section*.73}%
-\contentsline {paragraph}{Vector and lentivirus preparation for perturbation experiment}{75}{section*.74}%
-\contentsline {paragraph}{Generation of mosaic organoids for perturbation experiment}{75}{section*.75}%
-\contentsline {paragraph}{Preparation of single-cell transcriptomes from mosaic perturbed organoids}{76}{section*.76}%
-\contentsline {paragraph}{gRNA detection from single cell cDNA}{76}{section*.77}%
-\contentsline {paragraph}{gRNA detection from gDNA}{76}{section*.78}%
-\contentsline {paragraph}{GLI3 knock-out and control line generation}{76}{section*.79}%
-\contentsline {paragraph}{Validation of KO lines by sequencing}{77}{section*.80}%
-\contentsline {paragraph}{Western blot}{78}{section*.81}%
-\contentsline {paragraph}{Generation of single cell transcriptome and multiome of GLI3 KO and WT organoids}{78}{section*.82}%
-\contentsline {paragraph}{Bulk Cut\&Tag for GLI3 and H3K27ac}{78}{section*.83}%
-\contentsline {paragraph}{Preprocessing of single-cell RNA-sequencing data from the organoid time course}{79}{section*.84}%
-\contentsline {paragraph}{Preprocessing of single-cell ATAC-sequencing data from the organoid time course}{80}{section*.85}%
-\contentsline {paragraph}{Demultiplexing of different lines based on SNV information}{80}{section*.86}%
-\contentsline {paragraph}{Integration of transcriptome and chromatin accessibility data}{81}{section*.87}%
-\contentsline {paragraph}{Removal of cells with glycolysis signature}{81}{section*.88}%
-\contentsline {paragraph}{Integration of different lines and timepoints}{81}{section*.89}%
-\contentsline {paragraph}{Calculation of motif enrichment scores}{82}{section*.90}%
-\contentsline {paragraph}{RNA velocity calculation}{82}{section*.91}%
-\contentsline {paragraph}{Annotation of organoid developmental stages}{82}{section*.92}%
-\contentsline {paragraph}{Identification of stage-specific chromatin access}{83}{section*.93}%
-\contentsline {paragraph}{Inference of regional cell-fate trajectories}{83}{section*.94}%
-\contentsline {paragraph}{Analysis and integration of multiome data in the neuroepithelial stage}{84}{section*.95}%
-\contentsline {paragraph}{Identification of cis-regulatory elements from multiome data}{84}{section*.96}%
-\contentsline {paragraph}{Gene regulatory network inference with Pando}{84}{section*.97}%
-\contentsline {paragraph}{Selection of candidate regions for GRN inference}{85}{section*.98}%
-\contentsline {paragraph}{Construction of an extended motif database for GRN inference}{85}{section*.99}%
-\contentsline {paragraph}{Coarse-graining expression and chromatin accessibility data}{86}{section*.100}%
-\contentsline {paragraph}{Linear model-based GRN inference}{86}{section*.101}%
-\contentsline {paragraph}{Peak and gene module construction}{87}{section*.102}%
-\contentsline {paragraph}{Pando implementation details}{87}{section*.103}%
-\contentsline {paragraph}{Visualization of the GRN}{88}{section*.104}%
-\contentsline {paragraph}{Region-specific GRN}{88}{section*.105}%
-\contentsline {paragraph}{Calculation of module activity and analysis of module branch specificity}{89}{section*.106}%
-\contentsline {paragraph}{Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing data}{90}{section*.107}%
-\contentsline {paragraph}{Assignment of gRNA labels to cells}{90}{section*.108}%
-\contentsline {paragraph}{Inference of perturbation probability}{90}{section*.109}%
-\contentsline {paragraph}{Determination of transcriptomic perturbation effects in the CROP-seq screen}{91}{section*.110}%
-\contentsline {paragraph}{Determination of composition changes in the CROP-seq screen}{92}{section*.111}%
-\contentsline {paragraph}{Preprocessing and integration of single-cell RNA-sequencing data from the GLI3 knock-out experiment}{93}{section*.112}%
-\contentsline {paragraph}{CRISPResso analysis and protein sequence prediction}{93}{section*.113}%
-\contentsline {paragraph}{Preprocessing and integration of multiome data from the GLI3 knock-out experiment}{93}{section*.114}%
-\contentsline {paragraph}{Annotation of cells from the GLI3 knock-out and SHH experiment}{94}{section*.115}%
-\contentsline {paragraph}{Differential expression analysis for the GLI3 knock-out and SHH experiment}{94}{section*.116}%
-\contentsline {paragraph}{Differential accessibility analysis for the GLI3 knock-out experiment}{94}{section*.117}%
-\contentsline {paragraph}{Comparison of perturbation effects with gene regulatory network}{95}{section*.118}%
-\contentsline {paragraph}{Functional annotation of differentially accessible genomic regions}{95}{section*.119}%
-\contentsline {paragraph}{Analysis of GLI3 Cut\&Tag data}{95}{section*.120}%
-\contentsline {paragraph}{Statistics and reproducibility}{96}{section*.121}%
-\contentsline {subsection}{\numberline {3.5}Supplement}{97}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Single-cell CRISPR screening in organoids identifies origins of autism}{111}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Abstract}{112}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Main}{112}{subsection.4.2}%
-\contentsline {paragraph}{Single-cell loss-of-function screening in clonally barcoded organoids}{113}{section*.136}%
-\contentsline {paragraph}{CHOOSE cerebral organoids generate a high diversity of telencephalic cell types}{115}{section*.137}%
-\contentsline {paragraph}{Perturbing ASD risk genes depletes dorsal IPCs and enriches ventral RGCs}{116}{section*.138}%
-\contentsline {paragraph}{Perturbing ASD risk genes impairs upper-layer neuronal specification and ventral progenitor differentiation}{117}{section*.140}%
-\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{119}{section*.142}%
-\contentsline {paragraph}{CHOOSE combined with GRN inference from single-cell multiome data identifies ASD-specific transcription regulatory modules}{120}{section*.143}%
-\contentsline {paragraph}{ARID1B perturbation increases the transition probability of v-RGCs to early OPCs}{121}{section*.145}%
-\contentsline {subsection}{\numberline {4.3}Discussion}{124}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Methods}{125}{subsection.4.4}%
-\contentsline {paragraph}{Data availability}{125}{section*.146}%
-\contentsline {paragraph}{Acknowledgements}{125}{section*.147}%
-\contentsline {paragraph}{Author contributions}{126}{section*.148}%
-\contentsline {paragraph}{Corresponding authors}{126}{section*.149}%
-\contentsline {paragraph}{Competing interests}{126}{section*.150}%
-\contentsline {paragraph}{Stem cell and cerebral organoid culture conditions}{126}{section*.151}%
-\contentsline {paragraph}{sgRNA selection and cloning}{127}{section*.152}%
-\contentsline {paragraph}{sgRNA reporter assay}{127}{section*.153}%
-\contentsline {paragraph}{Generation of barcoded CHOOSE lentiviral pool, hESCs infection and EB generation}{127}{section*.154}%
-\contentsline {paragraph}{Cerebral organoid tissue dissociation and scRNA-seq}{128}{section*.155}%
-\contentsline {paragraph}{Custom genomic reference}{129}{section*.156}%
-\contentsline {paragraph}{gRNA and UCB recovery and analyses}{129}{section*.157}%
-\contentsline {paragraph}{Preprocessing and annotation of single-cell transcriptomics data}{130}{section*.158}%
-\contentsline {paragraph}{RNA velocity}{130}{section*.159}%
-\contentsline {paragraph}{Differential expression analysis}{131}{section*.160}%
-\contentsline {paragraph}{Processing of single-cell multiome data and GRN inference}{132}{section*.161}%
-\contentsline {paragraph}{Enrichment testing for TF modules}{133}{section*.162}%
-\contentsline {paragraph}{Cellrank analysis}{133}{section*.163}%
-\contentsline {paragraph}{Immunofluorescence}{134}{section*.164}%
-\contentsline {paragraph}{Microscopy, image processing and quantification}{134}{section*.165}%
-\contentsline {paragraph}{Patient sample collection}{135}{section*.166}%
-\contentsline {paragraph}{Reprogramming of PBMCs into iPSCs}{135}{section*.167}%
-\contentsline {paragraph}{Generation of isogenic control cell line for ARID1B patient}{135}{section*.168}%
-\contentsline {paragraph}{Fetal MRI and 3D reconstruction}{136}{section*.169}%
-\contentsline {subsection}{\numberline {4.5}Supplement}{137}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Single cell epigenomic landscape of human brain organoid development}{149}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Abstract}{150}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Main}{150}{subsection.5.2}%
-\contentsline {paragraph}{Single-cell epigenomic reconstruction of brain organoid development}{150}{section*.182}%
-\contentsline {paragraph}{Epigenomic switches during regional diversification}{153}{section*.185}%
-\contentsline {paragraph}{Epigenetic activation precedes gene expression during neurogenesis}{155}{section*.186}%
-\contentsline {paragraph}{Perturbation of histone modifiers causes aberrant fate acquisition}{156}{section*.189}%
-\contentsline {subsection}{\numberline {5.3}Discussion}{158}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Methods}{159}{subsection.5.4}%
-\contentsline {paragraph}{Cell and organoid culture}{159}{section*.190}%
-\contentsline {paragraph}{Drug treatment}{160}{section*.191}%
-\contentsline {paragraph}{Preparation of single cell suspensions}{160}{section*.192}%
-\contentsline {paragraph}{Cloning and purification of Tn5}{161}{section*.193}%
-\contentsline {paragraph}{Single cell Cut\&Tag}{161}{section*.194}%
-\contentsline {paragraph}{Bulk Cut\&Tag}{163}{section*.195}%
-\contentsline {paragraph}{Hashing and single cell RNA-Seq}{163}{section*.196}%
-\contentsline {paragraph}{Western Blot}{164}{section*.197}%
-\contentsline {paragraph}{Immunostaining}{164}{section*.198}%
-\contentsline {paragraph}{Preprocessing scRNA-seq data}{165}{section*.199}%
-\contentsline {paragraph}{Preprocessing and clustering of scCut\&Tag data}{165}{section*.200}%
-\contentsline {paragraph}{Demultiplexing}{166}{section*.201}%
-\contentsline {paragraph}{Integration and annotation of scRNA-seq data}{166}{section*.202}%
-\contentsline {paragraph}{Hashing}{167}{section*.203}%
-\contentsline {paragraph}{Calculation of gene activity scores}{168}{section*.204}%
-\contentsline {paragraph}{Matching of scRNA and scCut\&Tag data}{168}{section*.205}%
-\contentsline {paragraph}{RNA velocity and inference of terminal fate probabilities}{168}{section*.206}%
-\contentsline {paragraph}{Graph representation of the scRNA-seq data}{169}{section*.207}%
-\contentsline {paragraph}{Trajectory reconstruction}{169}{section*.208}%
-\contentsline {paragraph}{Preprocessing and integration of drug treatment scRNA-seq data}{169}{section*.209}%
-\contentsline {paragraph}{Differential peak analysis}{169}{section*.210}%
-\contentsline {paragraph}{Differential gene expression analysis}{169}{section*.211}%
-\contentsline {paragraph}{Differential abundance analysis}{169}{section*.212}%
-\contentsline {subsection}{\numberline {5.5}Supplement}{170}{subsection.5.5}%
-\contentsline {section}{\numberline {6}Conclusions \& Outlook}{175}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Conclusions}{175}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Outlook}{178}{subsection.6.2}%
-\contentsline {paragraph}{Organoid phenotyping}{178}{section*.216}%
-\contentsline {paragraph}{Regulatory network inference}{179}{section*.217}%
-\contentsline {paragraph}{Perturbation experiments}{179}{section*.218}%
-\contentsline {section}{Bibliography}{181}{section*.218}%
+\contentsline {subsubsection}{\numberline {1.2.2}Single-cell epigenomics}{10}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Integrative single-cell multi-omics}{13}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Inference of gene regulatory networks}{13}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Perturbing genomic circuits}{14}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}Aim and organization of this thesis}{15}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Resolving organoid brain region identities by mapping single-cell genomic data to reference atlases}{19}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Abstract}{20}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Introduction}{20}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Results}{22}{subsection.2.3}%
+\contentsline {paragraph}{Spatiotemporal voxel maps of the developing mouse brain}{22}{section*.6}%
+\contentsline {paragraph}{Brain structure marker identification}{23}{section*.8}%
+\contentsline {paragraph}{VoxHunt accurately maps reference populations}{24}{section*.11}%
+\contentsline {paragraph}{Organoid region composition annotation}{24}{section*.12}%
+\contentsline {paragraph}{Spatial projection of organoid cell transcriptomes}{26}{section*.14}%
+\contentsline {paragraph}{Complementary reference datasets as high-dimensional search spaces}{28}{section*.15}%
+\contentsline {paragraph}{Assessing region specificity across organoid protocols}{28}{section*.16}%
+\contentsline {paragraph}{Annotating organoid cell identity at substructure resolution}{29}{section*.18}%
+\contentsline {paragraph}{Spatial mapping of chromatin accessibility data}{31}{section*.20}%
+\contentsline {paragraph}{Reference-based deconvolution of organoid bulk transcriptomes}{32}{section*.21}%
+\contentsline {paragraph}{Assessing organoid patterning using multiplexed transcriptomics and reference mapping}{32}{section*.22}%
+\contentsline {subsection}{\numberline {2.4}Discussion}{34}{subsection.2.4}%
+\contentsline {paragraph}{Limitations of the study}{34}{section*.24}%
+\contentsline {subsection}{\numberline {2.5}Methods}{34}{subsection.2.5}%
+\contentsline {paragraph}{Data and code availability}{34}{section*.25}%
+\contentsline {paragraph}{Materials availability}{35}{section*.26}%
+\contentsline {paragraph}{hESC experiments approval}{35}{section*.27}%
+\contentsline {paragraph}{hESC Line Culture and Maintenance}{35}{section*.28}%
+\contentsline {paragraph}{Brain organoid generation and incubation with patterning molecules}{35}{section*.29}%
+\contentsline {paragraph}{Collection of patterned organoids and RNA purification}{36}{section*.30}%
+\contentsline {paragraph}{Smartseq2 library preparation}{36}{section*.31}%
+\contentsline {paragraph}{Sequencing of SS2 libraries}{37}{section*.32}%
+\contentsline {paragraph}{Acquisition and preprocessing of Allen Brain Atlas in situ hybridization data}{37}{section*.33}%
+\contentsline {paragraph}{Visualization of the structure annotation ontology}{38}{section*.34}%
+\contentsline {paragraph}{Acquisition of organoid single-cell gene expression and chromatin accessibility data}{38}{section*.35}%
+\contentsline {paragraph}{Acquisition of primary bulk and single-cell gene expression data}{39}{section*.36}%
+\contentsline {paragraph}{Preprocessing of single-cell gene expression data}{39}{section*.37}%
+\contentsline {paragraph}{Differential expression analysis of ISH and single-cell data}{40}{section*.38}%
+\contentsline {paragraph}{Correlation of single-cell transcriptomes to brain structures}{40}{section*.39}%
+\contentsline {paragraph}{Calculation of similarity to developmental stages}{41}{section*.40}%
+\contentsline {paragraph}{Evaluating the effect of feature selection and downsampling}{41}{section*.41}%
+\contentsline {paragraph}{Spatial correlation maps of organoid cells transcriptomes}{42}{section*.42}%
+\contentsline {paragraph}{Comparison of organoid cells transcriptomes to other reference datasets}{42}{section*.43}%
+\contentsline {paragraph}{Substructure resolution of transcriptomic maps}{42}{section*.44}%
+\contentsline {paragraph}{Substructure-resolved annotation of ventral neurons across organoid protocols}{43}{section*.45}%
+\contentsline {paragraph}{Spatial correlation maps of organoid cells chromatin accessibility profiles}{43}{section*.46}%
+\contentsline {paragraph}{Preprocessing and analysis of bulk RNA-seq data}{44}{section*.47}%
+\contentsline {paragraph}{Deconvolution of organoid pseudo-bulk RNA-seq data}{44}{section*.48}%
+\contentsline {subsection}{\numberline {2.6}Supplement}{45}{subsection.2.6}%
+\contentsline {paragraph}{Supplementary Figures}{45}{section*.49}%
+\contentsline {paragraph}{Supplementary Data}{54}{section*.59}%
+\contentsline {section}{\numberline {3}Inferring and perturbing cell fate regulomes in human brain organoids}{57}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Abstract}{58}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Main}{59}{subsection.3.2}%
+\contentsline {paragraph}{Single-cell multiomic reconstruction of cerebral organoid development}{60}{section*.61}%
+\contentsline {paragraph}{A gene regulatory network view of human cerebral organoid formation}{63}{section*.62}%
+\contentsline {paragraph}{Single-cell genomic perturbation of cortical transcription factors in organoids}{65}{section*.64}%
+\contentsline {paragraph}{GLI3 directly targets HES regulomes during human organoid telencephalon development}{67}{section*.66}%
+\contentsline {subsection}{\numberline {3.3}Discussion}{70}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Methods}{72}{subsection.3.4}%
+\contentsline {paragraph}{Acknowledgements}{72}{section*.68}%
+\contentsline {paragraph}{Author contributions}{72}{section*.69}%
+\contentsline {paragraph}{Competing interests}{73}{section*.70}%
+\contentsline {paragraph}{Correspondence and requests for materials}{73}{section*.71}%
+\contentsline {paragraph}{Data availability}{73}{section*.72}%
+\contentsline {paragraph}{Stem cell and organoid culture}{73}{section*.73}%
+\contentsline {paragraph}{Immunohistochemistry}{75}{section*.74}%
+\contentsline {paragraph}{Whole mount HCR RNA-FISH}{76}{section*.75}%
+\contentsline {paragraph}{Doxycycline-inducible Cas9 nuclease and nickase cell line}{77}{section*.76}%
+\contentsline {paragraph}{Vector and lentivirus preparation for perturbation experiment}{77}{section*.77}%
+\contentsline {paragraph}{Generation of mosaic organoids for perturbation experiment}{78}{section*.78}%
+\contentsline {paragraph}{Preparation of single-cell transcriptomes from mosaic perturbed organoids}{78}{section*.79}%
+\contentsline {paragraph}{gRNA detection from single cell cDNA}{78}{section*.80}%
+\contentsline {paragraph}{gRNA detection from gDNA}{79}{section*.81}%
+\contentsline {paragraph}{GLI3 knock-out and control line generation}{79}{section*.82}%
+\contentsline {paragraph}{Validation of KO lines by sequencing}{80}{section*.83}%
+\contentsline {paragraph}{Western blot}{80}{section*.84}%
+\contentsline {paragraph}{Generation of single cell transcriptome and multiome of GLI3 KO and WT organoids}{81}{section*.85}%
+\contentsline {paragraph}{Bulk Cut\&Tag for GLI3 and H3K27ac}{81}{section*.86}%
+\contentsline {paragraph}{Preprocessing of single-cell RNA-sequencing data from the organoid time course}{81}{section*.87}%
+\contentsline {paragraph}{Preprocessing of single-cell ATAC-sequencing data from the organoid time course}{82}{section*.88}%
+\contentsline {paragraph}{Demultiplexing of different lines based on SNV information}{83}{section*.89}%
+\contentsline {paragraph}{Integration of transcriptome and chromatin accessibility data}{83}{section*.90}%
+\contentsline {paragraph}{Removal of cells with glycolysis signature}{83}{section*.91}%
+\contentsline {paragraph}{Integration of different lines and timepoints}{84}{section*.92}%
+\contentsline {paragraph}{Calculation of motif enrichment scores}{84}{section*.93}%
+\contentsline {paragraph}{RNA velocity calculation}{84}{section*.94}%
+\contentsline {paragraph}{Annotation of organoid developmental stages}{85}{section*.95}%
+\contentsline {paragraph}{Identification of stage-specific chromatin access}{85}{section*.96}%
+\contentsline {paragraph}{Inference of regional cell-fate trajectories}{85}{section*.97}%
+\contentsline {paragraph}{Analysis and integration of multiome data in the neuroepithelial stage}{87}{section*.98}%
+\contentsline {paragraph}{Identification of cis-regulatory elements from multiome data}{87}{section*.99}%
+\contentsline {paragraph}{Gene regulatory network inference with Pando}{87}{section*.100}%
+\contentsline {paragraph}{Selection of candidate regions for GRN inference}{87}{section*.101}%
+\contentsline {paragraph}{Construction of an extended motif database for GRN inference}{88}{section*.102}%
+\contentsline {paragraph}{Coarse-graining expression and chromatin accessibility data}{88}{section*.103}%
+\contentsline {paragraph}{Linear model-based GRN inference}{89}{section*.104}%
+\contentsline {paragraph}{Peak and gene module construction}{89}{section*.105}%
+\contentsline {paragraph}{Pando implementation details}{90}{section*.106}%
+\contentsline {paragraph}{Visualization of the GRN}{90}{section*.107}%
+\contentsline {paragraph}{Region-specific GRN}{91}{section*.108}%
+\contentsline {paragraph}{Calculation of module activity and analysis of module branch specificity}{91}{section*.109}%
+\contentsline {paragraph}{Preprocessing, integration and annotation of CROP-seq single-cell RNA-sequencing data}{92}{section*.110}%
+\contentsline {paragraph}{Assignment of gRNA labels to cells}{93}{section*.111}%
+\contentsline {paragraph}{Inference of perturbation probability}{93}{section*.112}%
+\contentsline {paragraph}{Determination of transcriptomic perturbation effects in the CROP-seq screen}{94}{section*.113}%
+\contentsline {paragraph}{Determination of composition changes in the CROP-seq screen}{94}{section*.114}%
+\contentsline {paragraph}{Preprocessing and integration of single-cell RNA-sequencing data from the GLI3 knock-out experiment}{95}{section*.115}%
+\contentsline {paragraph}{CRISPResso analysis and protein sequence prediction}{95}{section*.116}%
+\contentsline {paragraph}{Preprocessing and integration of multiome data from the GLI3 knock-out experiment}{96}{section*.117}%
+\contentsline {paragraph}{Annotation of cells from the GLI3 knock-out and SHH experiment}{96}{section*.118}%
+\contentsline {paragraph}{Differential expression analysis for the GLI3 knock-out and SHH experiment}{96}{section*.119}%
+\contentsline {paragraph}{Differential accessibility analysis for the GLI3 knock-out experiment}{97}{section*.120}%
+\contentsline {paragraph}{Comparison of perturbation effects with gene regulatory network}{97}{section*.121}%
+\contentsline {paragraph}{Functional annotation of differentially accessible genomic regions}{98}{section*.122}%
+\contentsline {paragraph}{Analysis of GLI3 Cut\&Tag data}{98}{section*.123}%
+\contentsline {paragraph}{Statistics and reproducibility}{98}{section*.124}%
+\contentsline {subsection}{\numberline {3.5}Supplement}{99}{subsection.3.5}%
+\contentsline {paragraph}{Supplementary Figures}{99}{section*.125}%
+\contentsline {paragraph}{Supplementary Data}{112}{section*.139}%
+\contentsline {section}{\numberline {4}Single-cell CRISPR screening in organoids identifies origins of autism}{114}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Abstract}{115}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Main}{115}{subsection.4.2}%
+\contentsline {paragraph}{Single-cell loss-of-function screening in clonally barcoded organoids}{116}{section*.141}%
+\contentsline {paragraph}{CHOOSE cerebral organoids generate a high diversity of telencephalic cell types}{118}{section*.142}%
+\contentsline {paragraph}{Perturbing ASD risk genes depletes dorsal IPCs and enriches ventral RGCs}{119}{section*.143}%
+\contentsline {paragraph}{Perturbing ASD risk genes impairs upper-layer neuronal specification and ventral progenitor differentiation}{121}{section*.145}%
+\contentsline {paragraph}{CHOOSE identifies lineage-specific dysregulated genes}{122}{section*.146}%
+\contentsline {paragraph}{CHOOSE combined with GRN inference from single-cell multiome data identifies ASD-specific transcription regulatory modules}{123}{section*.147}%
+\contentsline {paragraph}{ARID1B perturbation increases the transition probability of v-RGCs to early OPCs}{125}{section*.150}%
+\contentsline {subsection}{\numberline {4.3}Discussion}{127}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Methods}{128}{subsection.4.4}%
+\contentsline {paragraph}{Data availability}{128}{section*.151}%
+\contentsline {paragraph}{Acknowledgements}{128}{section*.152}%
+\contentsline {paragraph}{Author contributions}{129}{section*.153}%
+\contentsline {paragraph}{Corresponding authors}{129}{section*.154}%
+\contentsline {paragraph}{Competing interests}{129}{section*.155}%
+\contentsline {paragraph}{Stem cell and cerebral organoid culture conditions}{129}{section*.156}%
+\contentsline {paragraph}{sgRNA selection and cloning}{130}{section*.157}%
+\contentsline {paragraph}{sgRNA reporter assay}{130}{section*.158}%
+\contentsline {paragraph}{Generation of barcoded CHOOSE lentiviral pool, hESCs infection and EB generation}{131}{section*.159}%
+\contentsline {paragraph}{Cerebral organoid tissue dissociation and scRNA-seq}{132}{section*.160}%
+\contentsline {paragraph}{Custom genomic reference}{132}{section*.161}%
+\contentsline {paragraph}{gRNA and UCB recovery and analyses}{133}{section*.162}%
+\contentsline {paragraph}{Preprocessing and annotation of single-cell transcriptomics data}{133}{section*.163}%
+\contentsline {paragraph}{RNA velocity}{134}{section*.164}%
+\contentsline {paragraph}{Differential expression analysis}{135}{section*.165}%
+\contentsline {paragraph}{Processing of single-cell multiome data and GRN inference}{135}{section*.166}%
+\contentsline {paragraph}{Enrichment testing for TF modules}{136}{section*.167}%
+\contentsline {paragraph}{Cellrank analysis}{137}{section*.168}%
+\contentsline {paragraph}{Immunofluorescence}{137}{section*.169}%
+\contentsline {paragraph}{Microscopy, image processing and quantification}{138}{section*.170}%
+\contentsline {paragraph}{Patient sample collection}{138}{section*.171}%
+\contentsline {paragraph}{Reprogramming of PBMCs into iPSCs}{138}{section*.172}%
+\contentsline {paragraph}{Generation of isogenic control cell line for ARID1B patient}{138}{section*.173}%
+\contentsline {paragraph}{Fetal MRI and 3D reconstruction}{139}{section*.174}%
+\contentsline {subsection}{\numberline {4.5}Supplement}{141}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Single cell epigenomic landscape of\\human brain organoid development}{153}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Abstract}{154}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Main}{154}{subsection.5.2}%
+\contentsline {paragraph}{Single-cell epigenomic reconstruction of brain organoid development}{154}{section*.187}%
+\contentsline {paragraph}{Epigenomic switches during regional diversification}{157}{section*.190}%
+\contentsline {paragraph}{Epigenetic activation precedes gene expression during neurogenesis}{159}{section*.191}%
+\contentsline {paragraph}{Perturbation of histone modifiers causes aberrant fate acquisition}{160}{section*.194}%
+\contentsline {subsection}{\numberline {5.3}Discussion}{162}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Methods}{163}{subsection.5.4}%
+\contentsline {paragraph}{Cell and organoid culture}{163}{section*.195}%
+\contentsline {paragraph}{Drug treatment}{164}{section*.196}%
+\contentsline {paragraph}{Preparation of single cell suspensions}{164}{section*.197}%
+\contentsline {paragraph}{Cloning and purification of Tn5}{165}{section*.198}%
+\contentsline {paragraph}{Single cell Cut\&Tag}{166}{section*.199}%
+\contentsline {paragraph}{Bulk Cut\&Tag}{167}{section*.200}%
+\contentsline {paragraph}{Hashing and single cell RNA-Seq}{168}{section*.201}%
+\contentsline {paragraph}{Western Blot}{168}{section*.202}%
+\contentsline {paragraph}{Immunostaining}{169}{section*.203}%
+\contentsline {paragraph}{Preprocessing scRNA-seq data}{169}{section*.204}%
+\contentsline {paragraph}{Preprocessing and clustering of scCut\&Tag data}{169}{section*.205}%
+\contentsline {paragraph}{Demultiplexing}{170}{section*.206}%
+\contentsline {paragraph}{Integration and annotation of scRNA-seq data}{170}{section*.207}%
+\contentsline {paragraph}{Hashing}{171}{section*.208}%
+\contentsline {paragraph}{Calculation of gene activity scores}{172}{section*.209}%
+\contentsline {paragraph}{Matching of scRNA and scCut\&Tag data}{172}{section*.210}%
+\contentsline {paragraph}{RNA velocity and inference of terminal fate probabilities}{172}{section*.211}%
+\contentsline {paragraph}{Graph representation of the scRNA-seq data}{173}{section*.212}%
+\contentsline {paragraph}{Trajectory reconstruction}{173}{section*.213}%
+\contentsline {paragraph}{Preprocessing and integration of drug treatment scRNA-seq data}{173}{section*.214}%
+\contentsline {paragraph}{Preprocessing of bulk Cut\&Tag data}{173}{section*.215}%
+\contentsline {paragraph}{Differential peak analysis}{174}{section*.216}%
+\contentsline {paragraph}{Differential gene expression analysis}{174}{section*.217}%
+\contentsline {paragraph}{Differential abundance analysis}{174}{section*.218}%
+\contentsline {subsection}{\numberline {5.5}Supplement}{175}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Conclusions \& Outlook}{180}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Conclusions}{180}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Outlook}{183}{subsection.6.2}%
+\contentsline {paragraph}{Organoid phenotyping}{183}{section*.222}%
+\contentsline {paragraph}{Regulatory network inference}{184}{section*.223}%
+\contentsline {paragraph}{Perturbation experiments}{184}{section*.224}%
+\contentsline {section}{Bibliography}{186}{section*.224}%

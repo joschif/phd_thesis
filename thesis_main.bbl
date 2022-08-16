@@ -281,6 +281,94 @@
     \field{year}{2017}
   \endentry
 
+  \entry{alda-catalinas_single-cell_2020}{article}{}
+    \name{author}{8}{}{%
+      {{hash=ACC}{%
+         family={Alda-Catalinas},
+         familyi={A\bibinithyphendelim C\bibinitperiod},
+         given={Celia},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bredikhin},
+         familyi={B\bibinitperiod},
+         given={Danila},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HHI}{%
+         family={Hernando-Herraez},
+         familyi={H\bibinithyphendelim H\bibinitperiod},
+         given={Irene},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Santos},
+         familyi={S\bibinitperiod},
+         given={Fátima},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=KO}{%
+         family={Kubinyecz},
+         familyi={K\bibinitperiod},
+         given={Oana},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=EMMA}{%
+         family={Eckersley-Maslin},
+         familyi={E\bibinithyphendelim M\bibinitperiod},
+         given={Mélanie\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Stegle},
+         familyi={S\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Reik},
+         familyi={R\bibinitperiod},
+         given={Wolf},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{ACC+1}
+    \strng{fullhash}{ACCBDHHISFKOEMMASORW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1016/j.cels.2020.06.004
+    \endverb
+    \field{issn}{24054712}
+    \field{number}{1}
+    \field{pages}{25\bibrangedash 41.e9}
+    \field{title}{A {Single}-{Cell} {Transcriptomics} {CRISPR}-{Activation}
+  {Screen} {Identifies} {Epigenetic} {Regulators} of the {Zygotic} {Genome}
+  {Activation} {Program}}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S2405471220302015
+    \endverb
+    \field{volume}{11}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/P
+    \verb XTPQH8A/Alda-Catalinas et al. - 2020 - A Single-Cell Transcriptomics
+    \verb CRISPR-Activation Sc.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Cell Systems}
+    \field{month}{07}
+    \field{year}{2020}
+    \field{urlday}{15}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{allis_molecular_2016}{article}{}
     \name{author}{2}{}{%
       {{hash=ACD}{%
@@ -551,7 +639,7 @@
     \field{volume}{576}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/KLQPILMR/Argelaguet et al. - 2019 - Multi-omics profiling of mo
+    \verb orage/YB5PWW4Y/Argelaguet et al. - 2019 - Multi-omics profiling of mo
     \verb use gastrulation at sin.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature}
@@ -588,13 +676,15 @@
     \verb 10.1038/nmeth.4557
     \endverb
     \field{issn}{1548-7091}
-    \field{note}{Edition: 2018/01/04}
     \field{number}{1}
     \field{pages}{27\bibrangedash 29}
     \field{title}{Organoids required! {A} new path to understanding human brain
   development and disease}
     \field{volume}{15}
     \field{journaltitle}{Nat Methods}
+    \field{annotation}{%
+    Edition: 2018/01/04%
+    }
     \field{month}{01}
     \field{year}{2018}
   \endentry
@@ -679,15 +769,15 @@
   human genetics depend on improved solutions. Here, we report substantially
   improved gene expression prediction accuracy from DNA sequences through the
   use of a deep learning architecture, called Enformer, that is able to
-  integrate information from long-range interactions (up to 100 kb away) in
-  the genome. This improvement yielded more accurate variant effect predictions
-  on gene expression for both natural genetic variants and saturation
-  mutagenesis measured by massively parallel reporter assays. Furthermore,
-  Enformer learned to predict enhancer–promoter interactions directly from
-  the DNA sequence competitively with methods that take direct experimental
-  data as input. We expect that these advances will enable more effective
-  fine-mapping of human disease associations and provide a framework to
-  interpret cis -regulatory evolution.%
+  integrate information from long-range interactions (up to 100 kb away) in the
+  genome. This improvement yielded more accurate variant effect predictions on
+  gene expression for both natural genetic variants and saturation mutagenesis
+  measured by massively parallel reporter assays. Furthermore, Enformer learned
+  to predict enhancer–promoter interactions directly from the DNA sequence
+  competitively with methods that take direct experimental data as input. We
+  expect that these advances will enable more effective fine-mapping of human
+  disease associations and provide a framework to interpret cis -regulatory
+  evolution.%
     }
     \verb{doi}
     \verb 10.1038/s41592-021-01252-x
@@ -702,8 +792,8 @@
     \endverb
     \field{volume}{18}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/N
-    \verb J4A4X6R/Avsec et al. - 2021 - Effective gene expression prediction fr
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/C
+    \verb S3LAGA3/Avsec et al. - 2021 - Effective gene expression prediction fr
     \verb om sequence.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -991,7 +1081,7 @@
     }
     \verb{file}
     \verb Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/s
-    \verb torage/XV4VIR79/Bartosovic and Castelo-Branco - 2022 - Multimodal chr
+    \verb torage/LG9B3YHC/Bartosovic and Castelo-Branco - 2022 - Multimodal chr
     \verb omatin profiling using nanobody-base.pdf:application/pdf
     \endverb
     \field{type}{preprint}
@@ -1048,7 +1138,7 @@
     \field{volume}{39}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/HTL92RWQ/Bartosovic et al. - 2021 - Single-cell CUT&Tag profile
+    \verb orage/YHTFFPKC/Bartosovic et al. - 2021 - Single-cell CUT&Tag profile
     \verb s histone modifications.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Biotechnology}
@@ -1600,12 +1690,13 @@
   Targeted sequencing of clonal sSNVs in different organs (about 25,000×) and
   in more than 1000 cortical single cells, as well as single-nucleus RNA
   sequencing and single-nucleus assay for transposase-accessible chromatin
-  sequencing of {\textbackslash}textbackslashtextasciitilde100,000 cortical
-  single cells, demonstrated asymmetric contributions of early progenitors to
-  extraembryonic tissues, distinct germ layers, and organs. Our data suggest
-  onset of gastrulation at an effective progenitor pool of about 170 cells and
-  about 50 to 100 founders for the forebrain. Thus, mosaic mutations provide a
-  permanent record of human embryonic development at very high resolution.%
+  sequencing of {\textbackslash}textbackslashtextbackslashtextasciitilde100,000
+  cortical single cells, demonstrated asymmetric contributions of early
+  progenitors to extraembryonic tissues, distinct germ layers, and organs. Our
+  data suggest onset of gastrulation at an effective progenitor pool of about
+  170 cells and about 50 to 100 founders for the forebrain. Thus, mosaic
+  mutations provide a permanent record of human embryonic development at very
+  high resolution.%
     }
     \verb{doi}
     \verb 10.1126/science.abe1544
@@ -1716,8 +1807,8 @@
   Kallisto pseudoaligns reads to a reference, producing a list of transcripts
   that are compatible with each read while avoiding alignment of individual
   bases. We use kallisto to analyze 30 million unaligned paired-end RNA-seq
-  reads in {\textless}10 min on a standard laptop computer. This removes a
-  major computational bottleneck in RNA-seq analysis.%
+  reads in {\textbackslash}textless10 min on a standard laptop computer. This
+  removes a major computational bottleneck in RNA-seq analysis.%
     }
     \field{number}{5}
     \field{pages}{525\bibrangedash 527}
@@ -1804,7 +1895,7 @@
     \field{volume}{523}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/GQL725W5/Buenrostro et al. - 2015 - Single-cell chromatin acces
+    \verb orage/VKWSBRQX/Buenrostro et al. - 2015 - Single-cell chromatin acces
     \verb sibility reveals princi.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature}
@@ -1832,11 +1923,360 @@
     \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{note}{Issue: 1 Publication Title: Journal of Statistical Software
-  Volume: 80}
     \field{title}{brms: {An} {R} {Package} for {Bayesian} {Multilevel} {Models}
   {Using} {Stan}}
+    \field{annotation}{%
+    Issue: 1 Publication Title: Journal of Statistical Software Volume: 80%
+    }
     \field{year}{2017}
+  \endentry
+
+  \entry{cakir_engineering_2019}{article}{}
+    \name{author}{22}{}{%
+      {{hash=CB}{%
+         family={Cakir},
+         familyi={C\bibinitperiod},
+         given={Bilal},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xiang},
+         familyi={X\bibinitperiod},
+         given={Yangfei},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=TY}{%
+         family={Tanaka},
+         familyi={T\bibinitperiod},
+         given={Yoshiaki},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KMH}{%
+         family={Kural},
+         familyi={K\bibinitperiod},
+         given={Mehmet\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Parent},
+         familyi={P\bibinitperiod},
+         given={Maxime},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KYJ}{%
+         family={Kang},
+         familyi={K\bibinitperiod},
+         given={Young-Jin},
+         giveni={Y\bibinithyphendelim J\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chapeton},
+         familyi={C\bibinitperiod},
+         given={Kayley},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Patterson},
+         familyi={P\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Yifan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HCS}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Chang-Shun},
+         giveni={C\bibinithyphendelim S\bibinitperiod},
+      }}%
+      {{hash=RMSB}{%
+         family={Raredon},
+         familyi={R\bibinitperiod},
+         given={Micha Sam\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dengelegi},
+         familyi={D\bibinitperiod},
+         given={Jake},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KKY}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Kun-Yong},
+         giveni={K\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Pingnan},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zhong},
+         familyi={Z\bibinitperiod},
+         given={Mei},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Sangho},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Patra},
+         familyi={P\bibinitperiod},
+         given={Prabir},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Hyder},
+         familyi={H\bibinitperiod},
+         given={Fahmeed},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=NLE}{%
+         family={Niklason},
+         familyi={N\bibinitperiod},
+         given={Laura\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LSH}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Sang-Hun},
+         giveni={S\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=YYS}{%
+         family={Yoon},
+         familyi={Y\bibinitperiod},
+         given={Young-Sup},
+         giveni={Y\bibinithyphendelim S\bibinitperiod},
+      }}%
+      {{hash=PIH}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={In-Hyun},
+         giveni={I\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CB+1}
+    \strng{fullhash}{CBXYTYKMHPMKYJCKPBYYHCSRMSBDJKKYSPZMLSPPHFNLELSHYYSPIH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1038/s41592-019-0586-5
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{11}
+    \field{pages}{1169\bibrangedash 1175}
+    \field{title}{Engineering of human brain organoids with a functional
+  vascular-like system}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41592-019-0586-5
+    \endverb
+    \field{volume}{16}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/C2GKXFKH/Cakir et al. - 2019 - Engineering of human brain organ
+    \verb oids with a functi.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Methods}
+    \field{month}{11}
+    \field{year}{2019}
+    \field{urlday}{15}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{cakir_expression_2022}{article}{}
+    \name{author}{19}{}{%
+      {{hash=CB}{%
+         family={Cakir},
+         familyi={C\bibinitperiod},
+         given={Bilal},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TY}{%
+         family={Tanaka},
+         familyi={T\bibinitperiod},
+         given={Yoshiaki},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KFR}{%
+         family={Kiral},
+         familyi={K\bibinitperiod},
+         given={Ferdi\bibnamedelima Ridvan},
+         giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xiang},
+         familyi={X\bibinitperiod},
+         given={Yangfei},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DO}{%
+         family={Dagliyan},
+         familyi={D\bibinitperiod},
+         given={Onur},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Juan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GAM}{%
+         family={Greaney},
+         familyi={G\bibinitperiod},
+         given={Allison\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=YWS}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Woo\bibnamedelima Sub},
+         giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=dC}{%
+         family={duBoulay},
+         familyi={d\bibinitperiod},
+         given={Catherine},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KMH}{%
+         family={Kural},
+         familyi={K\bibinitperiod},
+         given={Mehmet\bibnamedelima Hamdi},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Patterson},
+         familyi={P\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zhong},
+         familyi={Z\bibinitperiod},
+         given={Mei},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Jonghun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bai},
+         familyi={B\bibinitperiod},
+         given={Yalai},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=MW}{%
+         family={Min},
+         familyi={M\bibinitperiod},
+         given={Wang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=NLE}{%
+         family={Niklason},
+         familyi={N\bibinitperiod},
+         given={Laura\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Patra},
+         familyi={P\bibinitperiod},
+         given={Prabir},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PIH}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={In-Hyun},
+         giveni={I\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CB+1}
+    \strng{fullhash}{CBTYKFRXYDOWJLMGAMYWSdCKMHPBZMKJBYMWNLEPPPIH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Abstract Microglia play a role in the emergence and preservation of a
+  healthy brain microenvironment. Dysfunction of microglia has been associated
+  with neurodevelopmental and neurodegenerative disorders. Investigating the
+  function of human microglia in health and disease has been challenging due to
+  the limited models of the human brain available. Here, we develop a method to
+  generate functional microglia in human cortical organoids (hCOs) from human
+  embryonic stem cells (hESCs). We apply this system to study the role of
+  microglia during inflammation induced by amyloid-β (Aβ). The overexpression
+  of the myeloid-specific transcription factor PU.1 generates microglia-like
+  cells in hCOs, producing mhCOs (microglia-containing hCOs), that we engraft
+  in the mouse brain. Single-cell transcriptomics reveals that mhCOs acquire a
+  microglia cell cluster with an intact complement and chemokine system.
+  Functionally, microglia in mhCOs protect parenchyma from cellular and
+  molecular damage caused by Aβ. Furthermore, in mhCOs, we observed reduced
+  expression of Aβ-induced expression of genes associated with apoptosis,
+  ferroptosis, and Alzheimer’s disease (AD) stage III. Finally, we assess the
+  function of AD-associated genes highly expressed in microglia in response to
+  Aβ using pooled CRISPRi coupled with single-cell RNA sequencing in mhCOs. In
+  summary, we provide a protocol to generate mhCOs that can be used in
+  fundamental and translational studies as a model to investigate the role of
+  microglia in neurodevelopmental and neurodegenerative disorders.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41467-022-28043-y
+    \endverb
+    \field{issn}{2041-1723}
+    \field{number}{1}
+    \field{pages}{430}
+    \field{title}{Expression of the transcription factor {PU}.1 induces the
+  generation of microglia-like cells in human cortical organoids}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41467-022-28043-y
+    \endverb
+    \field{volume}{13}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/8
+    \verb R8MUBYW/Cakir et al. - 2022 - Expression of the transcription factor
+    \verb PU.1 induce.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{month}{12}
+    \field{year}{2022}
+    \field{urlday}{15}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
   \endentry
 
   \entry{camp_human_2015}{article}{}
@@ -1932,11 +2372,11 @@
          giveni={B\bibinitperiod},
       }}%
     }
-    \keyw{single-cell RNA-seq, Cell Lineage, Humans, Cell Differentiation,
-  Sequence Analysis, RNA, stem cells, *Gene Expression Regulation,
-  Developmental, Single-Cell Analysis, Neocortex/*embryology, cerebral
-  organoid, corticogenesis, neocortex, Organoids/*physiology, Tissue Culture
-  Techniques}
+    \keyw{single-cell RNA-seq, Cell Lineage, Humans, *Gene Expression
+  Regulation, Cell Differentiation, stem cells, Single-Cell Analysis,
+  Neocortex/*embryology, cerebral organoid, corticogenesis, neocortex,
+  Organoids/*physiology, Tissue Culture Techniques, Developmental, RNA,
+  Sequence Analysis}
     \strng{namehash}{CJG+1}
     \strng{fullhash}{CJGBFFMKSGTWBMLESAHWLMKJALRPSHWBTB1}
     \field{labelnamesource}{author}
@@ -1949,7 +2389,6 @@
     \verb 10.1073/pnas.1520760112
     \endverb
     \field{issn}{1091-6490 (Electronic) 0027-8424 (Linking)}
-    \field{note}{Edition: 2015/12/09}
     \field{number}{51}
     \field{pages}{15672\bibrangedash 7}
     \field{title}{Human cerebral organoids recapitulate gene expression
@@ -1959,6 +2398,9 @@
     \endverb
     \field{volume}{112}
     \field{journaltitle}{Proc Natl Acad Sci U S A}
+    \field{annotation}{%
+    Edition: 2015/12/09%
+    }
     \field{month}{12}
     \field{year}{2015}
   \endentry
@@ -2026,7 +2468,7 @@
     \field{volume}{365}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/7T6S4C4J/Camp et al. - 2019 - Mapping human cell phenotypes to
+    \verb orage/XYSHCCRE/Camp et al. - 2019 - Mapping human cell phenotypes to
     \verb genotypes with si.pdf:application/pdf
     \endverb
     \field{journaltitle}{Science}
@@ -2083,7 +2525,7 @@
     \field{volume}{15}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/TUVE6VRP/Camp et al. - 2018 - Single-cell genomics to guide hum
+    \verb orage/PYUP43TC/Camp et al. - 2018 - Single-cell genomics to guide hum
     \verb an stem cell and .pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -2207,15 +2649,15 @@
   profile the transcriptomes of single cells or nuclei, termed sci-RNA-seq
   (single-cell combinatorial indexing RNA sequencing). We applied sci-RNA-seq
   to profile nearly 50,000 cells from the nematode Caenorhabditis elegans at
-  the L2 larval stage, which provided {\textgreater}50-fold “shotgun”
-  cellular coverage of its somatic cell composition. From these data, we
-  defined consensus expression profiles for 27 cell types and recovered rare
-  neuronal cell types corresponding to as few as one or two cells in the L2
-  worm. We integrated these profiles with whole-animal chromatin
-  immunoprecipitation sequencing data to deconvolve the cell type–specific
-  effects of transcription factors. The data generated by sci-RNA-seq
-  constitute a powerful resource for nematode biology and foreshadow similar
-  atlases for other organisms.%
+  the L2 larval stage, which provided {\textbackslash}textgreater50-fold
+  “shotgun” cellular coverage of its somatic cell composition. From these
+  data, we defined consensus expression profiles for 27 cell types and
+  recovered rare neuronal cell types corresponding to as few as one or two
+  cells in the L2 worm. We integrated these profiles with whole-animal
+  chromatin immunoprecipitation sequencing data to deconvolve the cell
+  type–specific effects of transcription factors. The data generated by
+  sci-RNA-seq constitute a powerful resource for nematode biology and
+  foreshadow similar atlases for other organisms.%
     }
     \verb{doi}
     \verb 10.1126/science.aam8940
@@ -2231,7 +2673,7 @@
     \field{volume}{357}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/UGRNZ5VJ/Cao et al. - 2017 - Comprehensive single-cell transcri
+    \verb orage/VD4GFGHV/Cao et al. - 2017 - Comprehensive single-cell transcri
     \verb ptional profilin.pdf:application/pdf
     \endverb
     \field{journaltitle}{Science}
@@ -2413,10 +2855,12 @@
     \field{sortinithash}{C}
     \field{booktitle}{Proceedings of the 22nd {ACM} {SIGKDD} {International}
   {Conference} on {Knowledge} {Discovery} and {Data} {Mining}}
-    \field{note}{event-place: San Francisco California USA}
     \field{title}{{XGBoost}}
     \list{location}{1}{%
       {New York, NY, USA}%
+    }
+    \field{annotation}{%
+    event-place: San Francisco California USA%
     }
     \field{month}{08}
     \field{year}{2016}
@@ -2904,7 +3348,7 @@
     \field{volume}{348}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/4JF8XCE5/Cusanovich et al. - 2015 - Multiplex single-cell profi
+    \verb orage/J5UDYLBW/Cusanovich et al. - 2015 - Multiplex single-cell profi
     \verb ling of chromatin acces.pdf:application/pdf
     \endverb
     \field{journaltitle}{Science}
@@ -2941,30 +3385,30 @@
          given={Yue},
          giveni={Y\bibinitperiod},
       }}%
-      {{hash=PV}{%
+      {{hash=PVS}{%
          family={Patil},
          familyi={P\bibinitperiod},
-         given={Veena S.},
-         giveni={V\bibinitperiod},
+         given={Veena\bibnamedelima S.},
+         giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
       }}%
-      {{hash=EA}{%
+      {{hash=EAM}{%
          family={Eroshkin},
          familyi={E\bibinitperiod},
-         given={Alexey M.},
-         giveni={A\bibinitperiod},
+         given={Alexey\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
-      {{hash=RT}{%
+      {{hash=RTM}{%
          family={Rana},
          familyi={R\bibinitperiod},
-         given={Tariq M.},
-         giveni={T\bibinitperiod},
+         given={Tariq\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
     }
     \list{language}{1}{%
       {en}%
     }
     \strng{namehash}{DJ+1}
-    \strng{fullhash}{DJTSKLGQYPVEART1}
+    \strng{fullhash}{DJTSKLGQYPVSEAMRTM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
@@ -2985,8 +3429,8 @@
     \endverb
     \field{volume}{19}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/Q
-    \verb UJX4ZVV/Dang et al. - 2016 - Zika Virus Depletes Neural Progenitors i
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/Z
+    \verb HFNPEPM/Dang et al. - 2016 - Zika Virus Depletes Neural Progenitors i
     \verb n Human Ce.pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell Stem Cell}
@@ -3214,7 +3658,7 @@
     \field{volume}{121}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/TACHDAFW/Dickinson et al. - 1995 - Dorsalization of the neural
+    \verb orage/7V57XLQI/Dickinson et al. - 1995 - Dorsalization of the neural
     \verb tube by the non-neural.pdf:application/pdf
     \endverb
     \field{journaltitle}{Development}
@@ -3526,10 +3970,10 @@
       }}%
     }
     \keyw{Gene Expression Profiling/methods, Humans, Single-Cell
-  Analysis/*methods, RNA, Guide/genetics, K562 Cells, Sequence Analysis,
-  RNA/*methods, Jurkat Cells, *Models, Genetic, Datasets as Topic,
-  Computational Biology/methods, Feasibility Studies, Clustered Regularly
-  Interspaced Short Palindromic Repeats/*genetics, Gene Knockdown Techniques}
+  Analysis/*methods, K562 Cells, Jurkat Cells, Datasets as Topic, Computational
+  Biology/methods, Feasibility Studies, Clustered Regularly Interspaced Short
+  Palindromic Repeats/*genetics, Gene Knockdown Techniques, RNA, Sequence
+  Analysis, *Models, Genetic, Guide/genetics, RNA/*methods}
     \strng{namehash}{DB+1}
     \strng{fullhash}{DBZCZCYYLGZSZCYXMHQSZZWPSSLQ1}
     \field{labelnamesource}{author}
@@ -3542,7 +3986,6 @@
     \verb 10.1038/s41467-019-10216-x
     \endverb
     \field{issn}{2041-1723 (Electronic) 2041-1723 (Linking)}
-    \field{note}{Edition: 2019/05/22}
     \field{number}{1}
     \field{pages}{2233}
     \field{title}{Model-based understanding of single-cell {CRISPR} screening}
@@ -3551,6 +3994,9 @@
     \endverb
     \field{volume}{10}
     \field{journaltitle}{Nat Commun}
+    \field{annotation}{%
+    Edition: 2019/05/22%
+    }
     \field{month}{05}
     \field{year}{2019}
   \endentry
@@ -4747,6 +5193,147 @@
     \field{year}{2018}
   \endentry
 
+  \entry{favuzzi_gaba-receptive_2021}{article}{}
+    \name{author}{17}{}{%
+      {{hash=FE}{%
+         family={Favuzzi},
+         familyi={F\bibinitperiod},
+         given={Emilia},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Shuhan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SGA}{%
+         family={Saldi},
+         familyi={S\bibinitperiod},
+         given={Giuseppe\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Binan},
+         familyi={B\bibinitperiod},
+         given={Loïc},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ILA}{%
+         family={Ibrahim},
+         familyi={I\bibinitperiod},
+         given={Leena\bibnamedelima A.},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=FOM}{%
+         family={Fernández-Otero},
+         familyi={F\bibinithyphendelim O\bibinitperiod},
+         given={Marian},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Yuqing},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zeine},
+         familyi={Z\bibinitperiod},
+         given={Ayman},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sefah},
+         familyi={S\bibinitperiod},
+         given={Adwoa},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=XQ}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Qing},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Khlestova},
+         familyi={K\bibinitperiod},
+         given={Elizaveta},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=FSL}{%
+         family={Farhi},
+         familyi={F\bibinitperiod},
+         given={Samouil\bibnamedelima L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bonneau},
+         familyi={B\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DSR}{%
+         family={Datta},
+         familyi={D\bibinitperiod},
+         given={Sandeep\bibnamedelima Robert},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Stevens},
+         familyi={S\bibinitperiod},
+         given={Beth},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Fishell},
+         familyi={F\bibinitperiod},
+         given={Gord},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{FE+1}
+    \strng{fullhash}{FEHSSGABLILAFOMCYZASAZKXQKEFSLBRDSRSBFG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1016/j.cell.2021.06.018
+    \endverb
+    \field{issn}{00928674}
+    \field{number}{15}
+    \field{pages}{4048\bibrangedash 4063.e32}
+    \field{title}{{GABA}-receptive microglia selectively sculpt developing
+  inhibitory circuits}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0092867421007534
+    \endverb
+    \field{volume}{184}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/N
+    \verb I4P4K4Y/Favuzzi et al. - 2021 - GABA-receptive microglia selectively
+    \verb sculpt develo.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Cell}
+    \field{month}{07}
+    \field{year}{2021}
+    \field{urlday}{15}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{fleck_inferring_2021}{article}{}
     \name{author}{9}{}{%
       {{hash=FJS}{%
@@ -5028,7 +5615,7 @@
       {{hash=PFc}{%
          family={Parcy},
          familyi={P\bibinitperiod},
-         given={Fran{\textbackslash}c\bibnamedelima cois},
+         given={Fran{\textbackslash}textbackslashc\bibnamedelima cois},
          giveni={F\bibinitperiod\bibinitdelim c\bibinitperiod},
       }}%
       {{hash=SA}{%
@@ -5124,10 +5711,11 @@
     \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
-    \field{note}{Issue: 1 Publication Title: Journal of Statistical Software
-  Volume: 33}
     \field{title}{Regularization {Paths} for {Generalized} {Linear} {Models}
   via {Coordinate} {Descent}}
+    \field{annotation}{%
+    Issue: 1 Publication Title: Journal of Statistical Software Volume: 33%
+    }
     \field{year}{2010}
   \endentry
 
@@ -5305,34 +5893,35 @@
   calculate the significance of allele frequencies between patients with
   sporadic Parkinson's disease and unaffected controls, and we calculated odds
   ratios and 95\% CIs of minor alleles. Findings We identified a missense
-  mutation (CHCHD2, 182C{\textgreater}T, Thr61Ile) in family A by
+  mutation (CHCHD2, 182C{\textbackslash}textgreaterT, Thr61Ile) in family A by
   next-generation sequencing. We obtained samples from a further 340 index
   patients with autosomal dominant Parkinson's disease, 517 patients with
   sporadic Parkinson's disease, and 559 controls. Three CHCHD2 mutations in
   four of 341 index cases from independent families with autosomal dominant
   Parkinson's disease were detected by CHCHD2 mutation screening:
-  182C{\textgreater}T (Thr61Ile), 434G{\textgreater}A (Arg145Gln), and
-  300+5G{\textgreater}A. Two single nucleotide variants (−9T{\textgreater}G
-  and 5C{\textgreater}T) in CHCHD2 were confirmed to have different frequencies
-  between sporadic Parkinson's disease and controls, with odds ratios of 2·51
-  (95\% CI 1·48–4·24; p=0·0004) and 4·69 (1·59–13·83, p=0·0025),
-  respectively. One single nucleotide polymorphism (rs816411) was found in
-  CHCHD2 from a previously reported genome-wide association study; however,
-  there was no significant difference in its frequency between patients with
-  Parkinson's disease and controls in a previously reported genome-wide
-  association study (odds ratio 1·17, 95\% CI 0·96–1·19; p=0·22). In
-  SH-SY5Y cells, the 300+5G{\textgreater}A mutation but not the other two
-  mutations caused exon 2 skipping. Interpretation CHCHD2 mutations are
-  associated with, and might be a cause of, autosomal dominant Parkinson's
-  disease. Further genetic studies in other populations are needed to confirm
-  the pathogenicity of CHCHD2 mutations in autosomal dominant Parkinson's
-  disease and susceptibility for sporadic Parkinson's disease, and further
-  functional studies are needed to understand how mutant CHCHD2 might play a
-  part in the pathophysiology of Parkinson's disease. Funding Japan Society for
-  the Promotion of Science; Japanese Ministry of Education, Culture, Sports,
-  Science and Technology; Japanese Ministry of Health, Labour and Welfare;
-  Takeda Scientific Foundation; Cell Science Research Foundation; and Nakajima
-  Foundation.%
+  182C{\textbackslash}textgreaterT (Thr61Ile), 434G{\textbackslash}textgreaterA
+  (Arg145Gln), and 300+5G{\textbackslash}textgreaterA. Two single nucleotide
+  variants (−9T{\textbackslash}textgreaterG and
+  5C{\textbackslash}textgreaterT) in CHCHD2 were confirmed to have different
+  frequencies between sporadic Parkinson's disease and controls, with odds
+  ratios of 2·51 (95\% CI 1·48–4·24; p=0·0004) and 4·69 (1·59–13·83,
+  p=0·0025), respectively. One single nucleotide polymorphism (rs816411) was
+  found in CHCHD2 from a previously reported genome-wide association study;
+  however, there was no significant difference in its frequency between
+  patients with Parkinson's disease and controls in a previously reported
+  genome-wide association study (odds ratio 1·17, 95\% CI 0·96–1·19;
+  p=0·22). In SH-SY5Y cells, the 300+5G{\textbackslash}textgreaterA mutation
+  but not the other two mutations caused exon 2 skipping. Interpretation CHCHD2
+  mutations are associated with, and might be a cause of, autosomal dominant
+  Parkinson's disease. Further genetic studies in other populations are needed
+  to confirm the pathogenicity of CHCHD2 mutations in autosomal dominant
+  Parkinson's disease and susceptibility for sporadic Parkinson's disease, and
+  further functional studies are needed to understand how mutant CHCHD2 might
+  play a part in the pathophysiology of Parkinson's disease. Funding Japan
+  Society for the Promotion of Science; Japanese Ministry of Education,
+  Culture, Sports, Science and Technology; Japanese Ministry of Health, Labour
+  and Welfare; Takeda Scientific Foundation; Cell Science Research Foundation;
+  and Nakajima Foundation.%
     }
     \verb{doi}
     \verb 10.1016/s1474-4422(14)70266-2
@@ -5388,6 +5977,123 @@
     \field{year}{2013}
   \endentry
 
+  \entry{gasperini_genome-wide_2019}{article}{}
+    \name{author}{13}{}{%
+      {{hash=GM}{%
+         family={Gasperini},
+         familyi={G\bibinitperiod},
+         given={Molly},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HAJ}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Andrew\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MFJL}{%
+         family={McFaline-Figueroa},
+         familyi={M\bibinithyphendelim F\bibinitperiod},
+         given={José\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Beth},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Seungsoo},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZMD}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Melissa\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=JD}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={Dana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Leith},
+         familyi={L\bibinitperiod},
+         given={Anh},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schreiber},
+         familyi={S\bibinitperiod},
+         given={Jacob},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NWS}{%
+         family={Noble},
+         familyi={N\bibinitperiod},
+         given={William\bibnamedelima S.},
+         giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Trapnell},
+         familyi={T\bibinitperiod},
+         given={Cole},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=AN}{%
+         family={Ahituv},
+         familyi={A\bibinitperiod},
+         given={Nadav},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shendure},
+         familyi={S\bibinitperiod},
+         given={Jay},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{GM+1}
+    \strng{fullhash}{GMHAJMFJLMBKSZMDJDLASJNWSTCANSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1016/j.cell.2018.11.029
+    \endverb
+    \field{issn}{00928674}
+    \field{number}{1-2}
+    \field{pages}{377\bibrangedash 390.e19}
+    \field{title}{A {Genome}-wide {Framework} for {Mapping} {Gene} {Regulation}
+  via {Cellular} {Genetic} {Screens}}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S009286741831554X
+    \endverb
+    \field{volume}{176}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/2
+    \verb T2KQGDH/Gasperini et al. - 2019 - A Genome-wide Framework for Mapping
+    \verb  Gene Regulatio.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Cell}
+    \field{month}{01}
+    \field{year}{2019}
+    \field{urlday}{15}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{geurts_self-reported_2022}{article}{}
     \name{author}{4}{}{%
       {{hash=GHM}{%
@@ -5436,24 +6142,25 @@
   versus Screen− for parkinsonism. Within the Netherlands-Sample only, the
   age of onset of the motor features was investigated. Self-reported
   parkinsonism features were prevalent in both samples (the Netherlands-Sample
-  {\textbackslash}textbackslashtextasciitilde17\% screened positive, mean age
-  of onset ranging from 35.9 to 50.4 years; the United States of America-Sample
-  {\textbackslash}textbackslashtextasciitilde33\% screened positive). Autistic
-  adults (the Netherlands-Sample) screening positive encountered more health
-  problems than those who screened negative. In both samples, autistic adults
-  who screened positive did not differ on current antipsychotic medication use
-  relative to those who screened negative. The next step is to determine
-  whether a positive screen for parkinsonism on this self-report questionnaire
-  also implies that there is a higher risk for idiopathic Parkinson’s
-  disease. Autistic adults without a suspected intellectual disability reported
-  several motor features such as having tremors, and stiffness in one’s legs
-  which are considered to be part of a complex of motor features called
-  parkinsonism. This so-called parkinsonism was remarkably prevalent in
-  middle-aged and older autistic adults in two independent studies (Dutch
-  study: 50–81 years, 183 males, 113 females, all adulthood diagnoses; the
-  USA study: 50–83 years, 110 females, 109 males, majority adulthood
-  diagnosis). Parkinsonism can be part of the progressive motor
-  disease—Parkinson’s disease. Therefore, it is important that future
+  {\textbackslash}textbackslashtextbackslashtextasciitilde17\% screened
+  positive, mean age of onset ranging from 35.9 to 50.4 years; the United
+  States of America-Sample
+  {\textbackslash}textbackslashtextbackslashtextasciitilde33\% screened
+  positive). Autistic adults (the Netherlands-Sample) screening positive
+  encountered more health problems than those who screened negative. In both
+  samples, autistic adults who screened positive did not differ on current
+  antipsychotic medication use relative to those who screened negative. The
+  next step is to determine whether a positive screen for parkinsonism on this
+  self-report questionnaire also implies that there is a higher risk for
+  idiopathic Parkinson’s disease. Autistic adults without a suspected
+  intellectual disability reported several motor features such as having
+  tremors, and stiffness in one’s legs which are considered to be part of a
+  complex of motor features called parkinsonism. This so-called parkinsonism
+  was remarkably prevalent in middle-aged and older autistic adults in two
+  independent studies (Dutch study: 50–81 years, 183 males, 113 females, all
+  adulthood diagnoses; the USA study: 50–83 years, 110 females, 109 males,
+  majority adulthood diagnosis). Parkinsonism can be part of the progressive
+  motor disease—Parkinson’s disease. Therefore, it is important that future
   studies, including in-person neurological assessment, determine if (and if
   so, why) autistic adults who report these motor features are at increased
   risk for developing Parkinson’s disease.%
@@ -5504,11 +6211,13 @@
     \verb 10.1016/j.ceb.2017.01.001
     \endverb
     \field{issn}{0955-0674}
-    \field{note}{Edition: 2017/02/06}
     \field{pages}{36\bibrangedash 43}
     \field{title}{Probing human brain evolution and development in organoids}
     \field{volume}{44}
     \field{journaltitle}{Curr Opin Cell Biol}
+    \field{annotation}{%
+    Edition: 2017/02/06%
+    }
     \field{month}{02}
     \field{year}{2017}
   \endentry
@@ -5611,7 +6320,6 @@
     \verb 10.1038/s41593-019-0350-2
     \endverb
     \field{issn}{1546-1726 (Electronic) 1097-6256 (Linking)}
-    \field{note}{Edition: 2019/03/20}
     \field{number}{4}
     \field{pages}{669\bibrangedash 679}
     \field{title}{Cerebral organoids at the air-liquid interface generate
@@ -5621,6 +6329,9 @@
     \endverb
     \field{volume}{22}
     \field{journaltitle}{Nat Neurosci}
+    \field{annotation}{%
+    Edition: 2019/03/20%
+    }
     \field{month}{04}
     \field{year}{2019}
   \endentry
@@ -6165,7 +6876,7 @@
     \field{volume}{13}
     \verb{file}
     \verb Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/s
-    \verb torage/9WP5YR9Q/Haghverdi et al. - 2016 - Diffusion pseudotime robust
+    \verb torage/SVJTSFYD/Haghverdi et al. - 2016 - Diffusion pseudotime robust
     \verb ly reconstructs lineage.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -6233,8 +6944,8 @@
     \endverb
     \field{volume}{177}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/B
-    \verb C3DDG66/Hainer et al. - 2019 - Profiling of Pluripotency Factors in S
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/9
+    \verb FJB8YE2/Hainer et al. - 2019 - Profiling of Pluripotency Factors in S
     \verb ingle Cells .pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell}
@@ -6366,9 +7077,11 @@
     \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
-    \field{note}{Publication Title: Development}
     \field{title}{Gli3 controls the onset of cortical neurogenesis by
   regulating the radial glial cell cycle through {Cdk6} expression}
+    \field{annotation}{%
+    Publication Title: Development%
+    }
     \field{year}{2018}
   \endentry
 
@@ -6838,8 +7551,8 @@
     \endverb
     \field{volume}{19}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/F
-    \verb KYU8RGK/He et al. - 2022 - Lineage recording in human cerebral organo
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/V
+    \verb 97APVCS/He et al. - 2022 - Lineage recording in human cerebral organo
     \verb ids.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -7154,8 +7867,8 @@
     \endverb
     \field{volume}{21}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/7
-    \verb 7BABXJN/Islam et al. - 2011 - Characterization of the single-cell tra
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/2
+    \verb 6UD45LW/Islam et al. - 2011 - Characterization of the single-cell tra
     \verb nscriptiona.pdf:application/pdf
     \endverb
     \field{journaltitle}{Genome Research}
@@ -7342,7 +8055,7 @@
     \field{volume}{343}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/NJIJTCF8/Jaitin et al. - 2014 - Massively Parallel Single-Cell
+    \verb orage/AVQ5JDRV/Jaitin et al. - 2014 - Massively Parallel Single-Cell
     \verb RNA-Seq for Marker-.pdf:application/pdf
     \endverb
     \field{journaltitle}{Science}
@@ -7601,7 +8314,7 @@
     \field{volume}{601}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/Y6WC7W6T/Janssens et al. - 2022 - Decoding gene regulation in t
+    \verb orage/LTTEUXGR/Janssens et al. - 2022 - Decoding gene regulation in t
     \verb he fly brain.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature}
@@ -7842,8 +8555,8 @@
     \endverb
     \field{volume}{110}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/Q
-    \verb 68LXTAU/Kadoshima et al. - 2013 - Self-organization of axial polarity
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/L
+    \verb 3WIUKVG/Kadoshima et al. - 2013 - Self-organization of axial polarity
     \verb , inside-out la.pdf:application/pdf
     \endverb
     \field{journaltitle}{Proceedings of the National Academy of Sciences}
@@ -8045,11 +8758,11 @@
   polymorphisms (SNPs) per cell are sufficient to assign 97\% of singlets and
   identify 92\% of doublets in pools of up to 64 individuals. Given genotyping
   data for each of eight pooled samples, demuxlet correctly recovers the sample
-  identity of {\textgreater}99\% of singlets and identifies doublets at rates
-  consistent with previous estimates. We apply demuxlet to assess
-  cell-type-specific changes in gene expression in 8 pooled lupus patient
-  samples treated with interferon (IFN)-β and perform eQTL analysis on 23
-  pooled samples.%
+  identity of {\textbackslash}textgreater99\% of singlets and identifies
+  doublets at rates consistent with previous estimates. We apply demuxlet to
+  assess cell-type-specific changes in gene expression in 8 pooled lupus
+  patient samples treated with interferon (IFN)-β and perform eQTL analysis on
+  23 pooled samples.%
     }
     \field{number}{1}
     \field{pages}{89\bibrangedash 94}
@@ -8208,13 +8921,15 @@
   profiling in stem cell-derived cerebral organoids are used to map dynamic
   gene-regulatory changes that are unique to humans.%
     }
-    \field{note}{Publisher: Nature Publishing Group}
     \field{number}{7778}
     \field{pages}{418\bibrangedash 422}
     \field{title}{Organoid single-cell genomic atlas uncovers human-specific
   features of brain development}
     \field{volume}{574}
     \field{journaltitle}{Nature}
+    \field{annotation}{%
+    Publisher: Nature Publishing Group%
+    }
     \field{month}{10}
     \field{year}{2019}
   \endentry
@@ -8472,8 +9187,8 @@
     \endverb
     \field{volume}{12}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/U
-    \verb IBUMVN7/Kim et al. - 2019 - Modeling G2019S-LRRK2 Sporadic Parkinson'
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/N
+    \verb YVIW4UR/Kim et al. - 2019 - Modeling G2019S-LRRK2 Sporadic Parkinson'
     \verb s Disease.pdf:application/pdf
     \endverb
     \field{journaltitle}{Stem Cell Reports}
@@ -8514,8 +9229,8 @@
     \endverb
     \field{volume}{22}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/3
-    \verb 2M7XASS/Kim - 2015 - ppcor An R Package for a Fast Calculation to Sem
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/9
+    \verb 7IHYGB9/Kim - 2015 - ppcor An R Package for a Fast Calculation to Sem
     \verb i.pdf:application/pdf
     \endverb
     \field{journaltitle}{Communications for Statistical Applications and
@@ -8673,11 +9388,11 @@
 
   \entry{klein_droplet_2015}{article}{}
     \name{author}{9}{}{%
-      {{hash=KA}{%
+      {{hash=KAM}{%
          family={Klein},
          familyi={K\bibinitperiod},
-         given={Allon M.},
-         giveni={A\bibinitperiod},
+         given={Allon\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
       {{hash=ML}{%
          family={Mazutis},
@@ -8715,24 +9430,24 @@
          given={Leonid},
          giveni={L\bibinitperiod},
       }}%
-      {{hash=WD}{%
+      {{hash=WDA}{%
          family={Weitz},
          familyi={W\bibinitperiod},
-         given={David A.},
-         giveni={D\bibinitperiod},
+         given={David\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
-      {{hash=KM}{%
+      {{hash=KMW}{%
          family={Kirschner},
          familyi={K\bibinitperiod},
-         given={Marc W.},
-         giveni={M\bibinitperiod},
+         given={Marc\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
       }}%
     }
     \list{language}{1}{%
       {en}%
     }
-    \strng{namehash}{KA+1}
-    \strng{fullhash}{KAMLAITNVALVPLWDKM1}
+    \strng{namehash}{KAM+1}
+    \strng{fullhash}{KAMMLAITNVALVPLWDAKMW1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
@@ -8752,8 +9467,8 @@
     \endverb
     \field{volume}{161}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/2
-    \verb YJZW345/Klein et al. - 2015 - Droplet Barcoding for Single-Cell Trans
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/P
+    \verb FVJUXP6/Klein et al. - 2015 - Droplet Barcoding for Single-Cell Trans
     \verb criptomics .pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell}
@@ -8986,9 +9701,11 @@
   soumya@broadinstitute.orgSupplementary Information Vignettes are available
   with the Presto package.%
     }
-    \field{note}{Publication Title: bioRxiv}
     \field{title}{Presto scales {Wilcoxon} and {auROC} analyses to millions of
   observations}
+    \field{annotation}{%
+    Publication Title: bioRxiv%
+    }
     \field{month}{05}
     \field{year}{2019}
   \endentry
@@ -9069,7 +9786,7 @@
     \field{volume}{16}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/3KDATFZK/Ku et al. - 2019 - Single-cell chromatin immunocleavag
+    \verb orage/UZ6P3C8Q/Ku et al. - 2019 - Single-cell chromatin immunocleavag
     \verb e sequencing (s.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -9189,7 +9906,7 @@
     }
     \verb{file}
     \verb Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/s
-    \verb torage/A4YFI8W9/La Manno et al. - 2020 - Molecular architecture of th
+    \verb torage/NMMSHKVP/La Manno et al. - 2020 - Molecular architecture of th
     \verb e developing mouse bra.pdf:application/pdf
     \endverb
     \field{type}{preprint}
@@ -9588,8 +10305,8 @@
     \endverb
     \field{volume}{19}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/7
-    \verb H8VX2T3/Lange et al. - 2022 - CellRank for directed single-cell fate
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/8
+    \verb ASRZBLT/Lange et al. - 2022 - CellRank for directed single-cell fate
     \verb mapping.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -9738,6 +10455,58 @@
     \field{year}{2014}
   \endentry
 
+  \entry{li_fast_2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LH}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Durbin},
+         familyi={D\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{LHDR1}
+    \strng{fullhash}{LHDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btp324
+    \endverb
+    \field{issn}{1367-4803, 1460-2059}
+    \field{number}{14}
+    \field{pages}{1754\bibrangedash 1760}
+    \field{title}{Fast and accurate short read alignment with
+  {Burrows}-{Wheeler} transform}
+    \verb{url}
+    \verb https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bi
+    \verb oinformatics/btp324
+    \endverb
+    \field{volume}{25}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/9
+    \verb 329E8I5/Li and Durbin - 2009 - Fast and accurate short read alignment
+    \verb  with Burrow.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Bioinformatics}
+    \field{month}{07}
+    \field{year}{2009}
+    \field{urlday}{16}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{libe-philippot_cellular_2021}{article}{}
     \name{author}{2}{}{%
       {{hash=LPB}{%
@@ -9844,12 +10613,11 @@
       }}%
     }
     \keyw{Animals, Base Sequence, Cell Line, Mice, Humans, HEK293 Cells,
-  Sequence Analysis, RNA, Female, Male, Cell Lineage/*genetics, Mice, Inbred
-  C57BL, Stem Cells/cytology, Single-Cell Analysis, *Gene Expression Profiling,
-  Ciliopathies/genetics, Embryonic Development/*genetics, Mental
-  Disorders/genetics, Neocortex/*embryology, Neurodevelopmental
-  Disorders/genetics, Neurons/cytology/metabolism, Transcription,
-  Genetic/genetics}
+  Female, Male, Cell Lineage/*genetics, Stem Cells/cytology, Single-Cell
+  Analysis, *Gene Expression Profiling, Ciliopathies/genetics, Embryonic
+  Development/*genetics, Mental Disorders/genetics, Neocortex/*embryology,
+  Neurodevelopmental Disorders/genetics, Neurons/cytology/metabolism, RNA,
+  Sequence Analysis, Genetic/genetics, Inbred C57BL, Transcription}
     \strng{namehash}{LL+1}
     \strng{fullhash}{LLSJMXLMESNJKGJAESZMJ1}
     \field{labelnamesource}{author}
@@ -9862,7 +10630,6 @@
     \verb 10.1038/s41467-018-08079-9
     \endverb
     \field{issn}{2041-1723 (Electronic) 2041-1723 (Linking)}
-    \field{note}{Edition: 2019/01/13}
     \field{number}{1}
     \field{pages}{134}
     \field{title}{Single-cell transcriptomic analysis of mouse neocortical
@@ -9872,6 +10639,9 @@
     \endverb
     \field{volume}{10}
     \field{journaltitle}{Nat Commun}
+    \field{annotation}{%
+    Edition: 2019/01/13%
+    }
     \field{month}{01}
     \field{year}{2019}
   \endentry
@@ -9916,8 +10686,8 @@
     \endverb
     \field{volume}{15}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/8
-    \verb RB4RRUN/Luecken and Theis - 2019 - Current best practices in single�
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/L
+    \verb XTPD6RT/Luecken and Theis - 2019 - Current best practices in single�
     \verb �cell RNA‐seq anal.pdf:application/pdf
     \endverb
     \field{journaltitle}{Molecular Systems Biology}
@@ -10015,13 +10785,13 @@
   integration. To guide integration method choice, we benchmarked 68 method and
   preprocessing combinations on 85 batches of gene expression, chromatin
   accessibility and simulation data from 23 publications, altogether
-  representing {\textgreater}1.2 million cells distributed in 13 atlas-level
-  integration tasks. We evaluated methods according to scalability, usability
-  and their ability to remove batch effects while retaining biological
-  variation using 14 evaluation metrics. We show that highly variable gene
-  selection improves the performance of data integration methods, whereas
-  scaling pushes methods to prioritize batch removal over conservation of
-  biological variation. Overall, scANVI, Scanorama, scVI and scGen perform
+  representing {\textbackslash}textgreater1.2 million cells distributed in 13
+  atlas-level integration tasks. We evaluated methods according to scalability,
+  usability and their ability to remove batch effects while retaining
+  biological variation using 14 evaluation metrics. We show that highly
+  variable gene selection improves the performance of data integration methods,
+  whereas scaling pushes methods to prioritize batch removal over conservation
+  of biological variation. Overall, scANVI, Scanorama, scVI and scGen perform
   well, particularly on complex integration tasks, while single-cell
   ATAC-sequencing integration performance is strongly affected by choice of
   feature space. Our freely available Python module and benchmarking pipeline
@@ -10041,8 +10811,8 @@
     \endverb
     \field{volume}{19}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/G
-    \verb 2LSJWKY/Luecken et al. - 2022 - Benchmarking atlas-level data integra
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/7
+    \verb 2YQYQUF/Luecken et al. - 2022 - Benchmarking atlas-level data integra
     \verb tion in singl.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -10190,7 +10960,7 @@
     }
     \verb{file}
     \verb Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/s
-    \verb torage/D3XY9M6K/Lust et al. - 2022 - Single-cell analyses of axolotl
+    \verb torage/N82PHNYQ/Lust et al. - 2022 - Single-cell analyses of axolotl
     \verb forebrain organiza.pdf:application/pdf
     \endverb
     \field{type}{preprint}
@@ -10318,8 +11088,8 @@
     \endverb
     \field{volume}{183}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/M
-    \verb J67JKR4/Ma et al. - 2020 - Chromatin Potential Identified by Shared S
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/E
+    \verb PD3A2NE/Ma et al. - 2020 - Chromatin Potential Identified by Shared S
     \verb ingle-Ce.pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell}
@@ -10332,11 +11102,11 @@
 
   \entry{macosko_highly_2015}{article}{}
     \name{author}{16}{}{%
-      {{hash=ME}{%
+      {{hash=MEZ}{%
          family={Macosko},
          familyi={M\bibinitperiod},
-         given={Evan Z.},
-         giveni={E\bibinitperiod},
+         given={Evan\bibnamedelima Z.},
+         giveni={E\bibinitperiod\bibinitdelim Z\bibinitperiod},
       }}%
       {{hash=BA}{%
          family={Basu},
@@ -10374,11 +11144,11 @@
          given={Itay},
          giveni={I\bibinitperiod},
       }}%
-      {{hash=BA}{%
+      {{hash=BAR}{%
          family={Bialas},
          familyi={B\bibinitperiod},
-         given={Allison R.},
-         giveni={A\bibinitperiod},
+         given={Allison\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
       {{hash=KN}{%
          family={Kamitaki},
@@ -10386,35 +11156,35 @@
          given={Nolan},
          giveni={N\bibinitperiod},
       }}%
-      {{hash=ME}{%
+      {{hash=MEM}{%
          family={Martersteck},
          familyi={M\bibinitperiod},
-         given={Emily M.},
-         giveni={E\bibinitperiod},
+         given={Emily\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
-      {{hash=TJ}{%
+      {{hash=TJJ}{%
          family={Trombetta},
          familyi={T\bibinitperiod},
-         given={John J.},
-         giveni={J\bibinitperiod},
+         given={John\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
-      {{hash=WD}{%
+      {{hash=WDA}{%
          family={Weitz},
          familyi={W\bibinitperiod},
-         given={David A.},
-         giveni={D\bibinitperiod},
+         given={David\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
-      {{hash=SJ}{%
+      {{hash=SJR}{%
          family={Sanes},
          familyi={S\bibinitperiod},
-         given={Joshua R.},
-         giveni={J\bibinitperiod},
+         given={Joshua\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
-      {{hash=SA}{%
+      {{hash=SAK}{%
          family={Shalek},
          familyi={S\bibinitperiod},
-         given={Alex K.},
-         giveni={A\bibinitperiod},
+         given={Alex\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
       }}%
       {{hash=RA}{%
          family={Regev},
@@ -10422,18 +11192,18 @@
          given={Aviv},
          giveni={A\bibinitperiod},
       }}%
-      {{hash=MS}{%
+      {{hash=MSA}{%
          family={McCarroll},
          familyi={M\bibinitperiod},
-         given={Steven A.},
-         giveni={S\bibinitperiod},
+         given={Steven\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
     \list{language}{1}{%
       {en}%
     }
-    \strng{namehash}{ME+1}
-    \strng{fullhash}{MEBASRNJSKGMTIBAKNMETJWDSJSARAMS1}
+    \strng{namehash}{MEZ+1}
+    \strng{fullhash}{MEZBASRNJSKGMTIBARKNMEMTJJWDASJRSAKRAMSA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
@@ -10453,8 +11223,8 @@
     \endverb
     \field{volume}{161}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/N
-    \verb 4E35M6A/Macosko et al. - 2015 - Highly Parallel Genome-wide Expressio
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/V
+    \verb 2LWAR5H/Macosko et al. - 2015 - Highly Parallel Genome-wide Expressio
     \verb n Profiling o.pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell}
@@ -10584,7 +11354,7 @@
     \field{volume}{15}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/GRC27IUN/Madhavan et al. - 2018 - Induction of myelinating olig
+    \verb orage/BAU35QT9/Madhavan et al. - 2018 - Induction of myelinating olig
     \verb odendrocytes in human.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -10624,10 +11394,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
-    \field{note}{Issue: 40 Pages: 1541 Publication Title: Journal of Open
-  Source Software Volume: 4}
     \field{title}{{bayestestR}: {Describing} {Effects} and their {Uncertainty},
   {Existence} and {Significance} within the {Bayesian} {Framework}}
+    \field{annotation}{%
+    Issue: 40 Pages: 1541 Publication Title: Journal of Open Source Software
+  Volume: 4%
+    }
     \field{year}{2019}
   \endentry
 
@@ -11177,7 +11949,7 @@
     \field{volume}{22}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/8NHF3LCN/Marton et al. - 2019 - Differentiation and maturation
+    \verb orage/4TM5X4TX/Marton et al. - 2019 - Differentiation and maturation
     \verb of oligodendrocytes.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Neuroscience}
@@ -11309,12 +12081,12 @@
          giveni={R\bibinitperiod},
       }}%
     }
-    \keyw{Animals, Mice, Humans, Gene Expression Profiling, Female, Male, RNA,
-  Small Cytoplasmic/genetics, Embryo, Mammalian/cytology, Single-Cell Analysis,
-  *Cell Differentiation/genetics, *Neural Inhibition,
+    \keyw{Animals, Mice, Humans, Gene Expression Profiling, Female, Male,
+  Single-Cell Analysis, *Cell Differentiation/genetics, *Neural Inhibition,
   Ganglia/cytology/metabolism, Interneurons/*cytology/*physiology, MEF2
   Transcription Factors/metabolism, Mitosis/genetics, Parvalbumins/metabolism,
-  Visual Cortex/*cytology}
+  Visual Cortex/*cytology, RNA, Embryo, Mammalian/cytology, Small
+  Cytoplasmic/genetics}
     \strng{namehash}{MC+1}
     \strng{fullhash}{MCHCBRCMRBBRJXAKBAFGSR1}
     \field{labelnamesource}{author}
@@ -11327,7 +12099,6 @@
     \verb 10.1038/nature25999
     \endverb
     \field{issn}{1476-4687 (Electronic) 0028-0836 (Linking)}
-    \field{note}{Edition: 2018/03/08}
     \field{number}{7697}
     \field{pages}{457\bibrangedash 462}
     \field{title}{Developmental diversification of cortical inhibitory
@@ -11337,6 +12108,9 @@
     \endverb
     \field{volume}{555}
     \field{journaltitle}{Nature}
+    \field{annotation}{%
+    Edition: 2018/03/08%
+    }
     \field{month}{03}
     \field{year}{2018}
   \endentry
@@ -11376,10 +12150,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
-    \field{note}{Issue: 29 Pages: 861 Publication Title: Journal of Open Source
-  Software Volume: 3}
     \field{title}{{UMAP}: {Uniform} {Manifold} {Approximation} and
   {Projection}}
+    \field{annotation}{%
+    Issue: 29 Pages: 861 Publication Title: Journal of Open Source Software
+  Volume: 3%
+    }
     \field{year}{2018}
   \endentry
 
@@ -12047,8 +12823,8 @@
     \endverb
     \field{volume}{8}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/K
-    \verb CBI57D9/Monzel et al. - 2017 - Derivation of Human Midbrain-Specific
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/4
+    \verb DNWMQA4/Monzel et al. - 2017 - Derivation of Human Midbrain-Specific
     \verb Organoids fr.pdf:application/pdf
     \endverb
     \field{journaltitle}{Stem Cell Reports}
@@ -12265,7 +13041,7 @@
     \field{volume}{39}
     \verb{file}
     \verb Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/s
-    \verb torage/993SCZJG/Mulqueen et al. - 2021 - High-content single-cell com
+    \verb torage/8RLAGEJ5/Mulqueen et al. - 2021 - High-content single-cell com
     \verb binatorial indexing.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Biotechnology}
@@ -12411,13 +13187,15 @@
   critical for the correct number of neurons to be produced and for the
   establishment of normal neuronal function.%
     }
-    \field{note}{Publisher: Society for Neuroscience}
     \field{number}{1}
     \field{pages}{283\bibrangedash 293}
     \field{title}{The {bHLH} {Gene} {Hes1} as a {Repressor} of the {Neuronal}
   {Commitment} of {CNS} {Stem} {Cells}}
     \field{volume}{20}
     \field{journaltitle}{J. Neurosci.}
+    \field{annotation}{%
+    Publisher: Society for Neuroscience%
+    }
     \field{month}{01}
     \field{year}{2000}
   \endentry
@@ -12460,11 +13238,11 @@
 
   \entry{nelson_excitatoryinhibitory_2015}{article}{}
     \name{author}{2}{}{%
-      {{hash=NS}{%
+      {{hash=NSB}{%
          family={Nelson},
          familyi={N\bibinitperiod},
-         given={Sacha B.},
-         giveni={S\bibinitperiod},
+         given={Sacha\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
       }}%
       {{hash=VV}{%
          family={Valakh},
@@ -12476,8 +13254,8 @@
     \list{language}{1}{%
       {en}%
     }
-    \strng{namehash}{NSVV1}
-    \strng{fullhash}{NSVV1}
+    \strng{namehash}{NSBVV1}
+    \strng{fullhash}{NSBVV1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
@@ -12497,8 +13275,8 @@
     \endverb
     \field{volume}{87}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/C
-    \verb P9WZBMV/Nelson and Valakh - 2015 - ExcitatoryInhibitory Balance and C
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/P
+    \verb KSZGVWK/Nelson and Valakh - 2015 - ExcitatoryInhibitory Balance and C
     \verb ircuit Homeosta.pdf:application/pdf
     \endverb
     \field{journaltitle}{Neuron}
@@ -12735,6 +13513,125 @@
     \field{volume}{5}
     \field{journaltitle}{eLife}
     \field{year}{2016}
+  \endentry
+
+  \entry{paolicelli_synaptic_2011}{article}{}
+    \name{author}{12}{}{%
+      {{hash=PRC}{%
+         family={Paolicelli},
+         familyi={P\bibinitperiod},
+         given={Rosa\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bolasco},
+         familyi={B\bibinitperiod},
+         given={Giulia},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PF}{%
+         family={Pagani},
+         familyi={P\bibinitperiod},
+         given={Francesca},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Maggi},
+         familyi={M\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Scianni},
+         familyi={S\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Panzanelli},
+         familyi={P\bibinitperiod},
+         given={Patrizia},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Giustetto},
+         familyi={G\bibinitperiod},
+         given={Maurizio},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FTA}{%
+         family={Ferreira},
+         familyi={F\bibinitperiod},
+         given={Tiago\bibnamedelima Alves},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GE}{%
+         family={Guiducci},
+         familyi={G\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={Dumas},
+         familyi={D\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Ragozzino},
+         familyi={R\bibinitperiod},
+         given={Davide},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GCT}{%
+         family={Gross},
+         familyi={G\bibinitperiod},
+         given={Cornelius\bibnamedelima T.},
+         giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{PRC+1}
+    \strng{fullhash}{PRCBGPFMLSMPPGMFTAGEDLRDGCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    A good brain needs a good vacuum cleaner. , Microglia are highly motile
+  phagocytic cells that infiltrate and take up residence in the developing
+  brain, where they are thought to provide a surveillance and scavenging
+  function. However, although microglia have been shown to engulf and clear
+  damaged cellular debris after brain insult, it remains less clear what role
+  microglia play in the uninjured brain. Here, we show that microglia actively
+  engulf synaptic material and play a major role in synaptic pruning during
+  postnatal development in mice. These findings link microglia surveillance to
+  synaptic maturation and suggest that deficits in microglia function may
+  contribute to synaptic abnormalities seen in some neurodevelopmental
+  disorders.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.1202529
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6048}
+    \field{pages}{1456\bibrangedash 1458}
+    \field{title}{Synaptic {Pruning} by {Microglia} {Is} {Necessary} for
+  {Normal} {Brain} {Development}}
+    \verb{url}
+    \verb https://www.science.org/doi/10.1126/science.1202529
+    \endverb
+    \field{volume}{333}
+    \field{journaltitle}{Science}
+    \field{month}{09}
+    \field{year}{2011}
+    \field{urlday}{15}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
   \endentry
 
   \entry{paredes_extensive_2016}{article}{}
@@ -13170,9 +14067,9 @@
     \list{language}{1}{%
       {eng}%
     }
-    \keyw{Humans, Cells, Cultured, Astrocytes/cytology/*physiology, Cerebral
-  Cortex/cytology/*physiology, Pluripotent Stem Cells/*cytology, Spheroids,
-  Cellular, Synapses/physiology}
+    \keyw{Humans, Astrocytes/cytology/*physiology, Cerebral
+  Cortex/cytology/*physiology, Pluripotent Stem Cells/*cytology,
+  Synapses/physiology, Cells, Cellular, Cultured, Spheroids}
     \strng{namehash}{PAM+1}
     \strng{fullhash}{PAMSSACLETYMCDHNKCHPJYONANKDSSJHJRGDHBBAPSP1}
     \field{labelnamesource}{author}
@@ -13185,7 +14082,6 @@
     \verb 10.1038/nmeth.3415
     \endverb
     \field{issn}{1548-7105 1548-7091}
-    \field{note}{Edition: 2015/05/25}
     \field{number}{7}
     \field{pages}{671\bibrangedash 678}
     \field{title}{Functional cortical neurons and astrocytes from human
@@ -13196,6 +14092,9 @@
     \endverb
     \field{volume}{12}
     \field{journaltitle}{Nature methods}
+    \field{annotation}{%
+    Edition: 2015/05/25%
+    }
     \field{year}{2015}
   \endentry
 
@@ -13889,8 +14788,8 @@
     \endverb
     \field{volume}{176}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/9
-    \verb CGILW96/Pollen et al. - 2019 - Establishing Cerebral Organoids as Mod
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/5
+    \verb MQNXEZQ/Pollen et al. - 2019 - Establishing Cerebral Organoids as Mod
     \verb els of Human.pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell}
@@ -13959,7 +14858,7 @@
     \field{volume}{17}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/XI58MS89/Pratapa et al. - 2020 - Benchmarking algorithms for ge
+    \verb orage/JQRV5SZC/Pratapa et al. - 2020 - Benchmarking algorithms for ge
     \verb ne regulatory networ.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -13978,17 +14877,17 @@
          given={Xuyu},
          giveni={X\bibinitperiod},
       }}%
-      {{hash=NH}{%
+      {{hash=NHN}{%
          family={Nguyen},
          familyi={N\bibinitperiod},
-         given={Ha Nam},
-         giveni={H\bibinitperiod},
+         given={Ha\bibnamedelima Nam},
+         giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod},
       }}%
-      {{hash=SM}{%
+      {{hash=SMM}{%
          family={Song},
          familyi={S\bibinitperiod},
-         given={Mingxi M},
-         giveni={M\bibinitperiod},
+         given={Mingxi\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
       {{hash=HC}{%
          family={Hadiono},
@@ -13996,11 +14895,11 @@
          given={Christopher},
          giveni={C\bibinitperiod},
       }}%
-      {{hash=OS}{%
+      {{hash=OSC}{%
          family={Ogden},
          familyi={O\bibinitperiod},
-         given={Sarah C},
-         giveni={S\bibinitperiod},
+         given={Sarah\bibnamedelima C},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
       }}%
       {{hash=HC}{%
          family={Hammack},
@@ -14014,11 +14913,11 @@
          given={Bing},
          giveni={B\bibinitperiod},
       }}%
-      {{hash=HG}{%
+      {{hash=HGR}{%
          family={Hamersky},
          familyi={H\bibinitperiod},
-         given={Gregory R},
-         giveni={G\bibinitperiod},
+         given={Gregory\bibnamedelima R},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
       {{hash=JF}{%
          family={Jacob},
@@ -14062,11 +14961,11 @@
          given={Jai},
          giveni={J\bibinitperiod},
       }}%
-      {{hash=BD}{%
+      {{hash=BDA}{%
          family={Berg},
          familyi={B\bibinitperiod},
-         given={Daniel A},
-         giveni={D\bibinitperiod},
+         given={Daniel\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
       {{hash=ZC}{%
          family={Zhang},
@@ -14104,11 +15003,11 @@
          given={Zhexing},
          giveni={Z\bibinitperiod},
       }}%
-      {{hash=CK}{%
+      {{hash=CKM}{%
          family={Christian},
          familyi={C\bibinitperiod},
-         given={Kimberly M},
-         giveni={K\bibinitperiod},
+         given={Kimberly\bibnamedelima M},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
       {{hash=SPY}{%
          family={Shi},
@@ -14116,11 +15015,11 @@
          given={Pei-Yong},
          giveni={P\bibinithyphendelim Y\bibinitperiod},
       }}%
-      {{hash=MB}{%
+      {{hash=MBJ}{%
          family={Maher},
          familyi={M\bibinitperiod},
-         given={Brady J},
-         giveni={B\bibinitperiod},
+         given={Brady\bibnamedelima J},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
       {{hash=WH}{%
          family={Wu},
@@ -14154,7 +15053,7 @@
       }}%
     }
     \strng{namehash}{QX+1}
-  \strng{fullhash}{QXNHSMHCOSHCYBHGJFZCYKjJWLLLYTJBDZCKECMNDHCYWZCKSPYMBWHJPTHSHMGl1}
+  \strng{fullhash}{QXNHNSMMHCOSCHCYBHGRJFZCYKjJWLLLYTJBDAZCKECMNDHCYWZCKMSPYMBJWHJPTHSHMGl1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
@@ -14345,8 +15244,8 @@
     \endverb
     \field{volume}{26}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/N
-    \verb 4KEUDKL/Qian et al. - 2020 - Sliced Human Cortical Organoids for Mode
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/H
+    \verb AA9HLEV/Qian et al. - 2020 - Sliced Human Cortical Organoids for Mode
     \verb ling Disti.pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell Stem Cell}
@@ -14445,7 +15344,7 @@
     \field{volume}{10}
     \verb{file}
     \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/V
-    \verb 2ZAF2RS/Qiu et al. - 2020 - Inferring Causal Gene Regulatory Networks
+    \verb Q82WMXF/Qiu et al. - 2020 - Inferring Causal Gene Regulatory Networks
     \verb  from Cou.pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell Systems}
@@ -14740,7 +15639,7 @@
     \field{volume}{14}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/9ND7JB3D/Ramani et al. - 2017 - Massively multiplex single-cell
+    \verb orage/SE32LUW2/Ramani et al. - 2017 - Massively multiplex single-cell
     \verb  Hi-C.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -14749,6 +15648,99 @@
     \field{urlday}{27}
     \field{urlmonth}{07}
     \field{urlyear}{2022}
+  \endentry
+
+  \entry{ramirez_deeptools2_2016}{article}{}
+    \name{author}{9}{}{%
+      {{hash=RF}{%
+         family={Ramírez},
+         familyi={R\bibinitperiod},
+         given={Fidel},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RDP}{%
+         family={Ryan},
+         familyi={R\bibinitperiod},
+         given={Devon\bibnamedelima P},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Grüning},
+         familyi={G\bibinitperiod},
+         given={Björn},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Bhardwaj},
+         familyi={B\bibinitperiod},
+         given={Vivek},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Kilpert},
+         familyi={K\bibinitperiod},
+         given={Fabian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RAS}{%
+         family={Richter},
+         familyi={R\bibinitperiod},
+         given={Andreas\bibnamedelima S},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Heyne},
+         familyi={H\bibinitperiod},
+         given={Steffen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DF}{%
+         family={Dündar},
+         familyi={D\bibinitperiod},
+         given={Friederike},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Manke},
+         familyi={M\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{RF+1}
+    \strng{fullhash}{RFRDPGBBVKFRASHSDFMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    We present an update to our Galaxy-based web server for processing and
+  visualizing deeply sequenced data. Its core tool set, deepTools, allows users
+  to perform complete bioinformatic workflows ranging from quality controls and
+  normalizations of aligned reads to integrative analyses, including clustering
+  and visualization approaches. Since we first described our deepTools Galaxy
+  server in 2014, we have implemented new solutions for many requests from the
+  community and our users. Here, we introduce significant enhancements and new
+  tools to further improve data visualization and interpretation. deepTools
+  continue to be open to all users and freely available as a web service at
+  deeptools.ie-freiburg.mpg.de The new deepTools2 suite can be easily deployed
+  within any Galaxy framework via the toolshed repository, and we also provide
+  source code for command line usage under Linux and Mac OS X. A public and
+  documented API for access to deepTools functionality is also available.%
+    }
+    \field{number}{W1}
+    \field{pages}{W160\bibrangedash 5}
+    \field{title}{{deepTools2}: a next generation web server for
+  deep-sequencing data analysis}
+    \field{volume}{44}
+    \field{journaltitle}{Nucleic Acids Res.}
+    \field{month}{07}
+    \field{year}{2016}
   \endentry
 
   \entry{rash_patterning_2007}{article}{}
@@ -15419,8 +16411,8 @@
     \endverb
     \field{volume}{94}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/M
-    \verb U7F78Z2/Saint-Jeannet et al. - 1997 - Regulation of dorsal fate in th
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/J
+    \verb VUTU6KT/Saint-Jeannet et al. - 1997 - Regulation of dorsal fate in th
     \verb e neuraxis by Wnt-1.pdf:application/pdf
     \endverb
     \field{journaltitle}{Proceedings of the National Academy of Sciences}
@@ -16950,7 +17942,7 @@
     \field{volume}{510}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/C7MYTG9P/Shalek et al. - 2014 - Single-cell RNA-seq reveals dyn
+    \verb orage/ZGP45CEP/Shalek et al. - 2014 - Single-cell RNA-seq reveals dyn
     \verb amic paracrine cont.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature}
@@ -17017,12 +18009,14 @@
   number reductions. SHH/GLI3 signaling regulates cell cycle factors
   controlling mesenchymal cell proliferation, ...%
     }
-    \field{note}{Publisher: Public Library of Science}
     \field{number}{12}
     \field{title}{{HES1} is a novel downstream modifier of the {SHH}-{GLI3}
   {Axis} in the development of preaxial polydactyly}
     \field{volume}{17}
     \field{journaltitle}{PLoS Genet.}
+    \field{annotation}{%
+    Publisher: Public Library of Science%
+    }
     \field{month}{12}
     \field{year}{2021}
   \endentry
@@ -17403,8 +18397,8 @@
     \endverb
     \field{volume}{95}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/W
-    \verb C9S3AFL/Sloan et al. - 2017 - Human Astrocyte Maturation Captured in
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/N
+    \verb PFFWEEU/Sloan et al. - 2017 - Human Astrocyte Maturation Captured in
     \verb 3D Cerebral.pdf:application/pdf
     \endverb
     \field{journaltitle}{Neuron}
@@ -17503,7 +18497,7 @@
     \field{volume}{11}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/SU7IHWDS/Smallwood et al. - 2014 - Single-cell genome-wide bisu
+    \verb orage/7IX2LH3U/Smallwood et al. - 2014 - Single-cell genome-wide bisu
     \verb lfite sequencing for a.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -17620,28 +18614,31 @@
   and 696 healthy controls and performed association analysis. Interestingly,
   we observed a significant association of the homozygous HES1 promoter variant
   with CHD (18.92\% of cases vs 9.91\% of controls; OR: 2.291, 95\% CI:
-  1.637-3.207, p=9.72\${\textbackslash}times\$10-7). No significant association
-  with CHD was observed for the HES1 promoter heterozygous variant
-  (p{\textgreater}0.05). However, association analysis tests of the HES1
-  homozygous variant with each subtype of CHD revealed that this homozygous
-  variant was strongly associated with transposition of the great arteries
-  (TGA) (OR: 3.726, 95\% CI: 1.745-7.956, p=0.0003). Moreover, the prevalence
-  of HES1 homozygous variants in CHD patients with TGA (27.66\%) was
-  significantly higher than that in patients with other CHD subtypes or
-  controls. Similar results were observed in a replication group of TGA (n=64).
-  Functional studies demonstrated that the homozygous variant in the HES1
-  promoter can disrupt its ability to bind RXRA, an inhibitory transcription
-  factor, which results in abnormally high expression of the HES1 gene,
-  indicating that this variant harbors gain-of-function effects. Conclusions:
-  Our findings reveal that the noncoding homozygous variant in the HES1
-  promoter has a gain-of-function effect and is associated with an increased
-  risk of CHD development, especially the severe TGA%
+  1.637-3.207, p=9.72\${\textbackslash}textbackslashtimes\$10-7). No
+  significant association with CHD was observed for the HES1 promoter
+  heterozygous variant (p{\textbackslash}textgreater0.05). However, association
+  analysis tests of the HES1 homozygous variant with each subtype of CHD
+  revealed that this homozygous variant was strongly associated with
+  transposition of the great arteries (TGA) (OR: 3.726, 95\% CI: 1.745-7.956,
+  p=0.0003). Moreover, the prevalence of HES1 homozygous variants in CHD
+  patients with TGA (27.66\%) was significantly higher than that in patients
+  with other CHD subtypes or controls. Similar results were observed in a
+  replication group of TGA (n=64). Functional studies demonstrated that the
+  homozygous variant in the HES1 promoter can disrupt its ability to bind RXRA,
+  an inhibitory transcription factor, which results in abnormally high
+  expression of the HES1 gene, indicating that this variant harbors
+  gain-of-function effects. Conclusions: Our findings reveal that the noncoding
+  homozygous variant in the HES1 promoter has a gain-of-function effect and is
+  associated with an increased risk of CHD development, especially the severe
+  TGA%
     }
-    \field{note}{Publisher: Frontiers}
     \field{title}{A {Non}-coding {HES1} {Variant} {Predisposes} {Children} to
   {Congenital} {Heart} {Disease} in {Chinese} {Population}}
     \field{volume}{0}
     \field{journaltitle}{Front. Cell Dev. Biol.}
+    \field{annotation}{%
+    Publisher: Frontiers%
+    }
     \field{year}{2021}
   \endentry
 
@@ -17812,13 +18809,14 @@
   hashing” to quantify global transcriptional responses to thousands of
   independent perturbations at single-cell resolution. As a proof of concept,
   we applied sci-Plex to screen three cancer cell lines exposed to 188
-  compounds. In total, we profiled {\textasciitilde}650,000 single-cell
-  transcriptomes across {\textasciitilde}5000 independent samples in one
-  experiment. Our results reveal substantial intercellular heterogeneity in
-  response to specific compounds, commonalities in response to families of
-  compounds, and insight into differential properties within families. In
-  particular, our results with histone deacetylase inhibitors support the view
-  that chromatin acts as an important reservoir of acetate in cancer cells.%
+  compounds. In total, we profiled {\textbackslash}textasciitilde650,000
+  single-cell transcriptomes across {\textbackslash}textasciitilde5000
+  independent samples in one experiment. Our results reveal substantial
+  intercellular heterogeneity in response to specific compounds, commonalities
+  in response to families of compounds, and insight into differential
+  properties within families. In particular, our results with histone
+  deacetylase inhibitors support the view that chromatin acts as an important
+  reservoir of acetate in cancer cells.%
     }
     \verb{doi}
     \verb 10.1126/science.aax6234
@@ -17834,7 +18832,7 @@
     \field{volume}{367}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/BV2S8BQ2/Srivatsan et al. - 2020 - Massively multiplex chemical
+    \verb orage/CFWTRMZB/Srivatsan et al. - 2020 - Massively multiplex chemical
     \verb  transcriptomics at si.pdf:application/pdf
     \endverb
     \field{journaltitle}{Science}
@@ -18116,7 +19114,7 @@
     \field{volume}{544}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/R2VYB5U3/Stevens et al. - 2017 - 3D structures of individual ma
+    \verb orage/TKDK2TMP/Stevens et al. - 2017 - 3D structures of individual ma
     \verb mmalian genomes stud.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature}
@@ -18356,8 +19354,10 @@
   containing over 700,000 cells.AvailabilityInstallation instructions,
   documentation, and tutorials are available at: https://satijalab.org/signac/%
     }
-    \field{note}{Publication Title: bioRxiv Publisher: bioRxiv}
     \field{title}{Multimodal single-cell chromatin analysis with {Signac}}
+    \field{annotation}{%
+    Publication Title: bioRxiv Publisher: bioRxiv%
+    }
     \field{month}{11}
     \field{year}{2020}
   \endentry
@@ -18951,16 +19951,17 @@
   of common and rare variation and their impact on hundreds of genes. Using
   exome sequencing, analysis of rare coding variation in 3,871 autism cases and
   9,937 ancestry-matched or parental controls implicates 22 autosomal genes at
-  a false discovery rate (FDR) {\textless} 0.05, and a set of 107 autosomal
-  genes strongly enriched for those likely to affect risk (FDR {\textless}
-  0.30). These 107 genes, which show unusual evolutionary constraint against
-  mutations, incur de novo loss-of-function mutations in over 5\% of autistic
-  subjects. Many of the genes implicated encode proteins for synaptic,
-  transcriptional, and chromatin remodeling pathways. These include
-  voltage-gated ion channels regulating propagation of action potentials,
-  pacemaking, and excitability-transcription coupling, as well as
-  histone-modifying enzymes and chromatin remodelers, prominently histone
-  post-translational modifications involving lysine methylation/demethylation.%
+  a false discovery rate (FDR) {\textbackslash}textless 0.05, and a set of 107
+  autosomal genes strongly enriched for those likely to affect risk (FDR
+  {\textbackslash}textless 0.30). These 107 genes, which show unusual
+  evolutionary constraint against mutations, incur de novo loss-of-function
+  mutations in over 5\% of autistic subjects. Many of the genes implicated
+  encode proteins for synaptic, transcriptional, and chromatin remodeling
+  pathways. These include voltage-gated ion channels regulating propagation of
+  action potentials, pacemaking, and excitability-transcription coupling, as
+  well as histone-modifying enzymes and chromatin remodelers, prominently
+  histone post-translational modifications involving lysine
+  methylation/demethylation.%
     }
     \verb{doi}
     \verb 10.1038/nature13772
@@ -19235,7 +20236,7 @@
     \field{volume}{455}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/CDS8CY4C/Südhof - 2008 - Neuroligins and neurexins link synapt
+    \verb orage/8HPXJQX4/Südhof - 2008 - Neuroligins and neurexins link synapt
     \verb ic function t.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature}
@@ -19303,8 +20304,8 @@
     \endverb
     \field{volume}{30}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/S
-    \verb MXFCT3Z/Tanaka et al. - 2020 - Synthetic Analyses of Single-Cell Tran
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/4
+    \verb MYF878L/Tanaka et al. - 2020 - Synthetic Analyses of Single-Cell Tran
     \verb scriptomes f.pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell Reports}
@@ -19749,9 +20750,9 @@
          giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
-    \keyw{Animals, Mice, Gene Expression Profiling/*methods, *Gene Expression
-  Regulation, Developmental, Brain Mapping/*methods, Brain/*growth \&
-  development, Gene Expression}
+    \keyw{Animals, Mice, *Gene Expression Regulation, Gene Expression
+  Profiling/*methods, Brain Mapping/*methods, Brain/*growth \& development,
+  Gene Expression, Developmental}
     \strng{namehash}{TCL+1}
   \strng{fullhash}{TCLNLMVMSLCKGKSSMHALCDCGLRMFAPARJLRWWBHJDNSAJYRSKNTNKJKLJAKAMJPDOGBARZSSWPHMJPLJAR1}
     \field{labelnamesource}{author}
@@ -19764,7 +20765,6 @@
     \verb 10.1016/j.neuron.2014.05.033
     \endverb
     \field{issn}{1097-4199 (Electronic) 0896-6273 (Linking)}
-    \field{note}{Edition: 2014/06/24}
     \field{number}{2}
     \field{pages}{309\bibrangedash 323}
     \field{title}{A high-resolution spatiotemporal atlas of gene expression of
@@ -19774,6 +20774,9 @@
     \endverb
     \field{volume}{83}
     \field{journaltitle}{Neuron}
+    \field{annotation}{%
+    Edition: 2014/06/24%
+    }
     \field{month}{07}
     \field{year}{2014}
   \endentry
@@ -20251,7 +21254,7 @@
     \field{volume}{509}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/ZJGSFCMW/Treutlein et al. - 2014 - Reconstructing lineage hiera
+    \verb orage/EB4A2RL3/Treutlein et al. - 2014 - Reconstructing lineage hiera
     \verb rchies of the distal l.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature}
@@ -20668,9 +21671,9 @@
     \field{volume}{14}
     \verb{file}
     \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
-    \verb orage/MPXZJJDM/Vallejos et al. - 2017 - Normalizing single-cell RNA s
+    \verb orage/DVB7DE2H/Vallejos et al. - 2017 - Normalizing single-cell RNA s
     \verb equencing data chall.pdf:application/pdf;pericles_1744429215.txt:/Use
-    \verb rs/jfleck/Dropbox/Documents/literature/zotero/storage/FMBNBT4E/pericl
+    \verb rs/jfleck/Dropbox/Documents/literature/zotero/storage/LUWNQFB9/pericl
     \verb es_1744429215.txt:text/plain
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -21595,8 +22598,8 @@
     \endverb
     \field{volume}{17}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/M
-    \verb 8B28JII/Virtanen et al. - 2020 - SciPy 1.0 fundamental algorithms for
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/7
+    \verb J6AYFLR/Virtanen et al. - 2020 - SciPy 1.0 fundamental algorithms for
     \verb  scientific c.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Methods}
@@ -21709,7 +22712,7 @@
     }
     \verb{file}
     \verb Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/s
-    \verb torage/MMD9UZGZ/Vértesy et al. - 2022 - Cellular stress in brain org
+    \verb torage/PYNR3UUI/Vértesy et al. - 2022 - Cellular stress in brain org
     \verb anoids is limited to a.pdf:application/pdf
     \endverb
     \field{type}{preprint}
@@ -21903,7 +22906,7 @@
     }
     \verb{file}
     \verb Submitted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/s
-    \verb torage/G3EF93DQ/Wahle et al. - 2022 - Multimodal spatiotemporal pheno
+    \verb torage/A2GJPW2B/Wahle et al. - 2022 - Multimodal spatiotemporal pheno
     \verb typing of human org.pdf:application/pdf
     \endverb
     \field{type}{preprint}
@@ -22173,18 +23176,18 @@
     Transcription factor (TF) DNA sequence preferences direct their regulatory
   activity, but are currently known for only ∼1\% of eukaryotic TFs. Broadly
   sampling DNA-binding domain (DBD) types from multiple eukaryotic clades, we
-  determined DNA sequence preferences for {\textgreater}1,000 TFs encompassing
-  54 different DBD classes from 131 diverse eukaryotes. We find that closely
-  related DBDs almost always have very similar DNA sequence preferences,
-  enabling inference of motifs for ∼34\% of the ∼170,000 known or predicted
-  eukaryotic TFs. Sequences matching both measured and inferred motifs are
-  enriched in chromatin immunoprecipitation sequencing (ChIP-seq) peaks and
-  upstream of transcription start sites in diverse eukaryotic lineages. SNPs
-  defining expression quantitative trait loci in Arabidopsis promoters are also
-  enriched for predicted TF binding sites. Importantly, our motif “library”
-  can be used to identify specific TFs whose binding may be altered by human
-  disease risk alleles. These data present a powerful resource for mapping
-  transcriptional networks across eukaryotes.%
+  determined DNA sequence preferences for {\textbackslash}textgreater1,000 TFs
+  encompassing 54 different DBD classes from 131 diverse eukaryotes. We find
+  that closely related DBDs almost always have very similar DNA sequence
+  preferences, enabling inference of motifs for ∼34\% of the ∼170,000 known
+  or predicted eukaryotic TFs. Sequences matching both measured and inferred
+  motifs are enriched in chromatin immunoprecipitation sequencing (ChIP-seq)
+  peaks and upstream of transcription start sites in diverse eukaryotic
+  lineages. SNPs defining expression quantitative trait loci in Arabidopsis
+  promoters are also enriched for predicted TF binding sites. Importantly, our
+  motif “library” can be used to identify specific TFs whose binding may be
+  altered by human disease risk alleles. These data present a powerful resource
+  for mapping transcriptional networks across eukaryotes.%
     }
     \field{number}{6}
     \field{pages}{1431\bibrangedash 1443}
@@ -22357,12 +23360,12 @@
       }}%
     }
     \keyw{Cell Lineage, Humans, *ATAC-seq, *brain organoid, *Cell Movement,
-  *cortex, *fusion, *hESC, *interneuron, *mge, *Models, Biological, *neuronal
-  migration, *single cell RNA-seq, *transcriptional regulation,
-  Brain/cytology/*embryology, Cell Differentiation, Cerebral Cortex/cytology,
-  Chromatin/metabolism, Interneurons/*cytology/metabolism, Median
-  Eminence/cytology, Organoids/*cytology, Pluripotent Stem
-  Cells/*cytology/metabolism, Sequence Analysis, RNA, Transcriptome/genetics}
+  *cortex, *fusion, *hESC, *interneuron, *mge, *neuronal migration, *single
+  cell RNA-seq, *transcriptional regulation, Brain/cytology/*embryology, Cell
+  Differentiation, Cerebral Cortex/cytology, Chromatin/metabolism,
+  Interneurons/*cytology/metabolism, Median Eminence/cytology,
+  Organoids/*cytology, Pluripotent Stem Cells/*cytology/metabolism,
+  Transcriptome/genetics, RNA, Sequence Analysis, *Models, Biological}
     \strng{namehash}{XY+1}
     \strng{fullhash}{XYTYPBKYJGGRNCBKKYLAPHSMZMSEGEAGNJRLSHWSMPIH1}
     \field{labelnamesource}{author}
@@ -22375,7 +23378,6 @@
     \verb 10.1016/j.stem.2017.07.007
     \endverb
     \field{issn}{1875-9777 (Electronic) 1875-9777 (Linking)}
-    \field{note}{Edition: 2017/08/02}
     \field{number}{3}
     \field{pages}{383\bibrangedash 398 e7}
     \field{title}{Fusion of {Regionally} {Specified} {hPSC}-{Derived}
@@ -22386,6 +23388,9 @@
     \endverb
     \field{volume}{21}
     \field{journaltitle}{Cell Stem Cell}
+    \field{annotation}{%
+    Edition: 2017/08/02%
+    }
     \field{month}{09}
     \field{year}{2017}
   \endentry
@@ -22474,7 +23479,7 @@
     \keyw{Humans, *brain organoid, *cortex, *fusion, *hESC, *single cell
   RNA-seq, *corticothalamic, *thalamic organoid, *thalamocortical, *thalamus,
   Cerebral Cortex/*cytology/*metabolism, Human Embryonic Stem Cells/*cytology,
-  Models, Biological, Organoids/*cytology/*metabolism, Thalamus/*cytology}
+  Organoids/*cytology/*metabolism, Thalamus/*cytology, Biological, Models}
     \strng{namehash}{XY+1}
     \strng{fullhash}{XYTYCBPBKKYSPKYJZMLXPPLSHWSMPIH1}
     \field{labelnamesource}{author}
@@ -22487,7 +23492,6 @@
     \verb 10.1016/j.stem.2018.12.015
     \endverb
     \field{issn}{1875-9777 (Electronic) 1875-9777 (Linking)}
-    \field{note}{Edition: 2019/02/26}
     \field{number}{3}
     \field{pages}{487\bibrangedash 497 e7}
     \field{title}{{hESC}-{Derived} {Thalamic} {Organoids} {Form} {Reciprocal}
@@ -22497,6 +23501,9 @@
     \endverb
     \field{volume}{24}
     \field{journaltitle}{Cell Stem Cell}
+    \field{annotation}{%
+    Edition: 2019/02/26%
+    }
     \field{month}{03}
     \field{year}{2019}
   \endentry
@@ -22589,8 +23596,8 @@
     \endverb
     \field{volume}{76}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/X
-    \verb 4XUDC3X/Yin et al. - 2019 - High-Throughput Single-Cell Sequencing wi
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/P
+    \verb LF3G3CF/Yin et al. - 2019 - High-Throughput Single-Cell Sequencing wi
     \verb th Linear.pdf:application/pdf
     \endverb
     \field{journaltitle}{Molecular Cell}
@@ -22777,8 +23784,8 @@
     \endverb
     \field{volume}{14}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/A
-    \verb FNRX79D/Zappia et al. - 2018 - Exploring the single-cell RNA-seq anal
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/W
+    \verb 2FWCEF3/Zappia et al. - 2018 - Exploring the single-cell RNA-seq anal
     \verb ysis landsca.pdf:application/pdf
     \endverb
     \field{journaltitle}{PLOS Computational Biology}
@@ -22937,119 +23944,14 @@
     \endverb
     \field{volume}{174}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/Y
-    \verb S5ZPC5L/Zeisel et al. - 2018 - Molecular Architecture of the Mouse Ne
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/4
+    \verb IYHRRTY/Zeisel et al. - 2018 - Molecular Architecture of the Mouse Ne
     \verb rvous System.pdf:application/pdf
     \endverb
     \field{journaltitle}{Cell}
     \field{month}{08}
     \field{year}{2018}
     \field{urlday}{12}
-    \field{urlmonth}{07}
-    \field{urlyear}{2022}
-  \endentry
-
-  \entry{zhang_model-based_2008}{article}{}
-    \name{author}{11}{}{%
-      {{hash=ZY}{%
-         family={Zhang},
-         familyi={Z\bibinitperiod},
-         given={Yong},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=LT}{%
-         family={Liu},
-         familyi={L\bibinitperiod},
-         given={Tao},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=MCA}{%
-         family={Meyer},
-         familyi={M\bibinitperiod},
-         given={Clifford\bibnamedelima A},
-         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=EJ}{%
-         family={Eeckhoute},
-         familyi={E\bibinitperiod},
-         given={Jérôme},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=JDS}{%
-         family={Johnson},
-         familyi={J\bibinitperiod},
-         given={David\bibnamedelima S},
-         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-      {{hash=BBE}{%
-         family={Bernstein},
-         familyi={B\bibinitperiod},
-         given={Bradley\bibnamedelima E},
-         giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-      {{hash=NC}{%
-         family={Nusbaum},
-         familyi={N\bibinitperiod},
-         given={Chad},
-         giveni={C\bibinitperiod},
-      }}%
-      {{hash=MRM}{%
-         family={Myers},
-         familyi={M\bibinitperiod},
-         given={Richard\bibnamedelima M},
-         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=BM}{%
-         family={Brown},
-         familyi={B\bibinitperiod},
-         given={Myles},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=LW}{%
-         family={Li},
-         familyi={L\bibinitperiod},
-         given={Wei},
-         giveni={W\bibinitperiod},
-      }}%
-      {{hash=LXS}{%
-         family={Liu},
-         familyi={L\bibinitperiod},
-         given={X\bibnamedelima Shirley},
-         giveni={X\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{ZY+1}
-    \strng{fullhash}{ZYLTMCAEJJDSBBENCMRMBMLWLXS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2008}
-    \field{labeldatesource}{}
-    \field{sortinit}{Z}
-    \field{sortinithash}{Z}
-    \verb{doi}
-    \verb 10.1186/gb-2008-9-9-r137
-    \endverb
-    \field{issn}{1474-760X}
-    \field{number}{9}
-    \field{pages}{R137}
-    \field{title}{Model-based {Analysis} of {ChIP}-{Seq} ({MACS})}
-    \verb{url}
-    \verb https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-9-
-    \verb r137
-    \endverb
-    \field{volume}{9}
-    \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/I
-    \verb A48GIFN/Zhang et al. - 2008 - Model-based Analysis of ChIP-Seq (MACS)
-    \verb .pdf:application/pdf
-    \endverb
-    \field{journaltitle}{Genome Biology}
-    \field{month}{11}
-    \field{year}{2008}
-    \field{urlday}{27}
     \field{urlmonth}{07}
     \field{urlyear}{2022}
   \endentry
@@ -23280,8 +24182,8 @@
     \endverb
     \field{volume}{8}
     \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/B
-    \verb CFL3U8C/Zheng et al. - 2017 - Massively parallel digital transcriptio
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/J
+    \verb 6S3RB2H/Zheng et al. - 2017 - Massively parallel digital transcriptio
     \verb nal profili.pdf:application/pdf
     \endverb
     \field{journaltitle}{Nature Communications}
@@ -23461,7 +24363,7 @@
          giveni={N\bibinitperiod},
       }}%
     }
-    \strng{namehash}{ZY+2}
+    \strng{namehash}{ZY+1}
     \strng{fullhash}{ZYTMFTHYMFNDNMYN1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -23502,124 +24404,6 @@
     \field{volume}{14}
     \field{journaltitle}{Cerebral Cortex}
     \field{year}{2004}
-  \endentry
-
-  \entry{zhou_high-content_2017}{article}{}
-    \name{author}{13}{}{%
-      {{hash=ZT}{%
-         family={Zhou},
-         familyi={Z\bibinitperiod},
-         given={Ting},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=TL}{%
-         family={Tan},
-         familyi={T\bibinitperiod},
-         given={Lei},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=CGY}{%
-         family={Cederquist},
-         familyi={C\bibinitperiod},
-         given={Gustav\bibnamedelima Y.},
-         giveni={G\bibinitperiod\bibinitdelim Y\bibinitperiod},
-      }}%
-      {{hash=FY}{%
-         family={Fan},
-         familyi={F\bibinitperiod},
-         given={Yujie},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=HBJ}{%
-         family={Hartley},
-         familyi={H\bibinitperiod},
-         given={Brigham\bibnamedelima J.},
-         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=MS}{%
-         family={Mukherjee},
-         familyi={M\bibinitperiod},
-         given={Suranjit},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=TM}{%
-         family={Tomishima},
-         familyi={T\bibinitperiod},
-         given={Mark},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=BKJ}{%
-         family={Brennand},
-         familyi={B\bibinitperiod},
-         given={Kristen\bibnamedelima J.},
-         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=ZQ}{%
-         family={Zhang},
-         familyi={Z\bibinitperiod},
-         given={Qisheng},
-         giveni={Q\bibinitperiod},
-      }}%
-      {{hash=SRE}{%
-         family={Schwartz},
-         familyi={S\bibinitperiod},
-         given={Robert\bibnamedelima E.},
-         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-      {{hash=ET}{%
-         family={Evans},
-         familyi={E\bibinitperiod},
-         given={Todd},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=SL}{%
-         family={Studer},
-         familyi={S\bibinitperiod},
-         given={Lorenz},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=CS}{%
-         family={Chen},
-         familyi={C\bibinitperiod},
-         given={Shuibing},
-         giveni={S\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{ZT+1}
-    \strng{fullhash}{ZTTLCGYFYHBJMSTMBKJZQSREETSLCS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2017}
-    \field{labeldatesource}{}
-    \field{sortinit}{Z}
-    \field{sortinithash}{Z}
-    \verb{doi}
-    \verb 10.1016/j.stem.2017.06.017
-    \endverb
-    \field{issn}{19345909}
-    \field{number}{2}
-    \field{pages}{274\bibrangedash 283.e5}
-    \field{title}{High-{Content} {Screening} in {hPSC}-{Neural} {Progenitors}
-  {Identifies} {Drug} {Candidates} that {Inhibit} {Zika} {Virus} {Infection} in
-  {Fetal}-like {Organoids} and {Adult} {Brain}}
-    \verb{url}
-    \verb https://linkinghub.elsevier.com/retrieve/pii/S1934590917302795
-    \endverb
-    \field{volume}{21}
-    \verb{file}
-    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/S
-    \verb QBUHFZD/Zhou et al. - 2017 - High-Content Screening in hPSC-Neural Pr
-    \verb ogenitors .pdf:application/pdf
-    \endverb
-    \field{journaltitle}{Cell Stem Cell}
-    \field{month}{08}
-    \field{year}{2017}
-    \field{urlday}{27}
-    \field{urlmonth}{06}
-    \field{urlyear}{2022}
   \endentry
 \enddatalist
 \endinput

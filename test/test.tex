@@ -1,54 +1,54 @@
 \documentclass[12pt, a4paper, twoside]{article}
-
-%%% CITATION & BIBLIORGRAPHY STYLE %%%
-\usepackage[
-    % Management engine
-    backend=bibtex,
-    % Style: Author, Year. E.g. (R Sanchez 2213)
-    style=authoryear-comp,
-    citestyle=authoryear-comp,
-    bibstyle=authoryear,
-    % Sort Citations by year
-    sortcites=true,
-    sorting=ynt,
-    % Max 10 names in bibliography
-    maxbibnames=10,
-    % Max 2 name in citation
-    maxcitenames=2,
-    uniquelist=false,
-    uniquename=init,
-    % Initials
-    giveninits=true,
-    % DOI, ISBN, URL & eprint not shown in bibliography
-    doi=true,
-    isbn=false,
-    url=false,
-    eprint=false
-]{biblatex}
-
-% Define command to start bibliography
-\newcommand{\beginbibliography}{
-    % Add to Table of Contents
-    \addcontentsline{toc}{subsection}{References}
-    % Sorting by Name
-    \newrefcontext[sorting=nyt]
-    \printbibliography
-    \clearpage
-}
-
-% Path to file exported from mendeley
-\addbibresource{../bib/thesis.bib}
+\usepackage{caption}
+\usepackage{subcaption}
 
 
+%Counters
+\newcounter{maincounter}
+\setcounter{maincounter}{0}
+\newcounter{suppcounter}
+\setcounter{suppcounter}{0}
+
+
+\renewcommand{\thefigure}{\arabic{maincounter}}
 
 \begin{document}
 
-\cite{aibar_scenic_2017,treutlein_reconstructing_2014}
 
-\beginbibliography
 
-\cite{fleck_resolving_2021}
+\section{Introduction}
+This is our normal text, where we want to refer to accompanying figures like figure.
 
-\beginbibliography
+\stepcounter{maincounter}
+\begin{figure}
+    \caption{This is fig1}
+\end{figure}
+
+\stepcounter{maincounter}
+\begin{figure}
+    \caption{This is fig2}
+\end{figure}
+
+
+\renewcommand{\thefigure}{S\arabic{suppcounter}}
+
+\counterwithin{suppcounter}{section}
+
+\stepcounter{suppcounter}
+\begin{figure}
+    \caption{This is figS1}
+\end{figure}
+
+
+\section{Pando}
+\begin{figure}
+    \caption{This is figS1}
+\end{figure}
+
+\section{CutTag}
+\begin{figure}
+    \caption{This is figS1}
+\end{figure}
+
 
 \end{document}

@@ -467,6 +467,106 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{anzalone_search-and-replace_2019}{article}{}
+    \name{author}{11}{}{%
+      {{hash=AAV}{%
+         family={Anzalone},
+         familyi={A\bibinitperiod},
+         given={Andrew\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=RPB}{%
+         family={Randolph},
+         familyi={R\bibinitperiod},
+         given={Peyton\bibnamedelima B.},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=DJR}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Jessie\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SAA}{%
+         family={Sousa},
+         familyi={S\bibinitperiod},
+         given={Alexander\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KLW}{%
+         family={Koblan},
+         familyi={K\bibinitperiod},
+         given={Luke\bibnamedelima W.},
+         giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=LJM}{%
+         family={Levy},
+         familyi={L\bibinitperiod},
+         given={Jonathan\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CPJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Peter\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=NGA}{%
+         family={Newby},
+         familyi={N\bibinitperiod},
+         given={Gregory\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Raguram},
+         familyi={R\bibinitperiod},
+         given={Aditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LDR}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={David\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{AAV+1}
+    \strng{fullhash}{AAVRPBDJRSAAKLWLJMCPJWCNGARALDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1038/s41586-019-1711-4
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7785}
+    \field{pages}{149\bibrangedash 157}
+    \field{title}{Search-and-replace genome editing without double-strand
+  breaks or donor {DNA}}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41586-019-1711-4
+    \endverb
+    \field{volume}{576}
+    \field{journaltitle}{Nature}
+    \field{month}{12}
+    \field{year}{2019}
+    \field{urlday}{17}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{argelaguet_multi-omics_2019}{article}{}
     \name{author}{24}{}{%
       {{hash=AR}{%
@@ -15804,6 +15904,433 @@
     \field{year}{2007}
   \endentry
 
+  \entry{regev_human_2017}{article}{}
+    \name{author}{62}{}{%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TSA}{%
+         family={Teichmann},
+         familyi={T\bibinitperiod},
+         given={Sarah\bibnamedelima A},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LES}{%
+         family={Lander},
+         familyi={L\bibinitperiod},
+         given={Eric\bibnamedelima S},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Amit},
+         familyi={A\bibinitperiod},
+         given={Ido},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Benoist},
+         familyi={B\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Birney},
+         familyi={B\bibinitperiod},
+         given={Ewan},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BB}{%
+         family={Bodenmiller},
+         familyi={B\bibinitperiod},
+         given={Bernd},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Carninci},
+         familyi={C\bibinitperiod},
+         given={Piero},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Clatworthy},
+         familyi={C\bibinitperiod},
+         given={Menna},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Clevers},
+         familyi={C\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Deplancke},
+         familyi={D\bibinitperiod},
+         given={Bart},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DI}{%
+         family={Dunham},
+         familyi={D\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eberwine},
+         familyi={E\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ER}{%
+         family={Eils},
+         familyi={E\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=EW}{%
+         family={Enard},
+         familyi={E\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Farmer},
+         familyi={F\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FL}{%
+         family={Fugger},
+         familyi={F\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Göttgens},
+         familyi={G\bibinitperiod},
+         given={Berthold},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hacohen},
+         familyi={H\bibinitperiod},
+         given={Nir},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Haniffa},
+         familyi={H\bibinitperiod},
+         given={Muzlifah},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hemberg},
+         familyi={H\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Seung},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Klenerman},
+         familyi={K\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kriegstein},
+         familyi={K\bibinitperiod},
+         given={Arnold},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LE}{%
+         family={Lein},
+         familyi={L\bibinitperiod},
+         given={Ed},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Linnarsson},
+         familyi={L\bibinitperiod},
+         given={Sten},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LE}{%
+         family={Lundberg},
+         familyi={L\bibinitperiod},
+         given={Emma},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lundeberg},
+         familyi={L\bibinitperiod},
+         given={Joakim},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Majumder},
+         familyi={M\bibinitperiod},
+         given={Partha},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Marioni},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Merad},
+         familyi={M\bibinitperiod},
+         given={Miriam},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mhlanga},
+         familyi={M\bibinitperiod},
+         given={Musa},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nawijn},
+         familyi={N\bibinitperiod},
+         given={Martijn},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Netea},
+         familyi={N\bibinitperiod},
+         given={Mihai},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NG}{%
+         family={Nolan},
+         familyi={N\bibinitperiod},
+         given={Garry},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pe'er},
+         familyi={P\bibinitperiod},
+         given={Dana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Phillipakis},
+         familyi={P\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PCP}{%
+         family={Ponting},
+         familyi={P\bibinitperiod},
+         given={Chris\bibnamedelima P},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=QS}{%
+         family={Quake},
+         familyi={Q\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Reik},
+         familyi={R\bibinitperiod},
+         given={Wolf},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=RRO}{%
+         family={Rozenblatt-Rosen},
+         familyi={R\bibinithyphendelim R\bibinitperiod},
+         given={Orit},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sanes},
+         familyi={S\bibinitperiod},
+         given={Joshua},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Satija},
+         familyi={S\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=STN}{%
+         family={Schumacher},
+         familyi={S\bibinitperiod},
+         given={Ton\bibnamedelima N},
+         giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shalek},
+         familyi={S\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Shapiro},
+         familyi={S\bibinitperiod},
+         given={Ehud},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={Padmanee},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SJW}{%
+         family={Shin},
+         familyi={S\bibinitperiod},
+         given={Jay\bibnamedelima W},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Stegle},
+         familyi={S\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stratton},
+         familyi={S\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SMJT}{%
+         family={Stubbington},
+         familyi={S\bibinitperiod},
+         given={Michael J\bibnamedelima T},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+      }}%
+      {{hash=TFJ}{%
+         family={Theis},
+         familyi={T\bibinitperiod},
+         given={Fabian\bibnamedelima J},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=UM}{%
+         family={Uhlen},
+         familyi={U\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=vOA}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Oudenaarden},
+         familyi={O\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wagner},
+         familyi={W\bibinitperiod},
+         given={Allon},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Watt},
+         familyi={W\bibinitperiod},
+         given={Fiona},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Weissman},
+         familyi={W\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Wold},
+         familyi={W\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=XR}{%
+         family={Xavier},
+         familyi={X\bibinitperiod},
+         given={Ramnik},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=YN}{%
+         family={Yosef},
+         familyi={Y\bibinitperiod},
+         given={Nir},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=H}{%
+         family={{Human Cell Atlas Meeting Participants}},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{RA+1}
+  \strng{fullhash}{RATSALESAIBCBEBBCPCPCMCHDBDIEJEREWFAFLGBHNHMHMKSKPKALELSLELJMPMJCMMMMNMNMNGPDPAPCPQSRWRROSJSRSTNSASESPSJWSOSMSMJTTFJUMOAvWAWFWJWBXRYNH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    The recent advent of methods for high-throughput single-cell molecular
+  profiling has catalyzed a growing sense in the scientific community that the
+  time is ripe to complete the 150-year-old effort to identify all cell types
+  in the human body. The Human Cell Atlas Project is an international
+  collaborative effort that aims to define all human cell types in terms of
+  distinctive molecular profiles (such as gene expression profiles) and to
+  connect this information with classical cellular descriptions (such as
+  location and morphology). An open comprehensive reference map of the
+  molecular state of cells in healthy human tissues would propel the systematic
+  study of physiological states, developmental trajectories, regulatory
+  circuitry and interactions of cells, and also provide a framework for
+  understanding cellular dysregulation in human disease. Here we describe the
+  idea, its potential utility, early proofs-of-concept, and some design
+  considerations for the Human Cell Atlas, including a commitment to open data,
+  code, and community.%
+    }
+    \verb{doi}
+    \verb 10.7554/eLife.27041
+    \endverb
+    \field{issn}{2050-084X}
+    \field{pages}{e27041}
+    \field{title}{The {Human} {Cell} {Atlas}}
+    \verb{url}
+    \verb https://elifesciences.org/articles/27041
+    \endverb
+    \field{volume}{6}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/C
+    \verb H9KX69E/Regev et al. - 2017 - The Human Cell Atlas.pdf:application/pd
+    \verb f
+    \endverb
+    \field{journaltitle}{eLife}
+    \field{month}{12}
+    \field{year}{2017}
+    \field{urlday}{12}
+    \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{renaud_leehom_2014}{article}{}
     \name{author}{3}{}{%
       {{hash=RG}{%
@@ -20463,6 +20990,133 @@
     \field{year}{2021}
     \field{urlday}{30}
     \field{urlmonth}{07}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{the_human_cell_atlas_biological_network_organoids_organoid_2021}{article}{}
+    \name{author}{15}{}{%
+      {{hash=t}{%
+         family={{the Human Cell Atlas ‘Biological Network’ Organoids}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bock},
+         familyi={B\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Boutros},
+         familyi={B\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CJG}{%
+         family={Camp},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima Gray},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Clevers},
+         familyi={C\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KJA}{%
+         family={Knoblich},
+         familyi={K\bibinitperiod},
+         given={Juergen\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Liberali},
+         familyi={L\bibinitperiod},
+         given={Prisca},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RAC}{%
+         family={Rios},
+         familyi={R\bibinitperiod},
+         given={Anne\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Stegle},
+         familyi={S\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SHG}{%
+         family={Stunnenberg},
+         familyi={S\bibinitperiod},
+         given={Hendrik\bibnamedelima G.},
+         giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=TSA}{%
+         family={Teichmann},
+         familyi={T\bibinitperiod},
+         given={Sarah\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={Treutlein},
+         familyi={T\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=VRGJ}{%
+         family={Vries},
+         familyi={V\bibinitperiod},
+         given={Robert G.\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{t+1}
+    \strng{fullhash}{tBCBMCJGCLCHKJALPRARACSOSHGTSATBVRGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1038/s41587-020-00762-x
+    \endverb
+    \field{issn}{1087-0156, 1546-1696}
+    \field{number}{1}
+    \field{pages}{13\bibrangedash 17}
+    \field{title}{The {Organoid} {Cell} {Atlas}}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41587-020-00762-x
+    \endverb
+    \field{volume}{39}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/C
+    \verb Z9LZYFT/the Human Cell Atlas ‘Biological Network’ Organoids et al
+    \verb . - 2021 - The Organoid Cell Atlas.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature Biotechnology}
+    \field{month}{01}
+    \field{year}{2021}
+    \field{urlday}{17}
+    \field{urlmonth}{08}
     \field{urlyear}{2022}
   \endentry
 

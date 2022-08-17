@@ -1,10 +1,10 @@
 \thispagestyle{plain}
-\section{Single cell epigenomic landscape of\\human brain organoid development}
-\markboth{Single cell epigenomic landscape of\\human brain organoid development}{}
+\section{Single-cell epigenomic landscape of human brain organoid development}
+\markboth{Single-cell epigenomic landscape of human brain organoid development}{}
 
 \vspace{0.5cm}
 
-Chapter 5 is a study entitled 'Single cell epigenomic landscape of human brain organoid development', which is currently \textit{in preparation}. I contributed major parts of the computational analyses for the presented scRNA-seq and scCut\&Tag data, including annotation, multi-modal integration, trajectory inference and differential expression analysis.
+Chapter 5 is a study entitled 'Single-cell epigenomic landscape of human brain organoid development', which is currently \textit{in preparation}. I contributed major parts of the computational analyses for the presented scRNA-seq and scCut\&Tag data, including annotation, multi-modal integration, trajectory inference and differential expression analysis.
 
 \vspace{1cm}
 
@@ -187,7 +187,7 @@ Cells were either processed right after dissociation or recovered after cryostor
 To generate single cell RNA expression libraries of the drug treatment we turned to cell hashing10 for better comparability of the samples. For hashing 100-300 k cells were resuspended in 50-100 $\mu$l of DPBS+0.5\% BSA. Following 5 $\mu$l of the Human TruStain FcX (Fc Receptor Blocking Solution, BioLegend, \#422302) were added to the sample and incubated for 10 min on ice.  Next, the 2 $\mu$l TotalSeq Cell hashing antibodies (BioLegend) were added to the cells and incubated for 30 min on ice with gentle agitation every 10 min. After incubation cells were washed twice with DBPS+0.5\% BSA. Depending on the starting amount the cells were resuspended in 20-40 $\mu$l DPBS+0.5\% BSA and counted. Following the cell suspensions were mixed and processed in the 10x Genomics single cell RNA expression v3.1 assay following strictly the manufacturer's guidelines with slight adjustments. A maximum of 20 k cells was targeted per experiment and HTO additive primer was added to the cDNA synthesis following the TotalSeq technical protocol (https://www.biolegend.com/en-us/protocols/totalseq-a-antibodies-and-cell-hashing-with-10x-single-cell-3-reagent-kit-v3-3-1-protocol). The generate gene expression and hashing libraries we followed the protocol CG000206 Chromium Next GEM SingleCell v3.1 Cell Surface Protein and sequenced according to the manufacturer's guidelines.
 
 \paragraph{Western Blot}
-Depending on the timepoint 1-3 organoids were directly collected into 50 $\mu$l Laemmli sample buffer and homogenized with an electric grinder (Fisherbrand 12-141-368). DNA was sheared by sonication in the Diagenode Bioraptor Plus (high setting for 15 cycles 30 sec on/30 sec off). Samples were subsequently run on SDS- PAGE and transferred to PVDF membrane using Wet-Blot. 2-10 $\mu$l of extract were loaded per lane. The ECL signal was recorded using iBright system (Invitrogen). The signal was compared to antibody stainings of loading controls (H3 and β-Catenin) and the membranes were quality controlled by Ponceau (Sigma Aldrich, \#P7170-1L) staining. See Table for details on the antibodies.
+Depending on the timepoint 1-3 organoids were directly collected into 50 $\mu$l Laemmli sample buffer and homogenized with an electric grinder (Fisherbrand 12-141-368). DNA was sheared by sonication in the Diagenode Bioraptor Plus (high setting for 15 cycles 30 sec on/30 sec off). Samples were subsequently run on SDS- PAGE and transferred to PVDF membrane using Wet-Blot. 2-10 $\mu$l of extract were loaded per lane. The ECL signal was recorded using iBright system (Invitrogen). The signal was compared to antibody stainings of loading controls (H3 and $\beta$-Catenin) and the membranes were quality controlled by Ponceau (Sigma Aldrich, \#P7170-1L) staining. See Table for details on the antibodies.
 
 \paragraph{Immunostaining}
 Organoids were fixed overnight in 4\% PFA. The next day, the organoids were washed three times for 5 min with DPBS and then transferred into 30\% sucrose in DPBS until they sank to the bottom of the tube. Following the organoids were transferred into cryomolds (Sakura, \#4565) and embedded in Tissue-Tek O.C.T. (Sakura, \#16-004004) on dry ice. The organoids were then sliced at the Cryostar NX70 (Thermo Scientific) into 20 $\mu$m thick slices at -17 °C. The slices were transferred to glass slides and washed with PBS. After a quick wash, antigen retrieval was performed for 20 min at 70 °C in 1x preheated HistoVT one (Nacalai, \#06380). Slides were washed 3 times for 5 min with PBS+0.2\% Tween and then transferred to blocking and permeabilization (PBS, 0.1\% Triton, 5\% Serum, 0.2\% Tween, 0.5\% BSA) for 1 hr. The antibodies were added in blocking solution overnight at 4 °C (see table for further details). The next day the slides were washed again 3 times for 5 min with PBS+0.2\% Tween and the secondary antibody was added in PBS supplemented with 2\% BSA and 0.2\% Tween for 2 hrs at room temperature. Last the slides were washed again 3 times for 5 min with PBS+0.2\% Tween adding DAPI to the last wash. The slides were then mounted in Prolong Glass Antifade and imaged at the Nikon Ti2 Spinning Disk or at the confocal Zeiss LSM980. 
@@ -262,7 +262,7 @@ To obtain count matrices for the spliced and unspliced transcriptome, we used ka
 
 
 \paragraph{Graph representation of the scRNA-seq data}
-To better visualize the differentiation trajectories, we computed a graph representation based on the computed fate probabilities. Firest, we used PAGA to compute the connectivites between clusters (scvelo.tl.paga()) and summarized transition scores for each of the clusters. To find branch points at which the transition probabilities into different fates diverge, we then constructed a nearest-neighbor graph between the high-resolution clusters based on their transition scores (k=10). We further pruned the graph to only retain edges going forward in pseudotime, i.e. from a node with a lower velocity pseudotime to a node with a higher velocity pseudotime. Additionally, we removed edges connecting different regional trajectores. The resulting graph is directed with respect to pseudotemporal progression and represents a coarse-grained abstraction of the fate trajectory, connecting groups of cells with both similar transition probabilities to the different trajectories and high connectivities on the transcriptomic manifold. 
+To better visualize the differentiation trajectories, we computed a graph representation based on the computed fate probabilities. First, we used PAGA to compute the connectivites between clusters (scvelo.tl.paga()) and summarized transition scores for each of the clusters. To find branch points at which the transition probabilities into different fates diverge, we then constructed a nearest-neighbor graph between the high-resolution clusters based on their transition scores (k=10). We further pruned the graph to only retain edges going forward in pseudotime, i.e. from a node with a lower velocity pseudotime to a node with a higher velocity pseudotime. Additionally, we removed edges connecting different regional trajectores. The resulting graph is directed with respect to pseudotemporal progression and represents a coarse-grained abstraction of the fate trajectory, connecting groups of cells with both similar transition probabilities to the different trajectories and high connectivities on the transcriptomic manifold. 
 
 
 \paragraph{Trajectory reconstruction}
@@ -275,10 +275,10 @@ The scRNA-seq data of A395 organoids was preprocessed analogous to the scRNA-seq
 The fastq reads from the bulk Cut\&Tag experiment were aligned to the human genome (hg38) using bwa (\cite{li_fast_2009}). Next, normalized bigwig files were obtained using deeptools bamCoverage (\cite{ramirez_deeptools2_2016}) with --ignoreDuplicates, -bs 200 and --normalizeUsing RPKM. 
 
 \paragraph{Differential peak analysis}
-To obtain enrichment scores on the level of peaks, we summarized normalized bigwig files to the peaks from the developmental timecourse for each modality. Based on these peak intensities, we computed the log$_2$ fold change of treated versus control samples for each sample and concentration separately. The log$_2$ fold changes were then summarised by taking the mean for each concentration.
+To obtain enrichment scores on the level of peaks, we summarized normalized bigwig files to the peaks from the developmental timecourse for each modality. Based on these peak intensities, we computed the log$_2$ fold change of treated versus control samples for each sample and concentration separately. The log$_2$ fold changes were then summarized by taking the mean for each concentration.
 
 \paragraph{Differential gene expression analysis}
-To assess the changes in gene expression upon treatment with A395, we performed differential expression (DE) analysis based using a logistic regression framework. To test for global DE while accounting for conpositional differences, we considered the louvain cluster label as a covariate in the model. We further accounted for sampling timepoint and sequencing depth (UMI count):
+To assess the changes in gene expression upon treatment with A395, we performed differential expression (DE) analysis based using a logistic regression framework. To test for global DE while accounting for compositional differences, we considered the louvain cluster label as a covariate in the model. We further accounted for sampling timepoint and sequencing depth (UMI count):
 
 \[ Y_i \sim n\_UMI + timepoint + louvain\_cluster + treatment \]
 
@@ -286,7 +286,7 @@ We used the Seurat function FindMarkers() to perform the test for each condition
 
 
 \paragraph{Differential abundance analysis}
-To test for compositional differences upon treatment with A395, we perfromed a Cochran-Mantel-Haenzel test stratified by sampling timepoint for each louvain cluster and concentration separately. The resulting p-value was FDR-corrested and a significance threshold of $10^-4$ was applied.
+To test for compositional differences upon treatment with A395, we perfromed a Cochran-Mantel-Haenzel test stratified by sampling timepoint for each louvain cluster and concentration separately. The resulting p-value was FDR-corrected and a significance threshold of $10^-4$ was applied.
 
 
 

@@ -46,6 +46,13 @@ $\ast$ Equal contribution\\
 \noindent
 J. Gray Camp (\href{mailto:grayson.camp@iob.ch}{grayson.camp@iob.ch})\\
 Barbara Treutlein (\href{mailto:barbara.treutlein@bsse.ethz.ch}{barbara.treutlein@bsse.ethz.ch})
+\vspace{1cm}
+
+\noindent
+{\large\textsc{Author contributions}}
+
+\noindent
+J.S.F. developed the computational tool and performed computational analyses with support from Z.H. and M.J.B.. F.S.C. designed and executed the patterning experiment with assistance from M.S.. J.S.F., F.S.C., B.T., and J.G.C. designed the study and wrote the manuscript.
 
 \vspace{1cm}
 
@@ -77,7 +84,10 @@ Here, we have developed a computational toolbox to assess brain organoid pattern
 \subsection{Results}
 
 
-\begin{figure}[b!]
+\topparagraph{Spatiotemporal voxel maps of the developing mouse brain}
+To facilitate exploration of 3D gene expression patterns in the developing brain, we obtained in situ hybridization data of the mouse brain in 8 different developmental stages (Figure 2.2a) from the Allen Developing Mouse Brain Atlas (\cite{thompson_high-resolution_2014}). This dataset is currently the most comprehensive spatially registered four-dimensional reference atlas of a mammalian brain. The dataset provides three-dimensional spatial expression patterns from different experiments that measure a total of 2,073 genes over time points ranging from mouse embryonic day 11.5 through postnatal day 56. Each expression quantification is registered to a single voxel grid for each timepoint (80 - 200 µm resolution) (Figure S2.1a). Each voxel is further annotated with a brain structure derived from a hierarchical structure ontology. We preprocessed this data by summarizing in situ hybridization quantifications from different experiments measuring the same gene to obtain a single gene expression vector for each voxel at each developmental stage. To allow for comparison of structures with similar size throughout developmental stages, we further introduced additional layers of structure annotation by aggregating existing ontological levels, resulting in spatially and temporally resolved brain structures (Figure 2.2b, Figure S2.1b).
+
+\begin{figure}[t!]
     \centering
 	\includegraphics[width=\textwidth]{figures/voxhunt/Figure_1}
     \caption{\textbf{Overview of the VoxHunt computational toolkit for exploring heterogeneity in the developing brain and brain organoid counterparts.}
@@ -85,9 +95,6 @@ Here, we have developed a computational toolbox to assess brain organoid pattern
     \label{fig:vox1}
 \end{figure}
 
-
-\topparagraph{Spatiotemporal voxel maps of the developing mouse brain}
-To facilitate exploration of 3D gene expression patterns in the developing brain, we obtained in situ hybridization data of the mouse brain in 8 different developmental stages (Figure 2.2a) from the Allen Developing Mouse Brain Atlas (\cite{thompson_high-resolution_2014}). This dataset is currently the most comprehensive spatially registered four-dimensional reference atlas of a mammalian brain. The dataset provides three-dimensional spatial expression patterns from different experiments that measure a total of 2,073 genes over time points ranging from mouse embryonic day 11.5 through postnatal day 56. Each expression quantification is registered to a single voxel grid for each timepoint (80 - 200 µm resolution) (Figure S2.1a). Each voxel is further annotated with a brain structure derived from a hierarchical structure ontology. We preprocessed this data by summarizing in situ hybridization quantifications from different experiments measuring the same gene to obtain a single gene expression vector for each voxel at each developmental stage. To allow for comparison of structures with similar size throughout developmental stages, we further introduced additional layers of structure annotation by aggregating existing ontological levels, resulting in spatially and temporally resolved brain structures (Figure 2.2b, Figure S2.1b).
 
 
 \begin{figure}[t!]
@@ -192,7 +199,16 @@ One major limitation with the current VoxHunt implementation is that the most co
 
 \subsection{Methods}
 
-\topparagraph{Data and code availability}
+\paragraph{Acknowledgments}
+We thank the Treutlein and Camp labs for helpful discussions and Sophie Jansen and Ryoko Okamoto for experimental support. We also want to thank the Kirkeby lab for kindly sharing the NKX2.1GFP/w cell line. This project was made possible in part by the Chan Zuckerberg Initiative DAF (grant CZF2017-173814 to J.G.C. and B.T.), a Silicon Valley Community Foundation advised fund, the European Research Council (Anthropoid-803441 to J.G.C. and Organomics-758877 and Braintime-874606 to B.T.), the Swiss National Science Foundation (project grant 310030\_84795 to J.G.C. and project grant 310030\_192604 to B.T.), and the National Center of Competence in Research, Molecular Systems Engineering. J.S.F. was supported by a Ph.D. fellowship of the Boehringer Ingelheim Fonds.
+
+\paragraph{Author contributions}
+J.S.F. developed the computational tool and performed computational analyses with support from Z.H. and M.J.B. F.S.C. designed and executed the patterning experiment with assistance from M.S. J.S.F., F.S.-C., B.T., and J.G.C. designed the study and wrote the manuscript.
+
+\paragraph{Declaration of interests}
+B.T. is a member of the Cell Stem Cell advisory board.
+
+\paragraph{Data and code availability}
 VoxHunt was implemented as an R package and is available at\\\href{https://github.com/quadbiolab/voxhunt}{https://github.com/quadbiolab/voxhunt}. \\
 R markdown scripts reproducing the main analyses in study are available at\\ 
 \href{https://github.com/quadbiolab/voxhunt_reproducibility}{https://github.com/quadbiolab/voxhunt\_reproducibility}.\\
@@ -284,6 +300,7 @@ Sequencing reads from each sample were aligned to the human genome (h38-3.0.0) u
 \paragraph{Deconvolution of organoid pseudo-bulk RNA-seq data}
 Pseudo-bulk transcriptomes for each organoid were obtained from UMI counts by taking the arithmetic mean of each gene. From the resulting gene expression vector, log CPM values were obtained by dividing by the total number of reads per sample, multiplying by a scaling factor of 1,000,000 and natural-log transformation. For deconvolution based on the Developing Mouse Brain Atlas, ISH fluorescence intensities were analogously transformed to ‘pseudo-CPM’ by log-normalization of each voxel and subsequently summarized for each structure at custom annotation level 2 by calculating the arithmetic mean to obtain transcriptomic references for deconvolution. We used the mean transcriptomes of ‘pallium’, ‘subpallium’, ‘hypothalamus’, ‘diencephalon’, ‘midbrain’, ‘prepontine hindbrain’ and ‘pontine hindbrain’ as references for deconvolution. To perform deconvolution based on bulk RNA-seq data from BrainSpan, we summarized log-normalized counts of all samples aged 12 - 20 pcw to structure groups by calculating the arithmetic mean and used the resulting gene expression vectors as references for deconvolution. Deconvolution of pseudo-bulk organoid transcriptomes was done using EPIC (Racle et al., 2017) for both references separately. We constrained the input to the top 50 level 2 structure markers and used the top 20 level 2 structure markers as ‘sigGenes’. Additionally, we set ‘withOtherCells’ to False and used otherwise default parameters. The estimated structure proportions were further summarized to higher level structures ‘pallium’, ‘ventral telencephalon’ (subpallium and hypothalamus), ‘diencephalon’, and ‘non-telencephalon’ (midbrain and hindbrain).
 
+\clearpage
 
 \subsection{Supplement}
 \beginsupplement

@@ -559,6 +559,11 @@
     \verb https://www.nature.com/articles/s41586-019-1711-4
     \endverb
     \field{volume}{576}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/DI3UV2MU/Anzalone et al. - 2019 - Search-and-replace genome edi
+    \verb ting without double-s.pdf:application/pdf
+    \endverb
     \field{journaltitle}{Nature}
     \field{month}{12}
     \field{year}{2019}
@@ -904,6 +909,269 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{baek_accurate_2021}{article}{}
+    \name{author}{32}{}{%
+      {{hash=BM}{%
+         family={Baek},
+         familyi={B\bibinitperiod},
+         given={Minkyung},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DF}{%
+         family={DiMaio},
+         familyi={D\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Anishchenko},
+         familyi={A\bibinitperiod},
+         given={Ivan},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dauparas},
+         familyi={D\bibinitperiod},
+         given={Justas},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=OS}{%
+         family={Ovchinnikov},
+         familyi={O\bibinitperiod},
+         given={Sergey},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LGR}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Gyu\bibnamedelima Rie},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jue},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CQ}{%
+         family={Cong},
+         familyi={C\bibinitperiod},
+         given={Qian},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=KLN}{%
+         family={Kinch},
+         familyi={K\bibinitperiod},
+         given={Lisa\bibnamedelima N.},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=SRD}{%
+         family={Schaeffer},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima Dustin},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Millán},
+         familyi={M\bibinitperiod},
+         given={Claudia},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=PH}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={Hahnbeom},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Adams},
+         familyi={A\bibinitperiod},
+         given={Carson},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=GCR}{%
+         family={Glassman},
+         familyi={G\bibinitperiod},
+         given={Caleb\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={DeGiovanni},
+         familyi={D\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PJH}{%
+         family={Pereira},
+         familyi={P\bibinitperiod},
+         given={Jose\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=RAV}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Andria\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=vDAA}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Dijk},
+         familyi={D\bibinitperiod},
+         given={Alberdina\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EAC}{%
+         family={Ebrecht},
+         familyi={E\bibinitperiod},
+         given={Ana\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ODJ}{%
+         family={Opperman},
+         familyi={O\bibinitperiod},
+         given={Diederik\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Sagmeister},
+         familyi={S\bibinitperiod},
+         given={Theo},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Buhlheller},
+         familyi={B\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=PKT}{%
+         family={Pavkov-Keller},
+         familyi={P\bibinithyphendelim K\bibinitperiod},
+         given={Tea},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RMK}{%
+         family={Rathinaswamy},
+         familyi={R\bibinitperiod},
+         given={Manoj\bibnamedelima K.},
+         giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=DU}{%
+         family={Dalwadi},
+         familyi={D\bibinitperiod},
+         given={Udit},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=YCK}{%
+         family={Yip},
+         familyi={Y\bibinitperiod},
+         given={Calvin\bibnamedelima K.},
+         giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Burke},
+         familyi={B\bibinitperiod},
+         given={John\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GKC}{%
+         family={Garcia},
+         familyi={G\bibinitperiod},
+         given={K.\bibnamedelima Christopher},
+         giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=GNV}{%
+         family={Grishin},
+         familyi={G\bibinitperiod},
+         given={Nick\bibnamedelima V.},
+         giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=APD}{%
+         family={Adams},
+         familyi={A\bibinitperiod},
+         given={Paul\bibnamedelima D.},
+         giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=RRJ}{%
+         family={Read},
+         familyi={R\bibinitperiod},
+         given={Randy\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BM+1}
+  \strng{fullhash}{BMDFAIDJOSLGRWJCQKLNSRDMCPHACGCRDAPJHRAVDAAvEACODJSTBCPKTRMKDUYCKBJEGKCGNVAPDRRJBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Deep learning takes on protein folding In 1972, Anfinsen won a Nobel prize
+  for demonstrating a connection between a protein’s amino acid sequence and
+  its three-dimensional structure. Since 1994, scientists have competed in the
+  biannual Critical Assessment of Structure Prediction (CASP) protein-folding
+  challenge. Deep learning methods took center stage at CASP14, with
+  DeepMind’s Alphafold2 achieving remarkable accuracy. Baek et al . explored
+  network architectures based on the DeepMind framework. They used a
+  three-track network to process sequence, distance, and coordinate information
+  simultaneously and achieved accuracies approaching those of DeepMind. The
+  method, RoseTTA fold, can solve challenging x-ray crystallography and
+  cryo–electron microscopy modeling problems and generate accurate models of
+  protein-protein complexes. —VV , Protein structure modeling enables the
+  rapid solution of protein structures and provides insights into function. ,
+  DeepMind presented notably accurate predictions at the recent 14th Critical
+  Assessment of Structure Prediction (CASP14) conference. We explored network
+  architectures that incorporate related ideas and obtained the best
+  performance with a three-track network in which information at the
+  one-dimensional (1D) sequence level, the 2D distance map level, and the 3D
+  coordinate level is successively transformed and integrated. The three-track
+  network produces structure predictions with accuracies approaching those of
+  DeepMind in CASP14, enables the rapid solution of challenging x-ray
+  crystallography and cryo–electron microscopy structure modeling problems,
+  and provides insights into the functions of proteins of currently unknown
+  structure. The network also enables rapid generation of accurate
+  protein-protein complex models from sequence information alone,
+  short-circuiting traditional approaches that require modeling of individual
+  subunits followed by docking. We make the method available to the scientific
+  community to speed biological research.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.abj8754
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6557}
+    \field{pages}{871\bibrangedash 876}
+    \field{title}{Accurate prediction of protein structures and interactions
+  using a three-track neural network}
+    \verb{url}
+    \verb https://www.science.org/doi/10.1126/science.abj8754
+    \endverb
+    \field{volume}{373}
+    \verb{file}
+    \verb Accepted Version:/Users/jfleck/Dropbox/Documents/literature/zotero/st
+    \verb orage/FUUBLTDR/Baek et al. - 2021 - Accurate prediction of protein st
+    \verb ructures and inte.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{month}{08}
+    \field{year}{2021}
+    \field{urlday}{17}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{bagley_fused_2017}{article}{}
     \name{author}{5}{}{%
       {{hash=BJA}{%
@@ -1216,7 +1484,7 @@
     \list{language}{1}{%
       {en}%
     }
-    \strng{namehash}{BM+1}
+    \strng{namehash}{BM+2}
     \strng{fullhash}{BMKMCBG1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -8557,6 +8825,275 @@
     \field{journaltitle}{Science}
     \field{month}{11}
     \field{year}{2020}
+  \endentry
+
+  \entry{jumper_highly_2021}{article}{}
+    \name{author}{34}{}{%
+      {{hash=JJ}{%
+         family={Jumper},
+         familyi={J\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ER}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Pritzel},
+         familyi={P\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Green},
+         familyi={G\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Figurnov},
+         familyi={F\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RO}{%
+         family={Ronneberger},
+         familyi={R\bibinitperiod},
+         given={Olaf},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=TK}{%
+         family={Tunyasuvunakool},
+         familyi={T\bibinitperiod},
+         given={Kathryn},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bates},
+         familyi={B\bibinitperiod},
+         given={Russ},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=�A}{%
+         family={Žídek},
+         familyi={�\bibinitperiod},
+         given={Augustin},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Potapenko},
+         familyi={P\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bridgland},
+         familyi={B\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Clemens},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KSAA}{%
+         family={Kohl},
+         familyi={K\bibinitperiod},
+         given={Simon A.\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+      {{hash=BAJ}{%
+         family={Ballard},
+         familyi={B\bibinitperiod},
+         given={Andrew\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Cowie},
+         familyi={C\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RPB}{%
+         family={Romera-Paredes},
+         familyi={R\bibinithyphendelim P\bibinitperiod},
+         given={Bernardino},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nikolov},
+         familyi={N\bibinitperiod},
+         given={Stanislav},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JR}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={Rishub},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Adler},
+         familyi={A\bibinitperiod},
+         given={Jonas},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Back},
+         familyi={B\bibinitperiod},
+         given={Trevor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Petersen},
+         familyi={P\bibinitperiod},
+         given={Stig},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Reiman},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CE}{%
+         family={Clancy},
+         familyi={C\bibinitperiod},
+         given={Ellen},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zielinski},
+         familyi={Z\bibinitperiod},
+         given={Michal},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Steinegger},
+         familyi={S\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pacholska},
+         familyi={P\bibinitperiod},
+         given={Michalina},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Berghammer},
+         familyi={B\bibinitperiod},
+         given={Tamas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bodenstein},
+         familyi={B\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Silver},
+         familyi={S\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=VO}{%
+         family={Vinyals},
+         familyi={V\bibinitperiod},
+         given={Oriol},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SAW}{%
+         family={Senior},
+         familyi={S\bibinitperiod},
+         given={Andrew\bibnamedelima W.},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kavukcuoglu},
+         familyi={K\bibinitperiod},
+         given={Koray},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Kohli},
+         familyi={K\bibinitperiod},
+         given={Pushmeet},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hassabis},
+         familyi={H\bibinitperiod},
+         given={Demis},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{JJ+2}
+  \strng{fullhash}{JJERPAGTFMROTKBR�APABAMCKSAABAJCARPBNSJRAJBTPSRDCEZMSMPMBTBSSDVOSAWKKKPHD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    Abstract Proteins are essential to life, and understanding their structure
+  can facilitate a mechanistic understanding of their function. Through an
+  enormous experimental effort 1–4 , the structures of around 100,000 unique
+  proteins have been determined 5 , but this represents a small fraction of the
+  billions of known protein sequences 6,7 . Structural coverage is bottlenecked
+  by the months to years of painstaking effort required to determine a single
+  protein structure. Accurate computational approaches are needed to address
+  this gap and to enable large-scale structural bioinformatics. Predicting the
+  three-dimensional structure that a protein will adopt based solely on its
+  amino acid sequence—the structure prediction component of the ‘protein
+  folding problem’ 8 —has been an important open research problem for more
+  than 50 years 9 . Despite recent progress 10–14 , existing methods fall
+  far short of atomic accuracy, especially when no homologous structure is
+  available. Here we provide the first computational method that can regularly
+  predict protein structures with atomic accuracy even in cases in which no
+  similar structure is known. We validated an entirely redesigned version of
+  our neural network-based model, AlphaFold, in the challenging 14th Critical
+  Assessment of protein Structure Prediction (CASP14) 15 , demonstrating
+  accuracy competitive with experimental structures in a majority of cases and
+  greatly outperforming other methods. Underpinning the latest version of
+  AlphaFold is a novel machine learning approach that incorporates physical and
+  biological knowledge about protein structure, leveraging multi-sequence
+  alignments, into the design of the deep learning algorithm.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41586-021-03819-2
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7873}
+    \field{pages}{583\bibrangedash 589}
+    \field{title}{Highly accurate protein structure prediction with
+  {AlphaFold}}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41586-021-03819-2
+    \endverb
+    \field{volume}{596}
+    \verb{file}
+    \verb Full Text:/Users/jfleck/Dropbox/Documents/literature/zotero/storage/D
+    \verb 4A794XM/Jumper et al. - 2021 - Highly accurate protein structure pred
+    \verb iction with .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{month}{08}
+    \field{year}{2021}
+    \field{urlday}{17}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
   \endentry
 
   \entry{kadoshima_self-organization_2013}{article}{}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  17 AUG 2022 13:33
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  17 AUG 2022 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1236,24 +1236,27 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_main.bbl' found.
  (./thesis_main.bbl
-Invalid UTF-8 byte or sequence at line 794 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 798 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 858 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 859 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 4279 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 4283 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 4347 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 10790 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 14446 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 14450 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 14481 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 22665 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 22669 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23269 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23333 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 799 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 803 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 863 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4547 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4551 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4615 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8880 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8882 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9042 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14983 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 14987 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15018 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23202 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23206 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23762 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23806 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23810 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23870 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23871 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 201.
 Package biblatex Info: Reference segment=0 on input line 201.
@@ -2250,26 +2253,29 @@ Underfull \vbox (badness 6348) has occurred while \output is active []
  [183] [184]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [185]) [186] [187]
+ [185]
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [186]) [187]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 [188
 
-]
+] [189]
 Overfull \hbox (1.97562pt too wide) in paragraph at lines 249--249
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Cakir, B. et al. (Nov. 2019). “Engineering of human brain organoids with a functional vascular-
  []
 
-[189] [190] [191]
+[190] [191]
 Overfull \hbox (0.96939pt too wide) in paragraph at lines 249--249
 \TU/AdobeGaramondPro(0)/m/n/12 dimensional culture”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 472.7341, pp. 51–56. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
-[192] [193]
+[192] [193] [194]
 Overfull \hbox (0.48843pt too wide) in paragraph at lines 249--249
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
-[194]
+
 Overfull \hbox (6.80363pt too wide) in paragraph at lines 249--249
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
@@ -2314,12 +2320,12 @@ Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40441 strings out of 476179
- 824083 string characters out of 5809545
- 2067216 words of memory out of 5000000
- 60596 multiletter control sequences out of 15000+600000
+ 40453 strings out of 476179
+ 824521 string characters out of 5809545
+ 2077916 words of memory out of 5000000
+ 60608 multiletter control sequences out of 15000+600000
  478292 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,106p,3569b,5506s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,106p,3569b,5504s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (213 pages, 4811988 bytes).
+Output written on thesis_main.xdv (213 pages, 4836240 bytes).

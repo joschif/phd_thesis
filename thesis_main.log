@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  17 AUG 2022 12:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  17 AUG 2022 13:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1259,9 +1259,9 @@ Package biblatex Info: Reference section=0 on input line 201.
 Package biblatex Info: Reference segment=0 on input line 201.
  (./chapters/title.tex [1
 
-]) (./chapters/abstract.tex [1
+]) (./chapters/abstract.tex) [1
 
-]) [2] (./chapters/acknowledgements.tex) [3
+] (./chapters/acknowledgements.tex) [2
 
 ] (./thesis_main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
@@ -1271,13 +1271,13 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4
+) [3
 
 ])
 \tf@toc=\write9
 \openout9 = `thesis_main.toc'.
 
- [5] [6
+ [4] [5
 
 ]
 File: pdfs/chapter_1.pdf Graphic file (type pdf)
@@ -1294,7 +1294,7 @@ File: pdfs/chapter_1.pdf Graphic file (type pdf)
 <use pdfs/chapter_1.pdf, page 1>
 File: pdfs/chapter_1.pdf Graphic file (type pdf)
 <use pdfs/chapter_1.pdf, page 1>
- [7] (./chapters/introduction.tex
+ [6] (./chapters/introduction.tex
 Missing character: There is no ​ (U+200B) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 [1] [2
 
@@ -2323,4 +2323,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  108i,17n,106p,3569b,5506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (213 pages, 4807936 bytes).
+Output written on thesis_main.xdv (212 pages, 4795920 bytes).

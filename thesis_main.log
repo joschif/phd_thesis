@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  18 AUG 2022 16:17
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  18 AUG 2022 16:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1246,20 +1246,20 @@ Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 4729 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 4733 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 4797 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9102 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9104 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9264 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 11617 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15428 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15432 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15463 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23806 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23810 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24366 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24414 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24474 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24475 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9187 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9347 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11700 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15511 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15515 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15546 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23889 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23893 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24449 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24493 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24497 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24557 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24558 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 201.
 Package biblatex Info: Reference segment=0 on input line 201.
@@ -2389,12 +2389,12 @@ Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40513 strings out of 476179
- 827021 string characters out of 5809545
- 2088330 words of memory out of 5000000
- 60667 multiletter control sequences out of 15000+600000
+ 40519 strings out of 476179
+ 827252 string characters out of 5809545
+ 2090478 words of memory out of 5000000
+ 60673 multiletter control sequences out of 15000+600000
  478292 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,106p,3569b,5505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,106p,3569b,5507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (224 pages, 4943340 bytes).
+Output written on thesis_main.xdv (224 pages, 4946184 bytes).

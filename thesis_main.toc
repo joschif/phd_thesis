@@ -69,10 +69,10 @@
 \contentsline {paragraph}{A gene regulatory network view of human cerebral organoid formation}{68}{section*.66}%
 \contentsline {paragraph}{Single-cell genomic perturbation of cortical transcription factors in organoids}{70}{section*.68}%
 \contentsline {paragraph}{GLI3 directly targets HES regulomes during human organoid telencephalon development}{72}{section*.70}%
-\contentsline {subsection}{\numberline {3.3}Discussion}{75}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Discussion}{76}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Methods}{77}{subsection.3.4}%
 \contentsline {paragraph}{Acknowledgements}{77}{section*.72}%
-\contentsline {paragraph}{Author contributions}{77}{section*.73}%
+\contentsline {paragraph}{Author contributions}{78}{section*.73}%
 \contentsline {paragraph}{Competing interests}{78}{section*.74}%
 \contentsline {paragraph}{Correspondence and requests for materials}{78}{section*.75}%
 \contentsline {paragraph}{Data availability}{78}{section*.76}%
@@ -83,7 +83,7 @@
 \contentsline {paragraph}{Vector and lentivirus preparation for perturbation experiment}{82}{section*.81}%
 \contentsline {paragraph}{Generation of mosaic organoids for perturbation experiment}{83}{section*.82}%
 \contentsline {paragraph}{Preparation of single-cell transcriptomes from mosaic perturbed organoids}{83}{section*.83}%
-\contentsline {paragraph}{gRNA detection from single cell cDNA}{83}{section*.84}%
+\contentsline {paragraph}{gRNA detection from single cell cDNA}{84}{section*.84}%
 \contentsline {paragraph}{gRNA detection from gDNA}{84}{section*.85}%
 \contentsline {paragraph}{GLI3 knock-out and control line generation}{84}{section*.86}%
 \contentsline {paragraph}{Validation of KO lines by sequencing}{85}{section*.87}%
@@ -94,13 +94,13 @@
 \contentsline {paragraph}{Preprocessing of single-cell ATAC-sequencing data from the organoid time course}{87}{section*.92}%
 \contentsline {paragraph}{Demultiplexing of different lines based on SNV information}{88}{section*.93}%
 \contentsline {paragraph}{Integration of transcriptome and chromatin accessibility data}{88}{section*.94}%
-\contentsline {paragraph}{Removal of cells with glycolysis signature}{88}{section*.95}%
+\contentsline {paragraph}{Removal of cells with glycolysis signature}{89}{section*.95}%
 \contentsline {paragraph}{Integration of different lines and timepoints}{89}{section*.96}%
 \contentsline {paragraph}{Calculation of motif enrichment scores}{89}{section*.97}%
-\contentsline {paragraph}{RNA velocity calculation}{89}{section*.98}%
+\contentsline {paragraph}{RNA velocity calculation}{90}{section*.98}%
 \contentsline {paragraph}{Annotation of organoid developmental stages}{90}{section*.99}%
 \contentsline {paragraph}{Identification of stage-specific chromatin access}{90}{section*.100}%
-\contentsline {paragraph}{Inference of regional cell-fate trajectories}{90}{section*.101}%
+\contentsline {paragraph}{Inference of regional cell-fate trajectories}{91}{section*.101}%
 \contentsline {paragraph}{Analysis and integration of multiome data in the neuroepithelial stage}{92}{section*.102}%
 \contentsline {paragraph}{Identification of cis-regulatory elements from multiome data}{92}{section*.103}%
 \contentsline {paragraph}{Gene regulatory network inference with Pando}{92}{section*.104}%

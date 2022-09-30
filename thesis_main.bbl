@@ -162,6 +162,113 @@
     \field{year}{2016}
   \endentry
 
+  \entry{agu_successful_2015}{article}{}
+    \name{author}{11}{}{%
+      {{hash=ACA}{%
+         family={Agu},
+         familyi={A\bibinitperiod},
+         given={Chukwuma\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SFA}{%
+         family={Soares},
+         familyi={S\bibinitperiod},
+         given={Filipa\bibnamedelima A.C.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Alderton},
+         familyi={A\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Minal},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Ansari},
+         familyi={A\bibinitperiod},
+         given={Rizwan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Sharad},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Forrest},
+         familyi={F\bibinitperiod},
+         given={Sally},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YF}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Fengtang},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lineham},
+         familyi={L\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VL}{%
+         family={Vallier},
+         familyi={V\bibinitperiod},
+         given={Ludovic},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KCM}{%
+         family={Kirton},
+         familyi={K\bibinitperiod},
+         given={Christopher\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACA+1}
+    \strng{fullhash}{ACASFAAAPMARPSFSYFLJVLKCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    The collection sites of human primary tissue samples and the receiving
+  laboratories, where the human induced pluripotent stem cells (hIPSCs) are
+  derived, are often not on the same site. Thus, the stability of samples prior
+  to derivation constrains the distance between the collection site and the
+  receiving laboratory. To investigate sample stability, we collected blood and
+  held it at room temperature for 5, 24, or 48 hr before isolating peripheral
+  blood mononuclear cells (PBMCs) and reprogramming into IPSCs. Additionally,
+  PBMC samples at 5- and 48-hr time points were frozen in liquid nitrogen for 4
+  months and reprogrammed into IPSCs. hIPSC lines derived from all time points
+  were pluripotent, displayed no marked difference in chromosomal aberration
+  rates, and differentiated into three germ layers. Reprogramming efficiency at
+  24- and 48-hr time points was 3- and 10-fold lower, respectively, than at 5
+  hr; the freeze-thaw process of PBMCs resulted in no obvious change in
+  reprogramming efficiency.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.stemcr.2015.08.012
+    \endverb
+    \field{issn}{2213-6711}
+    \field{number}{4}
+    \field{pages}{660\bibrangedash 671}
+    \field{title}{Successful {Generation} of {Human} {Induced} {Pluripotent}
+  {Stem} {Cell} {Lines} from {Blood} {Samples} {Held} at {Room} {Temperature}
+  for up to 48 hr}
+    \field{volume}{5}
+    \field{journaltitle}{Stem Cell Reports}
+    \field{year}{2015}
+  \endentry
+
   \entry{aibar_scenic_2017}{article}{}
     \name{author}{14}{}{%
       {{hash=AS}{%
@@ -1554,6 +1661,83 @@
     \field{urlday}{18}
     \field{urlmonth}{08}
     \field{urlyear}{2022}
+  \endentry
+
+  \entry{bayer_atlas_2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BS}{%
+         family={Bayer},
+         familyi={B\bibinitperiod},
+         given={Shirley},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Altman},
+         familyi={A\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSAJ1}
+    \strng{fullhash}{BSAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    This is the Second Volume of a five-volume set of atlases on the developing
+  human central nervous system. With no other atlases available on the
+  development of the human spinal cord and the brain during the third
+  trimester, the first two volumes in the series fill a large void in current
+  knowledge. Easy to use, the second volume contains high and low magnification
+  photographs of brain sections arranged in two parts: a high resolution black
+  and white image on the left and a ...ghost... image on the right page with
+  unabbreviated labels. This volume provides a user-friendly survey of the
+  complex structural changes that occur during late prenatal human brain
+  development.%
+    }
+    \verb{doi}
+    \verb 10.1201/9780203494943
+    \endverb
+    \field{title}{Atlas of {Human} {Central} {Nervous} {System} {Development}}
+    \field{volume}{20032963}
+    \field{year}{2003}
+  \endentry
+
+  \entry{bayer_human_2005}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BS}{%
+         family={Bayer},
+         familyi={B\bibinitperiod},
+         given={Shirley},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Altman},
+         familyi={A\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSAJ1}
+    \strng{fullhash}{BSAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1201/9780203507483.pt2
+    \endverb
+    \field{issn}{2154-2988}
+    \field{pages}{6\bibrangedash 27}
+    \field{title}{The {Human} {Brain} {During} the {Second} {Trimester}}
+    \field{volume}{3}
+    \field{journaltitle}{Atlas of Human Central Nervous System Development}
+    \field{year}{2005}
   \endentry
 
   \entry{becht_dimensionality_2019}{article}{}
@@ -4635,6 +4819,135 @@
     \field{year}{2016}
   \endentry
 
+  \entry{ebner_automated_2020}{article}{}
+    \name{author}{14}{}{%
+      {{hash=EM}{%
+         family={Ebner},
+         familyi={E\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WG}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Guotai},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LW}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Wenqi},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Aertsen},
+         familyi={A\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PPA}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Premal\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Aughwane},
+         familyi={A\bibinitperiod},
+         given={Rosalind},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Melbourne},
+         familyi={M\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Doel},
+         familyi={D\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dymarkowski},
+         familyi={D\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CPD}{%
+         family={Coppi},
+         familyi={C\bibinitperiod},
+         given={Paolo\bibnamedelima De},
+         giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=DAL}{%
+         family={David},
+         familyi={D\bibinitperiod},
+         given={Anna\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Deprest},
+         familyi={D\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=OS}{%
+         family={Ourselin},
+         familyi={O\bibinitperiod},
+         given={Sébastien},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VT}{%
+         family={Vercauteren},
+         familyi={V\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EM+2}
+    \strng{fullhash}{EMWGLWAMPPAARMADTDSCPDDALDJOSVT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{abstract}{%
+    High-resolution volume reconstruction from multiple motion-corrupted stacks
+  of 2D slices plays an increasing role for fetal brain Magnetic Resonance
+  Imaging (MRI) studies. Currently existing reconstruction methods are
+  time-consuming and often require user interactions to localize and extract
+  the brain from several stacks of 2D slices. We propose a fully automatic
+  framework for fetal brain reconstruction that consists of four stages: 1)
+  fetal brain localization based on a coarse segmentation by a Convolutional
+  Neural Network (CNN), 2) fine segmentation by another CNN trained with a
+  multi-scale loss function, 3) novel, single-parameter outlier-robust
+  super-resolution reconstruction, and 4) fast and automatic high-resolution
+  visualization in standard anatomical space suitable for pathological brains.
+  We validated our framework with images from fetuses with normal brains and
+  with variable degrees of ventriculomegaly associated with open spina bifida,
+  a congenital malformation affecting also the brain. Experiments show that
+  each step of our proposed pipeline outperforms state-of-the-art methods in
+  both segmentation and reconstruction comparisons including expert-reader
+  quality assessments. The reconstruction results of our proposed method
+  compare favorably with those obtained by manual, labor-intensive brain
+  segmentation, which unlocks the potential use of automatic fetal brain
+  reconstruction studies in clinical practice.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.neuroimage.2019.116324
+    \endverb
+    \field{issn}{1053-8119}
+    \field{pages}{116324}
+    \field{title}{An automated framework for localization, segmentation and
+  super-resolution reconstruction of fetal brain {MRI}}
+    \field{volume}{206}
+    \field{journaltitle}{NeuroImage}
+    \field{year}{2020}
+  \endentry
+
   \entry{echelard_sonic_1993}{article}{}
     \name{author}{7}{}{%
       {{hash=EY}{%
@@ -4890,7 +5203,7 @@
     \list{language}{1}{%
       {en}%
     }
-    \strng{namehash}{EM+2}
+    \strng{namehash}{EM+3}
     \strng{fullhash}{EMTNIHKMSEOSSKATSY1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -4984,7 +5297,7 @@
     \list{language}{1}{%
       {en}%
     }
-    \strng{namehash}{EM+2}
+    \strng{namehash}{EM+3}
     \strng{fullhash}{EMWKMTMKMYSMMWTNAMKSY1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -5884,6 +6197,75 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{feng_identifying_2012}{article}{}
+    \name{author}{5}{}{%
+      {{hash=FJ}{%
+         family={Feng},
+         familyi={F\bibinitperiod},
+         given={Jianxing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Tao},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=QB}{%
+         family={Qin},
+         familyi={Q\bibinitperiod},
+         given={Bo},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LXS}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Xiaole\bibnamedelima Shirley},
+         giveni={X\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FJ+1}
+    \strng{fullhash}{FJLTQBZYLXS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    Model-based analysis of ChIP-seq (MACS) is a computational algorithm that
+  identifies genome-wide locations of transcription/chromatin factor binding or
+  histone modification from ChIP-seq data. MACS consists of four steps:
+  removing redundant reads, adjusting read position, calculating peak
+  enrichment and estimating the empirical false discovery rate (FDR). In this
+  protocol, we provide a detailed demonstration of how to install MACS and how
+  to use it to analyze three common types of ChIP-seq data sets with different
+  characteristics: the sequence-specific transcription factor FoxA1, the
+  histone modification mark H3K4me3 with sharp enrichment and the H3K36me3 mark
+  with broad enrichment. We also explain how to interpret and visualize the
+  results of MACS analyses. The algorithm requires ∼3 GB of RAM and 1.5 h of
+  computing time to analyze a ChIP-seq data set containing 30 million reads, an
+  estimate that increases with sequence coverage. MACS is open source and is
+  available from http://liulab.dfci.harvard.edu/MACS/.%
+    }
+    \verb{doi}
+    \verb 10.1038/nprot.2012.101
+    \endverb
+    \field{issn}{1754-2189}
+    \field{number}{9}
+    \field{pages}{1728\bibrangedash 1740}
+    \field{title}{Identifying {ChIP}-seq enrichment using {MACS}}
+    \field{volume}{7}
+    \field{journaltitle}{Nature Protocols}
+    \field{year}{2012}
+  \endentry
+
   \entry{fisher_logic_1935}{article}{}
     \name{author}{1}{}{%
       {{hash=FRA}{%
@@ -6293,7 +6675,7 @@
          giveni={R\bibinitperiod},
       }}%
     }
-    \strng{namehash}{FJ+1}
+    \strng{namehash}{FJ+2}
     \strng{fullhash}{FJHTTR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -6766,6 +7148,119 @@
     \field{volume}{26}
     \field{journaltitle}{Autism}
     \field{year}{2022}
+  \endentry
+
+  \entry{gholipour_normative_2017}{article}{}
+    \name{author}{12}{}{%
+      {{hash=GA}{%
+         family={Gholipour},
+         familyi={G\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RCK}{%
+         family={Rollins},
+         familyi={R\bibinitperiod},
+         given={Caitlin\bibnamedelima K.},
+         giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=VAC}{%
+         family={Velasco-Annis},
+         familyi={V\bibinithyphendelim A\bibinitperiod},
+         given={Clemente},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Ouaalam},
+         familyi={O\bibinitperiod},
+         given={Abdelhakim},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AAA}{%
+         family={Akhondi-Asl},
+         familyi={A\bibinithyphendelim A\bibinitperiod},
+         given={Alireza},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AO}{%
+         family={Afacan},
+         familyi={A\bibinitperiod},
+         given={Onur},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=OCM}{%
+         family={Ortinau},
+         familyi={O\bibinitperiod},
+         given={Cynthia\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Clancy},
+         familyi={C\bibinitperiod},
+         given={Sean},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Limperopoulos},
+         familyi={L\bibinitperiod},
+         given={Catherine},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=YE}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=EJA}{%
+         family={Estroff},
+         familyi={E\bibinitperiod},
+         given={Judy\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WSK}{%
+         family={Warfield},
+         familyi={W\bibinitperiod},
+         given={Simon\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GA+1}
+    \strng{fullhash}{GARCKVACOAAAAAOOCMCSLCYEEJAWSK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Longitudinal characterization of early brain growth in-utero has been
+  limited by a number of challenges in fetal imaging, the rapid change in size,
+  shape and volume of the developing brain, and the consequent lack of suitable
+  algorithms for fetal brain image analysis. There is a need for an improved
+  digital brain atlas of the spatiotemporal maturation of the fetal brain
+  extending over the key developmental periods. We have developed an algorithm
+  for construction of an unbiased four-dimensional atlas of the developing
+  fetal brain by integrating symmetric diffeomorphic deformable registration in
+  space with kernel regression in age. We applied this new algorithm to
+  construct a spatiotemporal atlas from MRI of 81 normal fetuses scanned
+  between 19 and 39 weeks of gestation and labeled the structures of the
+  developing brain. We evaluated the use of this atlas and additional
+  individual fetal brain MRI atlases for completely automatic multi-atlas
+  segmentation of fetal brain MRI. The atlas is available online as a reference
+  for anatomy and for registration and segmentation, to aid in connectivity
+  analysis, and for groupwise and longitudinal analysis of early brain growth.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41598-017-00525-w
+    \endverb
+    \field{number}{1}
+    \field{pages}{476}
+    \field{title}{A normative spatiotemporal {MRI} atlas of the fetal brain for
+  automatic segmentation and analysis of early brain growth}
+    \field{volume}{7}
+    \field{journaltitle}{Scientific Reports}
+    \field{year}{2017}
   \endentry
 
   \entry{giandomenico_probing_2017}{article}{}
@@ -7629,6 +8124,197 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{hao_integrated_2021}{article}{}
+    \name{author}{25}{}{%
+      {{hash=HY}{%
+         family={Hao},
+         familyi={H\bibinitperiod},
+         given={Yuhan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Hao},
+         familyi={H\bibinitperiod},
+         given={Stephanie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ANE}{%
+         family={Andersen-Nissen},
+         familyi={A\bibinithyphendelim N\bibinitperiod},
+         given={Erica},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MWM}{%
+         family={Mauck},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Shiwei},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Butler},
+         familyi={B\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LMJ}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Maddie\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WAJ}{%
+         family={Wilk},
+         familyi={W\bibinitperiod},
+         given={Aaron\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={Darby},
+         familyi={D\bibinitperiod},
+         given={Charlotte},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zager},
+         familyi={Z\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Hoffman},
+         familyi={H\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stoeckius},
+         familyi={S\bibinitperiod},
+         given={Marlon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Papalexi},
+         familyi={P\bibinitperiod},
+         given={Efthymia},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MEP}{%
+         family={Mimitou},
+         familyi={M\bibinitperiod},
+         given={Eleni\bibnamedelima P.},
+         giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={Jaison},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Srivastava},
+         familyi={S\bibinitperiod},
+         given={Avi},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Stuart},
+         familyi={S\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=FLM}{%
+         family={Fleming},
+         familyi={F\bibinitperiod},
+         given={Lamar\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=YB}{%
+         family={Yeung},
+         familyi={Y\bibinitperiod},
+         given={Bertrand},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RAJ}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Angela\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MJM}{%
+         family={McElrath},
+         familyi={M\bibinitperiod},
+         given={Juliana\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BCA}{%
+         family={Blish},
+         familyi={B\bibinitperiod},
+         given={Catherine\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gottardo},
+         familyi={G\bibinitperiod},
+         given={Raphael},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Smibert},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Satija},
+         familyi={S\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HY+1}
+  \strng{fullhash}{HYHSANEMWMZSBALMJWAJDCZMHPSMPEMEPJJSASTFLMYBRAJMJMBCAGRSPSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    The simultaneous measurement of multiple modalities represents an exciting
+  frontier for single-cell genomics and necessitates computational methods that
+  can define cellular states based on multimodal data. Here, we introduce
+  “weighted-nearest neighbor” analysis, an unsupervised framework to learn
+  the relative utility of each data type in each cell, enabling an integrative
+  analysis of multiple modalities. We apply our procedure to a CITE-seq dataset
+  of 211,000 human peripheral blood mononuclear cells (PBMCs) with panels
+  extending to 228 antibodies to construct a multimodal reference atlas of the
+  circulating immune system. Multimodal analysis substantially improves our
+  ability to resolve cell states, allowing us to identify and validate
+  previously unreported lymphoid subpopulations. Moreover, we demonstrate how
+  to leverage this reference to rapidly map new datasets and to interpret
+  immune responses to vaccination and coronavirus disease 2019 (COVID-19). Our
+  approach represents a broadly applicable strategy to analyze single-cell
+  multimodal datasets and to look beyond the transcriptome toward a unified and
+  multimodal definition of cellular identity.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cell.2021.04.048
+    \endverb
+    \field{issn}{0092-8674}
+    \field{number}{13}
+    \field{pages}{3573\bibrangedash 3587.e29}
+    \field{title}{Integrated analysis of multimodal single-cell data}
+    \field{volume}{184}
+    \field{journaltitle}{Cell}
+    \field{year}{2021}
+  \endentry
+
   \entry{harris_neocortical_2015}{article}{}
     \name{author}{2}{}{%
       {{hash=HKD}{%
@@ -7992,7 +8678,7 @@
     \list{language}{1}{%
       {en}%
     }
-    \strng{namehash}{HY+1}
+    \strng{namehash}{HY+2}
   \strng{fullhash}{HYSSCMLJCGZHCKMSBTJLFESMMCDKKLLHQPMAMAMDGJDJPSCPAMSRFTMBLJSGLFKSWQODJLDJGWGSBLDVMBFGACHCGGSCPWN1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -9130,6 +9816,82 @@
     \field{journaltitle}{Science}
     \field{month}{11}
     \field{year}{2020}
+  \endentry
+
+  \entry{jinek_programmable_2012}{article}{}
+    \name{author}{6}{}{%
+      {{hash=JM}{%
+         family={Jinek},
+         familyi={J\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chylinski},
+         familyi={C\bibinitperiod},
+         given={Krzysztof},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=FI}{%
+         family={Fonfara},
+         familyi={F\bibinitperiod},
+         given={Ines},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hauer},
+         familyi={H\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DJA}{%
+         family={Doudna},
+         familyi={D\bibinitperiod},
+         given={Jennifer\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CE}{%
+         family={Charpentier},
+         familyi={C\bibinitperiod},
+         given={Emmanuelle},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JM+1}
+    \strng{fullhash}{JMCKFIHMDJACE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    Clustered regularly interspaced short palindromic repeats
+  (CRISPR)/CRISPR-associated (Cas) systems provide bacteria and archaea with
+  adaptive immunity against viruses and plasmids by using CRISPR RNAs (crRNAs)
+  to guide the silencing of invading nucleic acids. We show here that in a
+  subset of these systems, the mature crRNA that is base-paired to
+  trans-activating crRNA (tracrRNA) forms a two-RNA structure that directs the
+  CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in
+  target DNA. At sites complementary to the crRNA-guide sequence, the Cas9 HNH
+  nuclease domain cleaves the complementary strand, whereas the Cas9 RuvC-like
+  domain cleaves the noncomplementary strand. The dual-tracrRNA:crRNA, when
+  engineered as a single RNA chimera, also directs sequence-specific Cas9 dsDNA
+  cleavage. Our study reveals a family of endonucleases that use dual-RNAs for
+  site-specific DNA cleavage and highlights the potential to exploit the system
+  for RNA-programmable genome editing.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.1225829
+    \endverb
+    \field{issn}{0036-8075}
+    \field{number}{6096}
+    \field{pages}{816\bibrangedash 821}
+    \field{title}{A {Programmable} {Dual}-{RNA}–{Guided} {DNA} {Endonuclease}
+  in {Adaptive} {Bacterial} {Immunity}}
+    \field{volume}{337}
+    \field{journaltitle}{Science}
+    \field{year}{2012}
   \endentry
 
   \entry{jumper_highly_2021}{article}{}
@@ -12918,6 +13680,35 @@
     \field{year}{2015}
   \endentry
 
+  \entry{martin_cutadapt_2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.14806/ej.17.1.200
+    \endverb
+    \field{number}{1}
+    \field{pages}{10\bibrangedash 12}
+    \field{title}{Cutadapt removes adapter sequences from high-throughput
+  sequencing reads}
+    \field{volume}{17}
+    \field{journaltitle}{EMBnet.journal}
+    \field{year}{2011}
+  \endentry
+
   \entry{marton_differentiation_2019}{article}{}
     \name{author}{8}{}{%
       {{hash=MRM}{%
@@ -13160,8 +13951,8 @@
     \field{year}{2018}
   \endentry
 
-  \entry{mcinnes_umap_2018}{misc}{}
-    \name{author}{4}{}{%
+  \entry{mcinnes_umap_2018}{article}{}
+    \name{author}{3}{}{%
       {{hash=ML}{%
          family={McInnes},
          familyi={M\bibinitperiod},
@@ -13174,33 +13965,36 @@
          given={John},
          giveni={J\bibinitperiod},
       }}%
-      {{hash=SN}{%
-         family={Saul},
-         familyi={S\bibinitperiod},
-         given={Nathaniel},
-         giveni={N\bibinitperiod},
-      }}%
-      {{hash=GL}{%
-         family={Großberger},
-         familyi={G\bibinitperiod},
-         given={Lukas},
-         giveni={L\bibinitperiod},
+      {{hash=MJ}{%
+         family={Melville},
+         familyi={M\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
       }}%
     }
     \strng{namehash}{ML+1}
-    \strng{fullhash}{MLHJSNGL1}
+    \strng{fullhash}{MLHJMJ1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
     \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
-    \field{title}{{UMAP}: {Uniform} {Manifold} {Approximation} and
-  {Projection}}
-    \field{annotation}{%
-    Issue: 29 Pages: 861 Publication Title: Journal of Open Source Software
-  Volume: 3%
+    \field{abstract}{%
+    UMAP (Uniform Manifold Approximation and Projection) is a novel manifold
+  learning technique for dimension reduction. UMAP is constructed from a
+  theoretical framework based in Riemannian geometry and algebraic topology.
+  The result is a practical scalable algorithm that applies to real world data.
+  The UMAP algorithm is competitive with t-SNE for visualization quality, and
+  arguably preserves more of the global structure with superior run time
+  performance. Furthermore, UMAP has no computational restrictions on embedding
+  dimension, making it viable as a general purpose dimension reduction
+  technique for machine learning.%
     }
+    \field{note}{\_eprint: 1802.03426}
+    \field{title}{{UMAP}: {Uniform} {Manifold} {Approximation} and {Projection}
+  for {Dimension} {Reduction}}
+    \field{journaltitle}{arXiv}
     \field{year}{2018}
   \endentry
 
@@ -13445,6 +14239,134 @@
     \field{year}{2018}
   \endentry
 
+  \entry{michlits_multilayered_2020}{article}{}
+    \name{author}{14}{}{%
+      {{hash=MG}{%
+         family={Michlits},
+         familyi={M\bibinitperiod},
+         given={Georg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jude},
+         familyi={J\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hinterndorfer},
+         familyi={H\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AMd}{%
+         family={Almeida},
+         familyi={A\bibinitperiod},
+         given={Melanie\bibnamedelima de},
+         giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Vainorius},
+         familyi={V\bibinitperiod},
+         given={Gintautas},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hubmann},
+         familyi={H\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Neumann},
+         familyi={N\bibinitperiod},
+         given={Tobias},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schleiffer},
+         familyi={S\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BTR}{%
+         family={Burkard},
+         familyi={B\bibinitperiod},
+         given={Thomas\bibnamedelima Rainer},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fellner},
+         familyi={F\bibinitperiod},
+         given={Michaela},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gijsbertsen},
+         familyi={G\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Traunbauer},
+         familyi={T\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zuber},
+         familyi={Z\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EU}{%
+         family={Elling},
+         familyi={E\bibinitperiod},
+         given={Ulrich},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MG+1}
+    \strng{fullhash}{MGJJHMAMdVGHMNTSABTRFMGMTAZJEU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    CRISPR–Cas9 screens have emerged as a transformative approach to
+  systematically probe gene functions. The quality and success of these screens
+  depends on the frequencies of loss-of-function alleles, particularly in
+  negative-selection screens widely applied for probing essential genes. Using
+  optimized screening workflows, we performed essentialome screens in cancer
+  cell lines and embryonic stem cells and achieved dropout efficiencies that
+  could not be explained by common frameshift frequencies. We find that these
+  superior effect sizes are mainly determined by the impact of in-frame
+  mutations on protein function, which can be predicted based on amino acid
+  composition and conservation. We integrate protein features into a
+  ‘Bioscore’ and fuse it with improved predictors of single-guide RNA
+  activity and indel formation to establish a score that captures all relevant
+  processes in CRISPR–Cas9 mutagenesis. This Vienna Bioactivity CRISPR score
+  (www.vbc-score.org) outperforms previous prediction tools and enables the
+  selection of sgRNAs that effectively produce loss-of-function alleles. Guide
+  RNA selection plays an essential role in CRISPR screens, the Vienna
+  Bioactivity CRISPR (VBC) scoring system provides an improved selection for
+  sgRNAs that generate loss-of-function alleles.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41592-020-0850-8
+    \endverb
+    \field{issn}{1548-7091}
+    \field{number}{7}
+    \field{pages}{708\bibrangedash 716}
+    \field{title}{Multilayered {VBC} score predicts {sgRNAs} that efficiently
+  generate loss-of-function alleles}
+    \field{volume}{17}
+    \field{journaltitle}{Nature Methods}
+    \field{year}{2020}
+  \endentry
+
   \entry{mittnenzweig_single-embryo_2021}{article}{}
     \name{author}{15}{}{%
       {{hash=MM}{%
@@ -13544,7 +14466,7 @@
     \keyw{scRNA-seq, developmental biology, cell fate decisions, chimera assay,
   mouse gastrulation, network flow model, tetraploid complementation assay,
   trajectory inference}
-    \strng{namehash}{MM+2}
+    \strng{namehash}{MM+1}
     \strng{fullhash}{MMMYCSBYRHRRYCERNUALLLAMZOAHTASY1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -14452,6 +15374,103 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{nikolova_fate_2022}{article}{}
+    \name{author}{8}{}{%
+      {{hash=NMT}{%
+         family={Nikolova},
+         familyi={N\bibinitperiod},
+         given={Marina\bibnamedelima T.},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=HZ}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Zhisong},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=WRA}{%
+         family={Wimmer},
+         familyi={W\bibinitperiod},
+         given={Reiner\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Seimiya},
+         familyi={S\bibinitperiod},
+         given={Makiko},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NJM}{%
+         family={Nikoloff},
+         familyi={N\bibinitperiod},
+         given={Jonas\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PJM}{%
+         family={Penninger},
+         familyi={P\bibinitperiod},
+         given={Josef\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CJG}{%
+         family={Camp},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima Gray},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={Treutlein},
+         familyi={T\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NMT+1}
+    \strng{fullhash}{NMTHZWRASMNJMPJMCJGTB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Blood vessel organoids (BVOs) derived from human pluripotent stem cells
+  have emerged as a novel system to understand human vascular development,
+  model disorders, and develop regenerative therapies. However, it is unclear
+  which molecular states constitute BVOs and how cells differentiate and
+  self-organize within BVOs in vitro and after transplantation. Here we
+  reconstruct BVO development over a time course using single-cell
+  transcriptomics. We observe progenitor states that bifurcate into endothelial
+  and mural fates, and find that BVOs do not acquire definitive arterio-venous
+  endothelial identities in vitro. Chromatin accessibility profiling identifies
+  gene regulatory network (GRN) features associated with endothelial and mural
+  fate decisions, and transcriptome-coupled lineage recording reveals
+  multipotent progenitor states within BVOs. We perform single-cell genetic
+  perturbations within mosaic BVOs to dissect the impact of transcription
+  factor (TF) and receptor depletion on cell differentiation, and highlight
+  multiple TFs including MECOM and ETV2 as strong-effect regulators of human
+  BVO development. We show that manipulation of VEGF and Notch signaling
+  pathways alters BVO morphogenesis and endothelial GRNs, and induces
+  arteriovenous-like state differentiation. We analyze matured BVOs after
+  transplantation using scRNA-seq, and observe matured endothelium with clear
+  arteriovenous specification. We also observe off-target cell fates with bone
+  and adipocyte features, suggesting multipotent states reside within the BVOs
+  in vitro that expand and diversify in less restrictive conditions. Finally,
+  we map vascular disease associated genes to BVO cell states to highlight the
+  potential of BVOs for disease modeling. Altogether, our data and analyses
+  provide the first comprehensive cell state atlas of BVO development and
+  illuminate both the power and limitation of BVOs for translational research.%
+    }
+    \verb{doi}
+    \verb 10.1101/2022.03.23.485329
+    \endverb
+    \field{pages}{2022.03.23.485329}
+    \field{title}{Fate and state transitions during human blood vessel organoid
+  development}
+    \field{journaltitle}{bioRxiv}
+    \field{year}{2022}
+  \endentry
+
   \entry{nowakowski_spatiotemporal_2017}{article}{}
     \name{author}{18}{}{%
       {{hash=NTJ}{%
@@ -14678,6 +15697,84 @@
     \field{volume}{5}
     \field{journaltitle}{eLife}
     \field{year}{2016}
+  \endentry
+
+  \entry{omelina_optimized_2019}{article}{}
+    \name{author}{4}{}{%
+      {{hash=OES}{%
+         family={Omelina},
+         familyi={O\bibinitperiod},
+         given={Evgeniya\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=IAV}{%
+         family={Ivankin},
+         familyi={I\bibinitperiod},
+         given={Anton\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=LAE}{%
+         family={Letiagina},
+         familyi={L\bibinitperiod},
+         given={Anna\bibnamedelima E.},
+         giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=PAV}{%
+         family={Pindyurin},
+         familyi={P\bibinitperiod},
+         given={Alexey\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OES+1}
+    \strng{fullhash}{OESIAVLAEPAV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{abstract}{%
+    Massively parallel reporter assays (MPRAs) enable high-throughput
+  functional evaluation of various DNA regulatory elements and their mutant
+  variants. The assays are based on construction of highly diverse plasmid
+  libraries containing two variable fragments, a region of interest (a sequence
+  under study; ROI) and a barcode (BC) used to uniquely tag each ROI, which are
+  separated by a constant spacer sequence. The sequences of BC–ROI
+  combinations present in the libraries may be either known a priori or not. In
+  the latter case, it is necessary to identify these combinations before
+  performing functional experiments. Typically, this is done by PCR
+  amplification of the BC–ROI regions with flanking primers, followed by
+  next-generation sequencing (NGS) of the products. However, chimeric DNA
+  molecules formed on templates with identical spacer fragment during the
+  amplification process may substantially hamper the identification of genuine
+  BC–ROI combinations, and as a result lower the performance of the assays.
+  To identify settings that minimize formation of chimeric products we tested a
+  number of PCR amplification parameters, such as conventional and emulsion
+  types of PCR, one- or two-round amplification strategies, amount of DNA
+  template, number of PCR cycles, and the duration of the extension step. Using
+  specific MPRA libraries as templates, we found that the two-round
+  amplification of the BC–ROI regions with a very low initial template
+  amount, an elongated extension step, and a specific number of PCR cycles
+  result in as low as 0.30 and 0.32\% of chimeric products for emulsion and
+  conventional PCR approaches, respectively. We have identified PCR parameters
+  that ensure synthesis of specific (non-chimeric) products from highly diverse
+  MPRA plasmid libraries. In addition, we found that there is a negligible
+  difference in performance of emulsion and conventional PCR approaches
+  performed with the identified settings. The online version of this article
+  (10.1186/s12864-019-5847-2) contains supplementary material, which is
+  available to authorized users.%
+    }
+    \verb{doi}
+    \verb 10.1186/s12864-019-5847-2
+    \endverb
+    \field{number}{Suppl 7}
+    \field{pages}{536}
+    \field{title}{Optimized {PCR} conditions minimizing the formation of
+  chimeric {DNA} molecules from {MPRA} plasmid libraries}
+    \field{volume}{20}
+    \field{journaltitle}{BMC Genomics}
+    \field{year}{2019}
   \endentry
 
   \entry{paolicelli_synaptic_2011}{article}{}
@@ -17545,6 +18642,80 @@
     \field{year}{2017}
   \endentry
 
+  \entry{reuter_generalized_2018}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RB}{%
+         family={Reuter},
+         familyi={R\bibinitperiod},
+         given={Bernhard},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Weber},
+         familyi={W\bibinitperiod},
+         given={Marcus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FK}{%
+         family={Fackeldey},
+         familyi={F\bibinitperiod},
+         given={Konstantin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Röblitz},
+         familyi={R\bibinitperiod},
+         given={Susanna},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GME}{%
+         family={Garcia},
+         familyi={G\bibinitperiod},
+         given={Martin\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RB+1}
+    \strng{fullhash}{RBWMFKRSGME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Markov state models (MSMs) have received an unabated increase in popularity
+  in recent years, as they are very well suited for the identification and
+  analysis of metastable states and related kinetics. However, the
+  state-of-the-art Markov state modeling methods and tools enforce the
+  fulfillment of a detailed balance condition, restricting their applicability
+  to equilibrium MSMs. To date, they are unsuitable to deal with general
+  dominant data structures including cyclic processes, which are essentially
+  associated with nonequilibrium systems. To overcome this limitation, we
+  developed a generalization of the common robust Perron Cluster Cluster
+  Analysis (PCCA+) method, termed generalized PCCA (G-PCCA). This method
+  handles equilibrium and nonequilibrium simulation data, utilizing Schur
+  vectors instead of eigenvectors. G-PCCA is not limited to the detection of
+  metastable states but enables the identification of dominant structures in a
+  general sense, unraveling cyclic processes. This is exemplified by
+  application of G-PCCA on nonequilibrium molecular dynamics data of the
+  Amyloid β (1–40) peptide, periodically driven by an oscillating electric
+  field.%
+    }
+    \verb{doi}
+    \verb 10.1021/acs.jctc.8b00079
+    \endverb
+    \field{issn}{1549-9618}
+    \field{number}{7}
+    \field{pages}{3579\bibrangedash 3594}
+    \field{title}{Generalized {Markov} {State} {Modeling} {Method} for
+  {Nonequilibrium} {Biomolecular} {Dynamics}: {Exemplified} on {Amyloid} β
+  {Conformational} {Dynamics} {Driven} by an {Oscillating} {Electric} {Field}}
+    \field{volume}{14}
+    \field{journaltitle}{Journal of Chemical Theory and Computation}
+    \field{year}{2018}
+  \endentry
+
   \entry{rice_emboss_2000}{article}{}
     \name{author}{3}{}{%
       {{hash=RP}{%
@@ -18013,6 +19184,48 @@
     \field{urlday}{23}
     \field{urlmonth}{06}
     \field{urlyear}{2022}
+  \endentry
+
+  \entry{sanjana_improved_2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SNE}{%
+         family={Sanjana},
+         familyi={S\bibinitperiod},
+         given={Neville\bibnamedelima E},
+         giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Shalem},
+         familyi={S\bibinitperiod},
+         given={Ophir},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=ZF}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Feng},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SNE+1}
+    \strng{fullhash}{SNESOZF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1038/nmeth.3047
+    \endverb
+    \field{issn}{1548-7091}
+    \field{number}{8}
+    \field{pages}{783\bibrangedash 784}
+    \field{title}{Improved vectors and genome-wide libraries for {CRISPR}
+  screening}
+    \field{volume}{11}
+    \field{journaltitle}{Nature Methods}
+    \field{year}{2014}
   \endentry
 
   \entry{satterstrom_large-scale_2020}{article}{}
@@ -19374,6 +20587,200 @@
     \field{year}{2022}
   \endentry
 
+  \entry{schwartz_prenatal_2021}{article}{}
+    \name{author}{12}{}{%
+      {{hash=SE}{%
+         family={Schwartz},
+         familyi={S\bibinitperiod},
+         given={Ernst},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DMC}{%
+         family={Diogo},
+         familyi={D\bibinitperiod},
+         given={Mariana\bibnamedelima Cardoso},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Glatter},
+         familyi={G\bibinitperiod},
+         given={Sarah},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Seidl},
+         familyi={S\bibinitperiod},
+         given={Rainer},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BPC}{%
+         family={Brugger},
+         familyi={B\bibinitperiod},
+         given={Peter\bibnamedelima C},
+         giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=GGM}{%
+         family={Gruber},
+         familyi={G\bibinitperiod},
+         given={Gerlinde\bibnamedelima M},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kiss},
+         familyi={K\bibinitperiod},
+         given={Herbert},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=NKH}{%
+         family={Nenning},
+         familyi={N\bibinitperiod},
+         given={Karl-Heinz},
+         giveni={K\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=cI}{%
+         family={consortium},
+         familyi={c\bibinitperiod},
+         given={IRC5},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={Langs},
+         familyi={L\bibinitperiod},
+         given={Georg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Prayer},
+         familyi={P\bibinitperiod},
+         given={Daniela},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kasprian},
+         familyi={K\bibinitperiod},
+         given={Gregor},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SE+1}
+    \strng{fullhash}{SEDMCGSSRBPCGGMKHNKHcILGPDKG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Abstract Genetic, molecular, and physical forces together impact brain
+  morphogenesis. The early impact of deficient midline crossing in agenesis of
+  the Corpus Callosum (ACC) on prenatal human brain development and
+  architecture is widely unknown. Here we analyze the changes of brain
+  structure in 46 fetuses with ACC in vivo to identify their deviations from
+  normal development. Cases of complete ACC show an increase in the thickness
+  of the cerebral wall in the frontomedial regions and a reduction in the
+  temporal, insular, medial occipital and lateral parietal regions, already
+  present at midgestation. ACC is associated with a more symmetric
+  configuration of the temporal lobes and increased frequency of atypical
+  asymmetry patterns, indicating an early morphomechanic effect of callosal
+  growth on human brain development affecting the thickness of the pallium
+  along a ventro–dorsal gradient. Altered prenatal brain architecture in ACC
+  emphasizes the importance of conformational forces introduced by emerging
+  interhemispheric connectivity on the establishment of polygenically
+  determined brain asymmetries.%
+    }
+    \verb{doi}
+    \verb 10.1093/cercor/bhab066
+    \endverb
+    \field{issn}{1047-3211}
+    \field{number}{9}
+    \field{pages}{4024\bibrangedash 4037}
+    \field{title}{The {Prenatal} {Morphomechanic} {Impact} of {Agenesis} of the
+  {Corpus} {Callosum} on {Human} {Brain} {Structure} and {Asymmetry}}
+    \field{volume}{31}
+    \field{journaltitle}{Cerebral Cortex}
+    \field{year}{2021}
+  \endentry
+
+  \entry{setty_characterization_2019}{article}{}
+    \name{author}{6}{}{%
+      {{hash=SM}{%
+         family={Setty},
+         familyi={S\bibinitperiod},
+         given={Manu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kiseliovas},
+         familyi={K\bibinitperiod},
+         given={Vaidotas},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Jacob},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gayoso},
+         familyi={G\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Mazutis},
+         familyi={M\bibinitperiod},
+         given={Linas},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pe’er},
+         familyi={P\bibinitperiod},
+         given={Dana},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM+1}
+    \strng{fullhash}{SMKVLJGAMLPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Single-cell RNA sequencing studies of differentiating systems have raised
+  fundamental questions regarding the discrete versus continuous nature of both
+  differentiation and cell fate. Here we present Palantir, an algorithm that
+  models trajectories of differentiating cells by treating cell fate as a
+  probabilistic process and leverages entropy to measure cell plasticity along
+  the trajectory. Palantir generates a high-resolution pseudo-time ordering of
+  cells and, for each cell state, assigns a probability of differentiating into
+  each terminal state. We apply our algorithm to human bone marrow single-cell
+  RNA sequencing data and detect important landmarks of hematopoietic
+  differentiation. Palantir’s resolution enables the identification of key
+  transcription factors that drive lineage fate choice and closely track when
+  cells lose plasticity. We show that Palantir outperforms existing algorithms
+  in identifying cell lineages and recapitulating gene expression trends during
+  differentiation, is generalizable to diverse tissue types, and is well-suited
+  to resolving less-studied differentiating systems. Palantir uses single-cell
+  RNA-seq data to generate continuous models of differentiation, infer
+  developmental trajectories, and calculate the probabilities of cell fate
+  choices.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41587-019-0068-4
+    \endverb
+    \field{issn}{1087-0156}
+    \field{number}{4}
+    \field{pages}{451\bibrangedash 460}
+    \field{title}{Characterization of cell fate probabilities in single-cell
+  data with {Palantir}}
+    \field{volume}{37}
+    \field{journaltitle}{Nature Biotechnology}
+    \field{year}{2019}
+  \endentry
+
   \entry{shalek_single-cell_2014}{article}{}
     \name{author}{22}{}{%
       {{hash=SAK}{%
@@ -19772,13 +21179,13 @@
       {{hash=PJS}{%
          family={Pedersen},
          familyi={P\bibinitperiod},
-         given={Jakob\bibnamedelima S},
+         given={Jakob\bibnamedelima S.},
          giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
       }}%
       {{hash=HAS}{%
          family={Hinrichs},
          familyi={H\bibinitperiod},
-         given={Angie\bibnamedelima S},
+         given={Angie\bibnamedelima S.},
          giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
       }}%
       {{hash=HM}{%
@@ -19808,7 +21215,7 @@
       {{hash=HLW}{%
          family={Hillier},
          familyi={H\bibinitperiod},
-         given={Ladeana\bibnamedelima W},
+         given={LaDeana\bibnamedelima W.},
          giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
       }}%
       {{hash=RS}{%
@@ -19820,25 +21227,25 @@
       {{hash=WGM}{%
          family={Weinstock},
          familyi={W\bibinitperiod},
-         given={George\bibnamedelima M},
+         given={George\bibnamedelima M.},
          giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
       {{hash=WRK}{%
          family={Wilson},
          familyi={W\bibinitperiod},
-         given={Richard\bibnamedelima K},
+         given={Richard\bibnamedelima K.},
          giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
       }}%
       {{hash=GRA}{%
          family={Gibbs},
          familyi={G\bibinitperiod},
-         given={Richard\bibnamedelima A},
+         given={Richard\bibnamedelima A.},
          giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
       {{hash=KWJ}{%
          family={Kent},
          familyi={K\bibinitperiod},
-         given={W\bibnamedelima James},
+         given={W.\bibnamedelima James},
          giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
       {{hash=MW}{%
@@ -19853,9 +21260,6 @@
          given={David},
          giveni={D\bibinitperiod},
       }}%
-    }
-    \list{language}{1}{%
-      {en}%
     }
     \strng{namehash}{SA+1}
     \strng{fullhash}{SABGPJSHASHMRKCHSJHLWRSWGMWRKGRAKWJMWHD1}
@@ -19876,11 +21280,11 @@
   hidden Markov model (phylo-HMM). PhastCons works by fitting a phylo-HMM to
   the data by maximum likelihood, subject to constraints designed to calibrate
   the model across species groups, and then predicting conserved elements based
-  on this model. The predicted elements cover roughly 3\%-8\% of the human
+  on this model. The predicted elements cover roughly 3\%–8\% of the human
   genome (depending on the details of the calibration procedure) and
   substantially higher fractions of the more compact Drosophila melanogaster
-  (37\%-53\%), Caenorhabditis elegans (18\%-37\%), and Saccharaomyces
-  cerevisiae (47\%-68\%) genomes. From yeasts to vertebrates, in order of
+  (37\%–53\%), Caenorhabditis elegans (18\%–37\%), and Saccharaomyces
+  cerevisiae (47\%–68\%) genomes. From yeasts to vertebrates, in order of
   increasing genome size and general biological complexity, increasing
   fractions of conserved bases are found to lie outside of the exons of known
   protein-coding genes. In all groups, the most highly conserved elements
@@ -19888,17 +21292,21 @@
   elements share certain properties with ultraconserved elements, but they tend
   to be longer and less perfectly conserved, and they overlap genes of somewhat
   different functional categories. In vertebrates, HCEs are associated with the
-  3' UTRs of regulatory genes, stable gene deserts, and megabase-sized regions
-  rich in moderately conserved noncoding sequences. Noncoding HCEs also show
-  strong statistical evidence of an enrichment for RNA secondary structure.%
+  3′ UTRs of regulatory genes, stable gene deserts, and megabase-sized
+  regions rich in moderately conserved noncoding sequences. Noncoding HCEs also
+  show strong statistical evidence of an enrichment for RNA secondary
+  structure.%
     }
+    \verb{doi}
+    \verb 10.1101/gr.3715005
+    \endverb
+    \field{issn}{1088-9051}
     \field{number}{8}
     \field{pages}{1034\bibrangedash 1050}
     \field{title}{Evolutionarily conserved elements in vertebrate, insect,
   worm, and yeast genomes}
     \field{volume}{15}
-    \field{journaltitle}{Genome Res.}
-    \field{month}{08}
+    \field{journaltitle}{Genome Research}
     \field{year}{2005}
   \endentry
 
@@ -23761,6 +25169,150 @@
     \field{year}{2019}
   \endentry
 
+  \entry{velten_human_2017}{article}{}
+    \name{author}{17}{}{%
+      {{hash=VL}{%
+         family={Velten},
+         familyi={V\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HSF}{%
+         family={Haas},
+         familyi={H\bibinitperiod},
+         given={Simon\bibnamedelima F.},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Raffel},
+         familyi={R\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Blaszkiewicz},
+         familyi={B\bibinitperiod},
+         given={Sandra},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=IS}{%
+         family={Islam},
+         familyi={I\bibinitperiod},
+         given={Saiful},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HBP}{%
+         family={Hennig},
+         familyi={H\bibinitperiod},
+         given={Bianca\bibnamedelima P.},
+         giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hirche},
+         familyi={H\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lutz},
+         familyi={L\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BEC}{%
+         family={Buss},
+         familyi={B\bibinitperiod},
+         given={Eike\bibnamedelima C.},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ND}{%
+         family={Nowak},
+         familyi={N\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Boch},
+         familyi={B\bibinitperiod},
+         given={Tobias},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HWK}{%
+         family={Hofmann},
+         familyi={H\bibinitperiod},
+         given={Wolf-Karsten},
+         giveni={W\bibinithyphendelim K\bibinitperiod},
+      }}%
+      {{hash=HAD}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Anthony\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Huber},
+         familyi={H\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Trumpp},
+         familyi={T\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EMA}{%
+         family={Essers},
+         familyi={E\bibinitperiod},
+         given={Marieke\bibnamedelima A.G.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SLM}{%
+         family={Steinmetz},
+         familyi={S\bibinitperiod},
+         given={Lars\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VL+1}
+    \strng{fullhash}{VLHSFRSBSISHBPHCLCBECNDBTHWKHADHWTAEMASLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{abstract}{%
+    Blood formation is believed to occur through step-wise progression of
+  haematopoietic stem cells (HSCs) following a tree-like hierarchy of oligo-,
+  bi- and unipotent progenitors. However, this model is based on the analysis
+  of predefined flow-sorted cell populations. Here we integrated flow
+  cytometric, transcriptomic and functional data at single-cell resolution to
+  quantitatively map early differentiation of human HSCs towards lineage
+  commitment. During homeostasis, individual HSCs gradually acquire lineage
+  biases along multiple directions without passing through discrete
+  hierarchically organized progenitor populations. Instead,
+  unilineage-restricted cells emerge directly from a “Continuum of LOw primed
+  UnDifferentiated hematopoietic stem- and progenitor cells” (CLOUD-HSPCs).
+  Distinct gene expression modules operate in a combinatorial manner to control
+  stemness, early lineage priming and the subsequent progression into all major
+  branches of haematopoiesis. These data reveal a continuous landscape of human
+  steady state haematopoiesis downstream of HSCs and provide a basis for the
+  understanding of hematopoietic malignancies.%
+    }
+    \verb{doi}
+    \verb 10.1038/ncb3493
+    \endverb
+    \field{issn}{1465-7392}
+    \field{number}{4}
+    \field{pages}{271\bibrangedash 281}
+    \field{title}{Human haematopoietic stem cell lineage commitment is a
+  continuous process}
+    \field{volume}{19}
+    \field{journaltitle}{Nature cell biology}
+    \field{year}{2017}
+  \endentry
+
   \entry{virtanen_scipy_2020}{article}{}
     \name{author}{112}{}{%
       {{hash=VP}{%
@@ -25077,6 +26629,65 @@
     \field{year}{2014}
   \endentry
 
+  \entry{williams_amplification_2006}{article}{}
+    \name{author}{6}{}{%
+      {{hash=WR}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PSG}{%
+         family={Peisajovich},
+         familyi={P\bibinitperiod},
+         given={Sergio\bibnamedelima G},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=MOJ}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Oliver\bibnamedelima J},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Magdassi},
+         familyi={M\bibinitperiod},
+         given={Shlomo},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TDS}{%
+         family={Tawfik},
+         familyi={T\bibinitperiod},
+         given={Dan\bibnamedelima S},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GAD}{%
+         family={Griffiths},
+         familyi={G\bibinitperiod},
+         given={Andrew\bibnamedelima D},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WR+1}
+    \strng{fullhash}{WRPSGMOJMSTDSGAD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1038/nmeth896
+    \endverb
+    \field{issn}{1548-7091}
+    \field{number}{7}
+    \field{pages}{545\bibrangedash 550}
+    \field{title}{Amplification of complex gene libraries by emulsion {PCR}}
+    \field{volume}{3}
+    \field{journaltitle}{Nature Methods}
+    \field{year}{2006}
+  \endentry
+
   \entry{wolf_scanpy_2018}{article}{}
     \name{author}{3}{}{%
       {{hash=WFA}{%
@@ -25607,6 +27218,89 @@
     \field{volume}{152}
     \field{journaltitle}{Cell}
     \field{year}{2013}
+  \endentry
+
+  \entry{yushkevich_user-guided_2006}{article}{}
+    \name{author}{7}{}{%
+      {{hash=YPA}{%
+         family={Yushkevich},
+         familyi={Y\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Piven},
+         familyi={P\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HHC}{%
+         family={Hazlett},
+         familyi={H\bibinitperiod},
+         given={Heather\bibnamedelima Cody},
+         giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SRG}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Rachel\bibnamedelima Gimpel},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Sean},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GJC}{%
+         family={Gee},
+         familyi={G\bibinitperiod},
+         given={James\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Gerig},
+         familyi={G\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YPA+1}
+    \strng{fullhash}{YPAPJHHCSRGHSGJCGG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{abstract}{%
+    Active contour segmentation and its robust implementation using level set
+  methods are well-established theoretical approaches that have been studied
+  thoroughly in the image analysis literature. Despite the existence of these
+  powerful segmentation methods, the needs of clinical research continue to be
+  fulfilled, to a large extent, using slice-by-slice manual tracing. To bridge
+  the gap between methodological advances and clinical routine, we developed an
+  open source application called ITK-SNAP, which is intended to make level set
+  segmentation easily accessible to a wide range of users, including those with
+  little or no mathematical expertise. This paper describes the methods and
+  software engineering philosophy behind this new tool and provides the results
+  of validation experiments performed in the context of an ongoing child autism
+  neuroimaging study. The validation establishes SNAP intrarater and interrater
+  reliability and overlap error statistics for the caudate nucleus and finds
+  that SNAP is a highly reliable and efficient alternative to manual tracing.
+  Analogous results for lateral ventricle segmentation are provided.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.neuroimage.2006.01.015
+    \endverb
+    \field{issn}{1053-8119}
+    \field{number}{3}
+    \field{pages}{1116\bibrangedash 1128}
+    \field{title}{User-guided {3D} active contour segmentation of anatomical
+  structures: {Significantly} improved efficiency and reliability}
+    \field{volume}{31}
+    \field{journaltitle}{NeuroImage}
+    \field{year}{2006}
   \endentry
 
   \entry{zappia_exploring_2018}{article}{}

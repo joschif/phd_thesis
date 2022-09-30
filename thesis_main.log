@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  23 AUG 2022 12:02
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.6)  29 SEP 2022 16:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1239,27 +1239,27 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_main.bbl' found.
  (./thesis_main.bbl
-Invalid UTF-8 byte or sequence at line 799 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 803 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 863 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 4729 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 4733 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 4797 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9185 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9187 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 9347 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 11700 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15511 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15515 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 15546 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23889 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 23893 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24449 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24493 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24497 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24557 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 24558 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 906 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 910 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 970 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 971 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 5042 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 5046 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 5110 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9947 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9949 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10109 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12462 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16608 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16612 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16643 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 25441 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 25445 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 26001 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 26045 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 26049 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 26109 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 26110 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 201.
 Package biblatex Info: Reference segment=0 on input line 201.
@@ -1274,54 +1274,9 @@ Overfull \hbox (1.55267pt too wide) in paragraph at lines 26--211
 
 [3
 
-] (./chapters/acknowledgements.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+] (./chapters/acknowledgements.tex [4
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-
- []
-
-[4
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
-) [5] (./thesis_main.toc
+]) [5] (./thesis_main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2114,42 +2069,36 @@ Underfull \vbox (badness 1019) has occurred while \output is active []
 
 LaTeX Warning: Text page 132 contains only floats.
 
-[132] [133] [134] [135] [136]
-Overfull \hbox (1.04764pt too wide) in paragraph at lines 203--204
+[132] [133] [134] [135]
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+ [136]
+Overfull \hbox (1.04764pt too wide) in paragraph at lines 189--190
 \TU/AdobeGaramondPro(0)/m/n/12 dissociator in trypsin/accutase (1X) solution with TURBO$[]$ DNase (2 ul/mL, ThermoFisher,
  []
 
 
-Overfull \hbox (10.31969pt too wide) in paragraph at lines 203--204
+Overfull \hbox (10.31969pt too wide) in paragraph at lines 189--190
 \TU/AdobeGaramondPro(0)/m/n/12 cat. no. AM2238). After dissociation, DPBS-/- supplemented with 10% FBS (DPBS/10%FBS)
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [137]
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
- [138] [139]
-Overfull \hbox (2.30615pt too wide) in paragraph at lines 226--229
+[137] [138]
+Overfull \hbox (2.30615pt too wide) in paragraph at lines 213--214
  []\TU/Futura(0)/m/n/12 RNA velocity[] \TU/AdobeGaramondPro(0)/m/n/12 To obtain count matrices for spliced and unspliced transcripts, we used kallisto
  []
 
+[139]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Overfull \hbox (7.26729pt too wide) in paragraph at lines 226--229
-\TU/AdobeGaramondPro(0)/m/n/12 age loompy (version 3.0.7)(https://linnarssonlab.org/loompy/). Using scVelo (version 0.2.4)16,
+ [140]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141]
+Overfull \hbox (0.66466pt too wide) in paragraph at lines 232--233
+[]\TU/AdobeGaramondPro(0)/m/n/12 2018[])(GPCCA()) to compute a terminal fate probability matrix (compute_absorption_proba-
  []
 
-
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
- [140] [141]
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
- [142] [143] [144]
-Underfull \vbox (badness 1019) has occurred while \output is active []
-
- [145] [146]
+[142] [143] [144] [145]
 File: figures/asd/Figure_S1.png Graphic file (type bmp)
 <figures/asd/Figure_S1.png>
 File: figures/asd/Figure_S2.png Graphic file (type bmp)
@@ -2181,7 +2130,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/asd/Figure_S7.png Graphic file (type bmp)
 <figures/asd/Figure_S7.png>
 
-LaTeX Warning: Float too large for page by 19.37128pt on input line 345.
+LaTeX Warning: Float too large for page by 19.37128pt on input line 331.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2201,11 +2150,11 @@ File: figures/asd/Figure_S10.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [147
+) [146
 
-] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157
+] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156
 
-] [158]
+] [157]
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf>
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
@@ -2220,50 +2169,50 @@ File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf, page 1>
 File: pdfs/chapter_5.pdf Graphic file (type pdf)
 <use pdfs/chapter_5.pdf, page 1>
- [159] (./chapters/cnt.tex
+ [158] (./chapters/cnt.tex
 Overfull \hbox (14.05682pt too wide) in paragraph at lines 14--23
 \TU/AdobeGaramondPro(0)/m/n/12 Fides Zenk$[]$, Jonas Simon Fleck$[]$, Sophie Martina Johanna Jansen$[]$, Bijan Kashanian$[]$, Benedikt
  []
 
-[160]
+[159]
 File: figures/cnt/Figure_1.png Graphic file (type bmp)
 <figures/cnt/Figure_1.png>
- [161
+ [160
 
 ]
 Underfull \vbox (badness 1442) has occurred while \output is active []
 
- [162]
+ [161]
 Underfull \vbox (badness 2644) has occurred while \output is active []
 
- [163]
+ [162]
 File: figures/cnt/Figure_2.png Graphic file (type bmp)
 <figures/cnt/Figure_2.png>
 
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [164]
+ [163]
 
-LaTeX Warning: Text page 165 contains only floats.
+LaTeX Warning: Text page 164 contains only floats.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [165] [166]
+ [164] [165]
 File: figures/cnt/Figure_3.png Graphic file (type bmp)
 <figures/cnt/Figure_3.png>
 
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [167]
+ [166]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [168] [169]
+ [167] [168]
 Overfull \hbox (2.61572pt too wide) in paragraph at lines 131--132
  []\TU/Futura(0)/m/n/12 Cell and organoid culture[] \TU/AdobeGaramondPro(0)/m/n/12 For culturing cells were grown on matrigel (Corning, #354277)
  []
 
-[170] [171]
+[169] [170]
 Overfull \hbox (9.57457pt too wide) in paragraph at lines 154--156
  []\TU/Futura(0)/m/n/12 Cloning and purification of Tn5[] \TU/AdobeGaramondPro(0)/m/n/12 Plasmids #123461 (pA/G-MNase) and #124601 (3XFlag-
  []
@@ -2276,21 +2225,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--166
 
 Underfull \vbox (badness 7486) has occurred while \output is active []
 
- [172]
+ [171]
 Underfull \vbox (badness 6348) has occurred while \output is active []
+
+ [172]
+Underfull \vbox (badness 1019) has occurred while \output is active []
 
  [173]
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [174]
-Underfull \vbox (badness 1019) has occurred while \output is active []
-
- [175] [176] [177] [178] [179] [180] [181]
+ [174] [175] [176] [177] [178] [179] [180]
 File: figures/cnt/Figure_S1.png Graphic file (type bmp)
 <figures/cnt/Figure_S1.png>
 File: figures/cnt/Figure_S2.png Graphic file (type bmp)
 <figures/cnt/Figure_S2.png>
- [182
+ [181
 
 ]
 File: figures/cnt/Figure_S3.png Graphic file (type bmp)
@@ -2299,9 +2248,9 @@ File: figures/cnt/Figure_S3.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [183] [184] [185
+) [182] [183] [184
 
-] [186]
+] [185]
 File: pdfs/chapter_6.pdf Graphic file (type pdf)
 <use pdfs/chapter_6.pdf>
 File: pdfs/chapter_6.pdf Graphic file (type pdf)
@@ -2316,47 +2265,47 @@ File: pdfs/chapter_6.pdf Graphic file (type pdf)
 <use pdfs/chapter_6.pdf, page 1>
 File: pdfs/chapter_6.pdf Graphic file (type pdf)
 <use pdfs/chapter_6.pdf, page 1>
- [187] (./chapters/conclusions.tex [188]
+ [186] (./chapters/conclusions.tex [187]
 Underfull \vbox (badness 2671) has occurred while \output is active []
 
- [189]
+ [188]
 Underfull \vbox (badness 6348) has occurred while \output is active []
 
- [190] [191] [192]
+ [189] [190] [191]
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
- [193
+ [192
 
-]) [194]
+]) [193]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[195
+[194
 
-] [196]
+] [195]
 Overfull \hbox (1.97562pt too wide) in paragraph at lines 258--258
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Cakir, B. et al. (Nov. 2019). “Engineering of human brain organoids with a functional vascular-
  []
 
-[197] [198]
+[196] [197]
 Overfull \hbox (0.96939pt too wide) in paragraph at lines 258--258
 \TU/AdobeGaramondPro(0)/m/n/12 dimensional culture”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 472.7341, pp. 51–56. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
-[199] [200] [201]
+[198] [199] [200] [201]
 Overfull \hbox (0.48843pt too wide) in paragraph at lines 258--258
 \TU/AdobeGaramondPro(0)/m/it/12 tional Academy of Sciences \TU/AdobeGaramondPro(0)/m/n/12 110.50, pp. 20284–20289. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][] [] [][][][][][][][][][]$[]. 
  []
 
-[202]
+
 Overfull \hbox (6.80363pt too wide) in paragraph at lines 258--258
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Klaus, J. et al. (Apr. 2019). “Altered neuronal migratory trajectories in human cerebral organoids
  []
 
-[203]
+[202]
 Overfull \hbox (56.92538pt too wide) in paragraph at lines 258--258
 \TU/AdobeGaramondPro(0)/m/n/12 Wheeler transform”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Bioinformatics \TU/AdobeGaramondPro(0)/m/n/12 25.14, pp. 1754–1760. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][][][][] []
  []
 
-
+[203]
 Overfull \hbox (10.02539pt too wide) in paragraph at lines 258--258
 \TU/AdobeGaramondPro(0)/m/n/12 analysis: a tutorial”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Molecular Systems Biology \TU/AdobeGaramondPro(0)/m/n/12 15.6. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][][] [] [][][] [] [][][][][][][][]$[]. 
  []
@@ -2364,39 +2313,41 @@ Overfull \hbox (10.02539pt too wide) in paragraph at lines 258--258
 [204] [205] [206]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
 [207] [208]
+Missing character: There is no β (U+03B2) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
+
 Overfull \hbox (21.6454pt too wide) in paragraph at lines 258--258
 \TU/AdobeGaramondPro(0)/m/n/12 glial–cell specification”. en. In: \TU/AdobeGaramondPro(0)/m/it/12 Nature \TU/AdobeGaramondPro(0)/m/n/12 468.7321, pp. 214–222. \TU/AdobeGaramondPro(0)/m/sc/12 doi\TU/AdobeGaramondPro(0)/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][][][][]$[]. 
  []
 
-
+[209]
 Overfull \hbox (4.69067pt too wide) in paragraph at lines 258--258
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Schmitz, M. T., K. Sandoval, C. P. Chen, M. A. Mostajo-Radji, W. W. Seeley, T. J. Nowakowski,
  []
 
-[209] [210]
+[210]
 Overfull \hbox (3.49762pt too wide) in paragraph at lines 258--258
 [][]\TU/AdobeGaramondPro(0)/m/n/12 Study, T. D. et al. (2014). “Synaptic, transcriptional, and chromatin genes disrupted in autism”.
  []
 
 [211] [212]
 Missing character: There is no � (U+FFFD) in font Adobe Garamond Pro/OT:script=latn;language=dflt;mapping=tex-text;!
-[213] [214] (./thesis_main.aux)
+[213] [214] [215] (./thesis_main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `thesis_main.out' has not changed.
-(rerunfilecheck)             Checksum: 03A0CAADBA33081BE6D51EF53027BC65;7277.
+(rerunfilecheck)             Checksum: 9E6D431E8DCB1B7242FD5C4E38B950C6;7277.
 Package logreq Info: Writing requests to 'thesis_main.run.xml'.
 \openout1 = `thesis_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40519 strings out of 476179
- 827252 string characters out of 5809545
- 2089478 words of memory out of 5000000
- 60673 multiletter control sequences out of 15000+600000
+ 40654 strings out of 476179
+ 831929 string characters out of 5809545
+ 2130030 words of memory out of 5000000
+ 60808 multiletter control sequences out of 15000+600000
  478292 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,17n,106p,3569b,5507s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,106p,3569b,5504s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis_main.xdv (224 pages, 4946048 bytes).
+Output written on thesis_main.xdv (225 pages, 4983328 bytes).
